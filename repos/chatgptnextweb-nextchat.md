@@ -1,46 +1,11 @@
 # [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
-> Zero-config AI chat
+> ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 88835
 - **主语言**: TypeScript
-
-## 简介
-
-Zero-config AI chat
-
-## 核心功能
-
-- Zero-config AI chat
-
-## 能力
-
-- Zero-config AI chat
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`AI / LLM` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [danny-avila/LibreChat](danny-avila-librechat.md) | 1.00 | `ai / llm`, `typescript`, `web 开发 / 框架` |
-| [ztjhz/BetterChatGPT](ztjhz-betterchatgpt.md) | 1.00 | `ai / llm`, `typescript`, `web 开发 / 框架` |
-| [Nutlope/roomGPT](nutlope-roomgpt.md) | 1.00 | `ai / llm`, `typescript`, `web 开发 / 框架` |
-| [anse-app/chatgpt-demo](anse-app-chatgpt-demo.md) | 1.00 | `ai / llm`, `typescript`, `web 开发 / 框架` |
-| [gencay/vscode-chatgpt](gencay-vscode-chatgpt.md) | 0.75 | `ai / llm`, `typescript`, `web 开发 / 框架` |
+- **GitHub 主题**: `calclaude`, `chatgpt`, `claude`, `cross-platform`, `desktop`, `fe`, `gemini`, `gemini-pro`, `gemini-server`, `gemini-ultra`, `gpt-4o`, `groq`, `nextjs`, `ollama`, `react`, `tauri`, `tauri-app`, `vercel`, `webui`
 
