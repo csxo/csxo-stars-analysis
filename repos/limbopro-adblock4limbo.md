@@ -1,46 +1,11 @@
 # [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo)
 
-> 毒奶去网页广告用户脚本
+> 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.导航 2.通过 JS/CSS 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频&ACG&小说&漫画网站上的弹窗广告&视频广告&Gif广告，沉浸式翻译/提取M3U8等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 4527
 - **主语言**: JavaScript
-
-## 简介
-
-毒奶去网页广告用户脚本
-
-## 核心功能
-
-- 毒奶去网页广告用户脚本
-
-## 能力
-
-- 毒奶去网页广告用户脚本
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `JavaScript`
-
-## 标签
-
-`代理 / 网络工具` `广告 / 内容过滤` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [TheRealJoelmatic/RemoveAdblockThing](therealjoelmatic-removeadblockthing.md) | 1.00 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具`, `广告 / 内容过滤` |
-| [Hackl0us/SS-Rule-Snippet](hackl0us-ss-rule-snippet.md) | 0.75 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
-| [Orz-3/QuantumultX](orz-3-quantumultx.md) | 0.75 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
-| [crossutility/Quantumult-X](crossutility-quantumult-x.md) | 0.75 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
-| [ishowshu/qx](ishowshu-qx.md) | 0.75 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
+- **GitHub 主题**: `adblock`, `adblocker`, `adguard`, `ios`, `javascript`, `limbopro`, `loon`, `nobyda`, `pornhub`, `quantumult`, `quantumultx`, `shadowrocket`, `stash`, `surge`, `surge4`, `tampermonkey`, `userscripts`
 
