@@ -1,46 +1,11 @@
 # [isno/theByteBook](https://github.com/isno/theByteBook)
 
-> 深入讲解云原生技术
+> ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的“大规模分布式系统”开发指南。
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 8551
 - **主语言**: JavaScript
-
-## 简介
-
-深入讲解云原生技术
-
-## 核心功能
-
-- 深入讲解云原生技术
-
-## 能力
-
-- 深入讲解云原生技术
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `JavaScript`
-
-## 标签
-
-`电子书 / 知识库` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [sunxen/EpubPressX](sunxen-epubpressx.md) | 1.00 | `javascript`, `web 开发 / 框架`, `电子书 / 知识库` |
-| [kska32/ebooks](kska32-ebooks.md) | 1.00 | `javascript`, `web 开发 / 框架`, `电子书 / 知识库` |
-| [koodo-reader/koodo-reader](koodo-reader-koodo-reader.md) | 0.75 | `javascript`, `web 开发 / 框架`, `电子书 / 知识库` |
-| [nolimits4web/atropos](nolimits4web-atropos.md) | 0.67 | `javascript`, `web 开发 / 框架` |
-| [jason5ng32/MyIP](jason5ng32-myip.md) | 0.67 | `javascript`, `web 开发 / 框架` |
+- **GitHub 主题**: `cloud-native`, `container`, `devops`, `distributed-systems`, `finops`, `kubernetes`, `networking`, `paas`, `service-mesh`, `sre`
 
