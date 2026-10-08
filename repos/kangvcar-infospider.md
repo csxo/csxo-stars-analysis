@@ -1,46 +1,11 @@
 # [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider)
 
-> INFO-SPIDER 爬虫工具箱
+> INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 8264
 - **主语言**: Python
-
-## 简介
-
-INFO-SPIDER 爬虫工具箱
-
-## 核心功能
-
-- INFO-SPIDER 爬虫工具箱
-
-## 能力
-
-- INFO-SPIDER 爬虫工具箱
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 标签
-
-`开发工具 / 库`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [funstory-ai/BabelDOC](funstory-ai-babeldoc.md) | 1.00 | `python`, `开发工具 / 库` |
-| [1c7/chinese-independent-developer](1c7-chinese-independent-developer.md) | 1.00 | `python`, `开发工具 / 库` |
-| [hacksider/Deep-Live-Cam](hacksider-deep-live-cam.md) | 0.67 | `python`, `开发工具 / 库` |
-| [AAAAAAAJ/slides](aaaaaaaj-slides.md) | 0.67 | `python`, `开发工具 / 库` |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 0.50 | `python` |
+- **GitHub 主题**: `automation`, `chrome`, `crawl`, `csdn`, `hotmail`, `outlook`, `python3`, `selenium`, `spider`, `tkinter`, `wxpython`
 
