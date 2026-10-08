@@ -1,46 +1,11 @@
 # [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-> Easy Watermark
+> 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被人泄露、利用
 
 ## 元信息
 
-- **价值评分**: 8.3/10
-- **Star 数**: 1882
+_(no analysis yet)_
+- **Star 数**: 1894
 - **主语言**: Kotlin
-
-## 简介
-
-Easy Watermark
-
-## 核心功能
-
-- Easy Watermark
-
-## 能力
-
-- Easy Watermark
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Kotlin`
-
-## 标签
-
-`开发工具 / 库`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [mihonapp/mihon](mihonapp-mihon.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [libre-tube/LibreTube](libre-tube-libretube.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [gkd-kit/gkd](gkd-kit-gkd.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [ReVanced/revanced-patches-template](revanced-revanced-patches-template.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [DimensionDev/Flare](dimensiondev-flare.md) | 1.00 | `kotlin`, `开发工具 / 库` |
+- **GitHub 主题**: `android`, `image`, `image-watermark`, `tools`, `watermark`, `watermwark`
 
