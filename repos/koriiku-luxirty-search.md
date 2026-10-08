@@ -1,36 +1,10 @@
 # [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search)
 
-> Luxirty Search engine
+> 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 
 ## 元信息
 
-- **价值评分**: 8.2/10
-- **Star 数**: 1686
+_(no analysis yet)_
+- **Star 数**: 1680
 - **主语言**: CSS
-
-## 简介
-
-Luxirty Search engine
-
-## 核心功能
-
-- Luxirty Search engine
-
-## 能力
-
-- Luxirty Search engine
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `CSS`
-
-## 标签
-
-`操作系统 / 硬件`
 
