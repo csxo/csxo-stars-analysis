@@ -1,42 +1,11 @@
 # [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
 
-> IPTV 直播源自动更新
+> ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 25460
 - **主语言**: Python
-
-## 简介
-
-IPTV 直播源自动更新
-
-## 核心功能
-
-- IPTV 直播源自动更新
-
-## 能力
-
-- IPTV 直播源自动更新
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 1.00 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 1.00 | `python` |
-| [zhaoolee/StarsAndClown](zhaoolee-starsandclown.md) | 1.00 | `python` |
-| [lihuithe/podlm-public](lihuithe-podlm-public.md) | 1.00 | `python` |
-| [521xueweihan/HelloGitHub](521xueweihan-hellogithub.md) | 1.00 | `python` |
+- **GitHub 主题**: `auto-update`, `awesome`, `epg`, `iptv`, `iptv-api`, `iptv-channels`, `iptv-free`, `iptv-m3u`, `iptv-m3u8`, `iptv-playlist`, `ipv4`, `ipv6`, `live`, `m3u`, `m3u8`, `playlist`, `rtmp`, `schedule`, `tv`, `tvbox`
 
