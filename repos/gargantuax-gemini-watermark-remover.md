@@ -1,46 +1,11 @@
 # [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)
 
-> Gemini AI 图像/视频无损去水印
+> A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 5638
 - **主语言**: JavaScript
-
-## 简介
-
-Gemini AI 图像/视频无损去水印
-
-## 核心功能
-
-- Gemini AI 图像/视频无损去水印
-
-## 能力
-
-- Gemini AI 图像/视频无损去水印
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `JavaScript`
-
-## 标签
-
-`Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [nolimits4web/atropos](nolimits4web-atropos.md) | 1.00 | `javascript`, `web 开发 / 框架` |
-| [jason5ng32/MyIP](jason5ng32-myip.md) | 1.00 | `javascript`, `web 开发 / 框架` |
-| [xifangczy/cat-catch](xifangczy-cat-catch.md) | 1.00 | `javascript`, `web 开发 / 框架` |
-| [zhaoolee/ChineseBQB](zhaoolee-chinesebqb.md) | 1.00 | `javascript`, `web 开发 / 框架` |
-| [bryanbraun/checkboxland](bryanbraun-checkboxland.md) | 1.00 | `javascript`, `web 开发 / 框架` |
+- **GitHub 主题**: `chrome-extension`, `gemini`, `gemini-video-watermark-remover`, `gemini-watermark-remover`, `skills`, `userscript`, `watermark-remover`
 
