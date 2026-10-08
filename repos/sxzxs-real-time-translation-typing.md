@@ -1,32 +1,11 @@
 # [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
 
-> 实时打字翻译软件
+> 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
 
 ## 元信息
 
-- **价值评分**: 8.3/10
-- **Star 数**: 1820
+_(no analysis yet)_
+- **Star 数**: 1844
 - **主语言**: AutoHotkey
-
-## 简介
-
-实时打字翻译软件
-
-## 核心功能
-
-- 实时打字翻译软件
-
-## 能力
-
-- 实时打字翻译软件
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `AutoHotkey`
+- **GitHub 主题**: `autohotkey`, `lol`, `translators`, `windows`
 
