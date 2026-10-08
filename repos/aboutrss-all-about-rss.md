@@ -1,46 +1,11 @@
 # [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
 
-> RSS 相关资源
+> A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 5923
 - **主语言**: Python
-
-## 简介
-
-RSS 相关资源
-
-## 核心功能
-
-- RSS 相关资源
-
-## 能力
-
-- RSS 相关资源
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 标签
-
-`RSS / 阅读`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [versun/RSSBox](versun-rssbox.md) | 1.00 | `python`, `rss / 阅读` |
-| [samuelclay/NewsBlur](samuelclay-newsblur.md) | 0.67 | `python`, `rss / 阅读` |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 0.50 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 0.50 | `python` |
-| [zhaoolee/StarsAndClown](zhaoolee-starsandclown.md) | 0.50 | `python` |
+- **GitHub 主题**: `all-in-one`, `apps`, `atom-feed`, `atomfeed`, `community`, `curation`, `feed43`, `json-feed`, `jsonfeed`, `list`, `really-simple-sydication`, `rich-site-summary`, `rss`, `rss-aggregator`, `rss-feed`, `rss-reader`, `rssfeed`, `stuffs`, `telegram`, `telegram-channel`
 
