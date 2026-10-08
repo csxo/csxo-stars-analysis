@@ -1,42 +1,11 @@
 # [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
-> 30 Days of Python
+> The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 75675
 - **主语言**: Python
-
-## 简介
-
-30 Days of Python
-
-## 核心功能
-
-- 30 Days of Python
-
-## 能力
-
-- 30 Days of Python
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 1.00 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 1.00 | `python` |
-| [zhaoolee/StarsAndClown](zhaoolee-starsandclown.md) | 1.00 | `python` |
-| [lihuithe/podlm-public](lihuithe-podlm-public.md) | 1.00 | `python` |
-| [521xueweihan/HelloGitHub](521xueweihan-hellogithub.md) | 1.00 | `python` |
+- **GitHub 主题**: `30-days-of-python`, `data`, `data-science`, `database`, `flask`, `fullstack`, `github`, `heroku`, `matplotlib`, `ml`, `mongodb`, `numpy`, `pandas`, `python`, `python3`
 
