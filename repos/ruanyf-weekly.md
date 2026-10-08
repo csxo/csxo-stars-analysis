@@ -1,28 +1,10 @@
 # [ruanyf/weekly](https://github.com/ruanyf/weekly)
 
-> 科技爱好者周刊
+> 科技爱好者周刊，每周五发布
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 105374
 - **主语言**: —
-
-## 简介
-
-科技爱好者周刊
-
-## 核心功能
-
-- 科技爱好者周刊
-
-## 能力
-
-- 科技爱好者周刊
-
-## 使用场景
-
-- research
-- explore
-- evaluate
 
