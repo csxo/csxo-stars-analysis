@@ -1,28 +1,11 @@
 # [googlehosts/hosts](https://github.com/googlehosts/hosts)
 
-> Google hosts
+> 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 20565
 - **主语言**: —
-
-## 简介
-
-Google hosts
-
-## 核心功能
-
-- Google hosts
-
-## 能力
-
-- Google hosts
-
-## 使用场景
-
-- research
-- explore
-- evaluate
+- **GitHub 主题**: `hosts`
 
