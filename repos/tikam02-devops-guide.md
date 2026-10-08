@@ -1,46 +1,11 @@
 # [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)
 
-> DevOps Guide
+>  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 9348
 - **主语言**: HTML
-
-## 简介
-
-DevOps Guide
-
-## 核心功能
-
-- DevOps Guide
-
-## 能力
-
-- DevOps Guide
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `HTML`
-
-## 标签
-
-`开发工具 / 库` `DevOps / 部署`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [Chuyu-Team/Dism-Multi-language](chuyu-team-dism-multi-language.md) | 0.67 | `html`, `开发工具 / 库` |
-| [kuafuai/DevOpsGPT](kuafuai-devopsgpt.md) | 0.60 | `devops / 部署`, `html`, `开发工具 / 库` |
-| [QSCTech/zju-icicles](qsctech-zju-icicles.md) | 0.50 | `devops / 部署`, `html` |
-| [ripienaar/free-for-dev](ripienaar-free-for-dev.md) | 0.50 | `html`, `开发工具 / 库` |
-| [phodal/ideabook](phodal-ideabook.md) | 0.50 | `html`, `开发工具 / 库` |
+- **GitHub 主题**: `ansible`, `cheatsheet`, `ci-cd`, `containers`, `devops`, `devops-cheatsheets`, `docker`, `git`, `grafana`, `hacktoberfest`, `hacktoberfest-2020`, `hacktoberfest2020`, `interview`, `jenkins`, `kubernetes`, `kubernetes-monitoring`, `linux`, `networking`, `python`
 
