@@ -1,42 +1,11 @@
 # [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
 
-> PDF 完整保留排版双语翻译
+> [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 37381
 - **主语言**: Python
-
-## 简介
-
-PDF 完整保留排版双语翻译
-
-## 核心功能
-
-- PDF 完整保留排版双语翻译
-
-## 能力
-
-- PDF 完整保留排版双语翻译
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 1.00 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 1.00 | `python` |
-| [zhaoolee/StarsAndClown](zhaoolee-starsandclown.md) | 1.00 | `python` |
-| [lihuithe/podlm-public](lihuithe-podlm-public.md) | 1.00 | `python` |
-| [521xueweihan/HelloGitHub](521xueweihan-hellogithub.md) | 1.00 | `python` |
+- **GitHub 主题**: `chinese`, `document`, `edit`, `english`, `japanese`, `korean`, `latex`, `math`, `mcp`, `modify`, `obsidian`, `openai`, `pdf`, `pdf2zh`, `python`, `russian`, `translate`, `translation`, `zotero`
 
