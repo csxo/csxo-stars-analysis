@@ -1,46 +1,11 @@
 # [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
 
-> Open-source AI assistant & Agent Harness
+> Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
 
 ## 元信息
 
-- **价值评分**: 5.3/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 47272
 - **主语言**: Python
-
-## 简介
-
-Open-source AI assistant & Agent Harness
-
-## 核心功能
-
-- Open-source AI assistant & Agent Harness
-
-## 能力
-
-- Open-source AI assistant & Agent Harness
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 标签
-
-`AI / LLM` `AI / Agent Harness` `Open Source 工具集`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [xtekky/gpt4free](xtekky-gpt4free.md) | 0.75 | `ai / llm`, `open source 工具集`, `python` |
-| [wzpan/wukong-robot](wzpan-wukong-robot.md) | 0.75 | `ai / agent harness`, `ai / llm`, `python` |
-| [anthropics/claude-code](anthropics-claude-code.md) | 0.75 | `ai / agent harness`, `ai / llm`, `python` |
-| [Significant-Gravitas/AutoGPT](significant-gravitas-autogpt.md) | 0.75 | `ai / agent harness`, `ai / llm`, `python` |
-| [FoundationAgents/MetaGPT](foundationagents-metagpt.md) | 0.75 | `ai / agent harness`, `ai / llm`, `python` |
+- **GitHub 主题**: `ai`, `ai-agent`, `ai-agents`, `chatgpt-on-wechat`, `claude`, `claude-code`, `codex`, `cowagent`, `deepseek`, `harness`, `llm`, `mcp`, `multi-agent`, `openai`, `openclaw`, `personal-agent`, `skills`
 
