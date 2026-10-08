@@ -1,42 +1,11 @@
 # [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-> 免费中文编程书籍
+> :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 119269
 - **主语言**: —
-
-## 简介
-
-免费中文编程书籍
-
-## 核心功能
-
-- 免费中文编程书籍
-
-## 能力
-
-- 免费中文编程书籍
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 标签
-
-`电子书 / 知识库` `Open Source 工具集`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [ruanyf/free-books](ruanyf-free-books.md) | 1.00 | `open source 工具集`, `电子书 / 知识库` |
-| [EbookFoundation/free-programming-books](ebookfoundation-free-programming-books.md) | 0.67 | `open source 工具集`, `电子书 / 知识库` |
-| [piotrkulpinski/open-source-alternatives](piotrkulpinski-open-source-alternatives.md) | 0.50 | `open source 工具集` |
-| [KenneyNL/Adobe-Alternatives](kenneynl-adobe-alternatives.md) | 0.50 | `open source 工具集` |
-| [it-ebooks-0/geektime-books](it-ebooks-0-geektime-books.md) | 0.50 | `电子书 / 知识库` |
+- **GitHub 主题**: `android`, `angular`, `books`, `free`, `ios`, `javascript`, `kotlin`, `pdf`, `programming`, `python`, `react`, `react-native`, `swift`, `vue`
 
