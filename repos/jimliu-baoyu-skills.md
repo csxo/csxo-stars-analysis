@@ -1,46 +1,9 @@
 # [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 
-> 宝玉 Skills
-
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 26418
 - **主语言**: TypeScript
-
-## 简介
-
-宝玉 Skills
-
-## 核心功能
-
-- 宝玉 Skills
-
-## 能力
-
-- 宝玉 Skills
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [excalidraw/excalidraw](excalidraw-excalidraw.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lqzhgood/wechat-need-web](lqzhgood-wechat-need-web.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lencx/Noi](lencx-noi.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [crimx/ext-saladict](crimx-ext-saladict.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lijigang/ljg-skills](lijigang-ljg-skills.md) | 1.00 | `typescript`, `web 开发 / 框架` |
+- **GitHub 主题**: `agent-skills`, `claude-skills`, `codex-skills`, `openclaw-skills`
 
