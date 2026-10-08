@@ -1,42 +1,10 @@
 # [luolangaga/tubatools](https://github.com/luolangaga/tubatools)
 
-> 图吧工具箱 winUI3 版
+> 这是图吧工具箱基于 WinUI 3 全新重构的版本，一款由社区驱动、深度契合 Windows 11 设计美学的现代化工具箱。它不仅确保你始终使用最新版本的工具，还集成了更加丰富的实用功能，更可满足高度自定义的个性化需求。
 
 ## 元信息
 
-- **价值评分**: 8.6/10
-- **Star 数**: 3798
+_(no analysis yet)_
+- **Star 数**: 5203
 - **主语言**: C#
-
-## 简介
-
-图吧工具箱 winUI3 版
-
-## 核心功能
-
-- 图吧工具箱 winUI3 版
-
-## 能力
-
-- 图吧工具箱 winUI3 版
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `C#`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [nilaoda/BBDown](nilaoda-bbdown.md) | 1.00 | `c#` |
-| [jenius-apps/ambie](jenius-apps-ambie.md) | 1.00 | `c#` |
-| [MicaForEveryone/MicaForEveryone](micaforeveryone-micaforeveryone.md) | 1.00 | `c#` |
-| [hitchao/Jvedio](hitchao-jvedio.md) | 1.00 | `c#` |
-| [Code52/carnac](code52-carnac.md) | 1.00 | `c#` |
 
