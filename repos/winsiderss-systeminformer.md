@@ -1,46 +1,11 @@
 # [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)
 
-> System resources monitor / malware detection
+> A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 
 ## 元信息
 
-- **价值评分**: 9.3/10
-- **Star 数**: 15920
+_(no analysis yet)_
+- **Star 数**: 16181
 - **主语言**: C
-
-## 简介
-
-System resources monitor / malware detection
-
-## 核心功能
-
-- System resources monitor / malware detection
-
-## 能力
-
-- System resources monitor / malware detection
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `C`
-
-## 标签
-
-`RSS / 阅读` `桌面工具 / Windows 优化` `开发工具 / 库`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [microsoft/PowerToys](microsoft-powertoys.md) | 0.50 | `c`, `桌面工具 / windows 优化` |
-| [m417z/7-Taskbar-Tweaker](m417z-7-taskbar-tweaker.md) | 0.40 | `c`, `桌面工具 / windows 优化` |
-| [sumatrapdfreader/sumatrapdf](sumatrapdfreader-sumatrapdf.md) | 0.40 | `c`, `rss / 阅读` |
-| [valinet/ExplorerPatcher](valinet-explorerpatcher.md) | 0.40 | `c`, `桌面工具 / windows 优化` |
-| [sabrogden/Ditto](sabrogden-ditto.md) | 0.40 | `c`, `桌面工具 / windows 优化` |
+- **GitHub 主题**: `administrator`, `benchmarking`, `debugger`, `monitor`, `monitor-performance`, `monitoring`, `performance`, `performance-monitoring`, `performance-tuning`, `process-manager`, `process-monitor`, `processhacker`, `profiling`, `realtime`, `security`, `system-monitor`, `systeminformer`, `task-manager`, `windows`
 
