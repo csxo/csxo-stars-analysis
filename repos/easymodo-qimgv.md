@@ -1,46 +1,11 @@
 # [easymodo/qimgv](https://github.com/easymodo/qimgv)
 
-> Image viewer
+> Image viewer. Fast, easy to use. Optional video support.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 3143
 - **主语言**: C++
-
-## 简介
-
-Image viewer
-
-## 核心功能
-
-- Image viewer
-
-## 能力
-
-- Image viewer
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `C++`
-
-## 标签
-
-`图片 / 视频处理`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [AyuGram/AyuGramDesktop](ayugram-ayugramdesktop.md) | 0.50 | `c++` |
-| [hluk/CopyQ](hluk-copyq.md) | 0.50 | `c++` |
-| [Nevcairiel/LAVFilters](nevcairiel-lavfilters.md) | 0.50 | `c++` |
-| [microsoft/winget-cli](microsoft-winget-cli.md) | 0.50 | `c++` |
-| [Slackadays/Clipboard](slackadays-clipboard.md) | 0.50 | `c++` |
+- **GitHub 主题**: `c-plus-plus`, `cross-platform`, `image-viewer`, `libmpv`, `linux`, `qt`, `qt5`, `qt6`, `video`, `webm`, `webm-support`, `windows`
 
