@@ -1,42 +1,11 @@
 # [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 
-> Adobe 软件替代品列表
+> A list of alternatives for Adobe software
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 9597
 - **主语言**: —
-
-## 简介
-
-Adobe 软件替代品列表
-
-## 核心功能
-
-- Adobe 软件替代品列表
-
-## 能力
-
-- Adobe 软件替代品列表
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 标签
-
-`Open Source 工具集`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [piotrkulpinski/open-source-alternatives](piotrkulpinski-open-source-alternatives.md) | 1.00 | `open source 工具集` |
-| [Twipped/InterviewThis](twipped-interviewthis.md) | 1.00 | `open source 工具集` |
-| [nashsu/FreeAskInternet](nashsu-freeaskinternet.md) | 0.50 | `open source 工具集` |
-| [dkhamsing/open-source-ios-apps](dkhamsing-open-source-ios-apps.md) | 0.50 | `open source 工具集` |
-| [wasi-master/13ft](wasi-master-13ft.md) | 0.50 | `open source 工具集` |
+- **GitHub 主题**: `alternatives`, `list`
 
