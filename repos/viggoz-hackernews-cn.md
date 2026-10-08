@@ -1,46 +1,11 @@
 # [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn)
 
-> HackerNews 中文版
+> HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 
 ## 元信息
 
-- **价值评分**: 7.5/10
-- **Star 数**: 354
+_(no analysis yet)_
+- **Star 数**: 357
 - **主语言**: TypeScript
-
-## 简介
-
-HackerNews 中文版
-
-## 核心功能
-
-- HackerNews 中文版
-
-## 能力
-
-- HackerNews 中文版
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [excalidraw/excalidraw](excalidraw-excalidraw.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lqzhgood/wechat-need-web](lqzhgood-wechat-need-web.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lencx/Noi](lencx-noi.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [crimx/ext-saladict](crimx-ext-saladict.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lijigang/ljg-skills](lijigang-ljg-skills.md) | 1.00 | `typescript`, `web 开发 / 框架` |
+- **GitHub 主题**: `hackernews`
 
