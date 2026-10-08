@@ -1,42 +1,12 @@
 # [hitchao/Jvedio](https://github.com/hitchao/Jvedio)
 
-> 本地视频管理软件 Jvedio
+> Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 2769
 - **主语言**: C#
-
-## 简介
-
-本地视频管理软件 Jvedio
-
-## 核心功能
-
-- 本地视频管理软件 Jvedio
-
-## 能力
-
-- 本地视频管理软件 Jvedio
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `C#`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [nilaoda/BBDown](nilaoda-bbdown.md) | 1.00 | `c#` |
-| [jenius-apps/ambie](jenius-apps-ambie.md) | 1.00 | `c#` |
-| [MicaForEveryone/MicaForEveryone](micaforeveryone-micaforeveryone.md) | 1.00 | `c#` |
-| [luolangaga/tubatools](luolangaga-tubatools.md) | 1.00 | `c#` |
-| [Code52/carnac](code52-carnac.md) | 1.00 | `c#` |
+- **GitHub 主题**: `db`, `ffmpeg`, `gif`, `image`, `library`, `manage-videos`, `manager`, `nfo`, `screenshots`, `sqlite`, `video`, `wpf`
+- **已归档**: ✅
 
