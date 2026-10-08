@@ -4,43 +4,8 @@
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 41969
 - **主语言**: TypeScript
-
-## 简介
-
-Powerful AI Client
-
-## 核心功能
-
-- Powerful AI Client
-
-## 能力
-
-- Powerful AI Client
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [excalidraw/excalidraw](excalidraw-excalidraw.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lqzhgood/wechat-need-web](lqzhgood-wechat-need-web.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lencx/Noi](lencx-noi.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [crimx/ext-saladict](crimx-ext-saladict.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lijigang/ljg-skills](lijigang-ljg-skills.md) | 1.00 | `typescript`, `web 开发 / 框架` |
+- **GitHub 主题**: `assistant`, `chatbot`, `chatgpt`, `claude`, `claude-code`, `copilot`, `deepseek`, `gemini`, `gpt`, `gpt-5`, `ollama`, `openai`
 
