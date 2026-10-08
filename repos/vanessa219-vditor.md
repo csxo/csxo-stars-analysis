@@ -1,46 +1,11 @@
 # [Vanessa219/vditor](https://github.com/Vanessa219/vditor)
 
-> Browser Markdown editor
+> ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 11365
 - **主语言**: TypeScript
-
-## 简介
-
-Browser Markdown editor
-
-## 核心功能
-
-- Browser Markdown editor
-
-## 能力
-
-- Browser Markdown editor
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`浏览器 / 扩展` `笔记 / Markdown / 写作` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [doocs/md](doocs-md.md) | 0.75 | `typescript`, `web 开发 / 框架`, `笔记 / markdown / 写作` |
-| [editablejs/editable](editablejs-editable.md) | 0.75 | `typescript`, `web 开发 / 框架`, `笔记 / markdown / 写作` |
-| [webclipper/web-clipper](webclipper-web-clipper.md) | 0.75 | `typescript`, `web 开发 / 框架`, `笔记 / markdown / 写作` |
-| [Floorp-Projects/Floorp](floorp-projects-floorp.md) | 0.75 | `typescript`, `web 开发 / 框架`, `浏览器 / 扩展` |
-| [apify/crawlee](apify-crawlee.md) | 0.75 | `typescript`, `web 开发 / 框架`, `浏览器 / 扩展` |
+- **GitHub 主题**: `commonmark`, `editor`, `gfm`, `lute`, `markdown`, `md`, `react`, `rich-text`, `typescript`, `typora`, `vue`, `wysiwyg`
 
