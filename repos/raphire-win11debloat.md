@@ -1,46 +1,11 @@
 # [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 
-> Windows 11 精简脚本
+> A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## 元信息
 
-- **价值评分**: 9.0/10
-- **Star 数**: 56936
+_(no analysis yet)_
+- **Star 数**: 58332
 - **主语言**: PowerShell
-
-## 简介
-
-Windows 11 精简脚本
-
-## 核心功能
-
-- Windows 11 精简脚本
-
-## 能力
-
-- Windows 11 精简脚本
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `PowerShell`
-
-## 标签
-
-`桌面工具 / Windows 优化` `终端 / 命令行` `操作系统 / 硬件`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [Sycnex/Windows10Debloater](sycnex-windows10debloater.md) | 1.00 | `powershell`, `操作系统 / 硬件`, `桌面工具 / windows 优化`, `终端 / 命令行` |
-| [ScoopInstaller/Scoop](scoopinstaller-scoop.md) | 1.00 | `powershell`, `操作系统 / 硬件`, `桌面工具 / windows 优化`, `终端 / 命令行` |
-| [microsoft/terminal](microsoft-terminal.md) | 0.60 | `操作系统 / 硬件`, `桌面工具 / windows 优化`, `终端 / 命令行` |
-| [YerongAI/Office-Tool](yerongai-office-tool.md) | 0.50 | `powershell`, `终端 / 命令行` |
-| [WhatTheBlock/WindowsSimplify](whattheblock-windowssimplify.md) | 0.50 | `操作系统 / 硬件`, `桌面工具 / windows 优化` |
+- **GitHub 主题**: `automated`, `bloatware`, `bloatware-removal`, `cleanup`, `cli`, `debloat`, `debloater`, `interactive`, `optimize`, `powershell`, `powershell-script`, `privacy`, `ps1`, `registry-tweaks`, `tweaks`, `windows`, `windows-10`, `windows-11`, `windows10`, `windows11`
 
