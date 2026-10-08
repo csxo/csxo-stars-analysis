@@ -1,46 +1,11 @@
 # [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
-> 基于无障碍的屏幕点击安卓应用
+> 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 42583
 - **主语言**: Kotlin
-
-## 简介
-
-基于无障碍的屏幕点击安卓应用
-
-## 核心功能
-
-- 基于无障碍的屏幕点击安卓应用
-
-## 能力
-
-- 基于无障碍的屏幕点击安卓应用
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Kotlin`
-
-## 标签
-
-`开发工具 / 库`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [mihonapp/mihon](mihonapp-mihon.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [libre-tube/LibreTube](libre-tube-libretube.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [rosuH/EasyWatermark](rosuh-easywatermark.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [ReVanced/revanced-patches-template](revanced-revanced-patches-template.md) | 1.00 | `kotlin`, `开发工具 / 库` |
-| [DimensionDev/Flare](dimensiondev-flare.md) | 1.00 | `kotlin`, `开发工具 / 库` |
+- **GitHub 主题**: `accessibility`, `android`, `auto`, `click`, `compose`, `compose-multiplatform`, `jetpack-compose`, `kotlin`, `kotlin-js`, `kotlin-multiplatform`, `webassembly`
 
