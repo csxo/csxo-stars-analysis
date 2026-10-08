@@ -1,42 +1,11 @@
 # [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
-> OBS Studio
+> OBS Studio - Free and open source software for live streaming and screen recording
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 77121
 - **主语言**: C
-
-## 简介
-
-OBS Studio
-
-## 核心功能
-
-- OBS Studio
-
-## 能力
-
-- OBS Studio
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `C`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [wg/wrk](wg-wrk.md) | 1.00 | `c` |
-| [henrypp/simplewall](henrypp-simplewall.md) | 1.00 | `c` |
-| [pbatard/rufus](pbatard-rufus.md) | 1.00 | `c` |
-| [jqlang/jq](jqlang-jq.md) | 1.00 | `c` |
-| [ventoy/Ventoy](ventoy-ventoy.md) | 1.00 | `c` |
+- **GitHub 主题**: `c`, `c-plus-plus`, `directshow`, `facebook-live`, `ffmpeg`, `game-capture`, `live-streaming`, `screen-capture`, `twitch-tv`, `video-recording`, `youtube-live`
 
