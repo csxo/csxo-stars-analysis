@@ -1,46 +1,11 @@
 # [doocs/technical-books](https://github.com/doocs/technical-books)
 
-> 互联网技术大牛书籍
+> 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 7006
 - **主语言**: TypeScript
-
-## 简介
-
-互联网技术大牛书籍
-
-## 核心功能
-
-- 互联网技术大牛书籍
-
-## 能力
-
-- 互联网技术大牛书籍
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`电子书 / 知识库` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [RSSNext/Folo](rssnext-folo.md) | 0.75 | `typescript`, `web 开发 / 框架`, `电子书 / 知识库` |
-| [zu1k/book-searcher](zu1k-book-searcher.md) | 0.75 | `typescript`, `web 开发 / 框架`, `电子书 / 知识库` |
-| [linkwarden/linkwarden](linkwarden-linkwarden.md) | 0.75 | `typescript`, `web 开发 / 框架`, `电子书 / 知识库` |
-| [dafengzhen/infoharvest](dafengzhen-infoharvest.md) | 0.75 | `typescript`, `web 开发 / 框架`, `电子书 / 知识库` |
-| [karakeep-app/karakeep](karakeep-app-karakeep.md) | 0.75 | `typescript`, `web 开发 / 框架`, `电子书 / 知识库` |
+- **GitHub 主题**: `architecture`, `back-end`, `book-list`, `database`, `doocs`, `front-end`, `technical`
 
