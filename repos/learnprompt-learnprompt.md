@@ -1,42 +1,11 @@
 # [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)
 
-> 免费开源 AIGC 课程
+> 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 2680
 - **主语言**: MDX
-
-## 简介
-
-免费开源 AIGC 课程
-
-## 核心功能
-
-- 免费开源 AIGC 课程
-
-## 能力
-
-- 免费开源 AIGC 课程
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `MDX`
-
-## 标签
-
-`AI / LLM` `学习 / 教程`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [dair-ai/Prompt-Engineering-Guide](dair-ai-prompt-engineering-guide.md) | 0.75 | `ai / llm`, `mdx`, `学习 / 教程` |
+- **GitHub 主题**: `agent`, `aimusic`, `aivoice`, `chatgpt-app`, `claude-code`, `cli`, `codex`, `hermes-agent`, `llms-book`, `midjourney-app`, `openclaw`, `prompt`, `prompt-enginering`, `prompt-learning`, `stable-diffusion`
 
