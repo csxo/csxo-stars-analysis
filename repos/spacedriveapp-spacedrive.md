@@ -1,42 +1,11 @@
 # [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 
-> Distributed file explorer
+> Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 39079
 - **主语言**: Rust
-
-## 简介
-
-Distributed file explorer
-
-## 核心功能
-
-- Distributed file explorer
-
-## 能力
-
-- Distributed file explorer
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Rust`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [GyulyVGC/sniffnet](gyulyvgc-sniffnet.md) | 1.00 | `rust` |
-| [oldj/SwitchHosts](oldj-switchhosts.md) | 0.50 | `rust` |
-| [clash-verge-rev/clash-verge-rev](clash-verge-rev-clash-verge-rev.md) | 0.50 | `rust` |
-| [shadowsocks/shadowsocks-rust](shadowsocks-shadowsocks-rust.md) | 0.50 | `rust` |
-| [LemmyNet/lemmy](lemmynet-lemmy.md) | 0.50 | `rust` |
+- **GitHub 主题**: `cross-platform`, `distributed-systems`, `encryption`, `file-manager`, `open-source`, `rust`, `storage`, `typescript`
 
