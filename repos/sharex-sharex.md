@@ -1,42 +1,11 @@
 # [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
-> ShareX 截图/记录
+> ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 39925
 - **主语言**: C#
-
-## 简介
-
-ShareX 截图/记录
-
-## 核心功能
-
-- ShareX 截图/记录
-
-## 能力
-
-- ShareX 截图/记录
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `C#`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [nilaoda/BBDown](nilaoda-bbdown.md) | 1.00 | `c#` |
-| [jenius-apps/ambie](jenius-apps-ambie.md) | 1.00 | `c#` |
-| [MicaForEveryone/MicaForEveryone](micaforeveryone-micaforeveryone.md) | 1.00 | `c#` |
-| [luolangaga/tubatools](luolangaga-tubatools.md) | 1.00 | `c#` |
-| [hitchao/Jvedio](hitchao-jvedio.md) | 1.00 | `c#` |
+- **GitHub 主题**: `avalonia`, `capture`, `color-picker`, `csharp`, `dropbox`, `file-sharing`, `file-upload`, `ftp`, `gif`, `gif-recorder`, `image-annotation`, `ocr`, `productivity`, `region-capture`, `screen-capture`, `screen-recorder`, `screenshot`, `share`, `sharex`, `url-shortener`
 
