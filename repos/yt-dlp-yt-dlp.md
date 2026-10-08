@@ -1,46 +1,11 @@
 # [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-> yt-dlp
+> A feature-rich command-line audio/video downloader
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 196257
 - **主语言**: Python
-
-## 简介
-
-yt-dlp
-
-## 核心功能
-
-- yt-dlp
-
-## 能力
-
-- yt-dlp
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 标签
-
-`下载工具`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [HFrost0/bilix](hfrost0-bilix.md) | 1.00 | `python`, `下载工具` |
-| [ytdl-org/youtube-dl](ytdl-org-youtube-dl.md) | 1.00 | `python`, `下载工具` |
-| [spotDL/spotify-downloader](spotdl-spotify-downloader.md) | 0.67 | `python`, `下载工具` |
-| [qbittorrent/search-plugins](qbittorrent-search-plugins.md) | 0.67 | `python`, `下载工具` |
-| [soimort/you-get](soimort-you-get.md) | 0.67 | `python`, `下载工具` |
+- **GitHub 主题**: `cli`, `downloader`, `python`, `sponsorblock`, `youtube-dl`, `youtube-downloader`, `yt-dlp`
 
