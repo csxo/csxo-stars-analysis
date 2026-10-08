@@ -1,42 +1,11 @@
 # [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-> 按键精灵鼠标键盘录制
+> 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 10602
 - **主语言**: Python
-
-## 简介
-
-按键精灵鼠标键盘录制
-
-## 核心功能
-
-- 按键精灵鼠标键盘录制
-
-## 能力
-
-- 按键精灵鼠标键盘录制
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 1.00 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 1.00 | `python` |
-| [zhaoolee/StarsAndClown](zhaoolee-starsandclown.md) | 1.00 | `python` |
-| [lihuithe/podlm-public](lihuithe-podlm-public.md) | 1.00 | `python` |
-| [521xueweihan/HelloGitHub](521xueweihan-hellogithub.md) | 1.00 | `python` |
+- **GitHub 主题**: `automate`, `keyboard`, `mouse`, `python`, `simulation`
 
