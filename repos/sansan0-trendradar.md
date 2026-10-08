@@ -1,42 +1,11 @@
 # [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 
-> AI 驱动的多平台舆情监控
+> ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 62732
 - **主语言**: Python
-
-## 简介
-
-AI 驱动的多平台舆情监控
-
-## 核心功能
-
-- AI 驱动的多平台舆情监控
-
-## 能力
-
-- AI 驱动的多平台舆情监控
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 1.00 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 1.00 | `python` |
-| [zhaoolee/StarsAndClown](zhaoolee-starsandclown.md) | 1.00 | `python` |
-| [lihuithe/podlm-public](lihuithe-podlm-public.md) | 1.00 | `python` |
-| [521xueweihan/HelloGitHub](521xueweihan-hellogithub.md) | 1.00 | `python` |
+- **GitHub 主题**: `ai`, `bark`, `data-analysis`, `docker`, `hot-news`, `llm`, `mail`, `mcp`, `mcp-server`, `news`, `ntfy`, `python`, `rss`, `trending-topics`, `wechat`, `wework`
 
