@@ -1,42 +1,10 @@
 # [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)
 
-> Github 星聚弃疗榜
+> ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 2315
 - **主语言**: Python
-
-## 简介
-
-Github 星聚弃疗榜
-
-## 核心功能
-
-- Github 星聚弃疗榜
-
-## 能力
-
-- Github 星聚弃疗榜
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 1.00 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 1.00 | `python` |
-| [lihuithe/podlm-public](lihuithe-podlm-public.md) | 1.00 | `python` |
-| [521xueweihan/HelloGitHub](521xueweihan-hellogithub.md) | 1.00 | `python` |
-| [pytube/pytube](pytube-pytube.md) | 1.00 | `python` |
 
