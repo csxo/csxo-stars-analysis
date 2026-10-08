@@ -1,46 +1,11 @@
 # [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur)
 
-> Personal news reader
+> NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 7645
 - **主语言**: Python
-
-## 简介
-
-Personal news reader
-
-## 核心功能
-
-- Personal news reader
-
-## 能力
-
-- Personal news reader
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 标签
-
-`RSS / 阅读` `电子书 / 知识库`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [myreader-io/myGPTReader](myreader-io-mygptreader.md) | 0.75 | `python`, `rss / 阅读`, `电子书 / 知识库` |
-| [AboutRSS/ALL-about-RSS](aboutrss-all-about-rss.md) | 0.67 | `python`, `rss / 阅读` |
-| [hectorqin/reader](hectorqin-reader.md) | 0.67 | `rss / 阅读`, `电子书 / 知识库` |
-| [versun/RSSBox](versun-rssbox.md) | 0.67 | `python`, `rss / 阅读` |
-| [sumatrapdfreader/sumatrapdf](sumatrapdfreader-sumatrapdf.md) | 0.50 | `rss / 阅读`, `电子书 / 知识库` |
+- **GitHub 主题**: `android`, `elasticsearch`, `feed-reader`, `ios`, `mongodb`, `postgresql`, `python`, `redis`, `rss`, `rss-reader`
 
