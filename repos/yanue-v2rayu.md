@@ -1,42 +1,11 @@
 # [yanue/V2rayU](https://github.com/yanue/V2rayU)
 
-> V2rayU macOS
+> V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 20161
 - **主语言**: —
-
-## 简介
-
-V2rayU macOS
-
-## 核心功能
-
-- V2rayU macOS
-
-## 能力
-
-- V2rayU macOS
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 标签
-
-`代理 / 网络工具` `Mac / iOS 工具` `操作系统 / 硬件`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [Cenmrev/V2RayX](cenmrev-v2rayx.md) | 0.75 | `mac / ios 工具`, `代理 / 网络工具`, `操作系统 / 硬件` |
-| [KaringX/clashmi](karingx-clashmi.md) | 0.60 | `mac / ios 工具`, `代理 / 网络工具`, `操作系统 / 硬件` |
-| [tisfeng/Easydict](tisfeng-easydict.md) | 0.50 | `mac / ios 工具`, `操作系统 / 硬件` |
-| [overtake/TelegramSwift](overtake-telegramswift.md) | 0.50 | `mac / ios 工具`, `操作系统 / 硬件` |
-| [shadowsocks/ShadowsocksX-NG](shadowsocks-shadowsocksx-ng.md) | 0.50 | `mac / ios 工具`, `代理 / 网络工具` |
+- **GitHub 主题**: `anytls`, `clash`, `mac`, `macos`, `native`, `v2ray`, `v2rayu`, `vless`, `vmess`, `xhttp`, `xray`, `xray-core`
 
