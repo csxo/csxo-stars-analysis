@@ -1,46 +1,11 @@
 # [enzeberg/tonzhon-music](https://github.com/enzeberg/tonzhon-music)
 
-> Tonzhon 音乐平台
+> 铜钟「Tonzhon」: 干净纯粹的音乐平台 (铜钟已不再使用原来的 tonzhon.com，现在的 tonzhon.com 不是正版的铜钟)
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 1499
 - **主语言**: JavaScript
-
-## 简介
-
-Tonzhon 音乐平台
-
-## 核心功能
-
-- Tonzhon 音乐平台
-
-## 能力
-
-- Tonzhon 音乐平台
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `JavaScript`
-
-## 标签
-
-`媒体 / 播放器` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [DIYgod/APlayer](diygod-aplayer.md) | 1.00 | `javascript`, `web 开发 / 框架`, `媒体 / 播放器` |
-| [deezertidal/QuantumultX-Rewrite](deezertidal-quantumultx-rewrite.md) | 0.75 | `javascript`, `web 开发 / 框架`, `媒体 / 播放器` |
-| [listen1/listen1_desktop](listen1-listen1_desktop.md) | 0.75 | `javascript`, `web 开发 / 框架`, `媒体 / 播放器` |
-| [nolimits4web/atropos](nolimits4web-atropos.md) | 0.67 | `javascript`, `web 开发 / 框架` |
-| [jason5ng32/MyIP](jason5ng32-myip.md) | 0.67 | `javascript`, `web 开发 / 框架` |
+- **GitHub 主题**: `antd`, `music`, `music-player`, `react`, `react-router`, `tonzhon`, `webapp`
 
