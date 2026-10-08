@@ -1,46 +1,11 @@
 # [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo)
 
-> Quantumult X 懒人配置
+> 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 3527
 - **主语言**: JavaScript
-
-## 简介
-
-Quantumult X 懒人配置
-
-## 核心功能
-
-- Quantumult X 懒人配置
-
-## 能力
-
-- Quantumult X 懒人配置
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `JavaScript`
-
-## 标签
-
-`代理 / 网络工具` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [Hackl0us/SS-Rule-Snippet](hackl0us-ss-rule-snippet.md) | 1.00 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
-| [Orz-3/QuantumultX](orz-3-quantumultx.md) | 1.00 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
-| [crossutility/Quantumult-X](crossutility-quantumult-x.md) | 1.00 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
-| [ishowshu/qx](ishowshu-qx.md) | 1.00 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
-| [sve1r/Rules-For-Quantumult-X](sve1r-rules-for-quantumult-x.md) | 1.00 | `javascript`, `web 开发 / 框架`, `代理 / 网络工具` |
+- **GitHub 主题**: `adblock`, `blackmatrix7`, `clash`, `quantumultx`, `tiktok`
 
