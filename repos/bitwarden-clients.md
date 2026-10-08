@@ -1,46 +1,11 @@
 # [bitwarden/clients](https://github.com/bitwarden/clients)
 
-> Bitwarden clients
+> Bitwarden client apps (web, browser extension, desktop, and cli).
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 13930
 - **主语言**: TypeScript
-
-## 简介
-
-Bitwarden clients
-
-## 核心功能
-
-- Bitwarden clients
-
-## 能力
-
-- Bitwarden clients
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`浏览器 / 扩展` `Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [Floorp-Projects/Floorp](floorp-projects-floorp.md) | 1.00 | `typescript`, `web 开发 / 框架`, `浏览器 / 扩展` |
-| [apify/crawlee](apify-crawlee.md) | 1.00 | `typescript`, `web 开发 / 框架`, `浏览器 / 扩展` |
-| [bitwarden/desktop](bitwarden-desktop.md) | 1.00 | `typescript`, `web 开发 / 框架`, `浏览器 / 扩展` |
-| [Vanessa219/vditor](vanessa219-vditor.md) | 0.75 | `typescript`, `web 开发 / 框架`, `浏览器 / 扩展` |
-| [DIYgod/RSSHub-Radar](diygod-rsshub-radar.md) | 0.75 | `typescript`, `web 开发 / 框架`, `浏览器 / 扩展` |
+- **GitHub 主题**: `angular`, `bitwarden`, `browser-extension`, `chrome`, `cli`, `desktop`, `electron`, `firefox`, `javascript`, `nodejs`, `safari`, `typescript`, `webextension`
 
