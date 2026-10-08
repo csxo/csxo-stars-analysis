@@ -1,46 +1,11 @@
 # [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
 
-> 为 GPT/GLM 提供论文阅读 UI
+> 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 71419
 - **主语言**: Python
-
-## 简介
-
-为 GPT/GLM 提供论文阅读 UI
-
-## 核心功能
-
-- 为 GPT/GLM 提供论文阅读 UI
-
-## 能力
-
-- 为 GPT/GLM 提供论文阅读 UI
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 标签
-
-`AI / LLM`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [jianchang512/clone-voice](jianchang512-clone-voice.md) | 1.00 | `ai / llm`, `python` |
-| [lllyasviel/Fooocus](lllyasviel-fooocus.md) | 1.00 | `ai / llm`, `python` |
-| [Vision-CAIR/MiniGPT-4](vision-cair-minigpt-4.md) | 1.00 | `ai / llm`, `python` |
-| [tatsu-lab/stanford_alpaca](tatsu-lab-stanford_alpaca.md) | 1.00 | `ai / llm`, `python` |
-| [GaiZhenbiao/ChuanhuChatGPT](gaizhenbiao-chuanhuchatgpt.md) | 1.00 | `ai / llm`, `python` |
+- **GitHub 主题**: `academic`, `chatglm-6b`, `chatgpt`, `gpt-4`, `large-language-models`
 
