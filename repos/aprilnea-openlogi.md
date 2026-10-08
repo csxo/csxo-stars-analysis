@@ -1,46 +1,11 @@
 # [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 
-> Logitech Options+ 的开源替代，按键重映射 + DPI + SmartShift
+> ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
 ## 元信息
 
-- **价值评分**: 9.3/10
-- **Star 数**: 20385
+_(no analysis yet)_
+- **Star 数**: 23120
 - **主语言**: Rust
-
-## 简介
-
-Logitech Options+ 的开源替代，按键重映射 + DPI + SmartShift
-
-## 核心功能
-
-- Logitech Options+ 的开源替代，按键重映射 + DPI + SmartShift
-
-## 能力
-
-- Logitech Options+ 的开源替代，按键重映射 + DPI + SmartShift
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Rust`
-
-## 标签
-
-`Open Source 工具集`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [GyulyVGC/sniffnet](gyulyvgc-sniffnet.md) | 0.50 | `rust` |
-| [piotrkulpinski/open-source-alternatives](piotrkulpinski-open-source-alternatives.md) | 0.50 | `open source 工具集` |
-| [spacedriveapp/spacedrive](spacedriveapp-spacedrive.md) | 0.50 | `rust` |
-| [KenneyNL/Adobe-Alternatives](kenneynl-adobe-alternatives.md) | 0.50 | `open source 工具集` |
-| [Twipped/InterviewThis](twipped-interviewthis.md) | 0.50 | `open source 工具集` |
+- **GitHub 主题**: `dpi`, `gpui`, `hid`, `hidpp`, `local-first`, `logitech`, `logitech-mouse`, `logitech-options`, `mouse-remapping`, `mx-master`, `privacy`, `rust`, `smartshift`
 
