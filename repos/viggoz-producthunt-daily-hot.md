@@ -1,42 +1,11 @@
 # [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-> Product Hunt 每日热门中文榜
+> 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 1003
 - **主语言**: Python
-
-## 简介
-
-Product Hunt 每日热门中文榜
-
-## 核心功能
-
-- Product Hunt 每日热门中文榜
-
-## 能力
-
-- Product Hunt 每日热门中文榜
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hiddify/Hiddify-Manager](hiddify-hiddify-manager.md) | 1.00 | `python` |
-| [microsoft/cascadia-code](microsoft-cascadia-code.md) | 1.00 | `python` |
-| [zhaoolee/StarsAndClown](zhaoolee-starsandclown.md) | 1.00 | `python` |
-| [lihuithe/podlm-public](lihuithe-podlm-public.md) | 1.00 | `python` |
-| [521xueweihan/HelloGitHub](521xueweihan-hellogithub.md) | 1.00 | `python` |
+- **GitHub 主题**: `producthunt`
 
