@@ -1,28 +1,11 @@
 # [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN)
 
-> TeachYourselfCS 中文翻译
+> TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 22176
 - **主语言**: —
-
-## 简介
-
-TeachYourselfCS 中文翻译
-
-## 核心功能
-
-- TeachYourselfCS 中文翻译
-
-## 能力
-
-- TeachYourselfCS 中文翻译
-
-## 使用场景
-
-- research
-- explore
-- evaluate
+- **GitHub 主题**: `chinese-translation`, `teachyourselfcs`, `translation`, `tutorial`
 
