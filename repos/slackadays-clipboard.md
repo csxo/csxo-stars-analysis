@@ -1,42 +1,11 @@
 # [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
 
-> Ridonculously smart clipboard
+> 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 5923
 - **主语言**: C++
-
-## 简介
-
-Ridonculously smart clipboard
-
-## 核心功能
-
-- Ridonculously smart clipboard
-
-## 能力
-
-- Ridonculously smart clipboard
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `C++`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [AyuGram/AyuGramDesktop](ayugram-ayugramdesktop.md) | 1.00 | `c++` |
-| [hluk/CopyQ](hluk-copyq.md) | 1.00 | `c++` |
-| [Nevcairiel/LAVFilters](nevcairiel-lavfilters.md) | 1.00 | `c++` |
-| [microsoft/winget-cli](microsoft-winget-cli.md) | 1.00 | `c++` |
-| [tindy2013/subconverter](tindy2013-subconverter.md) | 1.00 | `c++` |
+- **GitHub 主题**: `bash`, `cli`, `clipboard`, `clipboard-manager`, `cmd`, `collaborate`, `command-line`, `console`, `cpp`, `cross-platform`, `hacktoberfest`, `learn`, `library`, `linux`, `macos`, `productivity`, `shell`, `terminal`, `windows`
 
