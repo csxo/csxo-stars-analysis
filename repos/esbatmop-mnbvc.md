@@ -1,28 +1,11 @@
 # [esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)
 
-> 超大规模中文语料集 MNBVC
+> MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 4281
 - **主语言**: —
-
-## 简介
-
-超大规模中文语料集 MNBVC
-
-## 核心功能
-
-- 超大规模中文语料集 MNBVC
-
-## 能力
-
-- 超大规模中文语料集 MNBVC
-
-## 使用场景
-
-- research
-- explore
-- evaluate
+- **GitHub 主题**: `chinese`, `chinese-language`, `chinese-nlp`, `chinese-simplified`, `corpus-data`, `nlp`, `nlp-machine-learning`
 
