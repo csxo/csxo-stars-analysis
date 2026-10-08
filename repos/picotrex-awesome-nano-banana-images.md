@@ -1,42 +1,11 @@
 # [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 
-> Nano Banana 图片示例集合
+> A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 23846
 - **主语言**: —
-
-## 简介
-
-Nano Banana 图片示例集合
-
-## 核心功能
-
-- Nano Banana 图片示例集合
-
-## 能力
-
-- Nano Banana 图片示例集合
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 标签
-
-`图片 / 视频处理` `Awesome 列表`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [hua1995116/awesome-ai-painting](hua1995116-awesome-ai-painting.md) | 0.50 | `awesome 列表` |
-| [runningcheese/Awesome-Userscripts](runningcheese-awesome-userscripts.md) | 0.50 | `awesome 列表` |
-| [taowen/awesome-lowcode](taowen-awesome-lowcode.md) | 0.50 | `awesome 列表` |
-| [sindresorhus/awesome](sindresorhus-awesome.md) | 0.50 | `awesome 列表` |
-| [imDazui/Tvlist-awesome-m3u-m3u8](imdazui-tvlist-awesome-m3u-m3u8.md) | 0.50 | `awesome 列表` |
+- **GitHub 主题**: `awesome`, `gemini-2-5-flash-image`, `nano-banana`
 
