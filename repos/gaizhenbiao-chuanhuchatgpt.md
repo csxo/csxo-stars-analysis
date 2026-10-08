@@ -1,46 +1,11 @@
 # [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
-> ChatGPT GUI
+> GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 15273
 - **主语言**: Python
-
-## 简介
-
-ChatGPT GUI
-
-## 核心功能
-
-- ChatGPT GUI
-
-## 能力
-
-- ChatGPT GUI
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Python`
-
-## 标签
-
-`AI / LLM`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [jianchang512/clone-voice](jianchang512-clone-voice.md) | 1.00 | `ai / llm`, `python` |
-| [lllyasviel/Fooocus](lllyasviel-fooocus.md) | 1.00 | `ai / llm`, `python` |
-| [Vision-CAIR/MiniGPT-4](vision-cair-minigpt-4.md) | 1.00 | `ai / llm`, `python` |
-| [binary-husky/gpt_academic](binary-husky-gpt_academic.md) | 1.00 | `ai / llm`, `python` |
-| [tatsu-lab/stanford_alpaca](tatsu-lab-stanford_alpaca.md) | 1.00 | `ai / llm`, `python` |
+- **GitHub 主题**: `chatbot`, `chatglm`, `chatgpt-api`, `claude`, `dalle3`, `ernie`, `gemini`, `gemma`, `inspurai`, `llama`, `midjourney`, `minimax`, `moss`, `ollama`, `qwen`, `spark`, `stablelm`
 
