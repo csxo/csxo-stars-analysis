@@ -1,46 +1,11 @@
 # [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
 
-> macOS 词典翻译 App
+> 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. 
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 14868
 - **主语言**: Swift
-
-## 简介
-
-macOS 词典翻译 App
-
-## 核心功能
-
-- macOS 词典翻译 App
-
-## 能力
-
-- macOS 词典翻译 App
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Swift`
-
-## 标签
-
-`Mac / iOS 工具` `操作系统 / 硬件`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [overtake/TelegramSwift](overtake-telegramswift.md) | 1.00 | `mac / ios 工具`, `swift`, `操作系统 / 硬件` |
-| [Finb/Bark](finb-bark.md) | 0.67 | `mac / ios 工具`, `swift` |
-| [TokenPLS/Hako-Client](tokenpls-hako-client.md) | 0.67 | `mac / ios 工具`, `swift` |
-| [LiveContainer/LiveContainer](livecontainer-livecontainer.md) | 0.67 | `mac / ios 工具`, `swift` |
-| [quoid/userscripts](quoid-userscripts.md) | 0.67 | `mac / ios 工具`, `swift` |
+- **GitHub 主题**: `app`, `baidu`, `bing`, `deepl`, `dictionary`, `gemini`, `google`, `macos`, `ocr`, `openai`, `shortcuts`, `tencent`, `translate`, `translator`, `youdao`
 
