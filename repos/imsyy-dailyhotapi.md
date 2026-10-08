@@ -1,46 +1,11 @@
 # [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi)
 
-> 今日热榜 API
+> 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 4084
 - **主语言**: TypeScript
-
-## 简介
-
-今日热榜 API
-
-## 核心功能
-
-- 今日热榜 API
-
-## 能力
-
-- 今日热榜 API
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `TypeScript`
-
-## 标签
-
-`Web 开发 / 框架`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [excalidraw/excalidraw](excalidraw-excalidraw.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lqzhgood/wechat-need-web](lqzhgood-wechat-need-web.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lencx/Noi](lencx-noi.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [crimx/ext-saladict](crimx-ext-saladict.md) | 1.00 | `typescript`, `web 开发 / 框架` |
-| [lijigang/ljg-skills](lijigang-ljg-skills.md) | 1.00 | `typescript`, `web 开发 / 框架` |
+- **GitHub 主题**: `api`, `daily-hot`, `list`, `rss`, `vercel`
 
