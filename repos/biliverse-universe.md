@@ -1,28 +1,11 @@
 # [Biliverse/Universe](https://github.com/Biliverse/Universe)
 
-> B 站功能增强模块
+> 哔哩哔哩流媒体平台功能增强系列模块
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 1206
 - **主语言**: —
-
-## 简介
-
-B 站功能增强模块
-
-## 核心功能
-
-- B 站功能增强模块
-
-## 能力
-
-- B 站功能增强模块
-
-## 使用场景
-
-- research
-- explore
-- evaluate
+- **GitHub 主题**: `bilibili`
 
