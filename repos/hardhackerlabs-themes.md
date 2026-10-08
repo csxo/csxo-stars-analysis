@@ -1,28 +1,11 @@
 # [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes)
 
-> Hard Hacker Labs themes
+> 🧑🏾‍🚀 One Theme to Rule Them All 🌈
 
 ## 元信息
 
-- **价值评分**: 5.0/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 725
 - **主语言**: —
-
-## 简介
-
-Hard Hacker Labs themes
-
-## 核心功能
-
-- Hard Hacker Labs themes
-
-## 能力
-
-- Hard Hacker Labs themes
-
-## 使用场景
-
-- research
-- explore
-- evaluate
+- **GitHub 主题**: `color-scheme`, `cyberpunk`, `golang`, `iterm2`, `javascript`, `rust`, `terminal`, `theme`, `vim`, `vscode`, `vscode-theme`
 
