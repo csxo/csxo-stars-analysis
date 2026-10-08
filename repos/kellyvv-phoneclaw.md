@@ -1,46 +1,11 @@
 # [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw)
 
-> PhoneClaw — 端侧 AI agent runtime，移动端 Skills
+> PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional Mac Gateway inference.
 
 ## 元信息
 
-- **价值评分**: 5.3/10
-- **Star 数**: 0
+_(no analysis yet)_
+- **Star 数**: 1269
 - **主语言**: Swift
-
-## 简介
-
-PhoneClaw — 端侧 AI agent runtime，移动端 Skills
-
-## 核心功能
-
-- PhoneClaw — 端侧 AI agent runtime，移动端 Skills
-
-## 能力
-
-- PhoneClaw — 端侧 AI agent runtime，移动端 Skills
-
-## 使用场景
-
-- research
-- explore
-- evaluate
-
-## 技术栈
-
-- `Swift`
-
-## 标签
-
-`AI / LLM` `Mac / iOS 工具` `AI / Agent Harness`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [Finb/Bark](finb-bark.md) | 0.50 | `mac / ios 工具`, `swift` |
-| [TokenPLS/Hako-Client](tokenpls-hako-client.md) | 0.50 | `mac / ios 工具`, `swift` |
-| [LiveContainer/LiveContainer](livecontainer-livecontainer.md) | 0.50 | `mac / ios 工具`, `swift` |
-| [quoid/userscripts](quoid-userscripts.md) | 0.50 | `mac / ios 工具`, `swift` |
-| [JimLiu/Illustrated-Agent-Skills](jimliu-illustrated-agent-skills.md) | 0.50 | `ai / agent harness`, `ai / llm` |
+- **GitHub 主题**: `agent-framework`, `ai-agent`, `gemma`, `ios`, `litert`, `local-agent`, `local-ai`, `mobile-agent`, `mobile-agent-framework`, `mobile-ai`, `mobile-ai-agent-framework`, `ollama`, `on-device-agent`, `on-device-ai`, `phone-agent-harness`, `phone-agent-loop`, `phone-ai-agent`, `phone-harness`, `phone-loop`, `swift`
 
