@@ -4,8 +4,32 @@
 
 ## 元信息
 
-_(no analysis yet)_
-- **Star 数**: 37285
+- **价值评分**: 7.0/10
+- **Star 数**: 37313
 - **主语言**: C
 - **GitHub 主题**: `audio`, `c`, `ffmpeg`, `mplayer`, `mpv`, `multimedia`, `video`
+
+## 简介
+
+🎥 Command line media player
+
+## 核心功能
+
+- audio
+- c
+- ffmpeg
+
+## 能力
+
+- audio
+- c
+- ffmpeg
+
+## 使用场景
+
+- (heuristic — see README for details)
+
+## 标签
+
+`audio` `c` `ffmpeg` `mplayer` `mpv`
 
