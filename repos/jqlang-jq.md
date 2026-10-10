@@ -4,8 +4,28 @@
 
 ## 元信息
 
-_(no analysis yet)_
-- **Star 数**: 35761
+- **价值评分**: 5.0/10
+- **Star 数**: 35775
 - **主语言**: C
 - **GitHub 主题**: `jq`
+
+## 简介
+
+Command-line JSON processor
+
+## 核心功能
+
+- jq
+
+## 能力
+
+- jq
+
+## 使用场景
+
+- (heuristic — see README for details)
+
+## 标签
+
+`jq`
 
