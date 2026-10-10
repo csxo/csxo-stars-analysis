@@ -4,8 +4,30 @@
 
 ## 元信息
 
-_(no analysis yet)_
-- **Star 数**: 5844
+- **价值评分**: 5.5/10
+- **Star 数**: 5851
 - **主语言**: C++
 - **GitHub 主题**: `jellyfin`, `jellyfin-client`
+
+## 简介
+
+Jellyfin Desktop Client
+
+## 核心功能
+
+- jellyfin
+- jellyfin-client
+
+## 能力
+
+- jellyfin
+- jellyfin-client
+
+## 使用场景
+
+- (heuristic — see README for details)
+
+## 标签
+
+`jellyfin` `jellyfin-client`
 
