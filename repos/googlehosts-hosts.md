@@ -4,8 +4,28 @@
 
 ## 元信息
 
-_(no analysis yet)_
-- **Star 数**: 20565
+- **价值评分**: 5.0/10
+- **Star 数**: 20563
 - **主语言**: —
 - **GitHub 主题**: `hosts`
+
+## 简介
+
+镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
+## 核心功能
+
+- hosts
+
+## 能力
+
+- hosts
+
+## 使用场景
+
+- (heuristic — see README for details)
+
+## 标签
+
+`hosts`
 
