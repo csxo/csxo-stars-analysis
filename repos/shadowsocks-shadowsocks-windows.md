@@ -4,8 +4,32 @@
 
 ## 元信息
 
-_(no analysis yet)_
-- **Star 数**: 59544
+- **价值评分**: 6.0/10
+- **Star 数**: 59541
 - **主语言**: C#
 - **GitHub 主题**: `c-sharp`, `proxy`, `shadowsocks`
+
+## 简介
+
+A C# port of shadowsocks
+
+## 核心功能
+
+- c-sharp
+- proxy
+- shadowsocks
+
+## 能力
+
+- c-sharp
+- proxy
+- shadowsocks
+
+## 使用场景
+
+- (heuristic — see README for details)
+
+## 标签
+
+`c-sharp` `proxy` `shadowsocks`
 
