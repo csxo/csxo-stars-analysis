@@ -4,8 +4,32 @@
 
 ## 元信息
 
-_(no analysis yet)_
-- **Star 数**: 4281
+- **价值评分**: 7.0/10
+- **Star 数**: 4282
 - **主语言**: —
 - **GitHub 主题**: `chinese`, `chinese-language`, `chinese-nlp`, `chinese-simplified`, `corpus-data`, `nlp`, `nlp-machine-learning`
+
+## 简介
+
+MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
+
+## 核心功能
+
+- chinese
+- chinese-language
+- chinese-nlp
+
+## 能力
+
+- chinese
+- chinese-language
+- chinese-nlp
+
+## 使用场景
+
+- (heuristic — see README for details)
+
+## 标签
+
+`chinese` `chinese-language` `chinese-nlp` `chinese-simplified` `corpus-data`
 
