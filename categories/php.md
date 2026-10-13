@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16267 | PHP | feed, freshrss, news-aggregator, php, rss |
-| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13004 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
+| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16280 | PHP | feed, freshrss, news-aggregator, php, rss |
+| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13006 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
 
 ### [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md)
 
