@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 107269 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 61972 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
-| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6590 | Python | elevenlabs, gemini, genai, notebooklm, openai |
-| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5647 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
+| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 107309 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62043 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6600 | Python | elevenlabs, gemini, genai, notebooklm, openai |
+| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5656 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
 
 ### [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md)
 
