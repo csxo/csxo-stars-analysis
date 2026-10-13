@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8896
+- **Star 数**: 8905
 - **主语言**: C#
 - **GitHub 主题**: `ai`, `automatic1111`, `avalonia`, `comfyui`, `dotnet`, `python`, `sd-webui`, `stable-diffusion`, `text2image`
 
