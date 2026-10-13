@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 58742
+- **Star 数**: 184865
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent-skills`, `ai-agents`, `binary-analysis`, `claude-code`, `cli`, `codex`, `cordis`, `ctf`, `decompiler`, `developer-tools`, `disassembler`, `dsh`, `dsh-plugin`, `ghidra`, `hopper`, `llm`, `mcp`, `model-context-protocol`, `reverse-engineering`, `static-analysis`
 
