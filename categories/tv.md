@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 140456 | TypeScript | iptv, m3u, playlist, streams, tv |
+| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 140727 | TypeScript | iptv, m3u, playlist, streams, tv |
 
 ### [iptv-org/iptv](../repos/iptv-org-iptv.md)
 
