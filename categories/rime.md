@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 19700 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
-| [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md) | 7.0 | 4971 | Lua | fcitx5, ibus, rime, squirrel, weasel |
-| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 4798 | Lua | dicts, ime, pinyin, rime, rime-config |
-| [amzxyz/RIME-LMDG](../repos/amzxyz-rime-lmdg.md) | 7.0 | 1943 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
+| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 19740 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
+| [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md) | 7.0 | 4980 | Lua | fcitx5, ibus, rime, squirrel, weasel |
+| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 4860 | Lua | dicts, ime, pinyin, rime, rime-config |
+| [amzxyz/RIME-LMDG](../repos/amzxyz-rime-lmdg.md) | 7.0 | 1951 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
 | [catppuccin/squirrel](../repos/catppuccin-squirrel.md) | 7.0 | 53 | — | catppuccin, hacktoberfest, rime, rime-squirrel, squirrel |
-| [fkxxyz/rime-cloverpinyin](../repos/fkxxyz-rime-cloverpinyin.md) | 6.5 | 2010 | Python | fcitx, pinyin, rime, schema |
-| [wongdean/rime-settings](../repos/wongdean-rime-settings.md) | 5.0 | 1508 | Lua | rime |
+| [fkxxyz/rime-cloverpinyin](../repos/fkxxyz-rime-cloverpinyin.md) | 6.5 | 2011 | Python | fcitx, pinyin, rime, schema |
+| [wongdean/rime-settings](../repos/wongdean-rime-settings.md) | 5.0 | 1507 | Lua | rime |
 
 ### [iDvel/rime-ice](../repos/idvel-rime-ice.md)
 
