@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162407 | — | bash, documentation, linux, macos, unix |
-| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 77217 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
-| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14315 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
-| [shimohq/chinese-programmer-wrong-pronunciation](../repos/shimohq-chinese-programmer-wrong-pronunciation.md) | 6.5 | 23322 | JavaScript | chinese-programmers, documentation, pronunciation, spelling |
+| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162440 | — | bash, documentation, linux, macos, unix |
+| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 77278 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
+| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14313 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
+| [shimohq/chinese-programmer-wrong-pronunciation](../repos/shimohq-chinese-programmer-wrong-pronunciation.md) | 6.5 | 23320 | JavaScript | chinese-programmers, documentation, pronunciation, spelling |
 
 ### [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md)
 
