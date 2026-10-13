@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 69632 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
-| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21617 | Python | cnn, demo, docker, face-recognition, fastapi |
-| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16793 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
+| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 69731 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
+| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21623 | Python | cnn, demo, docker, face-recognition, fastapi |
+| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16805 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
 
 ### [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md)
 
