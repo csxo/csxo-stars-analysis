@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [newsnext/newsnow](../repos/newsnext-newsnow.md) | 5.5 | 21994 | TypeScript | elegant, news |
+| [newsnext/newsnow](../repos/newsnext-newsnow.md) | 5.5 | 22020 | TypeScript | elegant, news |
 
 ### [newsnext/newsnow](../repos/newsnext-newsnow.md)
 
