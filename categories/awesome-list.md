@@ -4,19 +4,19 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 552310 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
-| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 516983 | — | awesome, awesome-list, lists, resources, unicorns |
-| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 326256 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
-| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 248923 | — | awesome, awesome-list, bsd, cheatsheets, devops |
-| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 172322 | HTML | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
-| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 120110 | — | awesome-list, design-md, design-system, design-tokens, figma |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53032 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 19936 | Python | alternatives, apps, awesome, awesome-list, degoogle |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6788 | — | alternatives, awesome, awesome-list, curated-list, foss |
-| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3348 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 1916 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
-| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 71750 | — | awesome, awesome-list, computer-science, courses |
-| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 139291 | HTML | awesome-list, free-for-developers |
+| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 552922 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
+| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 518388 | — | awesome, awesome-list, lists, resources, unicorns |
+| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 327038 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
+| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 249701 | — | awesome, awesome-list, bsd, cheatsheets, devops |
+| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 172802 | HTML | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
+| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 120792 | — | awesome-list, design-md, design-system, design-tokens, figma |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53101 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 19970 | Python | alternatives, apps, awesome, awesome-list, degoogle |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6805 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3350 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2013 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 71845 | — | awesome, awesome-list, computer-science, courses |
+| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 139442 | HTML | awesome-list, free-for-developers |
 
 ### [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md)
 
