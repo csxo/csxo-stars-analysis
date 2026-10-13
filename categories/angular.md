@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119113 | — | android, angular, books, free, ios |
-| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 13943 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119173 | — | android, angular, books, free, ios |
+| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 13974 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
 
 ### [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md)
 
