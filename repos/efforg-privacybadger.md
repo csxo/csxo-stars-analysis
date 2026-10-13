@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3863
+- **Star 数**: 3865
 - **主语言**: JavaScript
 - **GitHub 主题**: `browser-fingerprinting`, `chrome-extension`, `cookies`, `fingerprinting`, `firefox-extension`, `javascript`, `privacy`, `tracking`, `webextension`
 
