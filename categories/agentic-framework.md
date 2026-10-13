@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 158069 | TypeScript | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
+| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 158349 | TypeScript | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
 
 ### [langgenius/dify](../repos/langgenius-dify.md)
 
