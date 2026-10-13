@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [obra/superpowers](../repos/obra-superpowers.md) | 7.0 | 297043 | Shell | ai, brainstorming, coding, obra, sdlc |
-| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 19669 | JavaScript | agent, ai, coding, course, deepseek |
+| [obra/superpowers](../repos/obra-superpowers.md) | 7.0 | 298431 | Shell | ai, brainstorming, coding, obra, sdlc |
+| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 19713 | JavaScript | agent, ai, coding, course, deepseek |
 
 ### [obra/superpowers](../repos/obra-superpowers.md)
 
