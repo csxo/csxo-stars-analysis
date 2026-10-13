@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2229
+- **Star 数**: 2230
 - **主语言**: C#
 - **GitHub 主题**: `csharp`, `dotnet`, `relaxation`, `uwp`, `white-noise`, `whitenoise`, `windows`, `windows10`, `windows11`, `winui`, `xaml`
 
