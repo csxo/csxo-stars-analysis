@@ -4,15 +4,19 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 160032 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 104284 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 81475 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 76785 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 58742 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53032 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52512 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 754 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
-| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 26515 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 184865 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 162241 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 105921 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 82830 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 76982 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53101 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52591 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 784 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 26612 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+
+### [morluto/rea](../repos/morluto-rea.md)
+
+Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md)
 
@@ -29,10 +33,6 @@ Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent 
 ### [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md)
 
 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-
-### [morluto/rea](../repos/morluto-rea.md)
-
-Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md)
 
