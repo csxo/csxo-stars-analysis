@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 40717 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
+| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 40778 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
 
 ### [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md)
 
