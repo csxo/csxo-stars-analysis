@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sve1r/Rules-For-Quantumult-X](../repos/sve1r-rules-for-quantumult-x.md) | 7.0 | 3778 | JavaScript | quantumult, quantumult-x, quantumultx, qx, rules |
+| [sve1r/Rules-For-Quantumult-X](../repos/sve1r-rules-for-quantumult-x.md) | 7.0 | 3779 | JavaScript | quantumult, quantumult-x, quantumultx, qx, rules |
 | [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 198 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
 
 ### [sve1r/Rules-For-Quantumult-X](../repos/sve1r-rules-for-quantumult-x.md)
