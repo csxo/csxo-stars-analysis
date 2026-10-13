@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7434
+- **Star 数**: 7436
 - **主语言**: Go
 - **GitHub 主题**: `clash`, `geoip`, `geoip2`, `proxy`, `quantumultx`, `shadowrocket`, `shadowsocks`, `surge`
 
