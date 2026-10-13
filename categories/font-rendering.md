@@ -5,7 +5,7 @@
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
 | [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1531 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
-| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 11982 | C++ | directwrite, font, font-rendering, mactype |
+| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 11988 | C++ | directwrite, font, font-rendering, mactype |
 
 ### [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md)
 
