@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2677
+- **Star 数**: 2678
 - **主语言**: SCSS
 - **GitHub 主题**: `hexo`, `hexo-site`, `hexo-theme`
 
