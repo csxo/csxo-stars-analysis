@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 7429
+- **Star 数**: 7428
 - **主语言**: C#
 
 ## 简介
@@ -36,5 +36,5 @@ GUI Tool To Remove Ads From Various Places Around Windows 11
 | [BluePointLilac/ContextMenuManager](bluepointlilac-contextmenumanager.md) | 1.00 | `(none)`, `c#` |
 | [adirh3/Fluent-Search](adirh3-fluent-search.md) | 1.00 | `(none)`, `c#` |
 | [2dust/clashN](2dust-clashn.md) | 1.00 | `(none)`, `c#` |
-| [luolangaga/tubatools](luolangaga-tubatools.md) | 1.00 | `(none)`, `c#` |
+| [ntdevlabs/tiny11builder](ntdevlabs-tiny11builder.md) | 1.00 | `(none)`, `c#` |
 
