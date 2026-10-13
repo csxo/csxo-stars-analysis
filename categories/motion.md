@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11000 | TypeScript | ai, deepseek, doubao, motion, react |
+| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11042 | TypeScript | ai, deepseek, doubao, motion, react |
 
 ### [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md)
 
