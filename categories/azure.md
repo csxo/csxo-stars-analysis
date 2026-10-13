@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 121091 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
-| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 45477 | TypeScript | ai, anthropic, artifacts, aws, azure |
+| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 121287 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
+| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 45618 | TypeScript | ai, anthropic, artifacts, aws, azure |
 
 ### [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md)
 
