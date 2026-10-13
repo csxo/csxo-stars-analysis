@@ -1,21 +1,27 @@
 # ai-agents
 
-> 项目数: **12**
+> 项目数: **14**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 160032 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 125130 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
-| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 107269 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 81475 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 78970 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 76785 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 69930 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 58742 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47310 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37197 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 491 | TypeScript | ai-agents, bun, codex, electron, local-first |
-| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 246717 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 184865 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 162241 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 126025 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
+| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 107309 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 82830 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79117 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 76982 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 69988 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47373 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37289 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
+| [dagucloud/dagu](../repos/dagucloud-dagu.md) | 7.0 | 4340 | Go | agentic-workflows, ai-agents, ai-workflows, airflow-alternative, cron |
+| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2776 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 540 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 248704 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
+
+### [morluto/rea](../repos/morluto-rea.md)
+
+Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md)
 
@@ -45,10 +51,6 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 
-### [morluto/rea](../repos/morluto-rea.md)
-
-Reverse engineer anything with agents, from app behavior down to native binaries.
-
 ### [zhayujie/CowAgent](../repos/zhayujie-cowagent.md)
 
 Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
@@ -56,6 +58,14 @@ Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 ### [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md)
 
 Vane is an AI-powered answering engine.
+
+### [dagucloud/dagu](../repos/dagucloud-dagu.md)
+
+Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
+
+### [runkids/skillshare](../repos/runkids-skillshare.md)
+
+📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
 
 ### [nightly-labs/openbot](../repos/nightly-labs-openbot.md)
 
