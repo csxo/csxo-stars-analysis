@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7349
+- **Star 数**: 7351
 - **主语言**: TypeScript
 - **GitHub 主题**: `background-removal`, `image-matting`, `image-segmentation`, `javascript`, `onnx`, `open-source`, `typescript`
 
