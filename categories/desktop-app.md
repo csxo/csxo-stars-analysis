@@ -1,15 +1,16 @@
 # desktop-app
 
-> 项目数: **8**
+> 项目数: **9**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54591 | Rust | ai, app, application, chatgpt, desktop-app |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32067 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 7033 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3658 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
-| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1446 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 578 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54596 | Rust | ai, app, application, chatgpt, desktop-app |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32075 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 7704 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3671 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1448 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1232 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 579 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
 | [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2824 | C# | desktop-app, desktop-tool, geekdesk |
 | [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11432 | JavaScript | desktop-app, music-player |
 
@@ -32,6 +33,10 @@ AI-powered GitHub stars manager with semantic search, auto-categorization, and r
 ### [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md)
 
 离线下载 Microsoft Store 商店应用
+
+### [leemysw/yovoice](../repos/leemysw-yovoice.md)
+
+Open-source local AI audio & music studio for macOS & Windows. Voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
 
 ### [Razee4315/Paperling](../repos/razee4315-paperling.md)
 
