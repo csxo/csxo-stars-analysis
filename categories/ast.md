@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 125130 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
+| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 126025 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
 
 ### [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md)
 
