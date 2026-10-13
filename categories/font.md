@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4050 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
-| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 11982 | C++ | directwrite, font, font-rendering, mactype |
+| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4054 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
+| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 11988 | C++ | directwrite, font, font-rendering, mactype |
 
 ### [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md)
 
