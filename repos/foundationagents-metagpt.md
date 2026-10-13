@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 70790
+- **Star 数**: 70835
 - **主语言**: Python
 - **GitHub 主题**: `agent`, `gpt`, `llm`, `metagpt`, `multi-agent`
 
