@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2740 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
-| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 395 | Go | cli, downloader, twitter, x |
+| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2750 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
+| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 397 | Go | cli, downloader, twitter, x |
 
 ### [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md)
 
