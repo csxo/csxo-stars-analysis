@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 61972
+- **Star 数**: 62043
 - **主语言**: Rust
 - **GitHub 主题**: `chatgpt`, `claude`, `desktop`, `gemini`, `hight-performance`, `linux`, `macos`, `no-electron`, `package`, `rust`, `tauri`, `windows`, `youtube`
 
