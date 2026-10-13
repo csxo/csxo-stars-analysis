@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28555 | JavaScript | china, converter, epg, iptv, ipv6 |
-| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25495 | Python | auto-update, awesome, epg, iptv, iptv-api |
+| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28581 | JavaScript | china, converter, epg, iptv, ipv6 |
+| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25550 | Python | auto-update, awesome, epg, iptv, iptv-api |
 
 ### [fanmingming/live](../repos/fanmingming-live.md)
 
