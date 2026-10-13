@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88834 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88841 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
 
 ### [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md)
 
