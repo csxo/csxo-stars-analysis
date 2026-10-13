@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [amzxyz/RIME-LMDG](../repos/amzxyz-rime-lmdg.md) | 7.0 | 1943 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
+| [amzxyz/RIME-LMDG](../repos/amzxyz-rime-lmdg.md) | 7.0 | 1951 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
 
 ### [amzxyz/RIME-LMDG](../repos/amzxyz-rime-lmdg.md)
 
