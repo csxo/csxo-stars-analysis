@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 39969 | C# | avalonia, capture, color-picker, csharp, dropbox |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14583 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 8896 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
+| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40044 | C# | avalonia, capture, color-picker, csharp, dropbox |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14607 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 8905 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
 
 ### [ShareX/ShareX](../repos/sharex-sharex.md)
 
