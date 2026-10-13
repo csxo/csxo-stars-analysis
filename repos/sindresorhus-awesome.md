@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 516983
+- **Star 数**: 518388
 - **主语言**: —
 - **GitHub 主题**: `awesome`, `awesome-list`, `lists`, `resources`, `unicorns`
 
