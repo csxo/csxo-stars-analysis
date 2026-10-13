@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41391 | Rust | app, application, cybersecurity, gui, iced |
-| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15681 | Go | gfw, gui, hy2, juicity, linux |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13227 | JavaScript | aria2, ariang, download, gui, html |
-| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8202 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 7033 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2835 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
-| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2355 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41481 | Rust | app, application, cybersecurity, gui, iced |
+| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15688 | Go | gfw, gui, hy2, juicity, linux |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13233 | JavaScript | aria2, ariang, download, gui, html |
+| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8203 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 7704 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2831 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2354 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
 | [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1688 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
 
 ### [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md)
