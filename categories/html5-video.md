@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 30002 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
+| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 30001 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
 
 ### [sampotts/plyr](../repos/sampotts-plyr.md)
 
