@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10086 | JavaScript | github, release, steam, tampermonkey, userscript |
-| [community/community](../repos/community-community.md) | 7.0 | 8838 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
-| [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2347 | TypeScript | extension-chrome, github, pocket, react, rss |
-| [howie6879/weekly](../repos/howie6879-weekly.md) | 7.0 | 1036 | Python | awesome, backend, front-end, github, rss |
+| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10090 | JavaScript | github, release, steam, tampermonkey, userscript |
+| [community/community](../repos/community-community.md) | 7.0 | 8852 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
+| [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2348 | TypeScript | extension-chrome, github, pocket, react, rss |
+| [howie6879/weekly](../repos/howie6879-weekly.md) | 7.0 | 1037 | Python | awesome, backend, front-end, github, rss |
 | [said7388/github-portfolio](../repos/said7388-github-portfolio.md) | 7.0 | 278 | JavaScript | developer-portfolio, gitfolio, github, github-pages, github-portfolio |
-| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 181043 | Python | awesome, github, hellogithub, python |
+| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 181791 | Python | awesome, github, hellogithub, python |
 
 ### [XIU2/UserScript](../repos/xiu2-userscript.md)
 
