@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20523 | C++ | acrylic, aero, blur, customization, discord |
-| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5251 | C# | acrylic, backdrop, mica, win32, windows |
-| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4607 | C++ | acrylic, aero, aeroglass, dwm, mica |
-| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4205 | C++ | acrylic, blur, explorer, mica, shell |
+| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20539 | C++ | acrylic, aero, blur, customization, discord |
+| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5252 | C# | acrylic, backdrop, mica, win32, windows |
+| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4611 | C++ | acrylic, aero, aeroglass, dwm, mica |
+| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4211 | C++ | acrylic, blur, explorer, mica, shell |
 
 ### [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md)
 
