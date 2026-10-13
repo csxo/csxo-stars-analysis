@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13227 | JavaScript | aria2, ariang, download, gui, html |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13233 | JavaScript | aria2, ariang, download, gui, html |
 
 ### [mayswind/AriaNg](../repos/mayswind-ariang.md)
 
