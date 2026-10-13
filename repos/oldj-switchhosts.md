@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 27266
+- **Star 数**: 27271
 - **主语言**: TypeScript
 - **GitHub 主题**: `electron`, `hosts`, `hostseditor`, `hostsfile`, `switch-hosts`, `switchhosts`
 
