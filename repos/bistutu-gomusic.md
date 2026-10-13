@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 2477
+- **Star 数**: 2487
 - **主语言**: Go
 
 ## 简介
@@ -35,6 +35,6 @@
 | [MetaCubeX/Clash.Mini](metacubex-clash-mini.md) | 1.00 | `(none)`, `go` |
 | [SagerNet/sing-box](sagernet-sing-box.md) | 1.00 | `(none)`, `go` |
 | [anytls/anytls-go](anytls-anytls-go.md) | 1.00 | `(none)`, `go` |
+| [multica-ai/multica](multica-ai-multica.md) | 1.00 | `(none)`, `go` |
 | [Nemu-x/SlothClash](nemu-x-slothclash.md) | 1.00 | `(none)`, `go` |
-| [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
 
