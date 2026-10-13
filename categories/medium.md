@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Xatta-Trone/medium-parser-extension](../repos/xatta-trone-medium-parser-extension.md) | 6.0 | 1589 | JavaScript | medium, medium-article, medium-com |
+| [Xatta-Trone/medium-parser-extension](../repos/xatta-trone-medium-parser-extension.md) | 6.0 | 1590 | JavaScript | medium, medium-article, medium-com |
 
 ### [Xatta-Trone/medium-parser-extension](../repos/xatta-trone-medium-parser-extension.md)
 
