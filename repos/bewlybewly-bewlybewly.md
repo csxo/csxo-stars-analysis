@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8809
+- **Star 数**: 8806
 - **主语言**: Vue
 - **GitHub 主题**: `bilibili`, `browser-extension`, `chrome-extension`, `dark-mode`, `dark-theme`
 - **已归档**: ✅
