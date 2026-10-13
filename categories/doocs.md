@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13412 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13417 | TypeScript | ai-bot, doocs, editor, llm, markdown |
 | [doocs/technical-books](../repos/doocs-technical-books.md) | 7.0 | 7007 | TypeScript | architecture, back-end, book-list, database, doocs |
 
 ### [doocs/md](../repos/doocs-md.md)
