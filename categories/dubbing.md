@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Huanshere/VideoLingo](../repos/huanshere-videolingo.md) | 7.0 | 18732 | Python | ai-translation, dubbing, localization, video-translation, voice-cloning |
+| [Huanshere/VideoLingo](../repos/huanshere-videolingo.md) | 7.0 | 18777 | Python | ai-translation, dubbing, localization, video-translation, voice-cloning |
 
 ### [Huanshere/VideoLingo](../repos/huanshere-videolingo.md)
 
