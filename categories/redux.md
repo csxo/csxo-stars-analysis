@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [feichao93/battle-city](../repos/feichao93-battle-city.md) | 7.0 | 1868 | TypeScript | battle-city, game, react, redux, redux-saga |
-| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8739 | JavaScript | immutable, react, redux, tetris |
+| [feichao93/battle-city](../repos/feichao93-battle-city.md) | 7.0 | 1871 | TypeScript | battle-city, game, react, redux, redux-saga |
+| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8738 | JavaScript | immutable, react, redux, tetris |
 
 ### [feichao93/battle-city](../repos/feichao93-battle-city.md)
 
