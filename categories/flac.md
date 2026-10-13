@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spotiflacapp/SpotiFLAC-Mobile](../repos/spotiflacapp-spotiflac-mobile.md) | 7.0 | 6677 | Dart | android, flac, flutter, golang, ios |
+| [spotiflacapp/SpotiFLAC-Mobile](../repos/spotiflacapp-spotiflac-mobile.md) | 7.0 | 6718 | Dart | android, flac, flutter, golang, ios |
 
 ### [spotiflacapp/SpotiFLAC-Mobile](../repos/spotiflacapp-spotiflac-mobile.md)
 
