@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iina/iina](../repos/iina-iina.md) | 7.0 | 46718 | Swift | hacktoberfest, macos, mpv, swift, video |
-| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27763 | C# | editor, gif, recorder, sketchboard, video |
-| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22030 | Vue | freetube, privacy, subscriptions, video, videos |
+| [iina/iina](../repos/iina-iina.md) | 7.0 | 46755 | Swift | hacktoberfest, macos, mpv, swift, video |
+| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27778 | C# | editor, gif, recorder, sketchboard, video |
+| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22046 | Vue | freetube, privacy, subscriptions, video, videos |
 
 ### [iina/iina](../repos/iina-iina.md)
 
