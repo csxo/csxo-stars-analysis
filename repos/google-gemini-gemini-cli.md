@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 107269
+- **Star 数**: 107309
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `ai-agents`, `cli`, `gemini`, `gemini-api`, `mcp-client`, `mcp-server`
 
