@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39893 | Python | agent, chat, chatgpt, chattts, chinese |
-| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17204 | — | ai, chat, chatgpt, openai |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39901 | Python | agent, chat, chatgpt, chattts, chinese |
+| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17203 | — | ai, chat, chatgpt, openai |
 
 ### [2noise/ChatTTS](../repos/2noise-chattts.md)
 
