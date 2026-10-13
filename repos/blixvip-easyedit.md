@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 154
+- **Star 数**: 156
 - **主语言**: Python
 - **GitHub 主题**: `beat-detection`, `captions`, `ffmpeg`, `python`, `video-editing`, `whisper`
 
