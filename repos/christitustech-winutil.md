@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 63929
+- **Star 数**: 64097
 - **主语言**: PowerShell
 
 ## 简介
@@ -32,9 +32,9 @@ Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Update
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [ntdevlabs/tiny11builder](ntdevlabs-tiny11builder.md) | 1.00 | `(none)`, `powershell` |
 | [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
 | [programthink/books](programthink-books.md) | 0.50 | `(none)` |
 | [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
 | [ruanyf/reading-list](ruanyf-reading-list.md) | 0.50 | `(none)` |
+| [jobbole/awesome-programming-books](jobbole-awesome-programming-books.md) | 0.50 | `(none)` |
 
