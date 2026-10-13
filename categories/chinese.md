@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 102638 | — | chinese, cookbook, cooking, dishes, recipes |
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 53637 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39893 | Python | agent, chat, chatgpt, chattts, chinese |
-| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 37459 | Python | chinese, document, edit, english, japanese |
-| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22769 | — | awesome-lists, chatglm, chinese, llama, llm |
-| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6015 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
-| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4282 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
-| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4050 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
+| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 102756 | — | chinese, cookbook, cooking, dishes, recipes |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 53701 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39901 | Python | agent, chat, chatgpt, chattts, chinese |
+| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 37526 | Python | chinese, document, edit, english, japanese |
+| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22767 | — | awesome-lists, chatglm, chinese, llama, llm |
+| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6016 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
+| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4283 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
+| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4054 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
 | [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2077 | — | china, chinese, chinese-podcasts, podcast |
 | [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1647 | — | chinese, email, newsletter, rss |
 
