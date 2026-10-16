@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 126025
+- **Star 数**: 127036
 - **主语言**: Python
 - **GitHub 主题**: `ai-agents`, `antigravity`, `ast`, `claude-code`, `code-analysis`, `code-search`, `codex`, `cursor`, `developer-tools`, `gemini`, `graphify`, `graphrag`, `knowledge-graph`, `leiden`, `llm`, `mcp`, `openclaw`, `rag`, `skills`, `tree-sitter`
 
