@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16280 | PHP | feed, freshrss, news-aggregator, php, rss |
-| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3350 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
+| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16296 | PHP | feed, freshrss, news-aggregator, php, rss |
+| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3352 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
 | [versun/RSSBox](../repos/versun-rssbox.md) | 7.0 | 681 | Python | ai, digest, django, feed, filter |
-| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 599 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
+| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 603 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
 
 ### [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md)
 
