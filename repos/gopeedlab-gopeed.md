@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 26853
+- **Star 数**: 26946
 - **主语言**: Dart
 - **GitHub 主题**: `android`, `bittorrent`, `cross-platform`, `debian`, `downloader`, `flutter`, `golang`, `http`, `https`, `ios`, `macos`, `magnet`, `torrent`, `ubuntu`, `windows`
 
