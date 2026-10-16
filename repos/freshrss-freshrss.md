@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 16280
+- **Star 数**: 16296
 - **主语言**: PHP
 - **GitHub 主题**: `feed`, `freshrss`, `news-aggregator`, `php`, `rss`, `rss-aggregator`, `rss-reader`, `self-hosted`, `websub`
 
