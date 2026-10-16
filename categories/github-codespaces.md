@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [community/community](../repos/community-community.md) | 7.0 | 8852 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
+| [community/community](../repos/community-community.md) | 7.0 | 8861 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
 
 ### [community/community](../repos/community-community.md)
 
