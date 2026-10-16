@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 142
+- **Star 数**: 160
 - **主语言**: Swift
 - **GitHub 主题**: `brave`, `chrome-extension`, `download-manager`, `homebrew`, `homebrew-cask`, `idm-alternative`, `macos`, `parallel-download`, `safari-extension`, `swift`, `swiftui`, `yt-dlp`
 
