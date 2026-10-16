@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 44933
+- **Star 数**: 45018
 - **主语言**: Svelte
 - **GitHub 主题**: `collaboration`, `downloader`, `instagram`, `javascript`, `music`, `reddit`, `social-media`, `soundcloud`, `svelte`, `tiktok`, `twitter`, `typescript`, `video`, `vimeo`, `vk`, `webapp`, `youtube`, `youtube-downloader`
 
