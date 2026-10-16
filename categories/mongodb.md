@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7654 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
+| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7662 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
 
 ### [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md)
 
