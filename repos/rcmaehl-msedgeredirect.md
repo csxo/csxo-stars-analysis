@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5901
+- **Star 数**: 5906
 - **主语言**: AutoIt
 - **GitHub 主题**: `edge`, `image-file-execution-options`, `msedge`, `uri`, `uri-manipulations`, `uri-parser`, `uri-solutions`, `windows`, `windows10`, `windows11`
 
