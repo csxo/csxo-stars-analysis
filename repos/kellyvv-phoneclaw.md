@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1271
+- **Star 数**: 1275
 - **主语言**: Swift
 - **GitHub 主题**: `agent-framework`, `ai-agent`, `gemma`, `ios`, `litert`, `local-agent`, `local-ai`, `mobile-agent`, `mobile-agent-framework`, `mobile-ai`, `mobile-ai-agent-framework`, `ollama`, `on-device-agent`, `on-device-ai`, `phone-agent-harness`, `phone-agent-loop`, `phone-ai-agent`, `phone-harness`, `phone-loop`, `swift`
 
