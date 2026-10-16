@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [said7388/github-portfolio](../repos/said7388-github-portfolio.md) | 7.0 | 278 | JavaScript | developer-portfolio, gitfolio, github, github-pages, github-portfolio |
+| [said7388/github-portfolio](../repos/said7388-github-portfolio.md) | 7.0 | 277 | JavaScript | developer-portfolio, gitfolio, github, github-pages, github-portfolio |
 
 ### [said7388/github-portfolio](../repos/said7388-github-portfolio.md)
 
