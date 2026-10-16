@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 15227
+- **Star 数**: 15228
 - **主语言**: JavaScript
 - **GitHub 主题**: `hacktoberfest`, `html5-speedtest`, `internet-speed`, `internet-speed-checker`, `librespeed`, `php`, `speedtest`, `web-worker`, `xhr`
 
