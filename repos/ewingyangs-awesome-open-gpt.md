@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6058
+- **Star 数**: 6057
 - **主语言**: Python
 - **GitHub 主题**: `agentgpt`, `ai`, `aigc`, `autogpt`, `awesome`, `awesome-list`, `chatbox`, `chatgpt`, `chatgpt-api`, `chatgpt-sdk`, `gpt`, `gpt4`, `gpt4free`, `gpt4o`, `gpts`, `gptstore`, `machinelearning`, `minigpt`, `moss`, `open-source`
 
