@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hehonghui/awesome-english-ebooks](../repos/hehonghui-awesome-english-ebooks.md) | 7.0 | 37874 | CSS | download, ebooks, economist, economist-ebooks, new-yorker |
+| [hehonghui/awesome-english-ebooks](../repos/hehonghui-awesome-english-ebooks.md) | 7.0 | 38127 | CSS | download, ebooks, economist, economist-ebooks, new-yorker |
 
 ### [hehonghui/awesome-english-ebooks](../repos/hehonghui-awesome-english-ebooks.md)
 
