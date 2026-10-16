@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 18110
+- **Star 数**: 18118
 - **主语言**: TypeScript
 - **GitHub 主题**: `copytranslator`, `dictionary`, `translate`
 
