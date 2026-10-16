@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 2602
+- **Star 数**: 2603
 - **主语言**: JavaScript
 - **GitHub 主题**: `cef`, `cefsharp`, `electron`, `miniblink`
 
