@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4211 | C++ | acrylic, blur, explorer, mica, shell |
+| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4221 | C++ | acrylic, blur, explorer, mica, shell |
 
 ### [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md)
 
