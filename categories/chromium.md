@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68516 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 27970 | Python | chromium, control, google-chromium, inox, iridium |
-| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 23877 | — | brave, browser, chromium, linux, macos |
-| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13921 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68591 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28011 | Python | chromium, control, google-chromium, inox, iridium |
+| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 23900 | — | brave, browser, chromium, linux, macos |
+| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13932 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
 | [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2338 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
-| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3315 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
-| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2588 | Python | chromium, ungoogled-chromium, windows |
+| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3317 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
+| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2598 | Python | chromium, ungoogled-chromium, windows |
 
 ### [gorhill/uBlock](../repos/gorhill-ublock.md)
 
