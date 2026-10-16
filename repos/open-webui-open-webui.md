@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 155504
+- **Star 数**: 155866
 - **主语言**: Python
 - **GitHub 主题**: `ai`, `llm`, `llm-ui`, `llm-webui`, `llms`, `mcp`, `ollama`, `ollama-webui`, `open-webui`, `openai`, `openapi`, `rag`, `self-hosted`, `ui`, `webui`
 
