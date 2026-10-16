@@ -2,18 +2,18 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 644  
-- **已分析**: 644  
-- **分类数**: 1212
+- **Star 总数**: 651  
+- **已分析**: 651  
+- **分类数**: 1220
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 441 |
-| [(none)](categories/none.md) | 154 |
-| [AI / LLM](categories/ai-llm.md) | 79 |
-| [Frontend](categories/frontend.md) | 62 |
+| [Other](categories/other.md) | 445 |
+| [(none)](categories/none.md) | 156 |
+| [AI / LLM](categories/ai-llm.md) | 81 |
+| [Frontend](categories/frontend.md) | 63 |
 | [ai](categories/ai.md) | 41 |
 | [DevOps](categories/devops.md) | 32 |
 | [CLI / Terminal](categories/cli-terminal.md) | 30 |
@@ -23,10 +23,10 @@
 | [awesome](categories/awesome.md) | 21 |
 | [clash](categories/clash.md) | 21 |
 | [chatgpt](categories/chatgpt.md) | 19 |
+| [claude-code](categories/claude-code.md) | 16 |
 | [adblock](categories/adblock.md) | 15 |
-| [claude-code](categories/claude-code.md) | 15 |
+| [ai-agents](categories/ai-agents.md) | 15 |
 | [rss](categories/rss.md) | 15 |
-| [ai-agents](categories/ai-agents.md) | 14 |
 | [cross-platform](categories/cross-platform.md) | 14 |
 | [hacktoberfest](categories/hacktoberfest.md) | 14 |
 | [macos](categories/macos.md) | 14 |
@@ -40,12 +40,12 @@
 | [python](categories/python.md) | 11 |
 | [react](categories/react.md) | 11 |
 | [shadowsocks](categories/shadowsocks.md) | 11 |
+| [agent-skills](categories/agent-skills.md) | 10 |
 | [chinese](categories/chinese.md) | 10 |
 | [chrome](categories/chrome.md) | 10 |
 | [ios](categories/ios.md) | 10 |
 | [linux](categories/linux.md) | 10 |
 | [llm](categories/llm.md) | 10 |
-| [agent-skills](categories/agent-skills.md) | 9 |
 | [csharp](categories/csharp.md) | 9 |
 | [deepseek](categories/deepseek.md) | 9 |
 | [desktop-app](categories/desktop-app.md) | 9 |
@@ -59,6 +59,7 @@
 | [artificial-intelligence](categories/artificial-intelligence.md) | 7 |
 | [c](categories/c.md) | 7 |
 | [chromium](categories/chromium.md) | 7 |
+| [codex](categories/codex.md) | 7 |
 | [computer-science](categories/computer-science.md) | 7 |
 | [deep-learning](categories/deep-learning.md) | 7 |
 | [desktop](categories/desktop.md) | 7 |
@@ -75,7 +76,6 @@
 | [bilibili](categories/bilibili.md) | 6 |
 | [browser](categories/browser.md) | 6 |
 | [china](categories/china.md) | 6 |
-| [codex](categories/codex.md) | 6 |
 | [downloader](categories/downloader.md) | 6 |
 | [flutter](categories/flutter.md) | 6 |
 | [gfw](categories/gfw.md) | 6 |
@@ -123,6 +123,7 @@
 | [open-source](categories/open-source.md) | 4 |
 | [swift](categories/swift.md) | 4 |
 | [typescript](categories/typescript.md) | 4 |
+| [video](categories/video.md) | 4 |
 | [agentic-ai](categories/agentic-ai.md) | 3 |
 | [agents](categories/agents.md) | 3 |
 | [alternatives](categories/alternatives.md) | 3 |
@@ -184,7 +185,6 @@
 | [text-editor](categories/text-editor.md) | 3 |
 | [translation](categories/translation.md) | 3 |
 | [trojan](categories/trojan.md) | 3 |
-| [video](categories/video.md) | 3 |
 | [accessibility](categories/accessibility.md) | 2 |
 | [adblock-list](categories/adblock-list.md) | 2 |
 | [adblocker](categories/adblocker.md) | 2 |
@@ -206,6 +206,7 @@
 | [bloatware](categories/bloatware.md) | 2 |
 | [blur](categories/blur.md) | 2 |
 | [book](categories/book.md) | 2 |
+| [bot](categories/bot.md) | 2 |
 | [brave](categories/brave.md) | 2 |
 | [bsd](categories/bsd.md) | 2 |
 | [c-sharp](categories/c-sharp.md) | 2 |
@@ -236,6 +237,7 @@
 | [dart](categories/dart.md) | 2 |
 | [debloat](categories/debloat.md) | 2 |
 | [deep-research](categories/deep-research.md) | 2 |
+| [design](categories/design.md) | 2 |
 | [developer-tools](categories/developer-tools.md) | 2 |
 | [diffusion](categories/diffusion.md) | 2 |
 | [distributed-systems](categories/distributed-systems.md) | 2 |
@@ -243,6 +245,8 @@
 | [dnsmasq](categories/dnsmasq.md) | 2 |
 | [doocs](categories/doocs.md) | 2 |
 | [doubao](categories/doubao.md) | 2 |
+| [dsh-plugin](categories/dsh-plugin.md) | 2 |
+| [dual-subtitles](categories/dual-subtitles.md) | 2 |
 | [ech](categories/ech.md) | 2 |
 | [education](categories/education.md) | 2 |
 | [elasticsearch](categories/elasticsearch.md) | 2 |
@@ -277,9 +281,11 @@
 | [llama](categories/llama.md) | 2 |
 | [material-you](categories/material-you.md) | 2 |
 | [microsoft](categories/microsoft.md) | 2 |
+| [motion](categories/motion.md) | 2 |
 | [mp3](categories/mp3.md) | 2 |
 | [mpv-config](categories/mpv-config.md) | 2 |
 | [mpv-script](categories/mpv-script.md) | 2 |
+| [multi-agent](categories/multi-agent.md) | 2 |
 | [notion](categories/notion.md) | 2 |
 | [php](categories/php.md) | 2 |
 | [pinyin](categories/pinyin.md) | 2 |
@@ -287,6 +293,7 @@
 | [plugin](categories/plugin.md) | 2 |
 | [portfolio](categories/portfolio.md) | 2 |
 | [privacy](categories/privacy.md) | 2 |
+| [product](categories/product.md) | 2 |
 | [pwa](categories/pwa.md) | 2 |
 | [qbittorrent](categories/qbittorrent.md) | 2 |
 | [qt](categories/qt.md) | 2 |
@@ -302,6 +309,7 @@
 | [shadowsocksr](categories/shadowsocksr.md) | 2 |
 | [socks5](categories/socks5.md) | 2 |
 | [squirrel](categories/squirrel.md) | 2 |
+| [subtitles](categories/subtitles.md) | 2 |
 | [text-to-speech](categories/text-to-speech.md) | 2 |
 | [theme-next](categories/theme-next.md) | 2 |
 | [translate](categories/translate.md) | 2 |
@@ -313,6 +321,7 @@
 | [webextension](categories/webextension.md) | 2 |
 | [win32](categories/win32.md) | 2 |
 | [wpf](categories/wpf.md) | 2 |
+| [youtube](categories/youtube.md) | 2 |
 | [30-days-of-python](categories/30-days-of-python.md) | 1 |
 | [4k](categories/4k.md) | 1 |
 | [aac](categories/aac.md) | 1 |
@@ -385,6 +394,7 @@
 | [answering-engine](categories/answering-engine.md) | 1 |
 | [antd](categories/antd.md) | 1 |
 | [anti-censorship](categories/anti-censorship.md) | 1 |
+| [anti-slop](categories/anti-slop.md) | 1 |
 | [antigravity-skills](categories/antigravity-skills.md) | 1 |
 | [antisurveillance](categories/antisurveillance.md) | 1 |
 | [anytls](categories/anytls.md) | 1 |
@@ -484,7 +494,6 @@
 | [bootable-drives](categories/bootable-drives.md) | 1 |
 | [bootable-usb](categories/bootable-usb.md) | 1 |
 | [bootstrap-icons](categories/bootstrap-icons.md) | 1 |
-| [bot](categories/bot.md) | 1 |
 | [boxjs](categories/boxjs.md) | 1 |
 | [brain-storms](categories/brain-storms.md) | 1 |
 | [brainstorming](categories/brainstorming.md) | 1 |
@@ -638,11 +647,11 @@
 | [debugger](categories/debugger.md) | 1 |
 | [deep-search](categories/deep-search.md) | 1 |
 | [deepl](categories/deepl.md) | 1 |
+| [deepseek-harness](categories/deepseek-harness.md) | 1 |
 | [deepseek-r1](categories/deepseek-r1.md) | 1 |
 | [degoogle](categories/degoogle.md) | 1 |
 | [demo](categories/demo.md) | 1 |
 | [deprecated](categories/deprecated.md) | 1 |
-| [design](categories/design.md) | 1 |
 | [design-md](categories/design-md.md) | 1 |
 | [design-system](categories/design-system.md) | 1 |
 | [design-tokens](categories/design-tokens.md) | 1 |
@@ -689,7 +698,6 @@
 | [dropbox](categories/dropbox.md) | 1 |
 | [dsh](categories/dsh.md) | 1 |
 | [dsh-ecosystem](categories/dsh-ecosystem.md) | 1 |
-| [dsh-plugin](categories/dsh-plugin.md) | 1 |
 | [dubbing](categories/dubbing.md) | 1 |
 | [dwm](categories/dwm.md) | 1 |
 | [easy-to-use](categories/easy-to-use.md) | 1 |
@@ -967,7 +975,7 @@
 | [mongodb](categories/mongodb.md) | 1 |
 | [monitor](categories/monitor.md) | 1 |
 | [monitor-performance](categories/monitor-performance.md) | 1 |
-| [motion](categories/motion.md) | 1 |
+| [motionskill](categories/motionskill.md) | 1 |
 | [mouse](categories/mouse.md) | 1 |
 | [movies](categories/movies.md) | 1 |
 | [mozilla](categories/mozilla.md) | 1 |
@@ -978,7 +986,6 @@
 | [msix](categories/msix.md) | 1 |
 | [msoffice](categories/msoffice.md) | 1 |
 | [msproject](categories/msproject.md) | 1 |
-| [multi-agent](categories/multi-agent.md) | 1 |
 | [multi-platform](categories/multi-platform.md) | 1 |
 | [music-video](categories/music-video.md) | 1 |
 | [musicfree](categories/musicfree.md) | 1 |
@@ -1043,7 +1050,6 @@
 | [pot-app](categories/pot-app.md) | 1 |
 | [powershell](categories/powershell.md) | 1 |
 | [pretraining](categories/pretraining.md) | 1 |
-| [product](categories/product.md) | 1 |
 | [producthunt](categories/producthunt.md) | 1 |
 | [productivity](categories/productivity.md) | 1 |
 | [programmer](categories/programmer.md) | 1 |
@@ -1113,6 +1119,7 @@
 | [simulation](categories/simulation.md) | 1 |
 | [sing-box](categories/sing-box.md) | 1 |
 | [sketchboard](categories/sketchboard.md) | 1 |
+| [skill](categories/skill.md) | 1 |
 | [skills](categories/skills.md) | 1 |
 | [slate-editor](categories/slate-editor.md) | 1 |
 | [snapdrop](categories/snapdrop.md) | 1 |
@@ -1138,6 +1145,8 @@
 | [star-rail-api](categories/star-rail-api.md) | 1 |
 | [steam](categories/steam.md) | 1 |
 | [stellar](categories/stellar.md) | 1 |
+| [streaming](categories/streaming.md) | 1 |
+| [streaming-services](categories/streaming-services.md) | 1 |
 | [streaming-video](categories/streaming-video.md) | 1 |
 | [streams](categories/streams.md) | 1 |
 | [stt](categories/stt.md) | 1 |
@@ -1216,7 +1225,6 @@
 | [x](categories/x.md) | 1 |
 | [xiaoshuo](categories/xiaoshuo.md) | 1 |
 | [xstyle](categories/xstyle.md) | 1 |
-| [youtube](categories/youtube.md) | 1 |
 | [youtube-dl](categories/youtube-dl.md) | 1 |
 | [youtube-downloader](categories/youtube-downloader.md) | 1 |
 | [yyets](categories/yyets.md) | 1 |
@@ -1242,21 +1250,21 @@
 
 | Tech | Count |
 | --- | ---: |
-| TypeScript | 111 |
-| Python | 101 |
-| JavaScript | 97 |
+| TypeScript | 110 |
+| Python | 104 |
+| JavaScript | 99 |
 | C# | 28 |
 | C++ | 28 |
 | Go | 28 |
-| HTML | 19 |
+| HTML | 21 |
 | C | 16 |
 | Kotlin | 14 |
 | Swift | 14 |
-| Rust | 12 |
+| Rust | 13 |
 | Dart | 11 |
 | Jupyter Notebook | 10 |
 | Lua | 8 |
 | Java | 7 |
 
 ---
-_生成时间: 2026-10-13T11:19:58Z_
+_生成时间: 2026-10-16T08:40:19Z_
