@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94099 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17745 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
-| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12677 | — | books, nginx, pdf, redis, software-architecture |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94310 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17770 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12693 | — | books, nginx, pdf, redis, software-architecture |
 
 ### [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md)
 
