@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 118061
+- **Star 数**: 118343
 - **主语言**: C#
 - **GitHub 主题**: `proxy`, `shadowsocks`, `socks5`, `trojan`, `v2fly`, `v2ray`, `vless`, `vmess`, `windows`, `xray`, `xtls`
 
