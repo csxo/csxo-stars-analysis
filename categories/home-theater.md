@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21315 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
+| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21336 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
 
 ### [xbmc/xbmc](../repos/xbmc-xbmc.md)
 
