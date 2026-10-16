@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6618
+- **Star 数**: 6624
 - **主语言**: Go
 - **GitHub 主题**: `anti-censorship`, `anticensorship`, `clash`, `geoip`, `gfw`, `hysteria`, `ipv4`, `ipv6`, `maxmind`, `mihomo`, `nginx`, `proxy`, `quantumultx`, `routing`, `shadowrocket`, `sing-box`, `surge`, `trojan-go`, `v2ray`, `xray`
 
