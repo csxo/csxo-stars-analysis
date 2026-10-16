@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2693
+- **Star 数**: 2704
 - **主语言**: MDX
 - **GitHub 主题**: `agent`, `aimusic`, `aivoice`, `chatgpt-app`, `claude-code`, `cli`, `codex`, `hermes-agent`, `llms-book`, `midjourney-app`, `openclaw`, `prompt`, `prompt-enginering`, `prompt-learning`, `stable-diffusion`
 
