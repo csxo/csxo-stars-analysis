@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 599
+- **Star 数**: 603
 - **主语言**: Swift
 - **GitHub 主题**: `feed`, `feeds`, `jaywcjlove`, `macos`, `macos-app`, `macos-swift`, `news`, `quick-rss`, `rss`, `rss-feed`, `rss-feed-manager`, `rss-feed-reader`, `rss-reader`, `swift-app`, `swift-application`, `swiftui`, `swiftui-app`, `swiftui-application`
 
