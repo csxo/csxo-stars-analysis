@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 172802
+- **Star 数**: 173125
 - **主语言**: HTML
 - **GitHub 主题**: `ai`, `artificial-intelligence`, `awesome-list`, `chatgpt`, `chatgpt-prompts`, `claude`, `gemini`, `gpt`, `gpt-4`, `llm`, `machine-learning`, `nextjs`, `open-source`, `openai`, `prompt-engineering`, `prompts`, `prompts-chat`, `typescript`
 
