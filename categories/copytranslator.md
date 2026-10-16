@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18110 | TypeScript | copytranslator, dictionary, translate |
+| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18118 | TypeScript | copytranslator, dictionary, translate |
 
 ### [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md)
 
