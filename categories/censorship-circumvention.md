@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25655 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22658 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19759 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
+| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25661 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22668 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19750 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
 
 ### [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md)
 
