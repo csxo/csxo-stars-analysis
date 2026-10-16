@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8441
+- **Star 数**: 8447
 - **主语言**: TypeScript
 - **GitHub 主题**: `browser`, `firefox`, `gecko`, `mozilla`, `webbrowser`
 
