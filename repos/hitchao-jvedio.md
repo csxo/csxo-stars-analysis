@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2767
+- **Star 数**: 2766
 - **主语言**: C#
 - **GitHub 主题**: `db`, `ffmpeg`, `gif`, `image`, `library`, `manage-videos`, `manager`, `nfo`, `screenshots`, `sqlite`, `video`, `wpf`
 - **已归档**: ✅
