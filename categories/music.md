@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 44933 | Svelte | collaboration, downloader, instagram, javascript, music |
-| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26319 | Python | download-music, hacktoberfest, mp3, music, playlists |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 8954 | TypeScript | electron, free, music, music-player, react |
-| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7697 | JavaScript | aplayer, html, html5, music, player |
-| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1499 | JavaScript | antd, music, music-player, react, react-router |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45018 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26357 | Python | download-music, hacktoberfest, mp3, music, playlists |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 8977 | TypeScript | electron, free, music, music-player, react |
+| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7695 | JavaScript | aplayer, html, html5, music, player |
+| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1500 | JavaScript | antd, music, music-player, react, react-router |
 
 ### [imputnet/cobalt](../repos/imputnet-cobalt.md)
 
