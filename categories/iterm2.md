@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 725 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
+| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
 
 ### [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md)
 
