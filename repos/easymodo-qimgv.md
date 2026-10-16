@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3148
+- **Star 数**: 3150
 - **主语言**: C++
 - **GitHub 主题**: `c-plus-plus`, `cross-platform`, `image-viewer`, `libmpv`, `linux`, `qt`, `qt5`, `qt6`, `video`, `webm`, `webm-support`, `windows`
 
