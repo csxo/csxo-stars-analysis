@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14313 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
+| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14310 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
 
 ### [pandao/editor.md](../repos/pandao-editor-md.md)
 
