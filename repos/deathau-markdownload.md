@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4038
+- **Star 数**: 4041
 - **主语言**: JavaScript
 - **GitHub 主题**: `chrome-extension`, `edge-extension`, `firefox-addon`, `firefox-extension`, `firefox-webextension`, `safari-extension`, `web-clipper`
 
