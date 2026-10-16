@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9747
+- **Star 数**: 9750
 - **主语言**: —
 - **GitHub 主题**: `bobapp`, `chatgpt`, `deepseek`, `doubao`, `ernie`, `gemini`, `groq`, `hunyuan`, `kimi`, `macos`, `ocr`, `openai`, `qwen`, `translate`, `translation`, `translator`, `zhipuai`
 
