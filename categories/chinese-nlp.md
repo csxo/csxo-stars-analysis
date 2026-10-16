@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LianjiaTech/BELLE](../repos/lianjiatech-belle.md) | 7.0 | 8268 | HTML | bloom, chinese-nlp, gpt-evaluation, gpt-q, instruct-finetune |
-| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4283 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
-| [daizhige-org/daizhigev20](../repos/daizhige-org-daizhigev20.md) | 6.0 | 628 | HTML | china-history, chinese-classi, chinese-nlp |
+| [LianjiaTech/BELLE](../repos/lianjiatech-belle.md) | 7.0 | 8265 | HTML | bloom, chinese-nlp, gpt-evaluation, gpt-q, instruct-finetune |
+| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4287 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
+| [daizhige-org/daizhigev20](../repos/daizhige-org-daizhigev20.md) | 6.0 | 635 | HTML | china-history, chinese-classi, chinese-nlp |
 
 ### [LianjiaTech/BELLE](../repos/lianjiatech-belle.md)
 
