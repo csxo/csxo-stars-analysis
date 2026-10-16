@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1631 | Dart | android, android-app, dart, flutter, flutter-app |
-| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 94210 | Dart | dart, file-sharing, flutter, flutter-apps |
+| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1629 | Dart | android, android-app, dart, flutter, flutter-app |
+| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 94526 | Dart | dart, file-sharing, flutter, flutter-apps |
 
 ### [Livinglist/Hacki](../repos/livinglist-hacki.md)
 
