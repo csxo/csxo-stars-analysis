@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2346
+- **Star 数**: 2349
 - **主语言**: Pascal
 - **GitHub 主题**: `android`, `customisation`, `design`, `google`, `material-ui`, `microsoft`, `rainmeter`, `rainmeter-skin`, `software`, `widgets`, `windows`
 
