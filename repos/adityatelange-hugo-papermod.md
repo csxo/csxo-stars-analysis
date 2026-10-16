@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 13993
+- **Star 数**: 13998
 - **主语言**: HTML
 - **GitHub 主题**: `blog`, `blog-theme`, `clean`, `fast`, `feature-rich`, `grayscale`, `high-performance`, `hugo`, `hugo-blog-theme`, `hugo-theme`, `mit-license`, `multilingual`, `papermod`, `portfolio`, `theme`, `well-documented`
 
