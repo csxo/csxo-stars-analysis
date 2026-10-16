@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26134 | TypeScript | apify, automation, crawler, crawling, headless |
+| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26165 | TypeScript | apify, automation, crawler, crawling, headless |
 
 ### [apify/crawlee](../repos/apify-crawlee.md)
 
