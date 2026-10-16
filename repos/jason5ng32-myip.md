@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 12126
+- **Star 数**: 12144
 - **主语言**: JavaScript
 - **GitHub 主题**: `awesome`, `censorship`, `dns`, `dnsleak`, `hacktoberfest`, `ip`, `ipinfo`, `leaks`, `myip`, `network`, `pingchecker`, `proxy`, `security`, `security-tools`, `speedtest`, `webrtc`, `whatismyip`, `whatismyipaddress`, `whois`, `whois-lookup`
 
