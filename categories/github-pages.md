@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 748 | TypeScript | ai, github-actions, github-pages, llm, rss |
-| [said7388/github-portfolio](../repos/said7388-github-portfolio.md) | 7.0 | 278 | JavaScript | developer-portfolio, gitfolio, github, github-pages, github-portfolio |
+| [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 745 | TypeScript | ai, github-actions, github-pages, llm, rss |
+| [said7388/github-portfolio](../repos/said7388-github-portfolio.md) | 7.0 | 277 | JavaScript | developer-portfolio, gitfolio, github, github-pages, github-portfolio |
 
 ### [Seanium/FeedMe](../repos/seanium-feedme.md)
 
