@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [crazy-max/WindowsSpyBlocker](../repos/crazy-max-windowsspyblocker.md) | 7.0 | 5218 | Go | blocker, dnscrypt, firewall, hostsfile, ncsi |
+| [crazy-max/WindowsSpyBlocker](../repos/crazy-max-windowsspyblocker.md) | 7.0 | 5226 | Go | blocker, dnscrypt, firewall, hostsfile, ncsi |
 
 ### [crazy-max/WindowsSpyBlocker](../repos/crazy-max-windowsspyblocker.md)
 
