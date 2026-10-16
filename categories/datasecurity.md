@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14902 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
+| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14900 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
 
 ### [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md)
 
