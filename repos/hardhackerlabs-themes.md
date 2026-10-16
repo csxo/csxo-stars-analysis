@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 725
+- **Star 数**: 724
 - **主语言**: —
 - **GitHub 主题**: `color-scheme`, `cyberpunk`, `golang`, `iterm2`, `javascript`, `rust`, `terminal`, `theme`, `vim`, `vscode`, `vscode-theme`
 
