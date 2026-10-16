@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 22702 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
+| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 22725 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
 
 ### [SpotX-Official/SpotX](../repos/spotx-official-spotx.md)
 
