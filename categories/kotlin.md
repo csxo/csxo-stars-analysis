@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 34902 | Java | android, android-tv, android-tv-box, java, kotlin |
-| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 29691 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
-| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12810 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
-| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7591 | Kotlin | android, compose, f-droid, kotlin, material-design |
-| [ReVanced/revanced-patches-template](../repos/revanced-revanced-patches-template.md) | 7.0 | 4612 | Kotlin | android, dalvik, kotlin, patches, revanced |
+| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 35026 | Java | android, android-tv, android-tv-box, java, kotlin |
+| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 29753 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
+| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12829 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
+| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7598 | Kotlin | android, compose, f-droid, kotlin, material-design |
+| [ReVanced/revanced-patches-template](../repos/revanced-revanced-patches-template.md) | 7.0 | 4613 | Kotlin | android, dalvik, kotlin, patches, revanced |
 
 ### [yuliskov/SmartTube](../repos/yuliskov-smarttube.md)
 
