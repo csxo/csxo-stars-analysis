@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 193648 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 193741 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
 | [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8203 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2831 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2828 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
 | [BlackGlory/extension-binary-search](../repos/blackglory-extension-binary-search.md) | 6.5 | 48 | TypeScript | chrome-extension, edge-extension, manifest-v3, typescript |
 
 ### [microsoft/vscode](../repos/microsoft-vscode.md)
