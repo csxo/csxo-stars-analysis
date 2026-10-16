@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 225214
+- **Star 数**: 225302
 - **主语言**: Python
 - **GitHub 主题**: `algorithm`, `algorithm-competitions`, `algorithms-implemented`, `algos`, `community-driven`, `education`, `hacktoberfest`, `interview`, `learn`, `practice`, `python`, `searches`, `sorting-algorithms`, `sorts`
 
