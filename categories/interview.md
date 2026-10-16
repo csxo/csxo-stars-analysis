@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186222 | — | algorithm, computer-science, cpp, interview, java |
+| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186259 | — | algorithm, computer-science, cpp, interview, java |
 
 ### [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md)
 
