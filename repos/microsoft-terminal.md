@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 105154
+- **Star 数**: 105177
 - **主语言**: C++
 - **GitHub 主题**: `cmd`, `command-line`, `console`, `contributions-welcome`, `good-first-issue`, `hacktoberfest`, `terminal`, `windows`, `windows-console`, `windows-terminal`, `wsl`
 
