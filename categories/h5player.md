@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3778 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
+| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3780 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
 
 ### [xxxily/h5player](../repos/xxxily-h5player.md)
 
