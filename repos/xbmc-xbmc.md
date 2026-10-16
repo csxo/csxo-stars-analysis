@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 21315
+- **Star 数**: 21336
 - **主语言**: C++
 - **GitHub 主题**: `android`, `c-plus-plus`, `entertainment-hub`, `hacktoberfest`, `home-theater`, `ios`, `kodi`, `linux`, `macos`, `media-center`, `media-player`, `multimedia`, `python`, `windows-desktop`, `windows-uwp`, `xbmc`, `xml`
 
