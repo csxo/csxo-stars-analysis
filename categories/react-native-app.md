@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 18705 | TypeScript | javascript, music-player, react-native-app |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 18750 | TypeScript | javascript, music-player, react-native-app |
 
 ### [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md)
 
