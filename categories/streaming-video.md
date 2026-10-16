@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [aculix/bitplay](../repos/aculix-bitplay.md) | 5.5 | 1708 | Go | streaming-video, torrents |
+| [aculix/bitplay](../repos/aculix-bitplay.md) | 5.5 | 1712 | Go | streaming-video, torrents |
 
 ### [aculix/bitplay](../repos/aculix-bitplay.md)
 
