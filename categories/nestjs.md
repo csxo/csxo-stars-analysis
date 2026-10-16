@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md) | 7.0 | 9647 | TypeScript | mysql, nestjs, rss, rsshub, sqlite |
+| [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md) | 7.0 | 9642 | TypeScript | mysql, nestjs, rss, rsshub, sqlite |
 
 ### [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md)
 
