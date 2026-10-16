@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2013 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2089 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
 
 ### [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md)
 
