@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42393 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
+| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42419 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
 
 ### [666ghj/BettaFish](../repos/666ghj-bettafish.md)
 
