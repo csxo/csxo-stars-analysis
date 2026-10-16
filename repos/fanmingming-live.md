@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 28581
+- **Star 数**: 28599
 - **主语言**: JavaScript
 - **GitHub 主题**: `china`, `converter`, `epg`, `iptv`, `ipv6`, `live`, `m3u`, `m3u8`, `mp4`, `radio`, `television`, `tv`, `txt`, `workers`
 
