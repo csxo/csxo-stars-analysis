@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12458 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
+| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12485 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
 
 ### [hluk/CopyQ](../repos/hluk-copyq.md)
 
