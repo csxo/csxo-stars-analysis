@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162440 | — | bash, documentation, linux, macos, unix |
-| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5922 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
+| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162509 | — | bash, documentation, linux, macos, unix |
+| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5928 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
 
 ### [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md)
 
