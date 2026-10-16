@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16576 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
+| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16578 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
 
 ### [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md)
 
