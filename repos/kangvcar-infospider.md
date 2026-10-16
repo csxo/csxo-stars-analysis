@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8265
+- **Star 数**: 8263
 - **主语言**: Python
 - **GitHub 主题**: `automation`, `chrome`, `crawl`, `csdn`, `hotmail`, `outlook`, `python3`, `selenium`, `spider`, `tkinter`, `wxpython`
 
