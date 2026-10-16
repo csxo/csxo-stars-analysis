@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 62864 | Python | ai, bark, data-analysis, docker, hot-news |
+| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 62939 | Python | ai, bark, data-analysis, docker, hot-news |
 
 ### [sansan0/TrendRadar](../repos/sansan0-trendradar.md)
 
