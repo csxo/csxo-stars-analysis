@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 1708
+- **Star 数**: 1712
 - **主语言**: Go
 - **GitHub 主题**: `streaming-video`, `torrents`
 
