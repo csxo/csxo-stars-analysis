@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5922
+- **Star 数**: 5928
 - **主语言**: C++
 - **GitHub 主题**: `bash`, `cli`, `clipboard`, `clipboard-manager`, `cmd`, `collaborate`, `command-line`, `console`, `cpp`, `cross-platform`, `hacktoberfest`, `learn`, `library`, `linux`, `macos`, `productivity`, `shell`, `terminal`, `windows`
 
