@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 34849
+- **Star 数**: 34920
 - **主语言**: Python
 - **GitHub 主题**: `honkai-star-rail`, `mihomo`, `python`, `star-rail-api`
 
