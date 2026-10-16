@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1774
+- **Star 数**: 1771
 - **主语言**: Dart
 - **GitHub 主题**: `android`, `flutter`, `ios`, `rss`, `rss-reader`
 
