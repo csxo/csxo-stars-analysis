@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 23320
+- **Star 数**: 23319
 - **主语言**: JavaScript
 - **GitHub 主题**: `chinese-programmers`, `documentation`, `pronunciation`, `spelling`
 
