@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4361
+- **Star 数**: 4364
 - **主语言**: Kotlin
 - **GitHub 主题**: `album`, `android`, `androidx`, `audio`, `exoplayer`, `exoplayer2`, `foss`, `kotlin`, `media-player`, `multimedia`, `music`, `music-player`, `music-players`, `offline`, `playback`, `song`, `songs`
 
