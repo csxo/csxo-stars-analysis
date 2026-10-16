@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26319 | Python | download-music, hacktoberfest, mp3, music, playlists |
+| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26357 | Python | download-music, hacktoberfest, mp3, music, playlists |
 
 ### [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md)
 
