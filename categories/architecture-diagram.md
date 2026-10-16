@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 82830 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 84230 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
 
 ### [tt-a1i/archify](../repos/tt-a1i-archify.md)
 
