@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14607 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10434 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
-| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 8905 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14634 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10440 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
+| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 8918 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
 | [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2230 | C# | csharp, dotnet, relaxation, uwp, white-noise |
-| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58049 | C# | csharp, dotnet, hacktoberfest, jellyfin |
+| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58130 | C# | csharp, dotnet, hacktoberfest, jellyfin |
 
 ### [d2phap/ImageGlass](../repos/d2phap-imageglass.md)
 
