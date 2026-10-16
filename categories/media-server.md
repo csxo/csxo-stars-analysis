@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7380 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7379 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
 
 ### [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md)
 
