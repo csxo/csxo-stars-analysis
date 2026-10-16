@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 59172
+- **Star 数**: 59373
 - **主语言**: PowerShell
 - **GitHub 主题**: `automated`, `bloatware`, `bloatware-removal`, `cleanup`, `cli`, `debloat`, `debloater`, `interactive`, `optimize`, `powershell`, `powershell-script`, `privacy`, `ps1`, `registry-tweaks`, `tweaks`, `windows`, `windows-10`, `windows-11`, `windows10`, `windows11`
 
