@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 189902 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 63757 | Go | docker, foss, go, markdown, memo |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13417 | TypeScript | ai-bot, doocs, editor, llm, markdown |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11371 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 190485 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 63833 | Go | docker, foss, go, markdown, memo |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13429 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11378 | TypeScript | commonmark, editor, gfm, lute, markdown |
 | [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4251 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3983 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2044 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
-| [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4045 | — | markdown |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3982 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2043 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4046 | — | markdown |
 
 ### [microsoft/markitdown](../repos/microsoft-markitdown.md)
 
