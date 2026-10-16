@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 391841 | TypeScript | ai, assistant, crustacean, molty, openclaw |
-| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42008 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
+| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 392146 | TypeScript | ai, assistant, crustacean, molty, openclaw |
+| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42031 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
 
 ### [openclaw/openclaw](../repos/openclaw-openclaw.md)
 
