@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 33493
+- **Star 数**: 33625
 - **主语言**: C++
 - **GitHub 主题**: `cpp`, `cpp23`, `emulation`, `emulator`, `imgui`, `linux`, `macos`, `playstation4`, `ps4`, `sdl3`, `vulkan`, `windows`
 
