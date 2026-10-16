@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 15270
+- **Star 数**: 15267
 - **主语言**: Python
 - **GitHub 主题**: `chatbot`, `chatglm`, `chatgpt-api`, `claude`, `dalle3`, `ernie`, `gemini`, `gemma`, `inspurai`, `llama`, `midjourney`, `minimax`, `moss`, `ollama`, `qwen`, `spark`, `stablelm`
 
