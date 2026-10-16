@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32257 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
+| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32270 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
 
 ### [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md)
 
