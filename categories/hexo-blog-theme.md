@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md) | 7.0 | 5359 | JavaScript | featured-pictures, hexo-blog-theme, hexo-theme, hexo-theme-matery, material-design |
+| [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md) | 7.0 | 5357 | JavaScript | featured-pictures, hexo-blog-theme, hexo-theme, hexo-theme-matery, material-design |
 
 ### [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md)
 
