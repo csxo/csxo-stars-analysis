@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2243
+- **Star 数**: 2247
 - **主语言**: Swift
 - **GitHub 主题**: `audiobook`, `ios`, `open-source`, `player`, `swift`
 
