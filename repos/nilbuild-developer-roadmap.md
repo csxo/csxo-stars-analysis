@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 369274
+- **Star 数**: 369509
 - **主语言**: TypeScript
 - **GitHub 主题**: `angular-roadmap`, `backend-roadmap`, `blockchain-roadmap`, `computer-science`, `dba-roadmap`, `developer-roadmap`, `devops-roadmap`, `frontend-roadmap`, `go-roadmap`, `java-roadmap`, `javascript-roadmap`, `nodejs-roadmap`, `python-roadmap`, `qa-roadmap`, `react-roadmap`, `roadmap`, `software-architect-roadmap`, `vue-roadmap`
 
