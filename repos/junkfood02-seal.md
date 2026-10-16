@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 29691
+- **Star 数**: 29753
 - **主语言**: Kotlin
 - **GitHub 主题**: `android`, `f-droid`, `jetpack-compose`, `kotlin`, `material-design`, `youtube-dl`, `youtube-downloader`, `yt-dlp`
 
