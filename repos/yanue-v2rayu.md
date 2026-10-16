@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 20168
+- **Star 数**: 20172
 - **主语言**: —
 - **GitHub 主题**: `anytls`, `clash`, `mac`, `macos`, `native`, `v2ray`, `v2rayu`, `vless`, `vmess`, `xhttp`, `xray`, `xray-core`
 
