@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2013 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
-| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 7275 | JavaScript | agent-skill, open-source, svg, vizualization |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2089 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 13324 | JavaScript | agent-skill, open-source, svg, vizualization |
 
 ### [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md)
 
