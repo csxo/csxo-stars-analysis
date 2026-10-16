@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md) | 7.0 | 4980 | Lua | fcitx5, ibus, rime, squirrel, weasel |
+| [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md) | 7.0 | 4988 | Lua | fcitx5, ibus, rime, squirrel, weasel |
 
 ### [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md)
 
