@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1941 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
+| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1947 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
 
 ### [8680/GOODBYEADS](../repos/8680-goodbyeads.md)
 
