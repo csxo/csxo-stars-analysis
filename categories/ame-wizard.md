@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Atlas-OS/Atlas](../repos/atlas-os-atlas.md) | 7.0 | 21806 | Batchfile | ame-wizard, atlas, atlasos, debloat, fps |
+| [Atlas-OS/Atlas](../repos/atlas-os-atlas.md) | 7.0 | 21841 | Batchfile | ame-wizard, atlas, atlasos, debloat, fps |
 
 ### [Atlas-OS/Atlas](../repos/atlas-os-atlas.md)
 
