@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 80518
-- **主语言**: JavaScript
+- **Star 数**: 81767
+- **主语言**: Rust
 
 ## 简介
 
@@ -32,9 +32,9 @@ The design language that makes your AI harness better at design.
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [philc/vimium](philc-vimium.md) | 1.00 | `(none)`, `javascript` |
-| [gblazex/smoothscroll](gblazex-smoothscroll.md) | 1.00 | `(none)`, `javascript` |
-| [ziahamza/webui-aria2](ziahamza-webui-aria2.md) | 1.00 | `(none)`, `javascript` |
-| [adam-p/markdown-here](adam-p-markdown-here.md) | 1.00 | `(none)`, `javascript` |
-| [qxinGitHub/searchEngineJump](qxingithub-searchenginejump.md) | 1.00 | `(none)`, `javascript` |
+| [openai/codex](openai-codex.md) | 1.00 | `(none)`, `rust` |
+| [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
+| [programthink/books](programthink-books.md) | 0.50 | `(none)` |
+| [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
+| [ruanyf/reading-list](ruanyf-reading-list.md) | 0.50 | `(none)` |
 
