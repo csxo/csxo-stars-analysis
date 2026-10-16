@@ -1,18 +1,19 @@
 # agent-skills
 
-> 项目数: **9**
+> 项目数: **10**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 184865 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 162241 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 105921 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 82830 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 76982 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53101 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52591 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 784 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
-| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 26612 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 279572 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 164726 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 107171 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 97656 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 84230 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 77214 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53156 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52674 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 816 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 26704 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
 
 ### [morluto/rea](../repos/morluto-rea.md)
 
@@ -25,6 +26,10 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ### [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md)
 
 Production-grade engineering skills for AI coding agents.
+
+### [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md)
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 ### [tt-a1i/archify](../repos/tt-a1i-archify.md)
 
