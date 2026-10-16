@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 10631
+- **Star 数**: 10633
 - **主语言**: —
 - **GitHub 主题**: `apple-maps`, `apple-news`, `apple-weather-app`, `geolocation`, `ios`, `ipados`, `lookup`, `macos`, `safari`, `siri`, `spotlight`
 
