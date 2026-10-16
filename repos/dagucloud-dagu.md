@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4340
+- **Star 数**: 4367
 - **主语言**: Go
 - **GitHub 主题**: `agentic-workflows`, `ai-agents`, `ai-workflows`, `airflow-alternative`, `cron`, `dag`, `data-pipeline`, `devops`, `durable-execution`, `human-in-the-loop`, `job-scheduler`, `llm`, `mcp`, `mcp-gateway`, `mcp-server`, `self-hosted`, `task-automation`, `workflow-engine`, `workflow-orchestration`, `workflow-scheduler`
 
