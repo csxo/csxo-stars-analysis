@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 69731
+- **Star 数**: 69842
 - **主语言**: Jupyter Notebook
 - **GitHub 主题**: `ai`, `artificial-intelligence`, `cnn`, `computer-vision`, `deep-learning`, `gan`, `machine-learning`, `microsoft-for-beginners`, `nlp`, `rnn`
 
