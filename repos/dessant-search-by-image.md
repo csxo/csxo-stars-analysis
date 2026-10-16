@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3788
+- **Star 数**: 3789
 - **主语言**: JavaScript
 - **GitHub 主题**: `browser-extension`, `chrome-extension`, `firefox-extension`, `google`, `image`, `image-search`, `reverse-image-search`, `safari-extension`, `search`, `yandex`
 
