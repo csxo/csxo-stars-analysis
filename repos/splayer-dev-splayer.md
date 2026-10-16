@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7380
+- **Star 数**: 7379
 - **主语言**: TypeScript
 - **GitHub 主题**: `cross-platform`, `emby`, `javascript`, `jellyfin`, `media-server`, `music`, `music-library`, `music-player`, `musicplayer`, `navidrome`, `opensubsonic`, `pinia`, `splayer`, `streaming`, `vite`, `vue`, `vue3`
 - **已归档**: ✅
