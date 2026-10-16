@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 540 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 578 | TypeScript | ai-agents, bun, codex, electron, local-first |
 
 ### [nightly-labs/openbot](../repos/nightly-labs-openbot.md)
 
