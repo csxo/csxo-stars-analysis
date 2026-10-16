@@ -1,13 +1,13 @@
 # [tw93/Mole](https://github.com/tw93/Mole)
 
-> 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+> 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 70157
+- **Star 数**: 70607
 - **主语言**: Shell
-- **GitHub 主题**: `analyzer`, `appcleaner`, `clean`, `cleaner`, `cleanmymac`, `command-line`, `daisydisk`, `istat`, `mac`, `macos`, `macos-app`, `native`, `optimize`, `pearcleaner`, `sensei`, `shell`, `swift`, `swiftui`, `uninstall`
+- **GitHub 主题**: `analyzer`, `appcleaner`, `clean`, `cleaner`, `cleanmymac`, `command-line`, `daisydisk`, `istat`, `mac`, `macos`, `macos-app`, `native`, `optimize`, `pearcleaner`, `sensei`, `shell`, `swift`, `swiftui`, `uninstall`, `windows`
 
 ## 简介
 
