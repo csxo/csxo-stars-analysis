@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 16230
+- **Star 数**: 16252
 - **主语言**: C
 - **GitHub 主题**: `administrator`, `benchmarking`, `debugger`, `monitor`, `monitor-performance`, `monitoring`, `performance`, `performance-monitoring`, `performance-tuning`, `process-manager`, `process-monitor`, `processhacker`, `profiling`, `realtime`, `security`, `system-monitor`, `systeminformer`, `task-manager`, `windows`
 
