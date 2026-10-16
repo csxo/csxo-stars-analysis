@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 278
+- **Star 数**: 277
 - **主语言**: JavaScript
 - **GitHub 主题**: `developer-portfolio`, `gitfolio`, `github`, `github-pages`, `github-portfolio`, `github-profile`, `portfolio`, `portfolio-website`
 
