@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 14313
+- **Star 数**: 14310
 - **主语言**: JavaScript
 - **GitHub 主题**: `codemirror`, `commonmark`, `documentation`, `editor`, `flowchart`, `gfm`, `javascript`, `jquery`, `katex`, `markdown`, `markdown-editor`, `markdown-writer`, `marked`, `sequence-diagram`, `toc`
 
