@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7708 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
+| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7715 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
 
 ### [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md)
 
