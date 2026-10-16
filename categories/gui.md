@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41481 | Rust | app, application, cybersecurity, gui, iced |
-| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15688 | Go | gfw, gui, hy2, juicity, linux |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13233 | JavaScript | aria2, ariang, download, gui, html |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41566 | Rust | app, application, cybersecurity, gui, iced |
+| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15698 | Go | gfw, gui, hy2, juicity, linux |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13242 | JavaScript | aria2, ariang, download, gui, html |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 8272 | Rust | audio, cross-platform, desktop-app, egui, gui |
 | [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8203 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 7704 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2831 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2828 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
 | [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2354 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
 | [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1688 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
 
@@ -25,13 +25,13 @@ A web client for its own Xray-based core with global transparent proxy on Linux,
 
 AriaNg, a modern web frontend making aria2 easier to use.
 
-### [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md)
-
-Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
-
 ### [crmne/spotifast](../repos/crmne-spotifast.md)
 
 Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+
+### [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md)
+
+Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 
 ### [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md)
 
