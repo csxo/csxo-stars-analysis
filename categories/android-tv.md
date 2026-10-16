@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 34902 | Java | android, android-tv, android-tv-box, java, kotlin |
+| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 35026 | Java | android, android-tv, android-tv-box, java, kotlin |
 
 ### [yuliskov/SmartTube](../repos/yuliskov-smarttube.md)
 
