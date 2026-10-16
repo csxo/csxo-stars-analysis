@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ShirasawaSama/CefDetectorX](../repos/shirasawasama-cefdetectorx.md) | 6.5 | 2602 | JavaScript | cef, cefsharp, electron, miniblink |
+| [ShirasawaSama/CefDetectorX](../repos/shirasawasama-cefdetectorx.md) | 6.5 | 2603 | JavaScript | cef, cefsharp, electron, miniblink |
 
 ### [ShirasawaSama/CefDetectorX](../repos/shirasawasama-cefdetectorx.md)
 
