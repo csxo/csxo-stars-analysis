@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4283 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
+| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4287 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
 
 ### [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md)
 
