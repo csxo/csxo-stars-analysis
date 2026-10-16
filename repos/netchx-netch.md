@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 17702
+- **Star 数**: 17697
 - **主语言**: C#
 - **GitHub 主题**: `fullcone`, `netch`, `netfiltersdk`, `shadowsocks`, `shadowsocksr`, `socks`, `tun2socks`, `vless`, `vmess`
 
