@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27271 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
+| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27277 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
 | [otobtc/ADhosts](../repos/otobtc-adhosts.md) | 6.5 | 1588 | — | ad, adblock, android, hosts |
-| [googlehosts/hosts](../repos/googlehosts-hosts.md) | 5.0 | 20559 | — | hosts |
+| [googlehosts/hosts](../repos/googlehosts-hosts.md) | 5.0 | 20558 | — | hosts |
 
 ### [oldj/SwitchHosts](../repos/oldj-switchhosts.md)
 
