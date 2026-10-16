@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 33182
+- **Star 数**: 33226
 - **主语言**: Dart
 - **GitHub 主题**: `clash`, `clashmeta`, `ech`, `hysteria`, `hysteria2`, `proxy`, `reality`, `shadowsocks`, `shadowtls`, `sing-box`, `singbox`, `ssh`, `tuic`, `v2ray`, `vless`, `vmess`, `wireguard`, `xray`
 
