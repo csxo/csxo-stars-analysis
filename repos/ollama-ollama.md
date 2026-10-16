@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 182979
+- **Star 数**: 183396
 - **主语言**: Go
 - **GitHub 主题**: `deepseek`, `gemma`, `gemma3`, `glm`, `go`, `golang`, `gpt-oss`, `llama`, `llama3`, `llm`, `llms`, `minimax`, `mistral`, `ollama`, `qwen`
 
