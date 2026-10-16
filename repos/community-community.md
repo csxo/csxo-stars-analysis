@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8852
+- **Star 数**: 8861
 - **主语言**: Ruby
 - **GitHub 主题**: `feedback`, `github`, `github-actions`, `github-codespaces`, `github-discussions`, `github-enterprise`, `github-issues`, `github-mobile`, `github-packages`, `github-releases`, `github-sponsors`
 
