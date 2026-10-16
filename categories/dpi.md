@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 23490 | Rust | dpi, gpui, hid, hidpp, local-first |
+| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 23665 | Rust | dpi, gpui, hid, hidpp, local-first |
 
 ### [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md)
 
