@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6660
+- **Star 数**: 6657
 - **主语言**: TypeScript
 - **GitHub 主题**: `blocker`, `blocklist`, `browser-extension`, `chrome-extension`, `edge-addon`, `firefox-addon`, `google-search`, `safari-extension`, `search-engine`, `webextension`
 
