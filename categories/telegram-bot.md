@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md) | 7.0 | 16285 | Python | bot, movies, telegram-bot, tv-shows, yyets |
+| [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md) | 7.0 | 16289 | Python | bot, movies, telegram-bot, tv-shows, yyets |
 
 ### [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md)
 
