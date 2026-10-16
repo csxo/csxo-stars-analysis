@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 102756 | — | chinese, cookbook, cooking, dishes, recipes |
+| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 102829 | — | chinese, cookbook, cooking, dishes, recipes |
 
 ### [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md)
 
