@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 83200
+- **Star 数**: 83268
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent`, `agent-collaboration`, `agent-harness`, `ai`, `cao`, `chatgpt`, `chief-agent-operator`, `claude`, `deepseek`, `fable`, `gemini`, `glm`, `gpt`, `knowledge-base`, `loop-engineering`, `mcp`, `openai`, `skills`
 
