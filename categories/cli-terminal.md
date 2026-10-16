@@ -4,36 +4,36 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 197334 | Python | cli, downloader, python, sponsorblock, youtube-dl |
-| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105154 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
-| [Eugeny/tabby](../repos/eugeny-tabby.md) | 7.0 | 74949 | TypeScript | serial, ssh-client, telnet-client, terminal, terminal-emulators |
-| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 59172 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
-| [team-spotube/spotube](../repos/team-spotube-spotube.md) | 7.0 | 49848 | Dart | android, android-client, android-music-player, desktop-client, fdroid |
-| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 42769 | Kotlin | accessibility, android, auto, click, compose |
-| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 40778 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
-| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26319 | Python | download-music, hacktoberfest, mp3, music, playlists |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 24965 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 22702 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
-| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22599 | JavaScript | annotations, archive, archiver, auto-save, browser |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17439 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
-| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 13974 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
-| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12458 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
-| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10765 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
-| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10140 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7307 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
-| [moudey/Shell](../repos/moudey-shell.md) | 7.0 | 6905 | C++ | context-menu, file-explorer, nilesoft-shell, right-click, shell-extension |
-| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6863 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
+| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 198283 | Python | cli, downloader, python, sponsorblock, youtube-dl |
+| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105177 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
+| [Eugeny/tabby](../repos/eugeny-tabby.md) | 7.0 | 74992 | TypeScript | serial, ssh-client, telnet-client, terminal, terminal-emulators |
+| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 59373 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
+| [team-spotube/spotube](../repos/team-spotube-spotube.md) | 7.0 | 49987 | Dart | android, android-client, android-music-player, desktop-client, fdroid |
+| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 42910 | Kotlin | accessibility, android, auto, click, compose |
+| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 40843 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
+| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26357 | Python | download-music, hacktoberfest, mp3, music, playlists |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25032 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 22725 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
+| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22615 | JavaScript | annotations, archive, archiver, auto-save, browser |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17456 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 13991 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
+| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12485 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
+| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10764 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
+| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10160 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7322 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [moudey/Shell](../repos/moudey-shell.md) | 7.0 | 6910 | C++ | context-menu, file-explorer, nilesoft-shell, right-click, shell-extension |
+| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6860 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
 | [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6016 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
-| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5922 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
-| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4038 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
-| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3715 | — | clipboard, feedback, paste, qt, qt5 |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3671 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
-| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1631 | Dart | android, android-app, dart, flutter, flutter-app |
-| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 930 | Python | aac, cli, downloader, music-video, ogg |
-| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 725 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
-| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 397 | Go | cli, downloader, twitter, x |
-| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7291 | C | clipboard, clipboard-manager |
-| [jellyfin/jellyfin-desktop](../repos/jellyfin-jellyfin-desktop.md) | 5.5 | 5867 | C++ | jellyfin, jellyfin-client |
+| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5928 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
+| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4041 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
+| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3716 | — | clipboard, feedback, paste, qt, qt5 |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3685 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1629 | Dart | android, android-app, dart, flutter, flutter-app |
+| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 931 | Python | aac, cli, downloader, music-video, ogg |
+| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
+| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 398 | Go | cli, downloader, twitter, x |
+| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7314 | C | clipboard, clipboard-manager |
+| [jellyfin/jellyfin-desktop](../repos/jellyfin-jellyfin-desktop.md) | 5.5 | 5871 | C++ | jellyfin, jellyfin-client |
 
 ### [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md)
 
