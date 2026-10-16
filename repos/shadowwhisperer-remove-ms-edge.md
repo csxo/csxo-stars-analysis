@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5512
+- **Star 数**: 5517
 - **主语言**: Batchfile
 - **GitHub 主题**: `batch`, `edge`, `microsoft`, `removal`, `remove`, `remover`, `script`, `uninstall`, `uninstaller`, `windows`
 
