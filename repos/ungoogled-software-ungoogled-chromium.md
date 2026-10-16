@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 27970
+- **Star 数**: 28011
 - **主语言**: Python
 - **GitHub 主题**: `chromium`, `control`, `google-chromium`, `inox`, `iridium`, `privacy`, `transparency`
 
