@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2776
+- **Star 数**: 2790
 - **主语言**: Go
 - **GitHub 主题**: `agent-plugins`, `ai`, `ai-agents`, `claude-code`, `cli`, `codex`, `cross-machine-sync`, `desktop-app`, `go`, `hooks`, `mcp`, `openclaw`, `opencode`, `pi`, `pi-package`, `skills`, `skills-audit`, `skills-manager`, `skillshare`, `team-collaboration`
 
