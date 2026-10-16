@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 37964
+- **Star 数**: 37992
 - **主语言**: C
 - **GitHub 主题**: `bios`, `boot`, `bootable-drives`, `freedos`, `gpt`, `grub`, `grub4dos`, `iso`, `mbr`, `md5`, `persistence`, `rufus`, `secure-boot`, `sha1`, `sha256`, `syslinux`, `uefi`, `usb`, `windows`, `windows-to-go`
 
