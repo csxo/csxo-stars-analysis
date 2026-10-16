@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 248704
+- **Star 数**: 250768
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-agents`, `cordis`, `dsh`, `dsh-plugin`
 
