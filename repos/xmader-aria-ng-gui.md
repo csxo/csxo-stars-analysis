@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2020
+- **Star 数**: 2024
 - **主语言**: JavaScript
 - **GitHub 主题**: `aria2`, `aria2-app`, `aria2-gui`
 
