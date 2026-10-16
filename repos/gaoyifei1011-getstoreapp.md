@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1448
+- **Star 数**: 1452
 - **主语言**: C#
 - **GitHub 主题**: `csharp`, `desktop-app`, `fluent-design`, `microsoftstore-api`, `msix`, `package-manager`, `uwp`, `winappsdk`, `windows`, `windows-10`, `windows-11`, `winget`, `winui`, `winui3`, `xaml`, `xaml-islands`
 
