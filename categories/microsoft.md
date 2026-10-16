@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 193648 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
-| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5512 | Batchfile | batch, edge, microsoft, removal, remove |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 193741 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5517 | Batchfile | batch, edge, microsoft, removal, remove |
 
 ### [microsoft/vscode](../repos/microsoft-vscode.md)
 
