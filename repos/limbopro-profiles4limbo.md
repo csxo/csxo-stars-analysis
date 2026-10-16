@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3530
+- **Star 数**: 3533
 - **主语言**: JavaScript
 - **GitHub 主题**: `adblock`, `blackmatrix7`, `clash`, `quantumultx`, `tiktok`
 
