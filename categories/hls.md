@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DIYgod/DPlayer](../repos/diygod-dplayer.md) | 7.0 | 16517 | JavaScript | danmaku, dash, dplayer, flv, hls |
+| [DIYgod/DPlayer](../repos/diygod-dplayer.md) | 7.0 | 16511 | JavaScript | danmaku, dash, dplayer, flv, hls |
 
 ### [DIYgod/DPlayer](../repos/diygod-dplayer.md)
 
