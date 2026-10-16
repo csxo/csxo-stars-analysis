@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2061
+- **Star 数**: 2060
 - **主语言**: JavaScript
 - **GitHub 主题**: `adguardhome`, `clash`, `loon`, `quantumultx`, `shadowrocket`, `stash`, `surge`
 
