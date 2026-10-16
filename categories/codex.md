@@ -1,15 +1,16 @@
 # codex
 
-> 项目数: **6**
+> 项目数: **7**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 135347 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 105921 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52591 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 11140 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 784 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 540 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 136371 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 107171 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 97656 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52674 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 13848 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 816 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 578 | TypeScript | ai-agents, bun, codex, electron, local-first |
 
 ### [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md)
 
@@ -18,6 +19,10 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 ### [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md)
 
 Production-grade engineering skills for AI coding agents.
+
+### [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md)
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 ### [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md)
 
