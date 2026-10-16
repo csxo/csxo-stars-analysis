@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 1849
+- **Star 数**: 1854
 - **主语言**: AutoHotkey
 - **GitHub 主题**: `autohotkey`, `lol`, `translators`, `windows`
 
