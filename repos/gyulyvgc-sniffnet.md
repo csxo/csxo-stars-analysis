@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 41481
+- **Star 数**: 41566
 - **主语言**: Rust
 - **GitHub 主题**: `app`, `application`, `cybersecurity`, `gui`, `iced`, `ip-geolocation`, `ipfix`, `linux`, `macos`, `network`, `network-monitoring`, `networking`, `packet-capture`, `packet-sniffer`, `pcap`, `rust`, `security`, `tool`, `utility`, `windows`
 
