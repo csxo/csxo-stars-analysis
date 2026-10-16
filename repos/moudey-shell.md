@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6905
+- **Star 数**: 6910
 - **主语言**: C++
 - **GitHub 主题**: `context-menu`, `file-explorer`, `nilesoft-shell`, `right-click`, `shell-extension`
 
