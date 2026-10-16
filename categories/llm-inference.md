@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nomic-ai/gpt4all](../repos/nomic-ai-gpt4all.md) | 5.5 | 77369 | C++ | ai-chat, llm-inference |
+| [nomic-ai/gpt4all](../repos/nomic-ai-gpt4all.md) | 5.5 | 77365 | C++ | ai-chat, llm-inference |
 
 ### [nomic-ai/gpt4all](../repos/nomic-ai-gpt4all.md)
 
