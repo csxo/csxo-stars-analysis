@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 133775
+- **Star 数**: 133961
 - **主语言**: TypeScript
 - **GitHub 主题**: `canvas`, `collaboration`, `diagrams`, `drawing`, `hacktoberfest`, `productivity`, `whiteboard`
 
