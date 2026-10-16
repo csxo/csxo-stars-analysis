@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 49848
+- **Star 数**: 49987
 - **主语言**: Dart
 - **GitHub 主题**: `android`, `android-client`, `android-music-player`, `desktop-client`, `fdroid`, `flutter`, `flutter-desktop`, `linux`, `macos`, `music`, `music-player`, `windows`, `youtube`
 
