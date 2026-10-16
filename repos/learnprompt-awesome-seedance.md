@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2013
+- **Star 数**: 2089
 - **主语言**: JavaScript
 - **GitHub 主题**: `agent-skill`, `ai-video`, `ai-video-generation`, `awesome`, `awesome-list`, `bytedance`, `claude-code`, `codex`, `goodcase`, `minimax`, `prompt-engineering`, `prompt-library`, `prompt-templates`, `prompts`, `seedance`, `seedance-2-0`, `seedance-2-5`, `text-to-video`, `video-generation`
 
