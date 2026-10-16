@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [MustardChef/WSABuilds](../repos/mustardchef-wsabuilds.md) | 7.0 | 18683 | Python | android, android-emulator, google-apps, kernelsu, magisk |
+| [MustardChef/WSABuilds](../repos/mustardchef-wsabuilds.md) | 7.0 | 18725 | Python | android, android-emulator, google-apps, kernelsu, magisk |
 
 ### [MustardChef/WSABuilds](../repos/mustardchef-wsabuilds.md)
 
