@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 158349
-- **主语言**: TypeScript
+- **Star 数**: 158626
+- **主语言**: Python
 - **GitHub 主题**: `agent`, `agentic-ai`, `agentic-framework`, `agentic-workflow`, `ai`, `automation`, `claude`, `deepseek`, `genai`, `gpt`, `llm`, `low-code`, `mcp`, `nextjs`, `no-code`, `openai`, `python`, `skills`, `workflow`
 
 ## 简介
@@ -37,5 +37,5 @@ Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [datawhalechina/easy-vibe](datawhalechina-easy-vibe.md) | 0.41 | `agent`, `ai`, `deepseek`, `genai`, `gpt`, `llm` |
+| [datawhalechina/easy-vibe](datawhalechina-easy-vibe.md) | 0.43 | `agent`, `ai`, `deepseek`, `genai`, `gpt`, `llm` |
 
