@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2693 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
+| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2704 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
 
 ### [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md)
 
