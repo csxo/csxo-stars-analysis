@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1631
+- **Star 数**: 1629
 - **主语言**: Dart
 - **GitHub 主题**: `android`, `android-app`, `dart`, `flutter`, `flutter-app`, `flutter-bloc`, `hacker-news`, `hacker-news-client`, `ios`, `ios-app`, `mobile-app`
 
