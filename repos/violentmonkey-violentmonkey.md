@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 9010
+- **Star 数**: 9029
 - **主语言**: JavaScript
 - **GitHub 主题**: `userscripts-support`, `violentmonkey`, `webextensions`
 
