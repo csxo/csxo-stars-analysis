@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 140727 | TypeScript | iptv, m3u, playlist, streams, tv |
-| [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md) | 7.0 | 1947 | Python | downloads-songs, mp3, playlist, spotify, spotify-dl |
+| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 141046 | TypeScript | iptv, m3u, playlist, streams, tv |
+| [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md) | 7.0 | 1946 | Python | downloads-songs, mp3, playlist, spotify, spotify-dl |
 
 ### [iptv-org/iptv](../repos/iptv-org-iptv.md)
 
