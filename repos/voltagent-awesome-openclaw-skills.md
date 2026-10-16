@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 53101
+- **Star 数**: 53156
 - **主语言**: —
 - **GitHub 主题**: `agent-skills`, `awesome`, `awesome-list`, `awesome-lists`, `clawd`, `clawdbot`, `clawdbot-skill`, `clawdhub`, `moltbot`, `moltbot-skills`, `openclaw`, `openclaw-skills`
 
