@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7314
+- **Star 数**: 7315
 - **主语言**: —
 - **GitHub 主题**: `all-platforms`, `apple`, `apple-music`, `foobar2000`, `itunes`, `lyric`, `lyrics`, `music`, `music-center`, `netease`, `netease-cloud-music`, `netease-music`, `qq-music`, `spotify`, `ui-design`, `windows`
 
