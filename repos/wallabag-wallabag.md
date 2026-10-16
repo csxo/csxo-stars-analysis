@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 13006
+- **Star 数**: 13013
 - **主语言**: PHP
 - **GitHub 主题**: `hacktoberfest`, `php`, `read-it-later`, `self-hosted`, `symfony`, `symfony-application`, `wallabag`
 
