@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21088 | — | control, cpu, curves, fan, fancontrol |
-| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2171 | Python | aipc, api, cli, cpu, desktopgui |
+| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21120 | — | control, cpu, curves, fan, fancontrol |
+| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2175 | Python | aipc, api, cli, cpu, desktopgui |
 
 ### [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md)
 
