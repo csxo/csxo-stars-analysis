@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 15688
+- **Star 数**: 15698
 - **主语言**: Go
 - **GitHub 主题**: `gfw`, `gui`, `hy2`, `juicity`, `linux`, `shadowsocks`, `trojan`, `tuic`, `v2ray`, `xray`
 
