@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 19759
+- **Star 数**: 19750
 - **主语言**: C++
 - **GitHub 主题**: `anticensorship`, `antisurveillance`, `bypass-gfw`, `censorship-circumvention`, `china`, `gfw`, `trojan`
 
