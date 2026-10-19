@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 97094
+- **Star 数**: 97119
 - **主语言**: Python
 - **GitHub 主题**: `ai`, `ai-deep-fake`, `ai-face`, `ai-webcam`, `artificial-intelligence`, `deep-fake`, `deepfake`, `deepfake-webcam`, `faceswap`, `fake-webcam`, `gan`, `real-time-deepfake`, `realtime`, `realtime-deepfake`, `realtime-face-changer`, `video-deepfake`, `webcam`, `webcamera`
 
