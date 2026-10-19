@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pavlobu/deskreen](../repos/pavlobu-deskreen.md) | 7.0 | 21571 | TypeScript | blueprintjs, darkwire-io, deskreen, easy-to-use, electon-app |
+| [pavlobu/deskreen](../repos/pavlobu-deskreen.md) | 7.0 | 21585 | TypeScript | blueprintjs, darkwire-io, deskreen, easy-to-use, electon-app |
 
 ### [pavlobu/deskreen](../repos/pavlobu-deskreen.md)
 
