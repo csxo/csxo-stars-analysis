@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 36807
+- **Star 数**: 36813
 - **主语言**: Kotlin
 - **GitHub 主题**: `android`, `shadowsocks`
 
