@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10513 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
+| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10519 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
 
 ### [niedev/RTranslator](../repos/niedev-rtranslator.md)
 
