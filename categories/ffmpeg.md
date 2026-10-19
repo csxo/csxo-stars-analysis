@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 131872 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
-| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 77618 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
-| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 65260 | C | audio, c, ffmpeg, fft, hevc |
-| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37410 | C | audio, c, ffmpeg, mplayer, mpv |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 132963 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
+| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 77759 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
+| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 65410 | C | audio, c, ffmpeg, fft, hevc |
+| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37462 | C | audio, c, ffmpeg, mplayer, mpv |
 | [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2766 | C# | db, ffmpeg, gif, image, library |
-| [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 160 | Python | beat-detection, captions, ffmpeg, python, video-editing |
+| [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 162 | Python | beat-detection, captions, ffmpeg, python, video-editing |
 | [xiguaxigua/ffmpeg-online](../repos/xiguaxigua-ffmpeg-online.md) | 5.0 | 326 | JavaScript | ffmpeg |
 
 ### [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md)
