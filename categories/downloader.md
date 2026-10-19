@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 198283 | Python | cli, downloader, python, sponsorblock, youtube-dl |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45018 | Svelte | collaboration, downloader, instagram, javascript, music |
-| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31776 | Go | bilibili, crawler, download, downloader, go |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 26946 | Dart | android, bittorrent, cross-platform, debian, downloader |
-| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 931 | Python | aac, cli, downloader, music-video, ogg |
+| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 199323 | Python | cli, downloader, python, sponsorblock, youtube-dl |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45211 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31783 | Go | bilibili, crawler, download, downloader, go |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27009 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 936 | Python | aac, cli, downloader, music-video, ogg |
 | [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 398 | Go | cli, downloader, twitter, x |
 
 ### [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md)
