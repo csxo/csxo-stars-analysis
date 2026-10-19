@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9642
+- **Star 数**: 9640
 - **主语言**: TypeScript
 - **GitHub 主题**: `mysql`, `nestjs`, `rss`, `rsshub`, `sqlite`, `trpc`, `wechat`, `wechat-rss`, `weread`
 - **已归档**: ✅
