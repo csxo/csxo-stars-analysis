@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1563
+- **Star 数**: 1688
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-music`, `audio`, `desktop-app`, `local-ai`, `macos`, `mcp`, `midi`, `music-generation`, `offline-ai`, `skill`, `text-to-speech`, `tts`, `voice`, `voice-cloning`, `voice-cloning-app`, `windows`
 
