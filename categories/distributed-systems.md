@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39193 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
+| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39227 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
 | [isno/theByteBook](../repos/isno-thebytebook.md) | 7.0 | 8549 | JavaScript | cloud-native, container, devops, distributed-systems, finops |
 
 ### [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md)
