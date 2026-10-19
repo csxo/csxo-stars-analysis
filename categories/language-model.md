@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md) | 7.0 | 1960 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
-| [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md) | 6.0 | 30233 | Python | deep-learning, instruction-following, language-model |
+| [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md) | 7.0 | 1966 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
+| [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md) | 6.0 | 30231 | Python | deep-learning, instruction-following, language-model |
 
 ### [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md)
 
