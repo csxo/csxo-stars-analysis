@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [TheAlgorithms/Python](../repos/thealgorithms-python.md) | 7.0 | 225302 | Python | algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven |
+| [TheAlgorithms/Python](../repos/thealgorithms-python.md) | 7.0 | 225393 | Python | algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven |
 
 ### [TheAlgorithms/Python](../repos/thealgorithms-python.md)
 
