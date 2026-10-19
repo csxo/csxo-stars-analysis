@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2598
+- **Star 数**: 2601
 - **主语言**: Python
 - **GitHub 主题**: `chromium`, `ungoogled-chromium`, `windows`
 
