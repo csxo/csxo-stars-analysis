@@ -4,19 +4,19 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 553589 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
-| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 519658 | — | awesome, awesome-list, lists, resources, unicorns |
-| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 327781 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
-| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 250458 | — | awesome, awesome-list, bsd, cheatsheets, devops |
-| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 173125 | HTML | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
-| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 121686 | — | awesome-list, design-md, design-system, design-tokens, figma |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53156 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 19996 | Python | alternatives, apps, awesome, awesome-list, degoogle |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6817 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 554453 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
+| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 521174 | — | awesome, awesome-list, lists, resources, unicorns |
+| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 328589 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
+| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 251297 | — | awesome, awesome-list, bsd, cheatsheets, devops |
+| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 173499 | HTML | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
+| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 122188 | — | awesome-list, design-md, design-system, design-tokens, figma |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53203 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20023 | Python | alternatives, apps, awesome, awesome-list, degoogle |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6822 | — | alternatives, awesome, awesome-list, curated-list, foss |
 | [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3352 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2089 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
-| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 71926 | — | awesome, awesome-list, computer-science, courses |
-| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 139629 | HTML | awesome-list, free-for-developers |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2147 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 72024 | — | awesome, awesome-list, computer-science, courses |
+| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 139784 | HTML | awesome-list, free-for-developers |
 
 ### [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md)
 
