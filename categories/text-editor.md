@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [editablejs/editable](../repos/editablejs-editable.md) | 7.0 | 1803 | TypeScript | editable, react-editor, rich-editor, slate-editor, text-editor |
-| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 91798 | Rust | gpui, rust-lang, text-editor, zed |
-| [vim/vim](../repos/vim-vim.md) | 6.5 | 41145 | Vim Script | c, cross-platform, text-editor, vim |
+| [editablejs/editable](../repos/editablejs-editable.md) | 7.0 | 1802 | TypeScript | editable, react-editor, rich-editor, slate-editor, text-editor |
+| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 91908 | Rust | gpui, rust-lang, text-editor, zed |
+| [vim/vim](../repos/vim-vim.md) | 6.5 | 41142 | Vim Script | c, cross-platform, text-editor, vim |
 
 ### [editablejs/editable](../repos/editablejs-editable.md)
 
