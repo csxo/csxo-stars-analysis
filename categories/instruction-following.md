@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md) | 6.0 | 30233 | Python | deep-learning, instruction-following, language-model |
+| [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md) | 6.0 | 30231 | Python | deep-learning, instruction-following, language-model |
 
 ### [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md)
 
