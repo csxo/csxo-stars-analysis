@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48201 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
+| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48243 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
 | [howie6879/weekly](../repos/howie6879-weekly.md) | 7.0 | 1039 | Python | awesome, backend, front-end, github, rss |
 
 ### [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md)
