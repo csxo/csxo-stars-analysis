@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 141046
+- **Star 数**: 141404
 - **主语言**: TypeScript
 - **GitHub 主题**: `iptv`, `m3u`, `playlist`, `streams`, `tv`
 
