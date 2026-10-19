@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 8482
+- **Star 数**: 8515
 - **主语言**: TypeScript
 
 ## 简介
@@ -32,9 +32,9 @@ An open-source browser extension for bilingual translation. 一款开源的浏�
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
+| [zhaoolee/ChineseBQB](zhaoolee-chinesebqb.md) | 1.00 | `(none)`, `typescript` |
 | [hectorqin/reader](hectorqin-reader.md) | 1.00 | `(none)`, `typescript` |
 | [btpf/Alexandria](btpf-alexandria.md) | 1.00 | `(none)`, `typescript` |
 | [zu1k/book-searcher](zu1k-book-searcher.md) | 1.00 | `(none)`, `typescript` |
 | [cline/cline](cline-cline.md) | 1.00 | `(none)`, `typescript` |
-| [corbt/agent.exe](corbt-agent-exe.md) | 1.00 | `(none)`, `typescript` |
 
