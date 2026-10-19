@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 130768 | Java | algo, algorithm, algorithms, book, data-structure |
-| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28519 | JavaScript | book, cb7, cbr, cbt, cbz |
+| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 130850 | Java | algo, algorithm, algorithms, book, data-structure |
+| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28565 | JavaScript | book, cb7, cbr, cbt, cbz |
 
 ### [krahets/hello-algo](../repos/krahets-hello-algo.md)
 
