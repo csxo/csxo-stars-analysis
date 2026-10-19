@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15698 | Go | gfw, gui, hy2, juicity, linux |
+| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15705 | Go | gfw, gui, hy2, juicity, linux |
 
 ### [v2rayA/v2rayA](../repos/v2raya-v2raya.md)
 
