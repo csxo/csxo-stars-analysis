@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12144 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
+| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12165 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
 
 ### [jason5ng32/MyIP](../repos/jason5ng32-myip.md)
 
