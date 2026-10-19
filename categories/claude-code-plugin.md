@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 164726 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 167417 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
 
 ### [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md)
 
