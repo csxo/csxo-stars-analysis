@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 54618
+- **Star 数**: 54637
 - **主语言**: Rust
 - **GitHub 主题**: `ai`, `app`, `application`, `chatgpt`, `desktop-app`, `gpt`, `gpt-3`, `linux`, `macos`, `notes-app`, `openai`, `rust`, `tauri`, `webview`, `windows`
 
