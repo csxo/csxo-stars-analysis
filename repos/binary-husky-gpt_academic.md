@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 71486
+- **Star 数**: 71506
 - **主语言**: Python
 - **GitHub 主题**: `academic`, `chatglm-6b`, `chatgpt`, `gpt-4`, `large-language-models`
 
