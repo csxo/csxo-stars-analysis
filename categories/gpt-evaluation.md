@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LianjiaTech/BELLE](../repos/lianjiatech-belle.md) | 7.0 | 8265 | HTML | bloom, chinese-nlp, gpt-evaluation, gpt-q, instruct-finetune |
+| [LianjiaTech/BELLE](../repos/lianjiatech-belle.md) | 7.0 | 8264 | HTML | bloom, chinese-nlp, gpt-evaluation, gpt-q, instruct-finetune |
 
 ### [LianjiaTech/BELLE](../repos/lianjiatech-belle.md)
 
