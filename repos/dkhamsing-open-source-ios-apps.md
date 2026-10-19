@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 52618
+- **Star 数**: 52678
 - **主语言**: —
 - **GitHub 主题**: `app`, `apple`, `apple-tv`, `apple-vision-pro`, `awesome`, `cocoapods`, `duo`, `example`, `flutter`, `game`, `ios`, `ipad`, `iphone`, `list`, `objective-c`, `react-native`, `swift`, `swiftui`, `tvos`, `watchos`
 
