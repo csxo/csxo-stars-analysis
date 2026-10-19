@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2191 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
+| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2193 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
 
 ### [0x2E/fusion](../repos/0x2e-fusion.md)
 
