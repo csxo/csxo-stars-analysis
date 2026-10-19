@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 61831
+- **Star 数**: 61852
 - **主语言**: —
 - **GitHub 主题**: `china`, `indie`, `indie-developer`
 
