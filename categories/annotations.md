@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22615 | JavaScript | annotations, archive, archiver, auto-save, browser |
+| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22633 | JavaScript | annotations, archive, archiver, auto-save, browser |
 
 ### [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md)
 
