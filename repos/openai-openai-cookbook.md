@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 76637
+- **Star 数**: 76689
 - **主语言**: Jupyter Notebook
 - **GitHub 主题**: `chatgpt`, `gpt-4`, `openai`, `openai-api`
 
