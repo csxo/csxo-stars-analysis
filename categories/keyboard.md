@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [taojy123/KeymouseGo](../repos/taojy123-keymousego.md) | 7.0 | 10609 | Python | automate, keyboard, mouse, python, simulation |
+| [taojy123/KeymouseGo](../repos/taojy123-keymousego.md) | 7.0 | 10619 | Python | automate, keyboard, mouse, python, simulation |
 
 ### [taojy123/KeymouseGo](../repos/taojy123-keymousego.md)
 
