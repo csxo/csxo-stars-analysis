@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 70875 | Python | agent, gpt, llm, metagpt, multi-agent |
+| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 70917 | Python | agent, gpt, llm, metagpt, multi-agent |
 
 ### [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md)
 
