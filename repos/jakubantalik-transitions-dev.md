@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5369
+- **Star 数**: 5415
 - **主语言**: HTML
 - **GitHub 主题**: `design`, `motion`, `motionskill`, `product`, `skill`, `ui-design`, `ux`, `ux-design`
 
