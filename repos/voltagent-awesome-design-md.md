@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 121686
+- **Star 数**: 122188
 - **主语言**: —
 - **GitHub 主题**: `awesome-list`, `design-md`, `design-system`, `design-tokens`, `figma`, `landing-page`, `vibe-coding`, `vibe-design`, `vibecoding`
 
