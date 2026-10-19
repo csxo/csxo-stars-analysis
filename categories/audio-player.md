@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md) | 7.0 | 2002 | — | audio-player, media-player, mediainfo, mpv, mpv-config |
+| [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md) | 7.0 | 2001 | — | audio-player, media-player, mediainfo, mpv, mpv-config |
 
 ### [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md)
 
