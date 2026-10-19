@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 3791
+- **Star 数**: 3813
 - **主语言**: TypeScript
 
 ## 简介
@@ -32,9 +32,9 @@ CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
+| [zhaoolee/ChineseBQB](zhaoolee-chinesebqb.md) | 1.00 | `(none)`, `typescript` |
 | [hectorqin/reader](hectorqin-reader.md) | 1.00 | `(none)`, `typescript` |
 | [btpf/Alexandria](btpf-alexandria.md) | 1.00 | `(none)`, `typescript` |
 | [zu1k/book-searcher](zu1k-book-searcher.md) | 1.00 | `(none)`, `typescript` |
 | [FluentRead/FluentRead](fluentread-fluentread.md) | 1.00 | `(none)`, `typescript` |
-| [cline/cline](cline-cline.md) | 1.00 | `(none)`, `typescript` |
 
