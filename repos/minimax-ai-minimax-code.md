@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2037
+- **Star 数**: 2043
 - **主语言**: TypeScript
 - **GitHub 主题**: `coding-agents`, `harness`, `minimax`
 
