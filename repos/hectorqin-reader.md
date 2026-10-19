@@ -3,7 +3,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 11050
+- **Star 数**: 11052
 - **主语言**: TypeScript
 
 ## 简介
@@ -30,9 +30,9 @@
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
+| [zhaoolee/ChineseBQB](zhaoolee-chinesebqb.md) | 1.00 | `(none)`, `typescript` |
 | [btpf/Alexandria](btpf-alexandria.md) | 1.00 | `(none)`, `typescript` |
 | [zu1k/book-searcher](zu1k-book-searcher.md) | 1.00 | `(none)`, `typescript` |
 | [FluentRead/FluentRead](fluentread-fluentread.md) | 1.00 | `(none)`, `typescript` |
 | [cline/cline](cline-cline.md) | 1.00 | `(none)`, `typescript` |
-| [corbt/agent.exe](corbt-agent-exe.md) | 1.00 | `(none)`, `typescript` |
 
