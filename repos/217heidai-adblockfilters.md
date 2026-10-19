@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7674
+- **Star 数**: 7691
 - **主语言**: Python
 - **GitHub 主题**: `adblock`, `adguard`, `adguardhome`, `clash`, `dnsmasq`, `fiters`, `hosts`, `invizible`, `loon`, `mihomo`, `mosdns`, `mosdnsv5`, `personaldnsfilter`, `quantumultx`, `shadowrocket`, `sing-box`, `smartdns`, `v2ray`, `xray`
 
