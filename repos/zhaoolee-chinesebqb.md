@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 16268
-- **主语言**: Python
+- **Star 数**: 16277
+- **主语言**: TypeScript
 
 ## 简介
 
@@ -32,9 +32,9 @@
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [ytdl-org/youtube-dl](ytdl-org-youtube-dl.md) | 1.00 | `(none)`, `python` |
-| [soimort/you-get](soimort-you-get.md) | 1.00 | `(none)`, `python` |
-| [taxigps/xbmc-addons-chinese](taxigps-xbmc-addons-chinese.md) | 1.00 | `(none)`, `python` |
-| [programthink/zhao](programthink-zhao.md) | 1.00 | `(none)`, `python` |
-| [python/cpython](python-cpython.md) | 1.00 | `(none)`, `python` |
+| [hectorqin/reader](hectorqin-reader.md) | 1.00 | `(none)`, `typescript` |
+| [btpf/Alexandria](btpf-alexandria.md) | 1.00 | `(none)`, `typescript` |
+| [zu1k/book-searcher](zu1k-book-searcher.md) | 1.00 | `(none)`, `typescript` |
+| [FluentRead/FluentRead](fluentread-fluentread.md) | 1.00 | `(none)`, `typescript` |
+| [cline/cline](cline-cline.md) | 1.00 | `(none)`, `typescript` |
 
