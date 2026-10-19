@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 167752
+- **Star 数**: 167846
 - **主语言**: Python
 - **GitHub 主题**: `audio`, `deep-learning`, `deepseek`, `gemma`, `glm`, `hacktoberfest`, `llm`, `machine-learning`, `model-hub`, `natural-language-processing`, `nlp`, `pretrained-models`, `python`, `pytorch`, `pytorch-transformers`, `qwen`, `speech-recognition`, `transformer`, `vlm`
 
