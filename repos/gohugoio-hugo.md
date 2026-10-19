@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 90131
+- **Star 数**: 90159
 - **主语言**: Go
 - **GitHub 主题**: `blog-engine`, `cms`, `content-management-system`, `documentation-tool`, `go`, `hugo`, `static-site-generator`
 
