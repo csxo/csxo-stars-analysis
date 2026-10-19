@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 59373 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
-| [BCUninstaller/Bulk-Crap-Uninstaller](../repos/bcuninstaller-bulk-crap-uninstaller.md) | 7.0 | 21878 | C# | application-manager, application-uninstaller, bloatware, bulk-actions, bulk-uninstall |
+| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 59804 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
+| [BCUninstaller/Bulk-Crap-Uninstaller](../repos/bcuninstaller-bulk-crap-uninstaller.md) | 7.0 | 21944 | C# | application-manager, application-uninstaller, bloatware, bulk-actions, bulk-uninstall |
 
 ### [Raphire/Win11Debloat](../repos/raphire-win11debloat.md)
 
