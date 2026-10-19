@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 681
+- **Star 数**: 682
 - **主语言**: Python
 - **GitHub 主题**: `ai`, `digest`, `django`, `feed`, `filter`, `jsonfeed`, `python`, `rss`, `self-hosted`, `summary`, `translate`, `translator`
 
