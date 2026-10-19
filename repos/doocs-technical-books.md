@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7009
+- **Star 数**: 7013
 - **主语言**: TypeScript
 - **GitHub 主题**: `architecture`, `back-end`, `book-list`, `database`, `doocs`, `front-end`, `technical`
 
