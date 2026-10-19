@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Open-Shell/Open-Shell-Menu](../repos/open-shell-open-shell-menu.md) | 7.0 | 9409 | C++ | classic-menu, classic-shell, classic-start, microsoft-windows, open-shell |
+| [Open-Shell/Open-Shell-Menu](../repos/open-shell-open-shell-menu.md) | 7.0 | 9413 | C++ | classic-menu, classic-shell, classic-start, microsoft-windows, open-shell |
 
 ### [Open-Shell/Open-Shell-Menu](../repos/open-shell-open-shell-menu.md)
 
