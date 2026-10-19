@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 66880 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
+| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 66893 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
 
 ### [xtekky/gpt4free](../repos/xtekky-gpt4free.md)
 
