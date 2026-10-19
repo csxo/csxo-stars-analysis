@@ -2,22 +2,22 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 651  
-- **已分析**: 651  
-- **分类数**: 1220
+- **Star 总数**: 654  
+- **已分析**: 654  
+- **分类数**: 1225
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 445 |
+| [Other](categories/other.md) | 447 |
 | [(none)](categories/none.md) | 156 |
 | [AI / LLM](categories/ai-llm.md) | 81 |
 | [Frontend](categories/frontend.md) | 63 |
 | [ai](categories/ai.md) | 41 |
 | [DevOps](categories/devops.md) | 32 |
-| [CLI / Terminal](categories/cli-terminal.md) | 30 |
-| [chrome-extension](categories/chrome-extension.md) | 24 |
+| [CLI / Terminal](categories/cli-terminal.md) | 31 |
+| [chrome-extension](categories/chrome-extension.md) | 25 |
 | [android](categories/android.md) | 23 |
 | [javascript](categories/javascript.md) | 22 |
 | [awesome](categories/awesome.md) | 21 |
@@ -35,17 +35,18 @@
 | [cli](categories/cli.md) | 13 |
 | [agent](categories/agent.md) | 12 |
 | [electron](categories/electron.md) | 12 |
+| [python](categories/python.md) | 12 |
 | [browser-extension](categories/browser-extension.md) | 11 |
+| [chinese](categories/chinese.md) | 11 |
 | [proxy](categories/proxy.md) | 11 |
-| [python](categories/python.md) | 11 |
 | [react](categories/react.md) | 11 |
 | [shadowsocks](categories/shadowsocks.md) | 11 |
 | [agent-skills](categories/agent-skills.md) | 10 |
-| [chinese](categories/chinese.md) | 10 |
 | [chrome](categories/chrome.md) | 10 |
 | [ios](categories/ios.md) | 10 |
 | [linux](categories/linux.md) | 10 |
 | [llm](categories/llm.md) | 10 |
+| [markdown](categories/markdown.md) | 10 |
 | [csharp](categories/csharp.md) | 9 |
 | [deepseek](categories/deepseek.md) | 9 |
 | [desktop-app](categories/desktop-app.md) | 9 |
@@ -53,7 +54,6 @@
 | [editor](categories/editor.md) | 8 |
 | [firefox](categories/firefox.md) | 8 |
 | [gui](categories/gui.md) | 8 |
-| [markdown](categories/markdown.md) | 8 |
 | [tampermonkey](categories/tampermonkey.md) | 8 |
 | [windows](categories/windows.md) | 8 |
 | [artificial-intelligence](categories/artificial-intelligence.md) | 7 |
@@ -98,6 +98,7 @@
 | [kotlin](categories/kotlin.md) | 5 |
 | [music](categories/music.md) | 5 |
 | [nextjs](categories/nextjs.md) | 5 |
+| [typescript](categories/typescript.md) | 5 |
 | [acrylic](categories/acrylic.md) | 4 |
 | [adguardhome](categories/adguardhome.md) | 4 |
 | [algorithm](categories/algorithm.md) | 4 |
@@ -122,7 +123,6 @@
 | [mihomo](categories/mihomo.md) | 4 |
 | [open-source](categories/open-source.md) | 4 |
 | [swift](categories/swift.md) | 4 |
-| [typescript](categories/typescript.md) | 4 |
 | [video](categories/video.md) | 4 |
 | [agentic-ai](categories/agentic-ai.md) | 3 |
 | [agents](categories/agents.md) | 3 |
@@ -192,7 +192,9 @@
 | [agent-framework](categories/agent-framework.md) | 2 |
 | [agent-skill](categories/agent-skill.md) | 2 |
 | [agent-tools](categories/agent-tools.md) | 2 |
+| [ai-chat](categories/ai-chat.md) | 2 |
 | [ai-search-engine](categories/ai-search-engine.md) | 2 |
+| [ai-translation](categories/ai-translation.md) | 2 |
 | [android-app](categories/android-app.md) | 2 |
 | [angular](categories/angular.md) | 2 |
 | [api](categories/api.md) | 2 |
@@ -291,6 +293,7 @@
 | [pinyin](categories/pinyin.md) | 2 |
 | [playlist](categories/playlist.md) | 2 |
 | [plugin](categories/plugin.md) | 2 |
+| [podcast](categories/podcast.md) | 2 |
 | [portfolio](categories/portfolio.md) | 2 |
 | [privacy](categories/privacy.md) | 2 |
 | [product](categories/product.md) | 2 |
@@ -319,6 +322,7 @@
 | [violentmonkey](categories/violentmonkey.md) | 2 |
 | [vue3](categories/vue3.md) | 2 |
 | [webextension](categories/webextension.md) | 2 |
+| [wechat](categories/wechat.md) | 2 |
 | [win32](categories/win32.md) | 2 |
 | [wpf](categories/wpf.md) | 2 |
 | [youtube](categories/youtube.md) | 2 |
@@ -349,7 +353,6 @@
 | [agentic-workflows](categories/agentic-workflows.md) | 1 |
 | [ai-art](categories/ai-art.md) | 1 |
 | [ai-bot](categories/ai-bot.md) | 1 |
-| [ai-chat](categories/ai-chat.md) | 1 |
 | [ai-deep-fake](categories/ai-deep-fake.md) | 1 |
 | [ai-face](categories/ai-face.md) | 1 |
 | [ai-music](categories/ai-music.md) | 1 |
@@ -357,7 +360,6 @@
 | [ai-playground](categories/ai-playground.md) | 1 |
 | [ai-powered](categories/ai-powered.md) | 1 |
 | [ai-skills](categories/ai-skills.md) | 1 |
-| [ai-translation](categories/ai-translation.md) | 1 |
 | [ai-video](categories/ai-video.md) | 1 |
 | [ai-video-generation](categories/ai-video-generation.md) | 1 |
 | [ai-video-generator](categories/ai-video-generator.md) | 1 |
@@ -919,6 +921,7 @@
 | [langchain](categories/langchain.md) | 1 |
 | [large-language-models](categories/large-language-models.md) | 1 |
 | [legado](categories/legado.md) | 1 |
+| [lex-fridman](categories/lex-fridman.md) | 1 |
 | [libmpv](categories/libmpv.md) | 1 |
 | [library](categories/library.md) | 1 |
 | [librespeed](categories/librespeed.md) | 1 |
@@ -1011,6 +1014,9 @@
 | [notebooklm](categories/notebooklm.md) | 1 |
 | [notepad](categories/notepad.md) | 1 |
 | [obra](categories/obra.md) | 1 |
+| [obsidian](categories/obsidian.md) | 1 |
+| [obsidian-clipper](categories/obsidian-clipper.md) | 1 |
+| [obsidian-plugin](categories/obsidian-plugin.md) | 1 |
 | [ocr-python](categories/ocr-python.md) | 1 |
 | [office](categories/office.md) | 1 |
 | [office-365](categories/office-365.md) | 1 |
@@ -1040,7 +1046,6 @@
 | [playlists](categories/playlists.md) | 1 |
 | [plyr](categories/plyr.md) | 1 |
 | [pocket](categories/pocket.md) | 1 |
-| [podcast](categories/podcast.md) | 1 |
 | [poetry](categories/poetry.md) | 1 |
 | [portfolio-page](categories/portfolio-page.md) | 1 |
 | [portfolio-site](categories/portfolio-site.md) | 1 |
@@ -1056,6 +1061,7 @@
 | [programmer-tool](categories/programmer-tool.md) | 1 |
 | [project](categories/project.md) | 1 |
 | [pronunciation](categories/pronunciation.md) | 1 |
+| [publishing](categories/publishing.md) | 1 |
 | [pydebloatx](categories/pydebloatx.md) | 1 |
 | [python-frameworks](categories/python-frameworks.md) | 1 |
 | [python-libraries](categories/python-libraries.md) | 1 |
@@ -1218,7 +1224,6 @@
 | [webcontainers-api](categories/webcontainers-api.md) | 1 |
 | [webextensions](categories/webextensions.md) | 1 |
 | [webrtc](categories/webrtc.md) | 1 |
-| [wechat](categories/wechat.md) | 1 |
 | [wechat-video](categories/wechat-video.md) | 1 |
 | [white-noise](categories/white-noise.md) | 1 |
 | [winget](categories/winget.md) | 1 |
@@ -1250,13 +1255,13 @@
 
 | Tech | Count |
 | --- | ---: |
-| TypeScript | 110 |
-| Python | 104 |
+| TypeScript | 113 |
+| Python | 103 |
 | JavaScript | 99 |
 | C# | 28 |
 | C++ | 28 |
 | Go | 28 |
-| HTML | 21 |
+| HTML | 22 |
 | C | 16 |
 | Kotlin | 14 |
 | Swift | 14 |
@@ -1267,4 +1272,4 @@
 | Java | 7 |
 
 ---
-_生成时间: 2026-10-16T08:40:19Z_
+_生成时间: 2026-10-19T09:29:53Z_
