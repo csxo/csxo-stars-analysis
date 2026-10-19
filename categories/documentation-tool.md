@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90131 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
+| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90159 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
 
 ### [gohugoio/hugo](../repos/gohugoio-hugo.md)
 
