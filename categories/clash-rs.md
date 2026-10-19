@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13224 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
+| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13229 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
 
 ### [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md)
 
