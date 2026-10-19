@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 42419
+- **Star 数**: 42463
 - **主语言**: Python
 - **GitHub 主题**: `agent-framework`, `data-analysis`, `deep-research`, `deep-search`, `llms`, `multi-agent-system`, `nlp`, `public-opinion-analysis`, `python3`, `sentiment-analysis`
 
