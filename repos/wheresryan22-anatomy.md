@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 13324
+- **Star 数**: 16455
 - **主语言**: JavaScript
 - **GitHub 主题**: `agent-skill`, `open-source`, `svg`, `vizualization`
 
