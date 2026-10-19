@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 136371 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 107171 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 97656 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52674 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 13848 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 816 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 578 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 137408 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 108380 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 99068 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52736 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 16568 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 829 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 606 | TypeScript | ai-agents, bun, codex, electron, local-first |
 
 ### [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md)
 
