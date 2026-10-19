@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1629 | Dart | android, android-app, dart, flutter, flutter-app |
+| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1630 | Dart | android, android-app, dart, flutter, flutter-app |
 
 ### [Livinglist/Hacki](../repos/livinglist-hacki.md)
 
