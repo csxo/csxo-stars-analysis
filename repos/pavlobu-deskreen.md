@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 21571
+- **Star 数**: 21585
 - **主语言**: TypeScript
 - **GitHub 主题**: `blueprintjs`, `darkwire-io`, `deskreen`, `easy-to-use`, `electon-app`, `electron`, `electron-react-boilerplate`, `electronjs`, `end-to-end-encryption`, `linuxapp`, `macosapp`, `sceen-sharing-to-multiple-devices`, `second-screen`, `share-app-window`, `share-screen`, `testcafe`, `typescript`, `webrtc`, `wifi`, `windowsapp`
 
