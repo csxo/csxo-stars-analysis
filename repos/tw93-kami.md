@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 11971
+- **Star 数**: 12001
 - **主语言**: HTML
 - **GitHub 主题**: `agent-skills`, `ai-agents`, `claude-code`, `codex`, `document-design`, `pdf`, `pptx`, `typesetting`
 
