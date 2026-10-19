@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3378
+- **Star 数**: 3383
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `exe`, `macos`, `ocr`, `pc`, `screenshots`, `software`, `translation`, `ttime`, `windows`
 
