@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 362547 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
-| [TheAlgorithms/Python](../repos/thealgorithms-python.md) | 7.0 | 225302 | Python | algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven |
-| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186259 | — | algorithm, computer-science, cpp, interview, java |
-| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 130768 | Java | algo, algorithm, algorithms, book, data-structure |
+| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 362958 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
+| [TheAlgorithms/Python](../repos/thealgorithms-python.md) | 7.0 | 225393 | Python | algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven |
+| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186275 | — | algorithm, computer-science, cpp, interview, java |
+| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 130850 | Java | algo, algorithm, algorithms, book, data-structure |
 
 ### [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md)
 
