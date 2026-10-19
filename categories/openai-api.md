@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 76637 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
+| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 76689 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
 
 ### [openai/openai-cookbook](../repos/openai-openai-cookbook.md)
 
