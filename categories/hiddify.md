@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9364 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
+| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9378 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
 
 ### [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md)
 
