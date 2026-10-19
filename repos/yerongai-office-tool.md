@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 14522
+- **Star 数**: 14543
 - **主语言**: PowerShell
 - **GitHub 主题**: `msoffice`, `msproject`, `office`, `office-365`, `office-tools`, `office365`, `visio`
 
