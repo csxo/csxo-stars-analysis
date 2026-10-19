@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sxzxs/Real-time-translation-typing](../repos/sxzxs-real-time-translation-typing.md) | 6.5 | 1854 | AutoHotkey | autohotkey, lol, translators, windows |
+| [sxzxs/Real-time-translation-typing](../repos/sxzxs-real-time-translation-typing.md) | 6.5 | 1857 | AutoHotkey | autohotkey, lol, translators, windows |
 
 ### [sxzxs/Real-time-translation-typing](../repos/sxzxs-real-time-translation-typing.md)
 
