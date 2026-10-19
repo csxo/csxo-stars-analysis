@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 47955 | Python | ocr, ocr-python, paddleocr, qml, qt |
+| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 48040 | Python | ocr, ocr-python, paddleocr, qml, qt |
 
 ### [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md)
 
