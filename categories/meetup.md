@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 110592 | Shell | awesome, computer-science, meetup, papers, programming |
+| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 110690 | Shell | awesome, computer-science, meetup, papers, programming |
 
 ### [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md)
 
