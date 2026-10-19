@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [PKUanonym/REKCARC-TSC-UHT](../repos/pkuanonym-rekcarc-tsc-uht.md) | 7.0 | 37863 | HTML | computer-science, course, course-assignment, course-project, tsinghua-university |
-| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 19750 | JavaScript | agent, ai, coding, course, deepseek |
+| [PKUanonym/REKCARC-TSC-UHT](../repos/pkuanonym-rekcarc-tsc-uht.md) | 7.0 | 37908 | HTML | computer-science, course, course-assignment, course-project, tsinghua-university |
+| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20006 | JavaScript | agent, ai, coding, course, deepseek |
 
 ### [PKUanonym/REKCARC-TSC-UHT](../repos/pkuanonym-rekcarc-tsc-uht.md)
 
