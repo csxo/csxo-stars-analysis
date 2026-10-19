@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 19720
+- **Star 数**: 19718
 - **主语言**: JavaScript
 - **GitHub 主题**: `pwa`, `snapdrop`, `webrtc`
 
