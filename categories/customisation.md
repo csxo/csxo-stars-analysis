@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md) | 7.0 | 2349 | Pascal | android, customisation, design, google, material-ui |
+| [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md) | 7.0 | 2348 | Pascal | android, customisation, design, google, material-ui |
 
 ### [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md)
 
