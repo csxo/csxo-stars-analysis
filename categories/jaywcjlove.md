@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 603 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
+| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 606 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
 
 ### [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md)
 
