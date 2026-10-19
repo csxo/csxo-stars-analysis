@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 198283 | Python | cli, downloader, python, sponsorblock, youtube-dl |
+| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 199323 | Python | cli, downloader, python, sponsorblock, youtube-dl |
 
 ### [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md)
 
