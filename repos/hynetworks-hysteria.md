@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22668
+- **Star 数**: 22677
 - **主语言**: Go
 - **GitHub 主题**: `censorship-circumvention`, `golang`, `http-proxy`, `hysteria`, `proxy`, `quic`, `relay`, `reliable-udp`, `socks5`, `tun`, `vpn`
 
