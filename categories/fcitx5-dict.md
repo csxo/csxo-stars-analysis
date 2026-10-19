@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md) | 7.0 | 1960 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
+| [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md) | 7.0 | 1966 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
 
 ### [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md)
 
