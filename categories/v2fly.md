@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 118343 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
+| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 118571 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
 
 ### [2dust/v2rayN](../repos/2dust-v2rayn.md)
 
