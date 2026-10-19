@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31235 | — | adblock, gfw, proxy, shadowrocket, v2ray |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31327 | — | adblock, gfw, proxy, shadowrocket, v2ray |
 
 ### [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md)
 
