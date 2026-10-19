@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [kkebo/DNSecure](../repos/kkebo-dnsecure.md) | 7.0 | 583 | Swift | dns, dns-over-https, dns-over-tls, doh, dot |
+| [kkebo/DNSecure](../repos/kkebo-dnsecure.md) | 7.0 | 584 | Swift | dns, dns-over-https, dns-over-tls, doh, dot |
 
 ### [kkebo/DNSecure](../repos/kkebo-dnsecure.md)
 
