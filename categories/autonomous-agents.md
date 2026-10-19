@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 187609 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
+| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 187649 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
 
 ### [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md)
 
