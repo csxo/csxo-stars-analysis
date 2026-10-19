@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 28519
+- **Star 数**: 28565
 - **主语言**: JavaScript
 - **GitHub 主题**: `book`, `cb7`, `cbr`, `cbt`, `cbz`, `comic`, `docx`, `ebook`, `epub`, `fb2`, `html`, `markdown`, `mobi`, `pdf`, `reader`, `rtf`, `txt`, `xml`
 
