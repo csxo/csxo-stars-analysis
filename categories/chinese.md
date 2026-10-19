@@ -1,18 +1,19 @@
 # chinese
 
-> 项目数: **10**
+> 项目数: **11**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 102829 | — | chinese, cookbook, cooking, dishes, recipes |
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 53744 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39907 | Python | agent, chat, chatgpt, chattts, chinese |
-| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 37590 | Python | chinese, document, edit, english, japanese |
-| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22772 | — | awesome-lists, chatglm, chinese, llama, llm |
-| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6016 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
+| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 102888 | — | chinese, cookbook, cooking, dishes, recipes |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 53773 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39914 | Python | agent, chat, chatgpt, chattts, chinese |
+| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 37667 | Python | chinese, document, edit, english, japanese |
+| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22773 | — | awesome-lists, chatglm, chinese, llama, llm |
+| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6015 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
 | [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4287 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
-| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4059 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
-| [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2079 | — | china, chinese, chinese-podcasts, podcast |
+| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4067 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
+| [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 105 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
+| [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2080 | — | china, chinese, chinese-podcasts, podcast |
 | [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1648 | — | chinese, email, newsletter, rss |
 
 ### [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md)
@@ -46,6 +47,10 @@ MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。
 ### [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md)
 
 Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
+
+### [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md)
+
+Lex Fridman 播客中文导航站:506 期全目录、AI 中文精读、官方音频/文稿与全文 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.
 
 ### [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md)
 
