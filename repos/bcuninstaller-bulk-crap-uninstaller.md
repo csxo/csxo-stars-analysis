@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 21878
+- **Star 数**: 21944
 - **主语言**: C#
 - **GitHub 主题**: `application-manager`, `application-uninstaller`, `bloatware`, `bulk-actions`, `bulk-uninstall`, `cleaner`, `debloat`, `disk-space`, `inno-setup`, `msi`, `nsis`, `portableapps`, `software-management`, `unattended-uninstall`, `uninstall`, `uninstaller`, `windows`, `windows-10`, `windows-forms`
 
