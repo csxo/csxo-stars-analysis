@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22315 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4041 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
-| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3868 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
-| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3789 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22371 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4044 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
+| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3869 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
+| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3790 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
 
 ### [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md)
 
