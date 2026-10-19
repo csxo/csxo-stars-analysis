@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 133961 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45018 | Svelte | collaboration, downloader, instagram, javascript, music |
-| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20123 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
+| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 134143 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45211 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20147 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
 
 ### [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md)
 
