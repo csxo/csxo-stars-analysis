@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md) | 7.0 | 71486 | Python | academic, chatglm-6b, chatgpt, gpt-4, large-language-models |
-| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 76637 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
+| [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md) | 7.0 | 71506 | Python | academic, chatglm-6b, chatgpt, gpt-4, large-language-models |
+| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 76689 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
 
 ### [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md)
 
