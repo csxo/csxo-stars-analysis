@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 15804
+- **Star 数**: 15828
 - **主语言**: C#
 - **GitHub 主题**: `alfred`, `application-launcher`, `desktop`, `finder`, `flow-launcher`, `hacktoberfest`, `keyboard-launcher`, `launcher`, `launchy`, `listary`, `plugins`, `portable`, `productivity`, `productivity-tools`, `raycast`, `search`, `spotlight`, `windows`, `wox`
 
