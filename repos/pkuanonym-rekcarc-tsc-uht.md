@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 37863
+- **Star 数**: 37908
 - **主语言**: HTML
 - **GitHub 主题**: `computer-science`, `course`, `course-assignment`, `course-project`, `tsinghua-university`
 
