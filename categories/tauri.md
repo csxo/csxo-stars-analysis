@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21879 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21876 | TypeScript | clash, cross-platform, react, rust, tauri |
 
 ### [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md)
 
