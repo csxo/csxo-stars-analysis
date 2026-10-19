@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 77214 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26165 | TypeScript | apify, automation, crawler, crawling, headless |
-| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8263 | Python | automation, chrome, crawl, csdn, hotmail |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 77413 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26189 | TypeScript | apify, automation, crawler, crawling, headless |
+| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8265 | Python | automation, chrome, crawl, csdn, hotmail |
 
 ### [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md)
 
