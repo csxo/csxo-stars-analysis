@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 19375
+- **Star 数**: 19383
 - **主语言**: Rust
 - **GitHub 主题**: `cli`, `rust`, `spotify`, `spotify-api`, `spotify-tui`, `terminal`, `terminal-based`
 
