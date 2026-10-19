@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [theme-next/hexo-theme-next](../repos/theme-next-hexo-theme-next.md) | 6.0 | 8214 | Stylus | hexo, hexo-theme, theme-next |
+| [theme-next/hexo-theme-next](../repos/theme-next-hexo-theme-next.md) | 6.0 | 8213 | Stylus | hexo, hexo-theme, theme-next |
 | [next-theme/hexo-theme-next](../repos/next-theme-hexo-theme-next.md) | 6.0 | 2780 | JavaScript | hexo, hexo-theme, theme-next |
 
 ### [theme-next/hexo-theme-next](../repos/theme-next-hexo-theme-next.md)
