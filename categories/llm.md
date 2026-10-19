@@ -4,16 +4,16 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 155866 | Python | ai, llm, llm-ui, llm-webui, llms |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 131872 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
-| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 70875 | Python | agent, gpt, llm, metagpt, multi-agent |
-| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37353 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
-| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22772 | — | awesome-lists, chatglm, chinese, llama, llm |
-| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14761 | Python | agent, llama, llama4, llm, pretraining |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 13848 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13429 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 156136 | Python | ai, llm, llm-ui, llm-webui, llms |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 132963 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
+| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 70917 | Python | agent, gpt, llm, metagpt, multi-agent |
+| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37393 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
+| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22773 | — | awesome-lists, chatglm, chinese, llama, llm |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 16568 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14762 | Python | agent, llama, llama4, llm, pretraining |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13441 | TypeScript | ai-bot, doocs, editor, llm, markdown |
 | [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 745 | TypeScript | ai, github-actions, github-pages, llm, rss |
-| [datawhalechina/llm-cookbook](../repos/datawhalechina-llm-cookbook.md) | 5.5 | 24802 | Jupyter Notebook | cookbook, llm |
+| [datawhalechina/llm-cookbook](../repos/datawhalechina-llm-cookbook.md) | 5.5 | 24809 | Jupyter Notebook | cookbook, llm |
 
 ### [open-webui/open-webui](../repos/open-webui-open-webui.md)
 
@@ -35,13 +35,13 @@ Vane is an AI-powered answering engine.
 
 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
-### [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md)
-
-Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
-
 ### [yetone/magpie](../repos/yetone-magpie.md)
 
 Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+### [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md)
+
+Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 
 ### [doocs/md](../repos/doocs-md.md)
 
