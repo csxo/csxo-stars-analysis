@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2002
+- **Star 数**: 2001
 - **主语言**: —
 - **GitHub 主题**: `audio-player`, `media-player`, `mediainfo`, `mpv`, `mpv-config`, `mpv-osc`, `mpv-player`, `mpv-script`, `python`, `vapoursynth`, `video-player`, `windows-x64`, `yt-dlp`
 
