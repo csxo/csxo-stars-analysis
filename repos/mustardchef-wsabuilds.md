@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 18725
+- **Star 数**: 18751
 - **主语言**: Python
 - **GitHub 主题**: `android`, `android-emulator`, `google-apps`, `kernelsu`, `magisk`, `magiskonwsa`, `magiskonwsalocal`, `subsystem`, `windows`, `windows-10`, `windows-11`, `windows-subsystem-android`, `windows-subsystem-for-android`, `windows10`, `windowssubsystemforandroid`, `wsa`, `wsa-root`, `wsa-with-gapps-and-magisk`, `wsapatch`
 
