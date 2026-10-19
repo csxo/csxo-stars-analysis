@@ -32,9 +32,9 @@ A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typesc
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
+| [zhaoolee/ChineseBQB](zhaoolee-chinesebqb.md) | 1.00 | `(none)`, `typescript` |
 | [hectorqin/reader](hectorqin-reader.md) | 1.00 | `(none)`, `typescript` |
 | [zu1k/book-searcher](zu1k-book-searcher.md) | 1.00 | `(none)`, `typescript` |
 | [FluentRead/FluentRead](fluentread-fluentread.md) | 1.00 | `(none)`, `typescript` |
 | [cline/cline](cline-cline.md) | 1.00 | `(none)`, `typescript` |
-| [corbt/agent.exe](corbt-agent-exe.md) | 1.00 | `(none)`, `typescript` |
 
