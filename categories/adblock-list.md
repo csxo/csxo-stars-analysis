@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6649 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
+| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6667 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
 | [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1947 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
 
 ### [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md)
