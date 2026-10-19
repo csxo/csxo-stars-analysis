@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 250768 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
-| [Fei2411/DeepSeek-Bot](../repos/fei2411-deepseek-bot.md) | 6.5 | 2079 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
+| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 253907 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
+| [Fei2411/DeepSeek-Bot](../repos/fei2411-deepseek-bot.md) | 6.5 | 2540 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
 
 ### [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md)
 
