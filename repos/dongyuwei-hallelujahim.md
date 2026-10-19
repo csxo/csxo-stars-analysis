@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2587
+- **Star 数**: 2588
 - **主语言**: Objective-C++
 - **GitHub 主题**: `autocomplete`, `english`, `input-method`, `inputmethod`, `inputmethodkit`, `keyboard`, `macos`, `pinyin`, `spell-check`, `textexpander`, `windows`
 
