@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22063
+- **Star 数**: 22085
 - **主语言**: Vue
 - **GitHub 主题**: `freetube`, `privacy`, `subscriptions`, `video`, `videos`, `youtube`
 
