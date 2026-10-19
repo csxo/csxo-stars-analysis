@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2175
+- **Star 数**: 2182
 - **主语言**: Python
 - **GitHub 主题**: `aipc`, `api`, `cli`, `cpu`, `desktopgui`, `diffusers`, `diffusion`, `fastsdcpu`, `flux`, `gradio`, `latentconsistencymodels`, `lcmdiffusion`, `openvino`, `python`, `qt`, `sdupcale`, `sdxlturbo`, `sdxs`, `stablediffusion`, `torch`
 
