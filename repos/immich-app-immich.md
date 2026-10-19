@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 116388
+- **Star 数**: 116628
 - **主语言**: TypeScript
 - **GitHub 主题**: `backup-tool`, `flutter`, `google-photos`, `google-photos-alternative`, `javascript`, `mobile-app`, `nestjs`, `nodejs`, `photo-gallery`, `photos`, `photos-management`, `self-hosted`, `svelte`, `sveltekit`, `typescript`, `videos`
 
