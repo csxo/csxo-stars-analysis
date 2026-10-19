@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2765
+- **Star 数**: 2767
 - **主语言**: TypeScript
 - **GitHub 主题**: `browser-extension`, `chrome`, `chrome-extension`, `edge-extension`, `firefox`, `firefox-addon`, `firefox-extension`, `proxy`, `proxy-list`, `proxy-switcher`, `webextension`, `webextensions`
 
