@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9409
+- **Star 数**: 9413
 - **主语言**: C++
 - **GitHub 主题**: `classic-menu`, `classic-shell`, `classic-start`, `microsoft-windows`, `open-shell`, `open-shell-menu`, `start-menu`, `startme`, `windows`, `windows-10`, `windows10`
 
