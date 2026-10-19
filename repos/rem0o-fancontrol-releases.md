@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 21120
+- **Star 数**: 21150
 - **主语言**: —
 - **GitHub 主题**: `control`, `cpu`, `curves`, `fan`, `fancontrol`, `gpu`, `pwm`, `speed`, `temperature`
 
