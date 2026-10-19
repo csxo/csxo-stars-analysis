@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 19782 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
-| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 4915 | Lua | dicts, ime, pinyin, rime, rime-config |
+| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 19815 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
+| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 4954 | Lua | dicts, ime, pinyin, rime, rime-config |
 
 ### [iDvel/rime-ice](../repos/idvel-rime-ice.md)
 
