@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 56376
+- **Star 数**: 56419
 - **主语言**: —
 - **GitHub 主题**: `beginner`, `beginner-friendly`, `contribute`, `contribution`, `contributions-welcome`, `good-first-contribution`, `good-first-issue`, `good-first-pr`, `open-source`, `tutorial`
 
