@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7695
+- **Star 数**: 7694
 - **主语言**: JavaScript
 - **GitHub 主题**: `aplayer`, `html`, `html5`, `music`, `player`
 
