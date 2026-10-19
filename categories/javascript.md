@@ -4,28 +4,28 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 286847 | Python | beginner-project, cpp, golang, javascript, project |
-| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 116388 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 96962 | JavaScript | css, curriculum, education, html, javascript |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68591 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45018 | Svelte | collaboration, downloader, instagram, javascript, music |
-| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29996 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
-| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23748 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22315 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17456 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
-| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10764 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7379 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
-| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7355 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4540 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287232 | Python | beginner-project, cpp, golang, javascript, project |
+| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 116628 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 96992 | JavaScript | css, curriculum, education, html, javascript |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68667 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45211 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29995 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
+| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23757 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22371 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17472 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10765 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7381 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7354 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4542 | JavaScript | adblock, adblocker, adguard, ios, javascript |
 | [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2354 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
 | [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2338 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
-| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1533 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
-| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 755 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
+| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1534 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
+| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 756 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
 | [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
 | [axetroy/anti-redirect](../repos/axetroy-anti-redirect.md) | 7.0 | 494 | TypeScript | axetroy, greasy, javascript, redirect, script |
-| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 199 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 54475 | TypeScript | electron, javascript, music-player, vue |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 18750 | TypeScript | javascript, music-player, react-native-app |
+| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 198 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 54576 | TypeScript | electron, javascript, music-player, vue |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 18793 | TypeScript | javascript, music-player, react-native-app |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
 
