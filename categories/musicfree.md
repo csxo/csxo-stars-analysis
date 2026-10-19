@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 27573 | TypeScript | free, music-player, musicfree, plugin, react |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 27684 | TypeScript | free, music-player, musicfree, plugin, react |
 
 ### [maotoumao/MusicFree](../repos/maotoumao-musicfree.md)
 
