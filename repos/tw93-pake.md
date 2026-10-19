@@ -1,13 +1,13 @@
 # [tw93/Pake](https://github.com/tw93/Pake)
 
-> 🤱🏻 Turn any website into a tiny, fast desktop app.
+> Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 62126
+- **Star 数**: 62181
 - **主语言**: Rust
-- **GitHub 主题**: `chatgpt`, `claude`, `desktop`, `desktop-app`, `electron-alternative`, `gemini`, `high-performance`, `linux`, `macos`, `nativefier`, `no-electron`, `package`, `rust`, `tauri`, `webview`, `windows`, `youtube`
+- **GitHub 主题**: `chatgpt`, `claude`, `cli`, `desktop`, `desktop-app`, `electron-alternative`, `gemini`, `linux`, `macos`, `nativefier`, `no-electron`, `rust`, `tauri`, `web-to-desktop`, `website-to-app`, `webview`, `windows`, `youtube`
 
 ## 简介
 
