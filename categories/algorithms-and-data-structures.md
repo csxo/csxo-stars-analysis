@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48201 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
+| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48243 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
 
 ### [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md)
 
