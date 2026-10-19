@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 139369 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
-| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40104 | C# | avalonia, capture, color-picker, csharp, dropbox |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7322 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 139482 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
+| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40207 | C# | avalonia, capture, color-picker, csharp, dropbox |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7335 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
 
 ### [microsoft/PowerToys](../repos/microsoft-powertoys.md)
 
