@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32270 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
-| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7140 | Python | plugin, python, qbittorrent, search, search-engine |
+| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32291 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
+| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7143 | Python | plugin, python, qbittorrent, search, search-engine |
 
 ### [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md)
 
