@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Pintree-io/pintree](../repos/pintree-io-pintree.md) | 6.0 | 2593 | TypeScript | bookmark, directory, directory-website |
+| [Pintree-io/pintree](../repos/pintree-io-pintree.md) | 6.0 | 2595 | TypeScript | bookmark, directory, directory-website |
 
 ### [Pintree-io/pintree](../repos/pintree-io-pintree.md)
 
