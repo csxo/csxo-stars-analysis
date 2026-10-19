@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4251 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
+| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4253 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
 
 ### [Python-Markdown/markdown](../repos/python-markdown-markdown.md)
 
