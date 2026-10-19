@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5357
+- **Star 数**: 5355
 - **主语言**: JavaScript
 - **GitHub 主题**: `featured-pictures`, `hexo-blog-theme`, `hexo-theme`, `hexo-theme-matery`, `material-design`, `responsive-design`, `theme`
 
