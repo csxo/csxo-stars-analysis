@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6649 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
+| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6667 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
 
 ### [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md)
 
