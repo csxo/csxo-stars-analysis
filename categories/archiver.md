@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22615 | JavaScript | annotations, archive, archiver, auto-save, browser |
-| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2754 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
+| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22633 | JavaScript | annotations, archive, archiver, auto-save, browser |
+| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2758 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
 
 ### [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md)
 
