@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 42910 | Kotlin | accessibility, android, auto, click, compose |
-| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22475 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 43048 | Kotlin | accessibility, android, auto, click, compose |
+| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22481 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
 
 ### [gkd-kit/gkd](../repos/gkd-kit-gkd.md)
 
