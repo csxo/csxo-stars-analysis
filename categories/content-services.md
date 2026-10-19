@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 77440 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
+| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 77551 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
 
 ### [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md)
 
