@@ -4,20 +4,20 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 399165 | Python | books, education, hacktoberfest, list, resource |
-| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 133961 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94310 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
-| [iina/iina](../repos/iina-iina.md) | 7.0 | 46799 | Swift | hacktoberfest, macos, mpv, swift, video |
-| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34685 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
-| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26357 | Python | download-music, hacktoberfest, mp3, music, playlists |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25032 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21336 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15696 | Go | community, forum, go, golang, hacktoberfest |
-| [librespeed/speedtest](../repos/librespeed-speedtest.md) | 7.0 | 15228 | JavaScript | hacktoberfest, html5-speedtest, internet-speed, internet-speed-checker, librespeed |
-| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13013 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
-| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12144 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
+| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 399535 | Python | books, education, hacktoberfest, list, resource |
+| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 134143 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94511 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [iina/iina](../repos/iina-iina.md) | 7.0 | 46832 | Swift | hacktoberfest, macos, mpv, swift, video |
+| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34688 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
+| [spotDL/spotify-downloader](../repos/spotdl-spotify-downloader.md) | 7.0 | 26382 | Python | download-music, hacktoberfest, mp3, music, playlists |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25089 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21348 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15699 | Go | community, forum, go, golang, hacktoberfest |
+| [librespeed/speedtest](../repos/librespeed-speedtest.md) | 7.0 | 15234 | JavaScript | hacktoberfest, html5-speedtest, internet-speed, internet-speed-checker, librespeed |
+| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13018 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
+| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12165 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
 | [catppuccin/squirrel](../repos/catppuccin-squirrel.md) | 7.0 | 53 | — | catppuccin, hacktoberfest, rime, rime-squirrel, squirrel |
-| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58130 | C# | csharp, dotnet, hacktoberfest, jellyfin |
+| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58236 | C# | csharp, dotnet, hacktoberfest, jellyfin |
 
 ### [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md)
 
