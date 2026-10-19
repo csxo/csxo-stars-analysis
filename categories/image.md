@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3789 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
+| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3790 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
 | [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2766 | C# | db, ffmpeg, gif, image, library |
-| [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md) | 7.0 | 1899 | Kotlin | android, image, image-watermark, tools, watermark |
+| [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md) | 7.0 | 1902 | Kotlin | android, image, image-watermark, tools, watermark |
 
 ### [dessant/search-by-image](../repos/dessant-search-by-image.md)
 
