@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 151141
+- **Star 数**: 152314
 - **主语言**: TypeScript
 
 ## 简介
@@ -32,9 +32,9 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
+| [zhaoolee/ChineseBQB](zhaoolee-chinesebqb.md) | 1.00 | `(none)`, `typescript` |
 | [hectorqin/reader](hectorqin-reader.md) | 1.00 | `(none)`, `typescript` |
 | [btpf/Alexandria](btpf-alexandria.md) | 1.00 | `(none)`, `typescript` |
 | [zu1k/book-searcher](zu1k-book-searcher.md) | 1.00 | `(none)`, `typescript` |
 | [FluentRead/FluentRead](fluentread-fluentread.md) | 1.00 | `(none)`, `typescript` |
-| [cline/cline](cline-cline.md) | 1.00 | `(none)`, `typescript` |
 
