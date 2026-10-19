@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7662
+- **Star 数**: 7663
 - **主语言**: HTML
 - **GitHub 主题**: `android`, `elasticsearch`, `feed-reader`, `ios`, `mongodb`, `postgresql`, `python`, `redis`, `rss`, `rss-reader`
 
