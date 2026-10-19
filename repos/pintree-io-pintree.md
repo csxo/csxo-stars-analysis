@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2593
+- **Star 数**: 2595
 - **主语言**: TypeScript
 - **GitHub 主题**: `bookmark`, `directory`, `directory-website`
 
