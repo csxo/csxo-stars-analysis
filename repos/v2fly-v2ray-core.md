@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 34685
+- **Star 数**: 34688
 - **主语言**: Go
 - **GitHub 主题**: `anticensorship`, `hacktoberfest`, `network`, `proxy`, `shadowsocks`, `socks5`, `trojan`, `tunnel`, `v2fly`, `v2ray`, `vless`, `vmess`, `vpn`
 
