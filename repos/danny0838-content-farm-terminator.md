@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 1414
+- **Star 数**: 1415
 - **主语言**: JavaScript
 - **GitHub 主题**: `chrome-extension`, `firefox-addon`
 
