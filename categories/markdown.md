@@ -1,17 +1,19 @@
 # markdown
 
-> 项目数: **8**
+> 项目数: **10**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 190485 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 63833 | Go | docker, foss, go, markdown, memo |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13429 | TypeScript | ai-bot, doocs, editor, llm, markdown |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11378 | TypeScript | commonmark, editor, gfm, lute, markdown |
-| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4251 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3982 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2043 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
-| [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4046 | — | markdown |
+| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 191002 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 63908 | Go | docker, foss, go, markdown, memo |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13441 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11381 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4253 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3984 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2045 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 363 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
+| [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 42 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
+| [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4047 | — | markdown |
 
 ### [microsoft/markitdown](../repos/microsoft-markitdown.md)
 
@@ -40,6 +42,14 @@ A Python implementation of John Gruber’s Markdown with Extension support.
 ### [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md)
 
 Field Theory CLI for bookmarks, Library, commands, and agent workflows
+
+### [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md)
+
+乔木剪藏：剪藏网页到 Obsidian，阅读、编辑，并向 AI 提问 | Clip the web to Obsidian, then read, edit and chat with AI about it.
+
+### [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md)
+
+在 Obsidian 写好，预览排版、制作封面、发到公众号草稿箱 | Format Obsidian notes and send them to WeChat drafts.
 
 ### [younghz/Markdown](../repos/younghz-markdown.md)
 
