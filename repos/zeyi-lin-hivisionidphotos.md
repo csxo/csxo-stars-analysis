@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 21633
+- **Star 数**: 21644
 - **主语言**: Python
 - **GitHub 主题**: `cnn`, `demo`, `docker`, `face-recognition`, `fastapi`, `gradio`, `idphoto`, `machine-learning`, `matting`, `mtcnn`, `tools`, `unet`
 
