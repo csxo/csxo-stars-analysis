@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6817
+- **Star 数**: 6822
 - **主语言**: —
 - **GitHub 主题**: `alternatives`, `awesome`, `awesome-list`, `curated-list`, `foss`, `free-software`, `open-source`, `open-source-alternatives`, `openalternative`, `software-alternatives`
 
