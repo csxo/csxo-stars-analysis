@@ -4,27 +4,27 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 151747 | Rust | clash, clash-meta, clash-verge, linux, mac |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 56063 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33226 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 28830 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 27803 | JavaScript | clash, luci, mihomo, openclash, openwrt |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21879 | TypeScript | clash, cross-platform, react, rust, tauri |
-| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20172 | — | anytls, clash, mac, macos, native |
-| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17095 | C++ | clash, clashr, emoji, gist, quantumult |
-| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13224 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
-| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11226 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10699 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
-| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9364 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
-| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7674 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
+| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 152419 | Rust | clash, clash-meta, clash-verge, linux, mac |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 56789 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33295 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 28882 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 27837 | JavaScript | clash, luci, mihomo, openclash, openwrt |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21876 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20173 | — | anytls, clash, mac, macos, native |
+| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17096 | C++ | clash, clashr, emoji, gist, quantumult |
+| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13229 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
+| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11223 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10720 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9378 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
+| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7691 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
 | [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7437 | Go | clash, geoip, geoip2, proxy, quantumultx |
-| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6624 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
-| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3533 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2828 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
-| [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2060 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 26844 | TypeScript | clash, clash-meta, electron, mihomo |
-| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6805 | Python | acl, acl4ssr, clash, gfwlist |
-| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 9866 | Dart | clash, clashmi, mihomo |
+| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6633 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
+| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3537 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2830 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2057 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 26882 | TypeScript | clash, clash-meta, electron, mihomo |
+| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6819 | Python | acl, acl4ssr, clash, gfwlist |
+| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 9927 | Dart | clash, clashmi, mihomo |
 
 ### [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md)
 
