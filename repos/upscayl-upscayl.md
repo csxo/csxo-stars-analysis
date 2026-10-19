@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 50629
+- **Star 数**: 50740
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `electron`, `esrgan`, `gigapixel`, `gigapixel-images`, `image`, `image-upscaling`, `topaz`, `upscale`, `upscalerimage`, `upscayl`
 
