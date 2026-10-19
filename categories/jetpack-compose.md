@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 29753 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
+| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 29855 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
 
 ### [JunkFood02/Seal](../repos/junkfood02-seal.md)
 
