@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 107398 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
+| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 107449 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
 
 ### [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md)
 
