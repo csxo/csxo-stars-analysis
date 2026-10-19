@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 2191
+- **Star 数**: 2193
 - **主语言**: TypeScript
 - **GitHub 主题**: `rss`, `rss-aggregator`, `rss-reader`, `self-hosted`
 
