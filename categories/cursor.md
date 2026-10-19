@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 107171 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 108380 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
 
 ### [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md)
 
