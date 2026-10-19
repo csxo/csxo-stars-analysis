@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 58130
+- **Star 数**: 58236
 - **主语言**: C#
 - **GitHub 主题**: `csharp`, `dotnet`, `hacktoberfest`, `jellyfin`
 
