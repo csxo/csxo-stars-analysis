@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 362547 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
+| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 362958 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
 
 ### [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md)
 
