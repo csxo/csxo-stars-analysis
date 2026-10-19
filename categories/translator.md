@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 12879 | JavaScript | extension, translate, translation, translator, userscript |
+| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 12911 | JavaScript | extension, translate, translation, translator, userscript |
 
 ### [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md)
 
