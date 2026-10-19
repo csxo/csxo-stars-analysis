@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 63620
+- **Star 数**: 63746
 - **主语言**: —
 - **GitHub 主题**: `chat-gpt`, `chatgpt`, `chatgpt3`, `chatgpt4`, `gpt`
 
