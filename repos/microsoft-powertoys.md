@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 139369
+- **Star 数**: 139482
 - **主语言**: C
 - **GitHub 主题**: `advanced-paste`, `color-picker`, `command-palette`, `desktop`, `fancyzones`, `keyboard-manager`, `microsoft-powertoys`, `powerrename`, `powertoys`, `windows`, `windows-10`, `windows-11`
 
