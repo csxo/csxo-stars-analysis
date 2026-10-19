@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md) | 7.0 | 71486 | Python | academic, chatglm-6b, chatgpt, gpt-4, large-language-models |
+| [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md) | 7.0 | 71506 | Python | academic, chatglm-6b, chatgpt, gpt-4, large-language-models |
 
 ### [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md)
 
