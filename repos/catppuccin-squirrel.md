@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 53
+- **Star 数**: 54
 - **主语言**: —
 - **GitHub 主题**: `catppuccin`, `hacktoberfest`, `rime`, `rime-squirrel`, `squirrel`, `theme`
 
