@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 12911
+- **Star 数**: 12970
 - **主语言**: JavaScript
 - **GitHub 主题**: `extension`, `translate`, `translation`, `translator`, `userscript`, `userscripts`
 
