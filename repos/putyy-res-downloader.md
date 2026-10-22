@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 20734
+- **Star 数**: 20780
 - **主语言**: Go
 - **GitHub 主题**: `douyin`, `kuaishou`, `res-downloader`, `wechat`, `wechat-video`, `xiaohongshu`
 
