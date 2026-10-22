@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5590 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
-| [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5096 | C# | csharp, tai, wpf |
+| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5604 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
+| [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5093 | C# | csharp, tai, wpf |
 
 ### [the1812/Malware-Patch](../repos/the1812-malware-patch.md)
 
