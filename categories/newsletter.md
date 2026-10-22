@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1648 | — | chinese, email, newsletter, rss |
+| [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1649 | — | chinese, email, newsletter, rss |
 
 ### [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md)
 
