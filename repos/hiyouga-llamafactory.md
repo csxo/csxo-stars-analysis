@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 75585
+- **Star 数**: 75652
 - **主语言**: Python
 - **GitHub 主题**: `agent`, `ai`, `deepseek`, `fine-tuning`, `gemma`, `gpt`, `instruction-tuning`, `large-language-models`, `llama`, `llama3`, `llm`, `lora`, `moe`, `nlp`, `peft`, `qlora`, `quantization`, `qwen`, `rlhf`, `transformers`
 
