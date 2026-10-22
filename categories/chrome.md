@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22371 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18634 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
-| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14607 | Go | browser, browser-extension, chrome, edge, firefox |
-| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14012 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
-| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13943 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
-| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13389 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22430 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18727 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
+| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14624 | Go | browser, browser-extension, chrome, edge, firefox |
+| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14034 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
+| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13956 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
+| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13393 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
 | [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8265 | Python | automation, chrome, crawl, csdn, hotmail |
-| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6244 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
-| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2767 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
+| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6258 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
+| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2769 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
 | [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md) | 6.5 | 183 | JavaScript | chrome, firefox, webextension, xstyle |
 
 ### [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md)
