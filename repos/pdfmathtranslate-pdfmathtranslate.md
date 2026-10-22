@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 37667
+- **Star 数**: 37755
 - **主语言**: Python
 - **GitHub 主题**: `chinese`, `document`, `edit`, `english`, `japanese`, `korean`, `latex`, `math`, `mcp`, `modify`, `obsidian`, `openai`, `pdf`, `pdf2zh`, `python`, `russian`, `translate`, `translation`, `zotero`
 
