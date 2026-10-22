@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 26189
+- **Star 数**: 26219
 - **主语言**: TypeScript
 - **GitHub 主题**: `apify`, `automation`, `crawler`, `crawling`, `headless`, `headless-chrome`, `javascript`, `nodejs`, `npm`, `playwright`, `puppeteer`, `scraper`, `scraping`, `typescript`, `web-crawler`, `web-crawling`, `web-scraping`
 
