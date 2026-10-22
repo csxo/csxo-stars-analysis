@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 156136 | Python | ai, llm, llm-ui, llm-webui, llms |
+| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 156414 | Python | ai, llm, llm-ui, llm-webui, llms |
 
 ### [open-webui/open-webui](../repos/open-webui-open-webui.md)
 
