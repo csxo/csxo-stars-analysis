@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 195018
+- **Star 数**: 195526
 - **主语言**: Batchfile
 - **GitHub 主题**: `activator`, `hwid`, `kms`, `kms38`, `massgrave`, `massgravel`, `microsoft`, `microsoft365`, `office`, `office365`, `ohook`, `powershell`, `tsforge`, `windows`, `windows-10`, `windows-11`
 
