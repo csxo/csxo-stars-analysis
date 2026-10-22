@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9209
+- **Star 数**: 9221
 - **主语言**: JavaScript
 - **GitHub 主题**: `backlight`, `backlight-brightness`, `brightness`, `brightness-control`, `brightness-level`, `brightness-levels`, `brightness-slider`, `ddc-ic`, `electron-app`, `monitors`, `multiple-monitors`, `nodejs`, `react`, `reactjs`, `windows`, `windows-10`, `windows-11`
 
