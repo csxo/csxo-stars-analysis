@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 251297 | — | awesome, awesome-list, bsd, cheatsheets, devops |
+| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 252255 | — | awesome, awesome-list, bsd, cheatsheets, devops |
 
 ### [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md)
 
