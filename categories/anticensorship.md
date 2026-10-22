@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42191 | Go | anticensorship, dns, network, proxy, reality |
-| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34688 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 28882 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25666 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
-| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19750 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
+| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42242 | Go | anticensorship, dns, network, proxy, reality |
+| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34698 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 28924 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25676 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
+| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19747 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
 | [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6633 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
 
 ### [XTLS/Xray-core](../repos/xtls-xray-core.md)
