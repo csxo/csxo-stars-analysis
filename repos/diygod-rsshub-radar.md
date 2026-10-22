@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7377
+- **Star 数**: 7375
 - **主语言**: TypeScript
 - **GitHub 主题**: `browser-extension`, `chrome-extension`, `firefox-addon`, `rss`, `rsshub`
 
