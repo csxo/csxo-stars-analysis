@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 19815 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
+| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 19857 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
 
 ### [iDvel/rime-ice](../repos/idvel-rime-ice.md)
 
