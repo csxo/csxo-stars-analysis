@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LHRUN/one-space](../repos/lhrun-one-space.md) | 7.0 | 123 | TypeScript | portfolio, portfolio-page, portfolio-site, portfolio-template, portfolio-website |
+| [LHRUN/one-space](../repos/lhrun-one-space.md) | 7.0 | 124 | TypeScript | portfolio, portfolio-page, portfolio-site, portfolio-template, portfolio-website |
 
 ### [LHRUN/one-space](../repos/lhrun-one-space.md)
 
