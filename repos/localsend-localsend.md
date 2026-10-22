@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 94887
+- **Star 数**: 95196
 - **主语言**: Dart
 - **GitHub 主题**: `dart`, `file-sharing`, `flutter`, `flutter-apps`
 
