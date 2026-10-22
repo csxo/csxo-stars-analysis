@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1485
+- **Star 数**: 1491
 - **主语言**: HTML
 - **GitHub 主题**: `ai`, `ai-search-engine`, `artificial-intelligence`, `artificial-intelligence-projects`, `awesome`, `awesome-list`, `generative-ai`, `generative-ai-projects`, `generative-ai-tools`, `information-retrieval`, `llm-inference`, `metasearch`, `question-answering`, `rag`, `retrieval-augmented-generation`, `web-search`
 
