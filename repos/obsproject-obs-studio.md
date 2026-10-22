@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 77759
+- **Star 数**: 77910
 - **主语言**: C
 - **GitHub 主题**: `c`, `c-plus-plus`, `directshow`, `facebook-live`, `ffmpeg`, `game-capture`, `live-streaming`, `screen-capture`, `twitch-tv`, `video-recording`, `youtube-live`
 
