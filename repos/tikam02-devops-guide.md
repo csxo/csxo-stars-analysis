@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9367
+- **Star 数**: 9368
 - **主语言**: HTML
 - **GitHub 主题**: `ansible`, `cheatsheet`, `ci-cd`, `containers`, `devops`, `devops-cheatsheets`, `docker`, `git`, `grafana`, `hacktoberfest`, `hacktoberfest-2020`, `hacktoberfest2020`, `interview`, `jenkins`, `kubernetes`, `kubernetes-monitoring`, `linux`, `networking`, `python`
 
