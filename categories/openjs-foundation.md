@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23757 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
+| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23774 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
 
 ### [node-red/node-red](../repos/node-red-node-red.md)
 
