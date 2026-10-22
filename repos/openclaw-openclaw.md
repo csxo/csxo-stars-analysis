@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 392434
+- **Star 数**: 392725
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `assistant`, `crustacean`, `molty`, `openclaw`, `own-your-data`, `personal`
 
