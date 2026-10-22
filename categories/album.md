@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4372 | Kotlin | album, android, androidx, audio, exoplayer |
+| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4384 | Kotlin | album, android, androidx, audio, exoplayer |
 
 ### [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md)
 
