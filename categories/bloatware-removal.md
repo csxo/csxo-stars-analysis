@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 59804 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
+| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 60387 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
 
 ### [Raphire/Win11Debloat](../repos/raphire-win11debloat.md)
 
