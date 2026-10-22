@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 14607
+- **Star 数**: 14624
 - **主语言**: Go
 - **GitHub 主题**: `browser`, `browser-extension`, `chrome`, `edge`, `firefox`, `golang`, `hacking`, `macos`, `pentest-tool`, `windows`
 
