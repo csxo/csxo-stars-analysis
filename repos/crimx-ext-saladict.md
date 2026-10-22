@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 13389
+- **Star 数**: 13393
 - **主语言**: TypeScript
 - **GitHub 主题**: `chrome`, `chrome-extension`, `dictionaries`, `extension`, `firefox`, `firefox-addon`, `firefox-extension`, `react`, `rxjs`, `saladict`, `typescript`, `webextension`
 
