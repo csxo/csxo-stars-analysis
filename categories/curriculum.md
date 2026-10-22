@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md) | 7.0 | 457472 | TypeScript | careers, certification, community, curriculum, d3 |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 96992 | JavaScript | css, curriculum, education, html, javascript |
+| [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md) | 7.0 | 457672 | TypeScript | careers, certification, community, curriculum, d3 |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97010 | JavaScript | css, curriculum, education, html, javascript |
 
 ### [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md)
 
