@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11223 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
-| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6819 | Python | acl, acl4ssr, clash, gfwlist |
+| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11222 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
+| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6838 | Python | acl, acl4ssr, clash, gfwlist |
 
 ### [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md)
 
