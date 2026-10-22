@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5971
+- **Star 数**: 5974
 - **主语言**: JavaScript
 - **GitHub 主题**: `adblock`, `remove-not-allowed`, `tampermonkey`, `tampermonkey-userscript`, `undetected`, `youtube`, `youtube-adblocker`
 
