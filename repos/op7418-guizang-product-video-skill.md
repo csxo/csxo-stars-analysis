@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 829
+- **Star 数**: 850
 - **主语言**: Python
 - **GitHub 主题**: `agent-skills`, `claude-code`, `codepilot`, `codex`, `hyperframes`, `motion-design`, `product-video`, `release-notes`, `skill`, `skills`, `video-generation`
 
