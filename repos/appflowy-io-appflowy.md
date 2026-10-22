@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 77551
+- **Star 数**: 77641
 - **主语言**: Dart
 - **GitHub 主题**: `blog`, `confluence-alternative`, `content-management`, `content-services`, `documentation`, `flutter`, `note-taking`, `notion-alternative`, `project-management`, `task-management`, `team-collaboration`, `wiki`
 
