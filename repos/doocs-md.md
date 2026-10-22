@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 13441
+- **Star 数**: 13453
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-bot`, `doocs`, `editor`, `llm`, `markdown`, `markdown-editor`, `tailwindcss`, `vite`, `vue`, `vue3`, `wechat`, `weixin`
 
