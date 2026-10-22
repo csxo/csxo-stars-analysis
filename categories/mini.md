@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Orz-3/mini](../repos/orz-3-mini.md) | 5.5 | 2201 | — | icon, mini |
+| [Orz-3/mini](../repos/orz-3-mini.md) | 5.5 | 2202 | — | icon, mini |
 
 ### [Orz-3/mini](../repos/orz-3-mini.md)
 
