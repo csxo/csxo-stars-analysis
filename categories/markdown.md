@@ -4,16 +4,16 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 191002 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 63908 | Go | docker, foss, go, markdown, memo |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13441 | TypeScript | ai-bot, doocs, editor, llm, markdown |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11381 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 191556 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 63995 | Go | docker, foss, go, markdown, memo |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13453 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11392 | TypeScript | commonmark, editor, gfm, lute, markdown |
 | [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4253 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3984 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3985 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
 | [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2045 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
-| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 363 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
+| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 380 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
 | [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 42 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
-| [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4047 | — | markdown |
+| [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4050 | — | markdown |
 
 ### [microsoft/markitdown](../repos/microsoft-markitdown.md)
 
