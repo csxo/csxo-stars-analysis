@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8450 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
+| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8446 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
 
 ### [NobyDa/Script](../repos/nobyda-script.md)
 
