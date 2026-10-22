@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 63018
+- **Star 数**: 63102
 - **主语言**: Python
 - **GitHub 主题**: `ai`, `bark`, `data-analysis`, `docker`, `hot-news`, `llm`, `mail`, `mcp`, `mcp-server`, `news`, `ntfy`, `python`, `rss`, `trending-topics`, `wechat`, `wework`
 
