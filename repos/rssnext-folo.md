@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 39120
+- **Star 数**: 39147
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `reader`, `rss`, `rss-reader`, `rsshub`
 
