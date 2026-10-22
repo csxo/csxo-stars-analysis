@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6244
+- **Star 数**: 6258
 - **主语言**: TypeScript
 - **GitHub 主题**: `adblock`, `bilibili`, `browser-extension`, `chrome`, `chrome-extension`, `sponsorblock`, `web-extension`
 
