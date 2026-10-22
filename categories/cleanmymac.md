@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tw93/Mole](../repos/tw93-mole.md) | 7.0 | 71455 | Shell | analyzer, appcleaner, clean, cleaner, cleanmymac |
+| [tw93/Mole](../repos/tw93-mole.md) | 7.0 | 72287 | Shell | analyzer, appcleaner, clean, cleaner, cleanmymac |
 
 ### [tw93/Mole](../repos/tw93-mole.md)
 
