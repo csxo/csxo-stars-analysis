@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42191 | Go | anticensorship, dns, network, proxy, reality |
-| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34688 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
-| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9169 | C | arm64, firewall, foss, network, simplewall |
+| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42242 | Go | anticensorship, dns, network, proxy, reality |
+| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34698 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
+| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9185 | C | arm64, firewall, foss, network, simplewall |
 
 ### [XTLS/Xray-core](../repos/xtls-xray-core.md)
 
