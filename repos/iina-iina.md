@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 46832
+- **Star 数**: 46872
 - **主语言**: Swift
 - **GitHub 主题**: `hacktoberfest`, `macos`, `mpv`, `swift`, `video`, `video-player`
 
