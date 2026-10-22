@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14012 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
+| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14034 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
 
 ### [bitwarden/clients](../repos/bitwarden-clients.md)
 
