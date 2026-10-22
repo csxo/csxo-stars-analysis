@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19750 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
+| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19747 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
 
 ### [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md)
 
