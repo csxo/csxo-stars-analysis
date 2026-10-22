@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5930
+- **Star 数**: 5932
 - **主语言**: Python
 - **GitHub 主题**: `all-in-one`, `apps`, `atom-feed`, `atomfeed`, `community`, `curation`, `feed43`, `json-feed`, `jsonfeed`, `list`, `really-simple-sydication`, `rich-site-summary`, `rss`, `rss-aggregator`, `rss-feed`, `rss-reader`, `rssfeed`, `stuffs`, `telegram`, `telegram-channel`
 
