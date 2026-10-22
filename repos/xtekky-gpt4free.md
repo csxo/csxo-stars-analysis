@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 66893
+- **Star 数**: 66917
 - **主语言**: Python
 - **GitHub 主题**: `chatbot`, `chatbots`, `chatgpt`, `chatgpt-4`, `chatgpt-api`, `chatgpt-free`, `chatgpt4`, `deepseek`, `deepseek-api`, `deepseek-r1`, `gpt`, `gpt-4`, `gpt-4o`, `gpt4`, `gpt4-api`, `language-model`, `openai`, `openai-api`, `openai-chatgpt`, `reverse-engineering`
 
