@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 457472
+- **Star 数**: 457672
 - **主语言**: TypeScript
 - **GitHub 主题**: `careers`, `certification`, `community`, `curriculum`, `d3`, `education`, `freecodecamp`, `javascript`, `learn-to-code`, `math`, `nodejs`, `nonprofits`, `programming`, `react`, `teachers`
 
