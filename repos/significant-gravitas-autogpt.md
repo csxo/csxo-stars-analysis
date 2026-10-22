@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 187649
+- **Star 数**: 187699
 - **主语言**: Python
 - **GitHub 主题**: `agentic-ai`, `agents`, `ai`, `artificial-intelligence`, `autonomous-agents`, `claude`, `gpt`, `llama-api`, `llm`, `openai`, `python`
 
