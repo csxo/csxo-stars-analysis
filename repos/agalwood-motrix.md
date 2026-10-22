@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 57059
+- **Star 数**: 57223
 - **主语言**: TypeScript
 - **GitHub 主题**: `aria2`, `bt`, `download`, `electron`, `linux`, `mac`, `macos`, `magnet`, `motrix`, `torrent`, `windows`
 
