@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14307 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11381 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14306 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11392 | TypeScript | commonmark, editor, gfm, lute, markdown |
 
 ### [pandao/editor.md](../repos/pandao-editor-md.md)
 
