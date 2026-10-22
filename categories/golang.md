@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287232 | Python | beginner-project, cpp, golang, javascript, project |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46921 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25089 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22677 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15699 | Go | community, forum, go, golang, hacktoberfest |
-| [spotiflacapp/SpotiFLAC-Mobile](../repos/spotiflacapp-spotiflac-mobile.md) | 7.0 | 6788 | Dart | android, flac, flutter, golang, ios |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287567 | Python | beginner-project, cpp, golang, javascript, project |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46915 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25159 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22703 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15701 | Go | community, forum, go, golang, hacktoberfest |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7160 | Dart | android, flac, flutter, golang, ios |
 | [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
@@ -32,7 +32,7 @@ Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy
 
 A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
-### [spotiflacapp/SpotiFLAC-Mobile](../repos/spotiflacapp-spotiflac-mobile.md)
+### [mornyeapp/Mornye](../repos/mornyeapp-mornye.md)
 
 Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 
