@@ -2,19 +2,19 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 654  
-- **已分析**: 654  
-- **分类数**: 1225
+- **Star 总数**: 658  
+- **已分析**: 658  
+- **分类数**: 1228
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 447 |
+| [Other](categories/other.md) | 448 |
 | [(none)](categories/none.md) | 156 |
-| [AI / LLM](categories/ai-llm.md) | 81 |
+| [AI / LLM](categories/ai-llm.md) | 84 |
 | [Frontend](categories/frontend.md) | 63 |
-| [ai](categories/ai.md) | 41 |
+| [ai](categories/ai.md) | 43 |
 | [DevOps](categories/devops.md) | 32 |
 | [CLI / Terminal](categories/cli-terminal.md) | 31 |
 | [chrome-extension](categories/chrome-extension.md) | 25 |
@@ -22,26 +22,26 @@
 | [javascript](categories/javascript.md) | 22 |
 | [awesome](categories/awesome.md) | 21 |
 | [clash](categories/clash.md) | 21 |
-| [chatgpt](categories/chatgpt.md) | 19 |
-| [claude-code](categories/claude-code.md) | 16 |
+| [chatgpt](categories/chatgpt.md) | 20 |
+| [claude-code](categories/claude-code.md) | 17 |
+| [ai-agents](categories/ai-agents.md) | 16 |
 | [adblock](categories/adblock.md) | 15 |
-| [ai-agents](categories/ai-agents.md) | 15 |
+| [macos](categories/macos.md) | 15 |
 | [rss](categories/rss.md) | 15 |
+| [claude](categories/claude.md) | 14 |
 | [cross-platform](categories/cross-platform.md) | 14 |
 | [hacktoberfest](categories/hacktoberfest.md) | 14 |
-| [macos](categories/macos.md) | 14 |
 | [awesome-list](categories/awesome-list.md) | 13 |
-| [claude](categories/claude.md) | 13 |
 | [cli](categories/cli.md) | 13 |
 | [agent](categories/agent.md) | 12 |
 | [electron](categories/electron.md) | 12 |
 | [python](categories/python.md) | 12 |
+| [agent-skills](categories/agent-skills.md) | 11 |
 | [browser-extension](categories/browser-extension.md) | 11 |
 | [chinese](categories/chinese.md) | 11 |
 | [proxy](categories/proxy.md) | 11 |
 | [react](categories/react.md) | 11 |
 | [shadowsocks](categories/shadowsocks.md) | 11 |
-| [agent-skills](categories/agent-skills.md) | 10 |
 | [chrome](categories/chrome.md) | 10 |
 | [ios](categories/ios.md) | 10 |
 | [linux](categories/linux.md) | 10 |
@@ -51,6 +51,7 @@
 | [deepseek](categories/deepseek.md) | 9 |
 | [desktop-app](categories/desktop-app.md) | 9 |
 | [userscript](categories/userscript.md) | 9 |
+| [codex](categories/codex.md) | 8 |
 | [editor](categories/editor.md) | 8 |
 | [firefox](categories/firefox.md) | 8 |
 | [gui](categories/gui.md) | 8 |
@@ -59,7 +60,6 @@
 | [artificial-intelligence](categories/artificial-intelligence.md) | 7 |
 | [c](categories/c.md) | 7 |
 | [chromium](categories/chromium.md) | 7 |
-| [codex](categories/codex.md) | 7 |
 | [computer-science](categories/computer-science.md) | 7 |
 | [deep-learning](categories/deep-learning.md) | 7 |
 | [desktop](categories/desktop.md) | 7 |
@@ -92,6 +92,7 @@
 | [docker](categories/docker.md) | 5 |
 | [dotnet](categories/dotnet.md) | 5 |
 | [download](categories/download.md) | 5 |
+| [gemini](categories/gemini.md) | 5 |
 | [go](categories/go.md) | 5 |
 | [hexo](categories/hexo.md) | 5 |
 | [java](categories/java.md) | 5 |
@@ -115,7 +116,6 @@
 | [feed](categories/feed.md) | 4 |
 | [firefox-extension](categories/firefox-extension.md) | 4 |
 | [free](categories/free.md) | 4 |
-| [gemini](categories/gemini.md) | 4 |
 | [gemma](categories/gemma.md) | 4 |
 | [iptv](categories/iptv.md) | 4 |
 | [jellyfin](categories/jellyfin.md) | 4 |
@@ -124,6 +124,7 @@
 | [open-source](categories/open-source.md) | 4 |
 | [swift](categories/swift.md) | 4 |
 | [video](categories/video.md) | 4 |
+| [agent-skill](categories/agent-skill.md) | 3 |
 | [agentic-ai](categories/agentic-ai.md) | 3 |
 | [agents](categories/agents.md) | 3 |
 | [alternatives](categories/alternatives.md) | 3 |
@@ -190,13 +191,14 @@
 | [adblocker](categories/adblocker.md) | 2 |
 | [aero](categories/aero.md) | 2 |
 | [agent-framework](categories/agent-framework.md) | 2 |
-| [agent-skill](categories/agent-skill.md) | 2 |
 | [agent-tools](categories/agent-tools.md) | 2 |
 | [ai-chat](categories/ai-chat.md) | 2 |
 | [ai-search-engine](categories/ai-search-engine.md) | 2 |
 | [ai-translation](categories/ai-translation.md) | 2 |
+| [ai-video](categories/ai-video.md) | 2 |
 | [android-app](categories/android-app.md) | 2 |
 | [angular](categories/angular.md) | 2 |
+| [animation](categories/animation.md) | 2 |
 | [api](categories/api.md) | 2 |
 | [apple-weather-app](categories/apple-weather-app.md) | 2 |
 | [apps](categories/apps.md) | 2 |
@@ -310,6 +312,7 @@
 | [rime-squirrel](categories/rime-squirrel.md) | 2 |
 | [rolldown-vite](categories/rolldown-vite.md) | 2 |
 | [shadowsocksr](categories/shadowsocksr.md) | 2 |
+| [skills](categories/skills.md) | 2 |
 | [socks5](categories/socks5.md) | 2 |
 | [squirrel](categories/squirrel.md) | 2 |
 | [subtitles](categories/subtitles.md) | 2 |
@@ -359,8 +362,9 @@
 | [ai-painting](categories/ai-painting.md) | 1 |
 | [ai-playground](categories/ai-playground.md) | 1 |
 | [ai-powered](categories/ai-powered.md) | 1 |
+| [ai-short-film](categories/ai-short-film.md) | 1 |
 | [ai-skills](categories/ai-skills.md) | 1 |
-| [ai-video](categories/ai-video.md) | 1 |
+| [ai-subscription](categories/ai-subscription.md) | 1 |
 | [ai-video-generation](categories/ai-video-generation.md) | 1 |
 | [ai-video-generator](categories/ai-video-generator.md) | 1 |
 | [ai-webcam](categories/ai-webcam.md) | 1 |
@@ -390,7 +394,6 @@
 | [android-tv-box](categories/android-tv-box.md) | 1 |
 | [androidx](categories/androidx.md) | 1 |
 | [angular-roadmap](categories/angular-roadmap.md) | 1 |
-| [animation](categories/animation.md) | 1 |
 | [annotations](categories/annotations.md) | 1 |
 | [ansible](categories/ansible.md) | 1 |
 | [answering-engine](categories/answering-engine.md) | 1 |
@@ -862,6 +865,7 @@
 | [icon-pack](categories/icon-pack.md) | 1 |
 | [idea](categories/idea.md) | 1 |
 | [ideabook](categories/ideabook.md) | 1 |
+| [ilya-sutskever](categories/ilya-sutskever.md) | 1 |
 | [image-editing](categories/image-editing.md) | 1 |
 | [image-file-execution-options](categories/image-file-execution-options.md) | 1 |
 | [image-matting](categories/image-matting.md) | 1 |
@@ -1126,7 +1130,6 @@
 | [sing-box](categories/sing-box.md) | 1 |
 | [sketchboard](categories/sketchboard.md) | 1 |
 | [skill](categories/skill.md) | 1 |
-| [skills](categories/skills.md) | 1 |
 | [slate-editor](categories/slate-editor.md) | 1 |
 | [snapdrop](categories/snapdrop.md) | 1 |
 | [socks](categories/socks.md) | 1 |
@@ -1255,9 +1258,9 @@
 
 | Tech | Count |
 | --- | ---: |
-| TypeScript | 113 |
-| Python | 103 |
-| JavaScript | 99 |
+| TypeScript | 115 |
+| Python | 104 |
+| JavaScript | 100 |
 | C# | 28 |
 | C++ | 28 |
 | Go | 28 |
@@ -1272,4 +1275,4 @@
 | Java | 7 |
 
 ---
-_生成时间: 2026-10-19T09:29:53Z_
+_生成时间: 2026-10-22T09:04:42Z_
