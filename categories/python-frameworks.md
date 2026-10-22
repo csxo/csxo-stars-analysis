@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 328589 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
+| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 329342 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
 
 ### [vinta/awesome-python](../repos/vinta-awesome-python.md)
 
