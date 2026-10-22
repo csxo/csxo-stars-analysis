@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 17472
+- **Star 数**: 17489
 - **主语言**: Jupyter Notebook
 - **GitHub 主题**: `csharp`, `java`, `javascript`, `javascript-applications`, `mcp`, `mcp-client`, `mcp-security`, `mcp-server`, `model`, `model-context-protocol`, `modelcontextprotocol`, `python`, `rust`, `typescript`
 
