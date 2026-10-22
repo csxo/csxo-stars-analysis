@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 41142
+- **Star 数**: 41153
 - **主语言**: Vim Script
 - **GitHub 主题**: `c`, `cross-platform`, `text-editor`, `vim`
 
