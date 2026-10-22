@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 36886
+- **Star 数**: 36881
 - **主语言**: Python
 - **GitHub 主题**: `ai`, `deep-learning`, `pytorch`, `speech`, `text-to-speech`, `tts`
 
