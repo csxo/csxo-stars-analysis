@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 19815
+- **Star 数**: 19857
 - **主语言**: Lua
 - **GitHub 主题**: `rime`, `rime-config`, `rime-custom`, `rime-schema`, `rime-squirrel`, `rime-weasel`
 
