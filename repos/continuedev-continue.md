@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 36257
+- **Star 数**: 36289
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent`, `ai`, `cli`, `developer-tools`, `open-source`
 
