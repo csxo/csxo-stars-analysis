@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 88861
+- **Star 数**: 88882
 - **主语言**: TypeScript
 - **GitHub 主题**: `calclaude`, `claude`, `cross-platform`, `desktop`, `fe`, `gemini`, `gemini-pro`, `gemini-server`, `gemini-ultra`, `gpt-4o`, `groq`, `nextjs`, `ollama`, `react`, `tauri`, `tauri-app`, `vercel`, `webui`
 
