@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5254 | C# | acrylic, backdrop, mica, win32, windows |
+| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5256 | C# | acrylic, backdrop, mica, win32, windows |
 
 ### [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md)
 
