@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 32291
+- **Star 数**: 32307
 - **主语言**: —
 - **GitHub 主题**: `aria2`, `aria2-format-tracker`, `bittorrent`, `bittorrent-trackers`, `qbittorrent`, `torrent`, `torrent-tracker`, `tracker`, `trackers`, `trackerslist`, `utorrent`
 
