@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6109 | CSS | beautify, css, customization, spicetify, spicetify-themes |
+| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6112 | CSS | beautify, css, customization, spicetify, spicetify-themes |
 
 ### [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md)
 
