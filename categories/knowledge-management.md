@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [revezone/revezone](../repos/revezone-revezone.md) | 7.0 | 2664 | TypeScript | brain-storms, canvas, capture-organize-distill-express, excalidraw, knowledge-management |
+| [revezone/revezone](../repos/revezone-revezone.md) | 7.0 | 2660 | TypeScript | brain-storms, canvas, capture-organize-distill-express, excalidraw, knowledge-management |
 
 ### [revezone/revezone](../repos/revezone-revezone.md)
 
