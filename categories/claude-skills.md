@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 86931 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 85600 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 26768 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 87579 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 87306 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 26854 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
 
 ### [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md)
 
