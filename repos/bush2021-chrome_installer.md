@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 1695
+- **Star 数**: 1701
 - **主语言**: Python
 - **GitHub 主题**: `github-actions`, `google-chrome`, `offline-installer`, `windows`
 
