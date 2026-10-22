@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28633 | JavaScript | china, converter, epg, iptv, ipv6 |
+| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28657 | JavaScript | china, converter, epg, iptv, ipv6 |
 
 ### [fanmingming/live](../repos/fanmingming-live.md)
 
