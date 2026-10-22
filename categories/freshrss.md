@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16320 | PHP | feed, freshrss, news-aggregator, php, rss |
+| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16381 | PHP | feed, freshrss, news-aggregator, php, rss |
 
 ### [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md)
 
