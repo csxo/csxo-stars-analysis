@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 582
+- **Star 数**: 586
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `cross-platform`, `desktop-app`, `dev-tools`, `editor`, `katex`, `markdown`, `markdown-editor`, `markdown-language`, `md`, `mermaid`, `note-taking`, `notes`, `productive`, `productive-tool`, `react`, `rust`, `tauri`, `typescript`
 
