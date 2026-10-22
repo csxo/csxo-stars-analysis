@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25666 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
-| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12165 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
+| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25676 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
+| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12191 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
 
 ### [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md)
 
