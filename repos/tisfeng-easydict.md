@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 15000
+- **Star 数**: 15033
 - **主语言**: Swift
 - **GitHub 主题**: `app`, `baidu`, `bing`, `deepl`, `dictionary`, `gemini`, `google`, `macos`, `ocr`, `openai`, `shortcuts`, `tencent`, `translate`, `translator`, `youdao`
 
