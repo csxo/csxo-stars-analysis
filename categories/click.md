@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 43048 | Kotlin | accessibility, android, auto, click, compose |
+| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 43192 | Kotlin | accessibility, android, auto, click, compose |
 
 ### [gkd-kit/gkd](../repos/gkd-kit-gkd.md)
 
