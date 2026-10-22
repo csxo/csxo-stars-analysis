@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20023 | Python | alternatives, apps, awesome, awesome-list, degoogle |
-| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5930 | Python | all-in-one, apps, atom-feed, atomfeed, community |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20072 | Python | alternatives, apps, awesome, awesome-list, degoogle |
+| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5932 | Python | all-in-one, apps, atom-feed, atomfeed, community |
 
 ### [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md)
 
