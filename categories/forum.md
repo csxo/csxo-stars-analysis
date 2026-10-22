@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15699 | Go | community, forum, go, golang, hacktoberfest |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15701 | Go | community, forum, go, golang, hacktoberfest |
 
 ### [apache/answer](../repos/apache-answer.md)
 
