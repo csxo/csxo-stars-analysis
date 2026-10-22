@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36886 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
+| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36881 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
 
 ### [babysor/MockingBird](../repos/babysor-mockingbird.md)
 
