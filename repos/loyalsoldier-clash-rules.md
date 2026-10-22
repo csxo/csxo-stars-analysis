@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 28882
+- **Star 数**: 28924
 - **主语言**: —
 - **GitHub 主题**: `adblock`, `adguard`, `anticensorship`, `chinalist`, `clash`, `dnsmasq`, `easylist`, `geosite`, `gfw`, `gfwlist`, `proxy`, `routing`, `shadowsocks`, `ss`, `ssr`, `surge`, `v2ray`
 
