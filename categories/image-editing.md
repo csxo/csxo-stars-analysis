@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7335 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7349 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
 
 ### [xushengfeng/eSearch](../repos/xushengfeng-esearch.md)
 
