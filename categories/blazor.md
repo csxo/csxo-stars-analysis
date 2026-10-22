@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32087 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32105 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
 
 ### [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md)
 
