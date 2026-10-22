@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [librespeed/speedtest](../repos/librespeed-speedtest.md) | 7.0 | 15234 | JavaScript | hacktoberfest, html5-speedtest, internet-speed, internet-speed-checker, librespeed |
+| [librespeed/speedtest](../repos/librespeed-speedtest.md) | 7.0 | 15247 | JavaScript | hacktoberfest, html5-speedtest, internet-speed, internet-speed-checker, librespeed |
 
 ### [librespeed/speedtest](../repos/librespeed-speedtest.md)
 
