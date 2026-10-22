@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 30174
+- **Star 数**: 30204
 - **主语言**: —
 - **GitHub 主题**: `awesome`, `iptv`, `iptv-channels`, `iptv-free`, `iptv-m3u8`, `iptv-playlist`, `kodi`, `kodi-addons`, `kodi-plugin`, `m3u`, `m3u8`
 
