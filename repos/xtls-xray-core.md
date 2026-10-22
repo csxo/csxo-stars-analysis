@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 42191
+- **Star 数**: 42242
 - **主语言**: Go
 - **GitHub 主题**: `anticensorship`, `dns`, `network`, `proxy`, `reality`, `shadowsocks`, `socks5`, `tls`, `trojan`, `tunnel`, `utls`, `vision`, `vless`, `vmess`, `vpn`, `wireguard`, `xhttp`, `xray`, `xtls`, `xudp`
 
