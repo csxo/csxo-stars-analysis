@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nilbuild/developer-roadmap](../repos/nilbuild-developer-roadmap.md) | 7.0 | 369835 | TypeScript | angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science, dba-roadmap |
+| [nilbuild/developer-roadmap](../repos/nilbuild-developer-roadmap.md) | 7.0 | 370103 | TypeScript | angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science, dba-roadmap |
 
 ### [nilbuild/developer-roadmap](../repos/nilbuild-developer-roadmap.md)
 
