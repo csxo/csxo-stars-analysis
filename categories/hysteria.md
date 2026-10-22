@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 56789 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33295 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22677 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 57400 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33357 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22703 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
 
 ### [chen08209/FlClash](../repos/chen08209-flclash.md)
 
