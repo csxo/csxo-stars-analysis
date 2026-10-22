@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 65410
+- **Star 数**: 65551
 - **主语言**: C
 - **GitHub 主题**: `audio`, `c`, `ffmpeg`, `fft`, `hevc`, `hls`, `matroska`, `mp4`, `mpeg`, `multimedia`, `rtmp`, `rtsp`, `streaming`, `video`, `webm`
 
