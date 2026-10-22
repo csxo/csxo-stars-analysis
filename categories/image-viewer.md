@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3153 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
+| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3157 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
 
 ### [easymodo/qimgv](../repos/easymodo-qimgv.md)
 
