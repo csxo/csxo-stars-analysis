@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11125 | TypeScript | ai, deepseek, doubao, motion, react |
-| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9749 | — | bobapp, chatgpt, deepseek, doubao, ernie |
+| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11177 | TypeScript | ai, deepseek, doubao, motion, react |
+| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9753 | — | bobapp, chatgpt, deepseek, doubao, ernie |
 
 ### [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md)
 
