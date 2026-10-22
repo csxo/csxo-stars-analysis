@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22765
+- **Star 数**: 22821
 - **主语言**: PowerShell
 - **GitHub 主题**: `adblock`, `spotify`, `spotify-ad-blocker`, `spotify-ad-free`, `spotify-adblocker`, `spotify-ads`, `spotify-desktop`, `spotify-desktop-client`, `spotify-no-ads`, `spotify-no-update`, `spotify-windows`, `spotx`, `windows`
 
