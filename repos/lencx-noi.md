@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9062
+- **Star 数**: 9063
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `application`, `browser`, `chatgpt`, `claude`, `copilot`, `deepseek`, `extension`, `gemini`, `grok`, `macos`, `noi`, `perplexity`, `qwen`, `tools`, `windows`
 
