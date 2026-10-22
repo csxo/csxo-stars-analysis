@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2087
+- **Star 数**: 2086
 - **主语言**: —
 - **GitHub 主题**: `algorithms`, `elasticsearch`, `java`, `jvm`, `kafka`, `linux`, `mysql`, `redis`, `s3`, `zookeeper`
 
