@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 363 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
+| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 380 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
 
 ### [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md)
 
