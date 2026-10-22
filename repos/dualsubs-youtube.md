@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 527
+- **Star 数**: 528
 - **主语言**: HTML
 - **GitHub 主题**: `dual-subtitles`, `subtitles`, `youtube`
 
