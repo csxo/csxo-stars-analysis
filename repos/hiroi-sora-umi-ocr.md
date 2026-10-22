@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 48040
+- **Star 数**: 48101
 - **主语言**: Python
 - **GitHub 主题**: `ocr`, `ocr-python`, `paddleocr`, `qml`, `qt`, `screenshot`, `umi-ocr`
 
