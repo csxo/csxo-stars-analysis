@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 23908
+- **Star 数**: 23921
 - **主语言**: —
 - **GitHub 主题**: `awesome`, `gemini-2-5-flash-image`, `nano-banana`
 
