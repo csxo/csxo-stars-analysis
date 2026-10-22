@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54637 | Rust | ai, app, application, chatgpt, desktop-app |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32087 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 8483 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3713 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
-| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1688 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
+| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54653 | Rust | ai, app, application, chatgpt, desktop-app |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32105 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 8852 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3725 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1785 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
 | [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1454 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 582 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 586 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
 | [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2824 | C# | desktop-app, desktop-tool, geekdesk |
-| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11432 | JavaScript | desktop-app, music-player |
+| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11437 | JavaScript | desktop-app, music-player |
 
 ### [lencx/ChatGPT](../repos/lencx-chatgpt.md)
 
