@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4067 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
+| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4076 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
 
 ### [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md)
 
