@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 10519
+- **Star 数**: 10528
 - **主语言**: Java
 - **GitHub 主题**: `android`, `android-app`, `bluetooth-le`, `mobile-app`, `nllb`, `offline`, `onnx`, `onnxruntime`, `realtime-translator`, `sentencepiece`, `transformers`, `translation`, `translator`, `whisper`
 
