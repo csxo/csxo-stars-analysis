@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8264
+- **Star 数**: 8265
 - **主语言**: HTML
 - **GitHub 主题**: `bloom`, `chinese-nlp`, `gpt-evaluation`, `gpt-q`, `instruct-finetune`, `instruct-gpt`, `instruction-set`, `llama`, `lora`, `open-models`
 
