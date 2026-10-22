@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 46921
+- **Star 数**: 46915
 - **主语言**: Go
 - **GitHub 主题**: `golang`, `http-proxy`, `proxy`, `shadowsocks`, `socks`, `socks5`, `v2ray`, `vmess`
 
