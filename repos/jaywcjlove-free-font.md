@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4067
+- **Star 数**: 4076
 - **主语言**: JavaScript
 - **GitHub 主题**: `chinese`, `chinese-font`, `chinese-fonts`, `english-font`, `font`, `font-awesome`, `fonts`, `free-font`, `free-fonts`, `open-source-font`, `typeface`, `typeface-font`
 
