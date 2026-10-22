@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3365 | TypeScript | epub, epub-reader, nextjs, pwa, react |
+| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3366 | TypeScript | epub, epub-reader, nextjs, pwa, react |
 
 ### [pacexy/flow](../repos/pacexy-flow.md)
 
