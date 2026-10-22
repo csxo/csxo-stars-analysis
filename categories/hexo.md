@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md) | 7.0 | 2061 | JavaScript | hexo, hexo-theme, hexo-theme-stellar, ready-for-agent, stellar |
+| [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md) | 7.0 | 2063 | JavaScript | hexo, hexo-theme, hexo-theme-stellar, ready-for-agent, stellar |
 | [LouisBarranqueiro/hexo-theme-tranquilpeak](../repos/louisbarranqueiro-hexo-theme-tranquilpeak.md) | 7.0 | 1889 | SCSS | hexo, hexo-theme, hexo-theme-tranquilpeak, theme, tranquilpeak |
-| [theme-next/hexo-theme-next](../repos/theme-next-hexo-theme-next.md) | 6.0 | 8213 | Stylus | hexo, hexo-theme, theme-next |
-| [next-theme/hexo-theme-next](../repos/next-theme-hexo-theme-next.md) | 6.0 | 2780 | JavaScript | hexo, hexo-theme, theme-next |
+| [theme-next/hexo-theme-next](../repos/theme-next-hexo-theme-next.md) | 6.0 | 8211 | Stylus | hexo, hexo-theme, theme-next |
+| [next-theme/hexo-theme-next](../repos/next-theme-hexo-theme-next.md) | 6.0 | 2782 | JavaScript | hexo, hexo-theme, theme-next |
 | [tufu9441/maupassant-hexo](../repos/tufu9441-maupassant-hexo.md) | 6.0 | 2678 | SCSS | hexo, hexo-site, hexo-theme |
 
 ### [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md)
