@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5229
+- **Star 数**: 5234
 - **主语言**: Go
 - **GitHub 主题**: `blocker`, `dnscrypt`, `firewall`, `hostsfile`, `ncsi`, `openwrt`, `proxifier`, `qemu`, `spy`, `sysmon`, `telemetry`, `windows`, `wireshark`
 
