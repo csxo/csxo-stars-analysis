@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25089 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25159 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
 
 ### [spicetify/cli](../repos/spicetify-cli.md)
 
