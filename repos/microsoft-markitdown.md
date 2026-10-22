@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 191002
+- **Star 数**: 191556
 - **主语言**: Python
 - **GitHub 主题**: `autogen`, `autogen-extension`, `langchain`, `markdown`, `microsoft-office`, `openai`, `pdf`
 
