@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 198
+- **Star 数**: 204
 - **主语言**: Python
 - **GitHub 主题**: `academic-search`, `agent-tools`, `ai-agent`, `deep-research`, `dsh-ecosystem`, `dsh-plugin`, `evidence-verification`, `mcp-server`, `metasearch`, `python`, `search-engine`, `web-search`
 
