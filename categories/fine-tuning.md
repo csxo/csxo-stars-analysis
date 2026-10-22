@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75585 | Python | agent, ai, deepseek, fine-tuning, gemma |
+| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75652 | Python | agent, ai, deepseek, fine-tuning, gemma |
 
 ### [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md)
 
