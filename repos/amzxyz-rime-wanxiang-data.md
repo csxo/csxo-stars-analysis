@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1966
+- **Star 数**: 1967
 - **主语言**: Python
 - **GitHub 主题**: `dictionary`, `fcitx5-dict`, `grammar`, `language-model`, `rime`
 
