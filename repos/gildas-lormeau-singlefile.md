@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22633
+- **Star 数**: 22660
 - **主语言**: JavaScript
 - **GitHub 主题**: `annotations`, `archive`, `archiver`, `auto-save`, `browser`, `chrome`, `chrome-extension`, `firefox`, `firefox-addon`, `offline-reading`, `osint`, `read-it-later`, `safari`, `safari-extension`, `self-extracting`, `self-extracting-zip`, `singlefile`, `web-clipper`
 
