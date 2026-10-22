@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18634 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
+| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18727 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
 
 ### [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md)
 
