@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [justlovemaki/CloudFlare-AI-Insight-Daily](../repos/justlovemaki-cloudflare-ai-insight-daily.md) | 5.0 | 1809 | JavaScript | aicoding |
+| [justlovemaki/CloudFlare-AI-Insight-Daily](../repos/justlovemaki-cloudflare-ai-insight-daily.md) | 5.0 | 1810 | JavaScript | aicoding |
 
 ### [justlovemaki/CloudFlare-AI-Insight-Daily](../repos/justlovemaki-cloudflare-ai-insight-daily.md)
 
