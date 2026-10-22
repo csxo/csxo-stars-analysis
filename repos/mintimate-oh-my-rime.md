@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4990
+- **Star 数**: 4995
 - **主语言**: Lua
 - **GitHub 主题**: `fcitx5`, `ibus`, `rime`, `squirrel`, `weasel`
 
