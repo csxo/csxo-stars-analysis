@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1802
+- **Star 数**: 1801
 - **主语言**: TypeScript
 - **GitHub 主题**: `editable`, `react-editor`, `rich-editor`, `slate-editor`, `text-editor`
 
