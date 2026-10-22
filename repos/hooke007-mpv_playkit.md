@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7723
+- **Star 数**: 7734
 - **主语言**: GLSL
 - **GitHub 主题**: `mpv`, `mpv-config`, `mpv-player`, `mpv-script`, `mpv-shader`, `vapoursynth`
 
