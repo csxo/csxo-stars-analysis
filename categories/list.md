@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 399535 | Python | books, education, hacktoberfest, list, resource |
+| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 399791 | Python | books, education, hacktoberfest, list, resource |
 | [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4090 | TypeScript | api, daily-hot, list, rss, vercel |
-| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9811 | — | alternatives, list |
+| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9831 | — | alternatives, list |
 
 ### [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md)
 
