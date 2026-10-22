@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 40193
+- **Star 数**: 40245
 - **主语言**: Java
 - **GitHub 主题**: `4k`, `android`, `bandcamp`, `download-videos`, `newpipe`, `peertube`, `soundcloud`, `translation`, `video`, `watch`, `youtube-video`
 
