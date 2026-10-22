@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 165071
+- **Star 数**: 165093
 - **主语言**: Python
 - **GitHub 主题**: `ai`, `ai-art`, `deep-learning`, `diffusion`, `gradio`, `image-generation`, `image2image`, `img2img`, `pytorch`, `stable-diffusion`, `text2image`, `torch`, `txt2img`, `unstable`, `upscaling`, `web`
 
