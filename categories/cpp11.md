@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43178 | C++ | bittorrent, cpp11, download, ftp, http |
+| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43224 | C++ | bittorrent, cpp11, download, ftp, http |
 
 ### [aria2/aria2](../repos/aria2-aria2.md)
 
