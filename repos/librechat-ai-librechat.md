@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 45961
+- **Star 数**: 46142
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `anthropic`, `artifacts`, `aws`, `azure`, `chatgpt`, `chatgpt-clone`, `claude`, `clone`, `deepseek`, `gemini`, `google`, `gpt-5`, `librechat`, `mcp`, `o1`, `openai`, `responses-api`, `vision`, `webui`
 
