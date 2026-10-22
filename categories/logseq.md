@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16285 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
+| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16333 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
 
 ### [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md)
 
