@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 1648
+- **Star 数**: 1649
 - **主语言**: —
 - **GitHub 主题**: `chinese`, `email`, `newsletter`, `rss`
 
