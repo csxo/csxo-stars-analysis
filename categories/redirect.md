@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1534 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
+| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1539 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
 | [axetroy/anti-redirect](../repos/axetroy-anti-redirect.md) | 7.0 | 494 | TypeScript | axetroy, greasy, javascript, redirect, script |
 
 ### [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md)
