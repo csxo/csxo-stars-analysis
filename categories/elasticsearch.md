@@ -5,7 +5,7 @@
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
 | [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7663 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
-| [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2087 | — | algorithms, elasticsearch, java, jvm, kafka |
+| [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2086 | — | algorithms, elasticsearch, java, jvm, kafka |
 
 ### [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md)
 
