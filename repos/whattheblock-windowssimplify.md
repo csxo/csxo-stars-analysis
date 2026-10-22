@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1287
+- **Star 数**: 1286
 - **主语言**: —
 - **GitHub 主题**: `arm`, `arm64`, `lite`, `ltsb`, `ltsc`, `win10`, `win11`, `win7`, `win8`, `windows`, `windows11`
 - **已归档**: ✅
