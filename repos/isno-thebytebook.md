@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8549
+- **Star 数**: 8546
 - **主语言**: JavaScript
 - **GitHub 主题**: `cloud-native`, `container`, `devops`, `distributed-systems`, `finops`, `kubernetes`, `networking`, `paas`, `service-mesh`, `sre`
 - **已归档**: ✅
