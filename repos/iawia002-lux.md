@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 31783
+- **Star 数**: 31790
 - **主语言**: Go
 - **GitHub 主题**: `bilibili`, `crawler`, `download`, `downloader`, `go`, `golang`, `iqiyi`, `qq`, `scraper`, `tumblr`, `video`, `youku`, `youtube`
 
