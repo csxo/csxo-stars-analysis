@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 34998 | Python | honkai-star-rail, mihomo, python, star-rail-api |
+| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35082 | Python | honkai-star-rail, mihomo, python, star-rail-api |
 
 ### [MetaCubeX/mihomo](../repos/metacubex-mihomo.md)
 
