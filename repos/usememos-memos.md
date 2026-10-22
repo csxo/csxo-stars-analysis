@@ -1,11 +1,11 @@
 # [usememos/memos](https://github.com/usememos/memos)
 
-> A timeline for your thoughts. Just type. It stays yours.
+> Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 63908
+- **Star 数**: 63995
 - **主语言**: Go
 - **GitHub 主题**: `docker`, `foss`, `go`, `markdown`, `memo`, `microblog`, `note-taking`, `notes`, `open-source`, `own-your-data`, `react`, `self-hosted`, `sqlite`, `timeline`
 
