@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [feichao93/battle-city](../repos/feichao93-battle-city.md) | 7.0 | 1873 | TypeScript | battle-city, game, react, redux, redux-saga |
-| [rwv/chinese-dos-games](../repos/rwv-chinese-dos-games.md) | 5.5 | 10333 | Python | dos, game |
+| [feichao93/battle-city](../repos/feichao93-battle-city.md) | 7.0 | 1877 | TypeScript | battle-city, game, react, redux, redux-saga |
+| [rwv/chinese-dos-games](../repos/rwv-chinese-dos-games.md) | 5.5 | 10335 | Python | dos, game |
 
 ### [feichao93/battle-city](../repos/feichao93-battle-city.md)
 
