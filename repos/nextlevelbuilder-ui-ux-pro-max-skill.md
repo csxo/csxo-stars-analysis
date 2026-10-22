@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 137408
+- **Star 数**: 138692
 - **主语言**: Python
 - **GitHub 主题**: `ai-skills`, `antigravity`, `claude`, `claude-code`, `codex`, `command-line`, `copilot`, `cursor-ai`, `html5`, `kiro`, `landing-page`, `mobile-ui`, `qoder`, `react`, `tailwindcss`, `trae`, `ui-design`, `uikit`, `windsurf-ai`
 
