@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pbatard/rufus](../repos/pbatard-rufus.md) | 7.0 | 38028 | C | bios, boot, bootable-drives, freedos, gpt |
+| [pbatard/rufus](../repos/pbatard-rufus.md) | 7.0 | 38065 | C | bios, boot, bootable-drives, freedos, gpt |
 
 ### [pbatard/rufus](../repos/pbatard-rufus.md)
 
