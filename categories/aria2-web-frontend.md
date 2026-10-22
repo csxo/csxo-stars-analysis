@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2354 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
+| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2353 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
 
 ### [binux/yaaw](../repos/binux-yaaw.md)
 
