@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25003 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
-| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 12911 | JavaScript | extension, translate, translation, translator, userscript |
-| [izackwu/TeachYourselfCS-CN](../repos/izackwu-teachyourselfcs-cn.md) | 6.5 | 22190 | — | chinese-translation, teachyourselfcs, translation, tutorial |
+| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25007 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
+| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 12970 | JavaScript | extension, translate, translation, translator, userscript |
+| [izackwu/TeachYourselfCS-CN](../repos/izackwu-teachyourselfcs-cn.md) | 6.5 | 22196 | — | chinese-translation, teachyourselfcs, translation, tutorial |
 
 ### [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md)
 
