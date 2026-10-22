@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 50415
+- **Star 数**: 50428
 - **主语言**: Ruby
 - **GitHub 主题**: `activity-stream`, `activitypub`, `docker`, `fediverse`, `mastodon`, `microblog`, `social-network`, `social-web`, `webfinger`
 
