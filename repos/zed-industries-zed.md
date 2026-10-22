@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 91908
+- **Star 数**: 92029
 - **主语言**: Rust
 - **GitHub 主题**: `gpui`, `rust-lang`, `text-editor`, `zed`
 
