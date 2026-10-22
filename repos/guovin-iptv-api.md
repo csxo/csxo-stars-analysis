@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 25644
+- **Star 数**: 25709
 - **主语言**: Python
 - **GitHub 主题**: `auto-update`, `awesome`, `epg`, `iptv`, `iptv-api`, `iptv-channels`, `iptv-free`, `iptv-m3u`, `iptv-m3u8`, `iptv-playlist`, `ipv4`, `ipv6`, `live`, `m3u`, `m3u8`, `playlist`, `rtmp`, `schedule`, `tv`, `tvbox`
 
