@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46921 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46915 | Go | golang, http-proxy, proxy, shadowsocks, socks |
 
 ### [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md)
 
