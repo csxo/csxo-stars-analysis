@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3352 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
+| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3357 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
 
 ### [guanguans/favorite-link](../repos/guanguans-favorite-link.md)
 
