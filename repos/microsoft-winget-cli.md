@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 26510
+- **Star 数**: 26519
 - **主语言**: C++
 - **GitHub 主题**: `command-line`, `package-manager`, `windows`, `winget`
 
