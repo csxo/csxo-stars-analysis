@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 86931
+- **Star 数**: 87579
 - **主语言**: TypeScript
 - **GitHub 主题**: `antigravity-skills`, `business-knowledge`, `claude-code`, `claude-skills`, `codebase-analysis`, `codex`, `codex-skills`, `developer-tools-ai-agent`, `gemini-cli-skills`, `karpathy-llm-wiki`, `knowledge-base`, `knowledge-graph`, `memory`, `opencode-skills`, `pi-agent`, `understandcode`, `vibe-coding`
 
