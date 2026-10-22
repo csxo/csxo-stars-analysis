@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 37393
+- **Star 数**: 37624
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-agents`, `ai-search-engine`, `answering-engine`, `artificial-intelligence`, `llm`, `machine-learning`, `open-source-ai-search-engine`, `perplexica`, `rag`, `search-engine`, `searxng`, `searxng-copilot`, `self-hosted-ai`, `vane`
 
