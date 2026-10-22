@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 199323
+- **Star 数**: 200250
 - **主语言**: Python
 - **GitHub 主题**: `cli`, `downloader`, `python`, `sponsorblock`, `youtube-dl`, `youtube-downloader`, `yt-dlp`
 
