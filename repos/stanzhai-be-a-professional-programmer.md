@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 9907
+- **Star 数**: 9908
 - **主语言**: —
 - **GitHub 主题**: `awesome`, `programmer`, `programmer-tool`
 
