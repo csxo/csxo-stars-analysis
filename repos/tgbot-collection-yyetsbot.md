@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 16297
+- **Star 数**: 16299
 - **主语言**: Python
 - **GitHub 主题**: `bot`, `movies`, `telegram-bot`, `tv-shows`, `yyets`, `zimuxia`
 
