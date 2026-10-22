@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1279 | Swift | agent-framework, ai-agent, gemma, ios, litert |
+| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1280 | Swift | agent-framework, ai-agent, gemma, ios, litert |
 
 ### [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md)
 
