@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 2011
+- **Star 数**: 2009
 - **主语言**: Python
 - **GitHub 主题**: `fcitx`, `pinyin`, `rime`, `schema`
 
