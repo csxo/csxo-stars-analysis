@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 23757
+- **Star 数**: 23774
 - **主语言**: JavaScript
 - **GitHub 主题**: `flow-based-programming`, `javascript`, `low-code`, `node-red`, `openjs-foundation`, `visual-programming`
 
