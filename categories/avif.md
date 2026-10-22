@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14659 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14683 | C# | avalonia, avif, cross-platform, csharp, dotnet |
 
 ### [d2phap/ImageGlass](../repos/d2phap-imageglass.md)
 
