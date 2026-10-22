@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4044 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
+| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4046 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
 
 ### [deathau/markdownload](../repos/deathau-markdownload.md)
 
