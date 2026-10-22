@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 398 | Go | cli, downloader, twitter, x |
+| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 397 | Go | cli, downloader, twitter, x |
 
 ### [unkmonster/tmd](../repos/unkmonster-tmd.md)
 
