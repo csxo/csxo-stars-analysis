@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spotiflacapp/SpotiFLAC-Mobile](../repos/spotiflacapp-spotiflac-mobile.md) | 7.0 | 6788 | Dart | android, flac, flutter, golang, ios |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7160 | Dart | android, flac, flutter, golang, ios |
 
-### [spotiflacapp/SpotiFLAC-Mobile](../repos/spotiflacapp-spotiflac-mobile.md)
+### [mornyeapp/Mornye](../repos/mornyeapp-mornye.md)
 
 Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 
