@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 77759 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
-| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 40905 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
-| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21348 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17798 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
-| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3153 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
+| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 77910 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
+| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 40998 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
+| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21368 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17830 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3157 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
 
 ### [obsproject/obs-studio](../repos/obsproject-obs-studio.md)
 
