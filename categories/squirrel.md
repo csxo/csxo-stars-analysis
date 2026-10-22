@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md) | 7.0 | 4990 | Lua | fcitx5, ibus, rime, squirrel, weasel |
-| [catppuccin/squirrel](../repos/catppuccin-squirrel.md) | 7.0 | 53 | — | catppuccin, hacktoberfest, rime, rime-squirrel, squirrel |
+| [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md) | 7.0 | 4995 | Lua | fcitx5, ibus, rime, squirrel, weasel |
+| [catppuccin/squirrel](../repos/catppuccin-squirrel.md) | 7.0 | 54 | — | catppuccin, hacktoberfest, rime, rime-squirrel, squirrel |
 
 ### [Mintimate/oh-my-rime](../repos/mintimate-oh-my-rime.md)
 
