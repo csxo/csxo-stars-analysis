@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2766 | C# | db, ffmpeg, gif, image, library |
+| [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2767 | C# | db, ffmpeg, gif, image, library |
 
 ### [hitchao/Jvedio](../repos/hitchao-jvedio.md)
 
