@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [doocs/technical-books](../repos/doocs-technical-books.md) | 7.0 | 7013 | TypeScript | architecture, back-end, book-list, database, doocs |
+| [doocs/technical-books](../repos/doocs-technical-books.md) | 7.0 | 7014 | TypeScript | architecture, back-end, book-list, database, doocs |
 
 ### [doocs/technical-books](../repos/doocs-technical-books.md)
 
