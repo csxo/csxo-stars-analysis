@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [bas3line/ascii](../repos/bas3line-ascii.md) | 7.0 | 929 | TypeScript | animation, ascii, ascii-art, astro, nextjs |
+| [bas3line/ascii](../repos/bas3line-ascii.md) | 7.0 | 973 | TypeScript | animation, ascii, ascii-art, astro, nextjs |
 
 ### [bas3line/ascii](../repos/bas3line-ascii.md)
 
