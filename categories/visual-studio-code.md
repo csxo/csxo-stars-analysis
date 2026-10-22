@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 193936 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 194201 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
 
 ### [microsoft/vscode](../repos/microsoft-vscode.md)
 
