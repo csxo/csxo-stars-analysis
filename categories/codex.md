@@ -1,16 +1,17 @@
 # codex
 
-> 项目数: **7**
+> 项目数: **8**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 137408 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 108380 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 99068 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52736 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 16568 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 829 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 606 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 138692 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 109445 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 100784 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 52861 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 19204 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1192 | TypeScript | agent-skill, claude-code, codex, macos, skills |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 850 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 742 | TypeScript | ai-agents, bun, codex, electron, local-first |
 
 ### [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md)
 
@@ -31,6 +32,10 @@ AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
 ### [yetone/magpie](../repos/yetone-magpie.md)
 
 Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+### [JimLiu/baocut](../repos/jimliu-baocut.md)
+
+BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate.
 
 ### [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md)
 
