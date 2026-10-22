@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 362958 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
-| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 130850 | Java | algo, algorithm, algorithms, book, data-structure |
-| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27540 | — | algorithms, c, cpp, cs-books, database |
-| [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2087 | — | algorithms, elasticsearch, java, jvm, kafka |
+| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 363234 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
+| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 130894 | Java | algo, algorithm, algorithms, book, data-structure |
+| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27653 | — | algorithms, c, cpp, cs-books, database |
+| [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2086 | — | algorithms, elasticsearch, java, jvm, kafka |
 
 ### [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md)
 
