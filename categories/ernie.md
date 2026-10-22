@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9749 | — | bobapp, chatgpt, deepseek, doubao, ernie |
+| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9753 | — | bobapp, chatgpt, deepseek, doubao, ernie |
 
 ### [ripperhe/Bob](../repos/ripperhe-bob.md)
 
