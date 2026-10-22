@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32869 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
+| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32864 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
 
 ### [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md)
 
