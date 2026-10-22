@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 10938
+- **Star 数**: 10939
 - **主语言**: Rust
 - **GitHub 主题**: `http-proxy`, `rust`, `security`, `shadowsocks`, `socks4`, `socks5`, `transparent-proxy`
 
