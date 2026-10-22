@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 139482 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
+| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 139566 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
 
 ### [microsoft/PowerToys](../repos/microsoft-powertoys.md)
 
