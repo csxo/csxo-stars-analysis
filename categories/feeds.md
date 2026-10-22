@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2592 | Go | ai, atom, feed-reader, feeds, rss |
-| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 606 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
+| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2599 | Go | ai, atom, feed-reader, feeds, rss |
+| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 608 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
 
 ### [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md)
 
