@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 936 | Python | aac, cli, downloader, music-video, ogg |
+| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 938 | Python | aac, cli, downloader, music-video, ogg |
 
 ### [glomatico/votify](../repos/glomatico-votify.md)
 
