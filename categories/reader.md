@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39120 | TypeScript | ai, reader, rss, rss-reader, rsshub |
+| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39147 | TypeScript | ai, reader, rss, rss-reader, rsshub |
 
 ### [RSSNext/Folo](../repos/rssnext-folo.md)
 
