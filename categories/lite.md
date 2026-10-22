@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [WhatTheBlock/WindowsSimplify](../repos/whattheblock-windowssimplify.md) | 7.0 | 1287 | — | arm, arm64, lite, ltsb, ltsc |
+| [WhatTheBlock/WindowsSimplify](../repos/whattheblock-windowssimplify.md) | 7.0 | 1286 | — | arm, arm64, lite, ltsb, ltsc |
 
 ### [WhatTheBlock/WindowsSimplify](../repos/whattheblock-windowssimplify.md)
 
