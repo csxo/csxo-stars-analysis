@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53203 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53266 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
 
 ### [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md)
 
