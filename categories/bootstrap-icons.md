@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22366 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
+| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22411 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
 
 ### [tabler/tabler-icons](../repos/tabler-tabler-icons.md)
 
