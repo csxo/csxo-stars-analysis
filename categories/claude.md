@@ -1,22 +1,23 @@
 # claude
 
-> 项目数: **13**
+> 项目数: **14**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 167417 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 137408 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 113551 | Go | ai, anthropic, caveman, claude, claude-code |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88861 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 78813 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 77413 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70182 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62181 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47464 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42073 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21355 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15264 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
-| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9062 | TypeScript | ai, application, browser, chatgpt, claude |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 172340 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 138692 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 114234 | Go | ai, anthropic, caveman, claude, claude-code |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88882 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 78995 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 77647 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70260 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62252 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47507 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42097 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21499 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15262 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
+| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9063 | TypeScript | ai, application, browser, chatgpt, claude |
+| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 4383 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
 
 ### [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md)
 
@@ -69,4 +70,8 @@ GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetunin
 ### [lencx/Noi](../repos/lencx-noi.md)
 
 🚀 Less chaos. More flow.
+
+### [dimthink/PriceAI](../repos/dimthink-priceai.md)
+
+AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 
