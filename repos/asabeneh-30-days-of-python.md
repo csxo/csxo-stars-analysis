@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 76570
+- **Star 数**: 76820
 - **主语言**: Python
 - **GitHub 主题**: `30-days-of-python`, `data`, `data-science`, `database`, `flask`, `fullstack`, `github`, `heroku`, `matplotlib`, `ml`, `mongodb`, `numpy`, `pandas`, `python`, `python3`
 
