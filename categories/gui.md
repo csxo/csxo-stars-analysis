@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41629 | Rust | app, application, cybersecurity, gui, iced |
-| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15705 | Go | gfw, gui, hy2, juicity, linux |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13244 | JavaScript | aria2, ariang, download, gui, html |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 8483 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8203 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2830 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
-| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2354 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
-| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1688 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41660 | Rust | app, application, cybersecurity, gui, iced |
+| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15721 | Go | gfw, gui, hy2, juicity, linux |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13251 | JavaScript | aria2, ariang, download, gui, html |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 8852 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8208 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2828 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2353 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
+| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1689 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
 
 ### [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md)
 
