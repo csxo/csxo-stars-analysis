@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2664
+- **Star 数**: 2660
 - **主语言**: TypeScript
 - **GitHub 主题**: `brain-storms`, `canvas`, `capture-organize-distill-express`, `excalidraw`, `knowledge-management`, `lightweight`, `local-first`, `mind-management`, `note`, `note-taking`, `notion`, `pkm`, `second-brain`, `tldraw`, `whiteboard`
 
