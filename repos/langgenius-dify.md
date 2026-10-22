@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 158868
+- **Star 数**: 159222
 - **主语言**: Python
 - **GitHub 主题**: `agent`, `agentic-ai`, `agentic-framework`, `agentic-workflow`, `ai`, `automation`, `claude`, `deepseek`, `genai`, `gpt`, `llm`, `low-code`, `mcp`, `nextjs`, `no-code`, `openai`, `python`, `skills`, `workflow`
 
