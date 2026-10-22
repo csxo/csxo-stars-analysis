@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 77413
+- **Star 数**: 77647
 - **主语言**: Python
 - **GitHub 主题**: `agent-skills`, `ai-agents`, `antigravity`, `automation`, `claude`, `claude-code`, `codex`, `composio`, `cursor`, `developer-tools`, `gemini-cli`, `mcp`, `openai-codex`, `rube`, `saas`, `skill`, `workflow-automation`
 
