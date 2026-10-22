@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13192 | Python | python, youtube, youtube-downloader |
-| [DualSubs/YouTube](../repos/dualsubs-youtube.md) | 6.0 | 527 | HTML | dual-subtitles, subtitles, youtube |
+| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13195 | Python | python, youtube, youtube-downloader |
+| [DualSubs/YouTube](../repos/dualsubs-youtube.md) | 6.0 | 528 | HTML | dual-subtitles, subtitles, youtube |
 
 ### [pytube/pytube](../repos/pytube-pytube.md)
 
