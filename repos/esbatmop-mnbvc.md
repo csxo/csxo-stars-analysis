@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4287
+- **Star 数**: 4289
 - **主语言**: —
 - **GitHub 主题**: `chinese`, `chinese-language`, `chinese-nlp`, `chinese-simplified`, `corpus-data`, `nlp`, `nlp-machine-learning`
 
