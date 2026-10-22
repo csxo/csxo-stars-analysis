@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5096 | C# | csharp, tai, wpf |
+| [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5093 | C# | csharp, tai, wpf |
 
 ### [Planshit/Tai](../repos/planshit-tai.md)
 
