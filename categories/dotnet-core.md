@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10454 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
+| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10466 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
 
 ### [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md)
 
