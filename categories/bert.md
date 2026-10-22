@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16817 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
+| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16825 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
 
 ### [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md)
 
