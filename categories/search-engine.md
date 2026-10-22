@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7143 | Python | plugin, python, qbittorrent, search, search-engine |
+| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7155 | Python | plugin, python, qbittorrent, search, search-engine |
 
 ### [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md)
 
