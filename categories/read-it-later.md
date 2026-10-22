@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16285 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
-| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13018 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
+| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16333 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
+| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13020 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
 
 ### [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md)
 
