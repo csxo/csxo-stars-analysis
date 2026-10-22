@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 32869
+- **Star 数**: 32864
 - **主语言**: Swift
 - **GitHub 主题**: `kcptun`, `macos`, `shadowsocks`, `shadowsocksx-ng`, `swift`, `v2ray-plugin`
 
