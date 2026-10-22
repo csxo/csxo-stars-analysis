@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 94511
+- **Star 数**: 94704
 - **主语言**: TypeScript
 - **GitHub 主题**: `docker`, `hacktoberfest`, `java`, `pdf`, `pdf-converter`, `pdf-editor`, `pdf-manipulation`, `pdf-merger`, `pdf-ocr`, `pdf-tools`, `pdf-web-apps`, `pdfmerger`, `self-hosted`
 
