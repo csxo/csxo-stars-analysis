@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Xmader/aria-ng-gui](../repos/xmader-aria-ng-gui.md) | 6.0 | 2027 | JavaScript | aria2, aria2-app, aria2-gui |
+| [Xmader/aria-ng-gui](../repos/xmader-aria-ng-gui.md) | 6.0 | 2028 | JavaScript | aria2, aria2-app, aria2-gui |
 
 ### [Xmader/aria-ng-gui](../repos/xmader-aria-ng-gui.md)
 
