@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 152419 | Rust | clash, clash-meta, clash-verge, linux, mac |
-| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20173 | — | anytls, clash, mac, macos, native |
-| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17560 | — | app, mac, macos |
+| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 153095 | Rust | clash, clash-meta, clash-verge, linux, mac |
+| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20176 | — | anytls, clash, mac, macos, native |
+| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17568 | — | app, mac, macos |
 
 ### [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md)
 
