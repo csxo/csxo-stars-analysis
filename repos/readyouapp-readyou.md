@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7604
+- **Star 数**: 7611
 - **主语言**: Kotlin
 - **GitHub 主题**: `android`, `compose`, `f-droid`, `kotlin`, `material-design`, `material-design-3`, `material-ui`, `material-you`, `rss-reader`
 
