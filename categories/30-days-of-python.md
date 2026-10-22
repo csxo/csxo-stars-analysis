@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Asabeneh/30-Days-Of-Python](../repos/asabeneh-30-days-of-python.md) | 7.0 | 76570 | Python | 30-days-of-python, data, data-science, database, flask |
+| [Asabeneh/30-Days-Of-Python](../repos/asabeneh-30-days-of-python.md) | 7.0 | 76820 | Python | 30-days-of-python, data, data-science, database, flask |
 
 ### [Asabeneh/30-Days-Of-Python](../repos/asabeneh-30-days-of-python.md)
 
