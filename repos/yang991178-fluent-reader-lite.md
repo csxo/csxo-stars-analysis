@@ -33,9 +33,3 @@ Simplistic mobile RSS client built with Flutter
 
 `android` `flutter` `ios` `rss` `rss-reader`
 
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [spotiflacapp/SpotiFLAC-Mobile](spotiflacapp-spotiflac-mobile.md) | 0.36 | `android`, `dart`, `flutter`, `ios` |
-
