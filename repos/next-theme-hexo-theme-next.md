@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2780
+- **Star 数**: 2782
 - **主语言**: JavaScript
 - **GitHub 主题**: `hexo`, `hexo-theme`, `theme-next`
 
