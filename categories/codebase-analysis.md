@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 86931 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
+| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 87579 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
 
 ### [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md)
 
