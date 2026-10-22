@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8203
+- **Star 数**: 8208
 - **主语言**: Vue
 - **GitHub 主题**: `gui`, `rolldown-vite`, `sing-box`, `typescript`, `vue3`, `wails`
 
