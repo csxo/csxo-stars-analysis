@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 80169
+- **Star 数**: 80263
 - **主语言**: C
 - **GitHub 主题**: `arm64`, `auto-install`, `bootable-usb`, `bsd`, `chromeos`, `iso-files`, `legacy`, `linux`, `multiboot`, `persistence`, `secure-boot`, `uefi`, `unattended`, `unix`, `usb`, `windows`, `x86`, `x86-64`
 
