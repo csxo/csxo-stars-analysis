@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 63995
+- **Star 数**: 64048
 - **主语言**: Go
 - **GitHub 主题**: `docker`, `foss`, `go`, `markdown`, `memo`, `microblog`, `note-taking`, `notes`, `open-source`, `own-your-data`, `react`, `self-hosted`, `sqlite`, `timeline`
 
