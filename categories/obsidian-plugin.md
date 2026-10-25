@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 42 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
+| [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 44 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
 
 ### [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md)
 
