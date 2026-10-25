@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 200250 | Python | cli, downloader, python, sponsorblock, youtube-dl |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45337 | Svelte | collaboration, downloader, instagram, javascript, music |
-| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31790 | Go | bilibili, crawler, download, downloader, go |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27073 | Dart | android, bittorrent, cross-platform, debian, downloader |
-| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 938 | Python | aac, cli, downloader, music-video, ogg |
-| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 397 | Go | cli, downloader, twitter, x |
+| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 201711 | Python | cli, downloader, python, sponsorblock, youtube-dl |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45427 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31804 | Go | bilibili, crawler, download, downloader, go |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27161 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 940 | Python | aac, cli, downloader, music-video, ogg |
+| [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 399 | Go | cli, downloader, twitter, x |
 
 ### [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md)
 
