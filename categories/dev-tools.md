@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 586 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 588 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
 
 ### [Razee4315/Paperling](../repos/razee4315-paperling.md)
 
