@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 742
+- **Star 数**: 897
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-agents`, `bun`, `codex`, `electron`, `local-first`, `macos`, `solidjs`, `typescript`
 
