@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186306 | — | algorithm, computer-science, cpp, interview, java |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94704 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
-| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 35326 | Java | android, android-tv, android-tv-box, java, kotlin |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17489 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186332 | — | algorithm, computer-science, cpp, interview, java |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94941 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 35496 | Java | android, android-tv, android-tv-box, java, kotlin |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17508 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
 | [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2086 | — | algorithms, elasticsearch, java, jvm, kafka |
 
 ### [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md)
