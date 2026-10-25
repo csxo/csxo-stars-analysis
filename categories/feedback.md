@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [community/community](../repos/community-community.md) | 7.0 | 8875 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
-| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3722 | — | clipboard, feedback, paste, qt, qt5 |
+| [community/community](../repos/community-community.md) | 7.0 | 8885 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
+| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3731 | — | clipboard, feedback, paste, qt, qt5 |
 
 ### [community/community](../repos/community-community.md)
 
