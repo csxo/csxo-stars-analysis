@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Tikam02/DevOps-Guide](../repos/tikam02-devops-guide.md) | 7.0 | 9368 | HTML | ansible, cheatsheet, ci-cd, containers, devops |
+| [Tikam02/DevOps-Guide](../repos/tikam02-devops-guide.md) | 7.0 | 9372 | HTML | ansible, cheatsheet, ci-cd, containers, devops |
 
 ### [Tikam02/DevOps-Guide](../repos/tikam02-devops-guide.md)
 
