@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97010 | JavaScript | css, curriculum, education, html, javascript |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13251 | JavaScript | aria2, ariang, download, gui, html |
-| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7695 | JavaScript | aplayer, html, html5, music, player |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97021 | JavaScript | css, curriculum, education, html, javascript |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13257 | JavaScript | aria2, ariang, download, gui, html |
+| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7696 | JavaScript | aplayer, html, html5, music, player |
 
 ### [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md)
 
