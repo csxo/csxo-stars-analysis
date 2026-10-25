@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Fei2411/DeepSeek-Bot](../repos/fei2411-deepseek-bot.md) | 6.5 | 2971 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
+| [Fei2411/DeepSeek-Bot](../repos/fei2411-deepseek-bot.md) | 6.5 | 3798 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
 
 ### [Fei2411/DeepSeek-Bot](../repos/fei2411-deepseek-bot.md)
 
