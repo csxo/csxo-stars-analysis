@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 29883 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
-| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20175 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
-| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7033 | TypeScript | blog, nextjs, notion, portfolio, react |
+| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 29960 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
+| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20201 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
+| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7032 | TypeScript | blog, nextjs, notion, portfolio, react |
 | [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3366 | TypeScript | epub, epub-reader, nextjs, pwa, react |
-| [bas3line/ascii](../repos/bas3line-ascii.md) | 7.0 | 973 | TypeScript | animation, ascii, ascii-art, astro, nextjs |
+| [bas3line/ascii](../repos/bas3line-ascii.md) | 7.0 | 1022 | TypeScript | animation, ascii, ascii-art, astro, nextjs |
 
 ### [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md)
 
