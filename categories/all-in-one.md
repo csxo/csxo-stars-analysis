@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5932 | Python | all-in-one, apps, atom-feed, atomfeed, community |
+| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5938 | Python | all-in-one, apps, atom-feed, atomfeed, community |
 
 ### [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md)
 
