@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tw93/Mole](../repos/tw93-mole.md) | 7.0 | 72287 | Shell | analyzer, appcleaner, clean, cleaner, cleanmymac |
-| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 13999 | HTML | blog, blog-theme, clean, fast, feature-rich |
+| [tw93/Mole](../repos/tw93-mole.md) | 7.0 | 72785 | Shell | analyzer, appcleaner, clean, cleaner, cleanmymac |
+| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14011 | HTML | blog, blog-theme, clean, fast, feature-rich |
 
 ### [tw93/Mole](../repos/tw93-mole.md)
 
