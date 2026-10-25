@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 5102 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2213 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 6849 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2274 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
 
 ### [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md)
 
