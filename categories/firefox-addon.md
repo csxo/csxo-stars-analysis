@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7375 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
-| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4046 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
+| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7376 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
+| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4048 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
 | [danny0838/content-farm-terminator](../repos/danny0838-content-farm-terminator.md) | 5.5 | 1415 | JavaScript | chrome-extension, firefox-addon |
 
 ### [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md)
