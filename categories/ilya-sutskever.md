@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Ojhaharsh/30u30](../repos/ojhaharsh-30u30.md) | 5.5 | 1523 | Python | ai, ilya-sutskever |
+| [Ojhaharsh/30u30](../repos/ojhaharsh-30u30.md) | 5.5 | 1637 | Python | ai, ilya-sutskever |
 
 ### [Ojhaharsh/30u30](../repos/ojhaharsh-30u30.md)
 
