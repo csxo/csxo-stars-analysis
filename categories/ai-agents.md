@@ -4,22 +4,22 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 361127 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 172340 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 132111 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
-| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 107498 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 100784 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 87306 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79430 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 77647 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70260 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47507 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37624 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
-| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 5102 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
-| [dagucloud/dagu](../repos/dagucloud-dagu.md) | 7.0 | 4421 | Go | agentic-workflows, ai-agents, ai-workflows, airflow-alternative, cron |
-| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2817 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 742 | TypeScript | ai-agents, bun, codex, electron, local-first |
-| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 257574 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 380543 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 175724 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 134635 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
+| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 108301 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 102164 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 88893 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79504 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 77874 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70327 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47566 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37718 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
+| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 6849 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
+| [dagucloud/dagu](../repos/dagucloud-dagu.md) | 7.0 | 4440 | Go | agentic-workflows, ai-agents, ai-workflows, airflow-alternative, cron |
+| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2833 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 897 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 260872 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
 
 ### [morluto/rea](../repos/morluto-rea.md)
 
