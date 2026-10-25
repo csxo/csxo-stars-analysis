@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2338 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
+| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2337 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
 
 ### [dnakov/little-rat](../repos/dnakov-little-rat.md)
 
