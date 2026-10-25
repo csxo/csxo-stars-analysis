@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [shadps4-emu/shadPS4](../repos/shadps4-emu-shadps4.md) | 7.0 | 33852 | C++ | cpp, cpp23, emulation, emulator, imgui |
-| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20153 | C++ | assembly-language, c, cpp, emulation, emulator |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu-shadps4.md) | 7.0 | 33910 | C++ | cpp, cpp23, emulation, emulator, imgui |
+| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20185 | C++ | assembly-language, c, cpp, emulation, emulator |
 
 ### [shadps4-emu/shadPS4](../repos/shadps4-emu-shadps4.md)
 
