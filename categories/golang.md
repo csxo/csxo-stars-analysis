@@ -1,15 +1,16 @@
 # golang
 
-> 项目数: **7**
+> 项目数: **8**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287567 | Python | beginner-project, cpp, golang, javascript, project |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46915 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25159 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22703 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15701 | Go | community, forum, go, golang, hacktoberfest |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7160 | Dart | android, flac, flutter, golang, ios |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287887 | Python | beginner-project, cpp, golang, javascript, project |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46905 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25219 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22729 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15702 | Go | community, forum, go, golang, hacktoberfest |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7331 | Dart | android, flac, flutter, golang, ios |
+| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3004 | Go | ats, career, careers, golang, hiring |
 | [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
@@ -35,6 +36,10 @@ A Q&A platform software for teams at any scales. Whether it's a community forum,
 ### [mornyeapp/Mornye](../repos/mornyeapp-mornye.md)
 
 Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+
+### [strelov1/freehire](../repos/strelov1-freehire.md)
+
+freehire — the open-source search engine for job seekers
 
 ### [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md)
 
