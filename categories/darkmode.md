@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22496 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22509 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
 
 ### [darkreader/darkreader](../repos/darkreader-darkreader.md)
 
