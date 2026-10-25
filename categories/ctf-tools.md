@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Z4nzu/hackingtool](../repos/z4nzu-hackingtool.md) | 7.0 | 81237 | Python | allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker |
+| [Z4nzu/hackingtool](../repos/z4nzu-hackingtool.md) | 7.0 | 81392 | Python | allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker |
 
 ### [Z4nzu/hackingtool](../repos/z4nzu-hackingtool.md)
 
