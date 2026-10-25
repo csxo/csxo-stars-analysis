@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7160 | Dart | android, flac, flutter, golang, ios |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7331 | Dart | android, flac, flutter, golang, ios |
 
 ### [mornyeapp/Mornye](../repos/mornyeapp-mornye.md)
 
