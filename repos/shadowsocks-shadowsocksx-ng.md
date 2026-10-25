@@ -1,13 +1,13 @@
 # [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 
-> Next Generation of ShadowsocksX
+> Shadowsocks GUI client for mac OS
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 32864
+- **Star 数**: 32867
 - **主语言**: Swift
-- **GitHub 主题**: `kcptun`, `macos`, `shadowsocks`, `shadowsocksx-ng`, `swift`, `v2ray-plugin`
+- **GitHub 主题**: `hysteria2`, `macos`, `shadowsocks`, `shadowsocksx-ng`, `swift`, `v2ray-plugin`
 
 ## 简介
 
