@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iina/iina](../repos/iina-iina.md) | 7.0 | 46872 | Swift | hacktoberfest, macos, mpv, swift, video |
-| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32864 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
-| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4857 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
-| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2257 | Swift | audiobook, ios, open-source, player, swift |
+| [iina/iina](../repos/iina-iina.md) | 7.0 | 46899 | Swift | hacktoberfest, macos, mpv, swift, video |
+| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32867 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
+| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4863 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
+| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2263 | Swift | audiobook, ios, open-source, player, swift |
 
 ### [iina/iina](../repos/iina-iina.md)
 
