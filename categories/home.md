@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [imsyy/home](../repos/imsyy-home.md) | 5.5 | 4559 | Vue | home, homepage |
+| [imsyy/home](../repos/imsyy-home.md) | 5.5 | 4557 | Vue | home, homepage |
 
 ### [imsyy/home](../repos/imsyy-home.md)
 
