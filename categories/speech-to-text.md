@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jianchang512/pyvideotrans](../repos/jianchang512-pyvideotrans.md) | 7.0 | 19502 | Python | speech-to-text, stt, subtitle-translation, text-to-speech, tts |
+| [jianchang512/pyvideotrans](../repos/jianchang512-pyvideotrans.md) | 7.0 | 19526 | Python | speech-to-text, stt, subtitle-translation, text-to-speech, tts |
 
 ### [jianchang512/pyvideotrans](../repos/jianchang512-pyvideotrans.md)
 
