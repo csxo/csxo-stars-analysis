@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 122837 | — | awesome-list, design-md, design-system, design-tokens, figma |
+| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 123383 | — | awesome-list, design-md, design-system, design-tokens, figma |
 
 ### [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md)
 
