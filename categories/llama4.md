@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14761 | Python | agent, llama, llama4, llm, pretraining |
+| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14762 | Python | agent, llama, llama4, llm, pretraining |
 
 ### [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md)
 
