@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hacksider/Deep-Live-Cam](../repos/hacksider-deep-live-cam.md) | 7.0 | 97164 | Python | ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence |
+| [hacksider/Deep-Live-Cam](../repos/hacksider-deep-live-cam.md) | 7.0 | 97215 | Python | ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence |
 
 ### [hacksider/Deep-Live-Cam](../repos/hacksider-deep-live-cam.md)
 
