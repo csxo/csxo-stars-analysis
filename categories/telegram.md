@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [rooktwo/rectg](../repos/rooktwo-rectg.md) | 5.0 | 9344 | Python | telegram |
+| [rooktwo/rectg](../repos/rooktwo-rectg.md) | 5.0 | 9353 | Python | telegram |
 
 ### [rooktwo/rectg](../repos/rooktwo-rectg.md)
 
