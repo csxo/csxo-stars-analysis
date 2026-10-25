@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162578 | — | bash, documentation, linux, macos, unix |
-| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 153095 | Rust | clash, clash-meta, clash-verge, linux, mac |
-| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 57223 | TypeScript | aria2, bt, download, electron, linux |
-| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 23944 | — | brave, browser, chromium, linux, macos |
-| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19369 | JavaScript | linux, macos, ocr, pot, pot-app |
-| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15721 | Go | gfw, gui, hy2, juicity, linux |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14726 | C++ | desktop, editor, linux, macos, notepad |
-| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9733 | TypeScript | electron, linux, macos, react, rss |
+| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162594 | — | bash, documentation, linux, macos, unix |
+| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 153702 | Rust | clash, clash-meta, clash-verge, linux, mac |
+| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 57374 | TypeScript | aria2, bt, download, electron, linux |
+| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 23973 | — | brave, browser, chromium, linux, macos |
+| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19364 | JavaScript | linux, macos, ocr, pot, pot-app |
+| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15742 | Go | gfw, gui, hy2, juicity, linux |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14728 | C++ | desktop, editor, linux, macos, notepad |
+| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9743 | TypeScript | electron, linux, macos, react, rss |
 | [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6970 | Python | dlna, linux, macos, media-renderer, mpv |
 | [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3157 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
 
