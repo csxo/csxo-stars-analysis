@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 121874 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
+| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 122128 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
 
 ### [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md)
 
