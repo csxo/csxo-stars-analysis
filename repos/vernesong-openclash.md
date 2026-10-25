@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 27877
+- **Star 数**: 27924
 - **主语言**: JavaScript
 - **GitHub 主题**: `clash`, `luci`, `mihomo`, `openclash`, `openwrt`, `shadowsocks`, `snell`, `v2ray`, `vmess`
 
