@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 139566 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88882 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62252 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 139866 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88893 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62303 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
 | [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32105 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18727 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
-| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 15847 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14726 | C++ | desktop, editor, linux, macos, notepad |
+| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18782 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
+| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 15870 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14728 | C++ | desktop, editor, linux, macos, notepad |
 
 ### [microsoft/PowerToys](../repos/microsoft-powertoys.md)
 
