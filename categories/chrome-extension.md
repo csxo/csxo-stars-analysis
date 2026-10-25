@@ -4,30 +4,30 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25007 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
-| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22496 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22430 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13956 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
-| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13393 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
-| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8796 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
-| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7375 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
-| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6865 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
-| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6667 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
-| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6258 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
-| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5659 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
-| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5613 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
-| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4046 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
-| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3873 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
-| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 3873 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
-| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3794 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
-| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3783 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
-| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2769 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
-| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2338 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
-| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 380 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
-| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 286 | JavaScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
-| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 179 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
+| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25012 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
+| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22509 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22490 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13971 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
+| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13398 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
+| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8797 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
+| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7376 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
+| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6868 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
+| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6669 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
+| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6273 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
+| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5672 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
+| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5672 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
+| [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4048 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
+| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 3895 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
+| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3879 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
+| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3796 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
+| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3785 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
+| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2768 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
+| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2337 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
+| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 384 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
+| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 305 | JavaScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
+| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 180 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
 | [BlackGlory/extension-binary-search](../repos/blackglory-extension-binary-search.md) | 6.5 | 48 | TypeScript | chrome-extension, edge-extension, manifest-v3, typescript |
-| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3331 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
+| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3330 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
 | [danny0838/content-farm-terminator](../repos/danny0838-content-farm-terminator.md) | 5.5 | 1415 | JavaScript | chrome-extension, firefox-addon |
 
 ### [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md)
@@ -70,25 +70,25 @@ Blocks specific sites from appearing in Google search results
 
 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
-### [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md)
-
-A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
 ### [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md)
 
 ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
+
+### [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md)
+
+A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
 ### [deathau/markdownload](../repos/deathau-markdownload.md)
 
 A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 
-### [EFForg/privacybadger](../repos/efforg-privacybadger.md)
-
-Privacy Badger is a browser extension that automatically learns to block hidden trackers
-
 ### [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md)
 
 Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates.
+
+### [EFForg/privacybadger](../repos/efforg-privacybadger.md)
+
+Privacy Badger is a browser extension that automatically learns to block hidden trackers
 
 ### [dessant/search-by-image](../repos/dessant-search-by-image.md)
 
