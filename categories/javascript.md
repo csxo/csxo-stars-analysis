@@ -4,28 +4,28 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287567 | Python | beginner-project, cpp, golang, javascript, project |
-| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 116894 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97010 | JavaScript | css, curriculum, education, html, javascript |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68753 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45337 | Svelte | collaboration, downloader, instagram, javascript, music |
-| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29997 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
-| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23774 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22430 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17489 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
-| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10766 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7379 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
-| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7352 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4547 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287887 | Python | beginner-project, cpp, golang, javascript, project |
+| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 117153 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97021 | JavaScript | css, curriculum, education, html, javascript |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68818 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 45427 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29995 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
+| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23780 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22490 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17508 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10765 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7377 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7358 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4552 | JavaScript | adblock, adblocker, adguard, ios, javascript |
 | [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2353 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
-| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2338 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
-| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1539 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
-| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 757 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
+| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2337 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
+| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1541 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
+| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 758 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
 | [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
-| [axetroy/anti-redirect](../repos/axetroy-anti-redirect.md) | 7.0 | 494 | TypeScript | axetroy, greasy, javascript, redirect, script |
-| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 199 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 54639 | TypeScript | electron, javascript, music-player, vue |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 18840 | TypeScript | javascript, music-player, react-native-app |
+| [axetroy/anti-redirect](../repos/axetroy-anti-redirect.md) | 7.0 | 493 | TypeScript | axetroy, greasy, javascript, redirect, script |
+| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 202 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 54754 | TypeScript | electron, javascript, music-player, vue |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 18893 | TypeScript | javascript, music-player, react-native-app |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
 
