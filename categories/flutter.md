@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 116894 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 57400 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7160 | Dart | android, flac, flutter, golang, ios |
-| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1771 | Dart | android, flutter, ios, rss, rss-reader |
-| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1633 | Dart | android, android-app, dart, flutter, flutter-app |
-| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 95196 | Dart | dart, file-sharing, flutter, flutter-apps |
+| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 117153 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 57950 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7331 | Dart | android, flac, flutter, golang, ios |
+| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1775 | Dart | android, flutter, ios, rss, rss-reader |
+| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1634 | Dart | android, android-app, dart, flutter, flutter-app |
+| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 95495 | Dart | dart, file-sharing, flutter, flutter-apps |
 
 ### [immich-app/immich](../repos/immich-app-immich.md)
 
