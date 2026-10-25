@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 24827
+- **Star 数**: 24836
 - **主语言**: Jupyter Notebook
 - **GitHub 主题**: `cookbook`, `llm`
 
