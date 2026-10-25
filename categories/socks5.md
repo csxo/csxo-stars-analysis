@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 118796 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
-| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 64435 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
+| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 119049 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
+| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 64647 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
 
 ### [2dust/v2rayN](../repos/2dust-v2rayn.md)
 
