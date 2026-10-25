@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7352 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
+| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7358 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
 
 ### [imgly/background-removal-js](../repos/imgly-background-removal-js.md)
 
