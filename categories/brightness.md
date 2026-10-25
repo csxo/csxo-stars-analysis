@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xanderfrangos/twinkle-tray](../repos/xanderfrangos-twinkle-tray.md) | 7.0 | 9221 | JavaScript | backlight, backlight-brightness, brightness, brightness-control, brightness-level |
+| [xanderfrangos/twinkle-tray](../repos/xanderfrangos-twinkle-tray.md) | 7.0 | 9235 | JavaScript | backlight, backlight-brightness, brightness, brightness-control, brightness-level |
 
 ### [xanderfrangos/twinkle-tray](../repos/xanderfrangos-twinkle-tray.md)
 
