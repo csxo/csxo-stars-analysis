@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 179 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
+| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 180 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
 
 ### [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md)
 
