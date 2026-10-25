@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 5887
+- **Star 数**: 5906
 - **主语言**: C++
 - **GitHub 主题**: `jellyfin`, `jellyfin-client`
 
