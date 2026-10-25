@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md) | 7.0 | 2063 | JavaScript | hexo, hexo-theme, hexo-theme-stellar, ready-for-agent, stellar |
+| [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md) | 7.0 | 2062 | JavaScript | hexo, hexo-theme, hexo-theme-stellar, ready-for-agent, stellar |
 
 ### [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md)
 
