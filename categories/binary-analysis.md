@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 361127 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 380543 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
 
 ### [morluto/rea](../repos/morluto-rea.md)
 
