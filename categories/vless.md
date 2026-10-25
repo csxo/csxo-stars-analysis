@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 48066 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
+| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 48285 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
 
 ### [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md)
 
