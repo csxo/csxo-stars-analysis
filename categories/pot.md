@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19369 | JavaScript | linux, macos, ocr, pot, pot-app |
+| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19364 | JavaScript | linux, macos, ocr, pot, pot-app |
 
 ### [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md)
 
