@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [shimohq/chinese-programmer-wrong-pronunciation](../repos/shimohq-chinese-programmer-wrong-pronunciation.md) | 6.5 | 23338 | JavaScript | chinese-programmers, documentation, pronunciation, spelling |
+| [shimohq/chinese-programmer-wrong-pronunciation](../repos/shimohq-chinese-programmer-wrong-pronunciation.md) | 6.5 | 23363 | JavaScript | chinese-programmers, documentation, pronunciation, spelling |
 
 ### [shimohq/chinese-programmer-wrong-pronunciation](../repos/shimohq-chinese-programmer-wrong-pronunciation.md)
 
