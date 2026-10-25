@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1192
+- **Star 数**: 1426
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent-skill`, `claude-code`, `codex`, `macos`, `skills`, `subtitles`, `transcription`
 
