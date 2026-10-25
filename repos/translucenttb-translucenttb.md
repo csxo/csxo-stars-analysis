@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 20607
+- **Star 数**: 20635
 - **主语言**: C++
 - **GitHub 主题**: `acrylic`, `aero`, `blur`, `customization`, `discord`, `fluent-design`, `gitter`, `taskbar`, `undocumented`, `windows`, `windows-10`
 
