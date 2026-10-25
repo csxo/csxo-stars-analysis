@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 13251
+- **Star 数**: 13257
 - **主语言**: JavaScript
 - **GitHub 主题**: `aria2`, `ariang`, `download`, `gui`, `html`, `javascript`, `ui`, `web`, `web-frontend`, `webui`
 
