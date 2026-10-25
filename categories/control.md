@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28068 | Python | chromium, control, google-chromium, inox, iridium |
-| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21175 | — | control, cpu, curves, fan, fancontrol |
+| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28091 | Python | chromium, control, google-chromium, inox, iridium |
+| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21203 | — | control, cpu, curves, fan, fancontrol |
 
 ### [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md)
 
