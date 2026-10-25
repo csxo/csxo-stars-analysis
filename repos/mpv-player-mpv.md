@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 37514
+- **Star 数**: 37555
 - **主语言**: C
 - **GitHub 主题**: `audio`, `c`, `ffmpeg`, `mplayer`, `mpv`, `multimedia`, `video`
 
