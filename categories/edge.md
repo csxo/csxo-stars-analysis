@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14624 | Go | browser, browser-extension, chrome, edge, firefox |
-| [rcmaehl/MSEdgeRedirect](../repos/rcmaehl-msedgeredirect.md) | 7.0 | 5913 | AutoIt | edge, image-file-execution-options, msedge, uri, uri-manipulations |
-| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5530 | Batchfile | batch, edge, microsoft, removal, remove |
+| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14637 | Go | browser, browser-extension, chrome, edge, firefox |
+| [rcmaehl/MSEdgeRedirect](../repos/rcmaehl-msedgeredirect.md) | 7.0 | 5914 | AutoIt | edge, image-file-execution-options, msedge, uri, uri-manipulations |
+| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5534 | Batchfile | batch, edge, microsoft, removal, remove |
 
 ### [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md)
 
