@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 6535
-- **主语言**: TypeScript
+- **Star 数**: 6537
+- **主语言**: Swift
 - **GitHub 主题**: `cook`, `food`, `recipe`
 
 ## 简介
