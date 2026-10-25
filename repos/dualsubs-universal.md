@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1401
+- **Star 数**: 1402
 - **主语言**: JavaScript
 - **GitHub 主题**: `dual-subtitles`, `streaming`, `streaming-services`, `subtitles`, `video`, `webvtt-subtitles`
 
