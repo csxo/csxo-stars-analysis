@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105212 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25159 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [microsoft/winget-cli](../repos/microsoft-winget-cli.md) | 6.5 | 26519 | C++ | command-line, package-manager, windows, winget |
+| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105228 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25219 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [microsoft/winget-cli](../repos/microsoft-winget-cli.md) | 6.5 | 26540 | C++ | command-line, package-manager, windows, winget |
 
 ### [microsoft/terminal](../repos/microsoft-terminal.md)
 
