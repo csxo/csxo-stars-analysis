@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6834 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6844 | — | alternatives, awesome, awesome-list, curated-list, foss |
 
 ### [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md)
 
