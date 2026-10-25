@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [YunYouJun/cook](../repos/yunyoujun-cook.md) | 6.0 | 6535 | TypeScript | cook, food, recipe |
+| [YunYouJun/cook](../repos/yunyoujun-cook.md) | 6.0 | 6537 | Swift | cook, food, recipe |
 
 ### [YunYouJun/cook](../repos/yunyoujun-cook.md)
 
