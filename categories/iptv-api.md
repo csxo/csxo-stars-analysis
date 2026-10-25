@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25709 | Python | auto-update, awesome, epg, iptv, iptv-api |
+| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25758 | Python | auto-update, awesome, epg, iptv, iptv-api |
 
 ### [Guovin/iptv-api](../repos/guovin-iptv-api.md)
 
