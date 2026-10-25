@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7695 | JavaScript | aplayer, html, html5, music, player |
+| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7696 | JavaScript | aplayer, html, html5, music, player |
 
 ### [DIYgod/APlayer](../repos/diygod-aplayer.md)
 
