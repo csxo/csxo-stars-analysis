@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94704 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 63995 | Go | docker, foss, go, markdown, memo |
-| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 63102 | Python | ai, bark, data-analysis, docker, hot-news |
-| [mastodon/mastodon](../repos/mastodon-mastodon.md) | 7.0 | 50428 | Ruby | activity-stream, activitypub, docker, fediverse, mastodon |
-| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21651 | Python | cnn, demo, docker, face-recognition, fastapi |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 94941 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64048 | Go | docker, foss, go, markdown, memo |
+| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 63159 | Python | ai, bark, data-analysis, docker, hot-news |
+| [mastodon/mastodon](../repos/mastodon-mastodon.md) | 7.0 | 50450 | Ruby | activity-stream, activitypub, docker, fediverse, mastodon |
+| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21659 | Python | cnn, demo, docker, face-recognition, fastapi |
 
 ### [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md)
 
