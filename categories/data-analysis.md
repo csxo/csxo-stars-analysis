@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 63102 | Python | ai, bark, data-analysis, docker, hot-news |
-| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42501 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
-| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 757 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
+| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 63159 | Python | ai, bark, data-analysis, docker, hot-news |
+| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42527 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
+| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 758 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
 
 ### [sansan0/TrendRadar](../repos/sansan0-trendradar.md)
 
