@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3540 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
+| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3543 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
 
 ### [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md)
 
