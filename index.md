@@ -2,17 +2,17 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 658  
-- **已分析**: 658  
-- **分类数**: 1228
+- **Star 总数**: 661  
+- **已分析**: 661  
+- **分类数**: 1233
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 448 |
-| [(none)](categories/none.md) | 156 |
-| [AI / LLM](categories/ai-llm.md) | 84 |
+| [Other](categories/other.md) | 450 |
+| [(none)](categories/none.md) | 157 |
+| [AI / LLM](categories/ai-llm.md) | 85 |
 | [Frontend](categories/frontend.md) | 63 |
 | [ai](categories/ai.md) | 43 |
 | [DevOps](categories/devops.md) | 32 |
@@ -39,6 +39,7 @@
 | [agent-skills](categories/agent-skills.md) | 11 |
 | [browser-extension](categories/browser-extension.md) | 11 |
 | [chinese](categories/chinese.md) | 11 |
+| [markdown](categories/markdown.md) | 11 |
 | [proxy](categories/proxy.md) | 11 |
 | [react](categories/react.md) | 11 |
 | [shadowsocks](categories/shadowsocks.md) | 11 |
@@ -46,7 +47,6 @@
 | [ios](categories/ios.md) | 10 |
 | [linux](categories/linux.md) | 10 |
 | [llm](categories/llm.md) | 10 |
-| [markdown](categories/markdown.md) | 10 |
 | [csharp](categories/csharp.md) | 9 |
 | [deepseek](categories/deepseek.md) | 9 |
 | [desktop-app](categories/desktop-app.md) | 9 |
@@ -54,6 +54,7 @@
 | [codex](categories/codex.md) | 8 |
 | [editor](categories/editor.md) | 8 |
 | [firefox](categories/firefox.md) | 8 |
+| [golang](categories/golang.md) | 8 |
 | [gui](categories/gui.md) | 8 |
 | [tampermonkey](categories/tampermonkey.md) | 8 |
 | [windows](categories/windows.md) | 8 |
@@ -64,7 +65,6 @@
 | [deep-learning](categories/deep-learning.md) | 7 |
 | [desktop](categories/desktop.md) | 7 |
 | [ffmpeg](categories/ffmpeg.md) | 7 |
-| [golang](categories/golang.md) | 7 |
 | [mpv](categories/mpv.md) | 7 |
 | [music-player](categories/music-player.md) | 7 |
 | [rime](categories/rime.md) | 7 |
@@ -122,6 +122,7 @@
 | [material-design](categories/material-design.md) | 4 |
 | [mihomo](categories/mihomo.md) | 4 |
 | [open-source](categories/open-source.md) | 4 |
+| [pdf](categories/pdf.md) | 4 |
 | [swift](categories/swift.md) | 4 |
 | [video](categories/video.md) | 4 |
 | [agent-skill](categories/agent-skill.md) | 3 |
@@ -175,7 +176,6 @@
 | [mica](categories/mica.md) | 3 |
 | [network](categories/network.md) | 3 |
 | [ocr](categories/ocr.md) | 3 |
-| [pdf](categories/pdf.md) | 3 |
 | [player](categories/player.md) | 3 |
 | [programming](categories/programming.md) | 3 |
 | [rss-reader](categories/rss-reader.md) | 3 |
@@ -215,6 +215,7 @@
 | [bsd](categories/bsd.md) | 2 |
 | [c-sharp](categories/c-sharp.md) | 2 |
 | [canvas](categories/canvas.md) | 2 |
+| [careers](categories/careers.md) | 2 |
 | [censorship](categories/censorship.md) | 2 |
 | [chat](categories/chat.md) | 2 |
 | [chatglm](categories/chatglm.md) | 2 |
@@ -323,6 +324,7 @@
 | [ungoogled-chromium](categories/ungoogled-chromium.md) | 2 |
 | [vim](categories/vim.md) | 2 |
 | [violentmonkey](categories/violentmonkey.md) | 2 |
+| [visual-studio-code](categories/visual-studio-code.md) | 2 |
 | [vue3](categories/vue3.md) | 2 |
 | [webextension](categories/webextension.md) | 2 |
 | [wechat](categories/wechat.md) | 2 |
@@ -437,6 +439,7 @@
 | [atom](categories/atom.md) | 1 |
 | [atom-feed](categories/atom-feed.md) | 1 |
 | [atomfeed](categories/atomfeed.md) | 1 |
+| [ats](categories/ats.md) | 1 |
 | [audio-player](categories/audio-player.md) | 1 |
 | [audiobook](categories/audiobook.md) | 1 |
 | [auto](categories/auto.md) | 1 |
@@ -519,7 +522,7 @@
 | [captions](categories/captions.md) | 1 |
 | [capture](categories/capture.md) | 1 |
 | [capture-organize-distill-express](categories/capture-organize-distill-express.md) | 1 |
-| [careers](categories/careers.md) | 1 |
+| [career](categories/career.md) | 1 |
 | [catppuccin](categories/catppuccin.md) | 1 |
 | [caveman](categories/caveman.md) | 1 |
 | [cb7](categories/cb7.md) | 1 |
@@ -842,6 +845,7 @@
 | [hiddify](categories/hiddify.md) | 1 |
 | [hidpp](categories/hidpp.md) | 1 |
 | [hight-performance](categories/hight-performance.md) | 1 |
+| [hiring](categories/hiring.md) | 1 |
 | [hls](categories/hls.md) | 1 |
 | [home](categories/home.md) | 1 |
 | [home-theater](categories/home-theater.md) | 1 |
@@ -969,6 +973,7 @@
 | [medium-com](categories/medium-com.md) | 1 |
 | [meetup](categories/meetup.md) | 1 |
 | [memo](categories/memo.md) | 1 |
+| [mermaid](categories/mermaid.md) | 1 |
 | [metagpt](categories/metagpt.md) | 1 |
 | [microsoft-office](categories/microsoft-office.md) | 1 |
 | [microsoft-store](categories/microsoft-store.md) | 1 |
@@ -1047,6 +1052,7 @@
 | [pdf-converter](categories/pdf-converter.md) | 1 |
 | [pdf-viewer](categories/pdf-viewer.md) | 1 |
 | [peer-to-peer](categories/peer-to-peer.md) | 1 |
+| [plantuml](categories/plantuml.md) | 1 |
 | [playlists](categories/playlists.md) | 1 |
 | [plyr](categories/plyr.md) | 1 |
 | [pocket](categories/pocket.md) | 1 |
@@ -1211,7 +1217,6 @@
 | [video-translation](categories/video-translation.md) | 1 |
 | [videojs](categories/videojs.md) | 1 |
 | [videos](categories/videos.md) | 1 |
-| [visual-studio-code](categories/visual-studio-code.md) | 1 |
 | [vizualization](categories/vizualization.md) | 1 |
 | [vless](categories/vless.md) | 1 |
 | [vless-ws-tls](categories/vless-ws-tls.md) | 1 |
@@ -1261,13 +1266,13 @@
 | TypeScript | 115 |
 | Python | 104 |
 | JavaScript | 100 |
+| Go | 29 |
 | C# | 28 |
 | C++ | 28 |
-| Go | 28 |
-| HTML | 22 |
+| HTML | 23 |
 | C | 16 |
+| Swift | 15 |
 | Kotlin | 14 |
-| Swift | 14 |
 | Rust | 13 |
 | Dart | 11 |
 | Jupyter Notebook | 10 |
@@ -1275,4 +1280,4 @@
 | Java | 7 |
 
 ---
-_生成时间: 2026-10-22T09:04:42Z_
+_生成时间: 2026-10-25T08:52:27Z_
