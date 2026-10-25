@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [netchx/netch](../repos/netchx-netch.md) | 7.0 | 17690 | C# | fullcone, netch, netfiltersdk, shadowsocks, shadowsocksr |
+| [netchx/netch](../repos/netchx-netch.md) | 7.0 | 17694 | C# | fullcone, netch, netfiltersdk, shadowsocks, shadowsocksr |
 
 ### [netchx/netch](../repos/netchx-netch.md)
 
