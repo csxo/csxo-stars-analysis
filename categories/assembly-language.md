@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20153 | C++ | assembly-language, c, cpp, emulation, emulator |
+| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20185 | C++ | assembly-language, c, cpp, emulation, emulator |
 
 ### [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md)
 
