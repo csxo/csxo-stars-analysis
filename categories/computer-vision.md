@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 70104 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
-| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6019 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
+| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 70218 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
+| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6021 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
 
 ### [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md)
 
