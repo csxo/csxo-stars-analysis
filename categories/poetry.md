@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 53806 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 53835 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
 
 ### [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md)
 
