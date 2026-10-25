@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [team-spotube/spotube](../repos/team-spotube-spotube.md) | 7.0 | 50203 | Dart | android, android-client, android-music-player, desktop-client, fdroid |
+| [team-spotube/spotube](../repos/team-spotube-spotube.md) | 7.0 | 50294 | Dart | android, android-client, android-music-player, desktop-client, fdroid |
 
 ### [team-spotube/spotube](../repos/team-spotube-spotube.md)
 
