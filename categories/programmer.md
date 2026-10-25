@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [stanzhai/be-a-professional-programmer](../repos/stanzhai-be-a-professional-programmer.md) | 6.0 | 9908 | — | awesome, programmer, programmer-tool |
+| [stanzhai/be-a-professional-programmer](../repos/stanzhai-be-a-professional-programmer.md) | 6.0 | 9915 | — | awesome, programmer, programmer-tool |
 
 ### [stanzhai/be-a-professional-programmer](../repos/stanzhai-be-a-professional-programmer.md)
 
