@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 252255
+- **Star 数**: 253054
 - **主语言**: —
 - **GitHub 主题**: `awesome`, `awesome-list`, `bsd`, `cheatsheets`, `devops`, `guidelines`, `hacking`, `hacks`, `howtos`, `linux`, `lists`, `manuals`, `one-liners`, `pentesters`, `resources`, `search-engines`, `security`, `security-researchers`, `sysops`
 
