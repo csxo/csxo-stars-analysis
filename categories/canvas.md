@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 134359 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
+| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 134512 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
 | [revezone/revezone](../repos/revezone-revezone.md) | 7.0 | 2660 | TypeScript | brain-storms, canvas, capture-organize-distill-express, excalidraw, knowledge-management |
 
 ### [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md)
