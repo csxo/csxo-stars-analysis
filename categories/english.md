@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 37755 | Python | chinese, document, edit, english, japanese |
-| [dongyuwei/hallelujahIM](../repos/dongyuwei-hallelujahim.md) | 7.0 | 2591 | Objective-C++ | autocomplete, english, input-method, inputmethod, inputmethodkit |
+| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 37848 | Python | chinese, document, edit, english, japanese |
+| [dongyuwei/hallelujahIM](../repos/dongyuwei-hallelujahim.md) | 7.0 | 2593 | Objective-C++ | autocomplete, english, input-method, inputmethod, inputmethodkit |
 
 ### [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md)
 
