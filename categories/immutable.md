@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8738 | JavaScript | immutable, react, redux, tetris |
+| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8740 | JavaScript | immutable, react, redux, tetris |
 
 ### [chvin/react-tetris](../repos/chvin-react-tetris.md)
 
