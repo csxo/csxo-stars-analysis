@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6019 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
+| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6021 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
 
 ### [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md)
 
