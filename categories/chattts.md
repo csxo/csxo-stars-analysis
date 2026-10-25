@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39920 | Python | agent, chat, chatgpt, chattts, chinese |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39938 | Python | agent, chat, chatgpt, chattts, chinese |
 
 ### [2noise/ChatTTS](../repos/2noise-chattts.md)
 
