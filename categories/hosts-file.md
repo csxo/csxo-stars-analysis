@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hellzerg/optimizer](../repos/hellzerg-optimizer.md) | 7.0 | 18235 | C# | cleanup, hosts-file, optimize, privacy, registry-hacks |
+| [hellzerg/optimizer](../repos/hellzerg-optimizer.md) | 7.0 | 18229 | C# | cleanup, hosts-file, optimize, privacy, registry-hacks |
 
 ### [hellzerg/optimizer](../repos/hellzerg-optimizer.md)
 
