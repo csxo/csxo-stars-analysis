@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [massgravel/Microsoft-Activation-Scripts](../repos/massgravel-microsoft-activation-scripts.md) | 7.0 | 195526 | Batchfile | activator, hwid, kms, kms38, massgrave |
+| [massgravel/Microsoft-Activation-Scripts](../repos/massgravel-microsoft-activation-scripts.md) | 7.0 | 196039 | Batchfile | activator, hwid, kms, kms38, massgrave |
 
 ### [massgravel/Microsoft-Activation-Scripts](../repos/massgravel-microsoft-activation-scripts.md)
 
