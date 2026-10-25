@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13956 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4547 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 13971 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4552 | JavaScript | adblock, adblocker, adguard, ios, javascript |
 
 ### [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md)
 
