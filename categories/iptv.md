@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 141920 | TypeScript | iptv, m3u, playlist, streams, tv |
-| [imDazui/Tvlist-awesome-m3u-m3u8](../repos/imdazui-tvlist-awesome-m3u-m3u8.md) | 7.0 | 30204 | — | awesome, iptv, iptv-channels, iptv-free, iptv-m3u8 |
-| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28657 | JavaScript | china, converter, epg, iptv, ipv6 |
-| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25709 | Python | auto-update, awesome, epg, iptv, iptv-api |
+| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 142270 | TypeScript | iptv, m3u, playlist, streams, tv |
+| [imDazui/Tvlist-awesome-m3u-m3u8](../repos/imdazui-tvlist-awesome-m3u-m3u8.md) | 7.0 | 30252 | — | awesome, iptv, iptv-channels, iptv-free, iptv-m3u8 |
+| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28687 | JavaScript | china, converter, epg, iptv, ipv6 |
+| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25758 | Python | auto-update, awesome, epg, iptv, iptv-api |
 
 ### [iptv-org/iptv](../repos/iptv-org-iptv.md)
 
