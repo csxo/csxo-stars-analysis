@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 20175
+- **Star 数**: 20201
 - **主语言**: TypeScript
 - **GitHub 主题**: `bookmark`, `bookmark-manager`, `collaboration`, `nextjs`, `react-native`, `read-it-later`, `self-hosted`, `typescript`
 
