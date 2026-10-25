@@ -4,16 +4,16 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119311 | — | android, angular, books, free, ios |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119352 | — | android, angular, books, free, ios |
 | [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10636 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
 | [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10484 | Swift | feed-reader, ios, json-feed, macos, rss |
-| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7663 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7160 | Dart | android, flac, flutter, golang, ios |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4547 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2257 | Swift | audiobook, ios, open-source, player, swift |
-| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1771 | Dart | android, flutter, ios, rss, rss-reader |
-| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1280 | Swift | agent-framework, ai-agent, gemma, ios, litert |
-| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 199 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
+| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7671 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7331 | Dart | android, flac, flutter, golang, ios |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4552 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2263 | Swift | audiobook, ios, open-source, player, swift |
+| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1775 | Dart | android, flutter, ios, rss, rss-reader |
+| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1279 | Swift | agent-framework, ai-agent, gemma, ios, litert |
+| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 202 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
 
 ### [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md)
 
