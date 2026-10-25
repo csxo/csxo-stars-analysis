@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 77910 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
+| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 78175 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
 
 ### [obsproject/obs-studio](../repos/obsproject-obs-studio.md)
 
