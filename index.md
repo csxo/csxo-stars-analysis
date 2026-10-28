@@ -2,16 +2,16 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 661  
-- **已分析**: 661  
-- **分类数**: 1233
+- **Star 总数**: 663  
+- **已分析**: 663  
+- **分类数**: 1234
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 450 |
-| [(none)](categories/none.md) | 157 |
+| [Other](categories/other.md) | 452 |
+| [(none)](categories/none.md) | 158 |
 | [AI / LLM](categories/ai-llm.md) | 85 |
 | [Frontend](categories/frontend.md) | 63 |
 | [ai](categories/ai.md) | 43 |
@@ -19,19 +19,19 @@
 | [CLI / Terminal](categories/cli-terminal.md) | 31 |
 | [chrome-extension](categories/chrome-extension.md) | 25 |
 | [android](categories/android.md) | 23 |
+| [awesome](categories/awesome.md) | 22 |
 | [javascript](categories/javascript.md) | 22 |
-| [awesome](categories/awesome.md) | 21 |
 | [clash](categories/clash.md) | 21 |
 | [chatgpt](categories/chatgpt.md) | 20 |
 | [claude-code](categories/claude-code.md) | 17 |
 | [ai-agents](categories/ai-agents.md) | 16 |
 | [adblock](categories/adblock.md) | 15 |
+| [claude](categories/claude.md) | 15 |
 | [macos](categories/macos.md) | 15 |
 | [rss](categories/rss.md) | 15 |
-| [claude](categories/claude.md) | 14 |
+| [awesome-list](categories/awesome-list.md) | 14 |
 | [cross-platform](categories/cross-platform.md) | 14 |
 | [hacktoberfest](categories/hacktoberfest.md) | 14 |
-| [awesome-list](categories/awesome-list.md) | 13 |
 | [cli](categories/cli.md) | 13 |
 | [agent](categories/agent.md) | 12 |
 | [electron](categories/electron.md) | 12 |
@@ -128,6 +128,7 @@
 | [agent-skill](categories/agent-skill.md) | 3 |
 | [agentic-ai](categories/agentic-ai.md) | 3 |
 | [agents](categories/agents.md) | 3 |
+| [ai-video](categories/ai-video.md) | 3 |
 | [alternatives](categories/alternatives.md) | 3 |
 | [application](categories/application.md) | 3 |
 | [arm64](categories/arm64.md) | 3 |
@@ -195,7 +196,6 @@
 | [ai-chat](categories/ai-chat.md) | 2 |
 | [ai-search-engine](categories/ai-search-engine.md) | 2 |
 | [ai-translation](categories/ai-translation.md) | 2 |
-| [ai-video](categories/ai-video.md) | 2 |
 | [android-app](categories/android-app.md) | 2 |
 | [angular](categories/angular.md) | 2 |
 | [animation](categories/animation.md) | 2 |
@@ -571,6 +571,7 @@
 | [classic-shell](categories/classic-shell.md) | 1 |
 | [classic-start](categories/classic-start.md) | 1 |
 | [claude-code-plugin](categories/claude-code-plugin.md) | 1 |
+| [claude-opus](categories/claude-opus.md) | 1 |
 | [clawd](categories/clawd.md) | 1 |
 | [cleaner](categories/cleaner.md) | 1 |
 | [cleanmymac](categories/cleanmymac.md) | 1 |
@@ -1263,21 +1264,21 @@
 
 | Tech | Count |
 | --- | ---: |
-| TypeScript | 115 |
-| Python | 104 |
+| TypeScript | 116 |
+| Python | 105 |
 | JavaScript | 100 |
 | Go | 29 |
 | C# | 28 |
 | C++ | 28 |
 | HTML | 23 |
 | C | 16 |
+| Kotlin | 15 |
 | Swift | 15 |
-| Kotlin | 14 |
 | Rust | 13 |
-| Dart | 11 |
+| Dart | 10 |
 | Jupyter Notebook | 10 |
 | Lua | 8 |
 | Java | 7 |
 
 ---
-_生成时间: 2026-10-25T08:52:27Z_
+_生成时间: 2026-10-28T10:14:48Z_
