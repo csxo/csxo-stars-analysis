@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20100 | Python | alternatives, apps, awesome, awesome-list, degoogle |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20121 | Python | alternatives, apps, awesome, awesome-list, degoogle |
 
 ### [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md)
 
