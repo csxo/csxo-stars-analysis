@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1951
+- **Star 数**: 1956
 - **主语言**: Python
 - **GitHub 主题**: `adblock`, `adblock-list`, `adblock-plus`, `adguard`, `adguard-list`, `adguardhome`, `quantumult-x`
 
