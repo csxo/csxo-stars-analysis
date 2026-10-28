@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 11218
+- **Star 数**: 11262
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `deepseek`, `doubao`, `motion`, `react`, `resume-website`, `shadcn-ui`, `tanstack`, `tanstack-start`
 
