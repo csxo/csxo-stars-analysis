@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7162
+- **Star 数**: 7170
 - **主语言**: Python
 - **GitHub 主题**: `plugin`, `python`, `qbittorrent`, `search`, `search-engine`
 
