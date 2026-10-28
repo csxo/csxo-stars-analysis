@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20100 | Python | alternatives, apps, awesome, awesome-list, degoogle |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6844 | — | alternatives, awesome, awesome-list, curated-list, foss |
-| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9859 | — | alternatives, list |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20121 | Python | alternatives, apps, awesome, awesome-list, degoogle |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6852 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9879 | — | alternatives, list |
 
 ### [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md)
 
