@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 34591
+- **Star 数**: 34608
 - **主语言**: TypeScript
 - **GitHub 主题**: `cross-platform`, `etcher`, `sd-cards`, `usb-drives`
 
