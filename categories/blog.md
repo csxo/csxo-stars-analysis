@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 77737 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
-| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14011 | HTML | blog, blog-theme, clean, fast, feature-rich |
-| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7032 | TypeScript | blog, nextjs, notion, portfolio, react |
-| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24296 | JavaScript | blog, china, rss |
+| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 77862 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
+| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14015 | HTML | blog, blog-theme, clean, fast, feature-rich |
+| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7034 | TypeScript | blog, nextjs, notion, portfolio, react |
+| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24320 | JavaScript | blog, china, rss |
 
 ### [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md)
 
