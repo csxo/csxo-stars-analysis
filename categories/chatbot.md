@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 66924 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
-| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42135 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
-| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23032 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
-| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15259 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
-| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16574 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
+| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 66952 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
+| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42164 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
+| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23060 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
+| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15256 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
+| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16584 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
 
 ### [xtekky/gpt4free](../repos/xtekky-gpt4free.md)
 
