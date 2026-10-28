@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [QL-Win/QuickLook](../repos/ql-win-quicklook.md) | 5.0 | 25499 | C# | quicklook |
+| [QL-Win/QuickLook](../repos/ql-win-quicklook.md) | 5.0 | 25556 | C# | quicklook |
 
 ### [QL-Win/QuickLook](../repos/ql-win-quicklook.md)
 
