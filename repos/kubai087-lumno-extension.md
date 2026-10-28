@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 305
-- **主语言**: JavaScript
+- **Star 数**: 319
+- **主语言**: TypeScript
 - **GitHub 主题**: `arc-browser`, `bookmarks`, `browser-extension`, `browser-history`, `chrome-extension`, `chromium-extension`, `command-bar`, `command-palette`, `edge-extension`, `fuzzy-search`, `manifest-v3`, `new-tab`, `new-tab-page`, `productivity-tools`, `raycast`, `spotlight-search`, `tab-search`, `tab-switcher`
 
 ## 简介
