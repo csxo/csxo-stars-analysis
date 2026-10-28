@@ -1,11 +1,16 @@
 # ai-video
 
-> 项目数: **2**
+> 项目数: **3**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 6849 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2274 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 12164 | — | ai-video, awesome, awesome-list, claude, claude-opus |
+| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 8909 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2321 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+
+### [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md)
+
+A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 
 ### [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md)
 
