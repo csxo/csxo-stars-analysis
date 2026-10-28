@@ -4,18 +4,18 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 380543 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 201711 | Python | cli, downloader, python, sponsorblock, youtube-dl |
-| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 108301 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
-| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 60771 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
-| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36315 | TypeScript | agent, ai, cli, developer-tools, open-source |
-| [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19400 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
-| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14055 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 399595 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 203198 | Python | cli, downloader, python, sponsorblock, youtube-dl |
+| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 108593 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
+| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 61085 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
+| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36353 | TypeScript | agent, ai, cli, developer-tools, open-source |
+| [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19405 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
+| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14086 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
 | [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5932 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
-| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2833 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
-| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2191 | Python | aipc, api, cli, cpu, desktopgui |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2046 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
-| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 940 | Python | aac, cli, downloader, music-video, ogg |
+| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2842 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
+| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2195 | Python | aipc, api, cli, cpu, desktopgui |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2049 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [glomatico/votify](../repos/glomatico-votify.md) | 7.0 | 941 | Python | aac, cli, downloader, music-video, ogg |
 | [unkmonster/tmd](../repos/unkmonster-tmd.md) | 6.5 | 399 | Go | cli, downloader, twitter, x |
 
 ### [morluto/rea](../repos/morluto-rea.md)
