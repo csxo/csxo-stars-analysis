@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 48170 | Python | ocr, ocr-python, paddleocr, qml, qt |
-| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19364 | JavaScript | linux, macos, ocr, pot, pot-app |
+| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 48242 | Python | ocr, ocr-python, paddleocr, qml, qt |
+| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19352 | JavaScript | linux, macos, ocr, pot, pot-app |
 | [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md) | 7.0 | 3387 | TypeScript | ai, exe, macos, ocr, pc |
 
 ### [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md)
