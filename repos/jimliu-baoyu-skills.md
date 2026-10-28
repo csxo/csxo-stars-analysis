@@ -3,7 +3,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 26936
+- **Star 数**: 27025
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent-skills`, `claude-skills`, `codex-skills`, `openclaw-skills`
 
