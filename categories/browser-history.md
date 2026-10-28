@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 305 | JavaScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
+| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 319 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
 
 ### [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md)
 
