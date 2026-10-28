@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 287887 | Python | beginner-project, cpp, golang, javascript, project |
-| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186332 | — | algorithm, computer-science, cpp, interview, java |
-| [shadps4-emu/shadPS4](../repos/shadps4-emu-shadps4.md) | 7.0 | 33910 | C++ | cpp, cpp23, emulation, emulator, imgui |
-| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27726 | — | algorithms, c, cpp, cs-books, database |
-| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20185 | C++ | assembly-language, c, cpp, emulation, emulator |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 288267 | Python | beginner-project, cpp, golang, javascript, project |
+| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186358 | Python | algorithm, computer-science, cpp, interview, java |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu-shadps4.md) | 7.0 | 33944 | C++ | cpp, cpp23, emulation, emulator, imgui |
+| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27771 | — | algorithms, c, cpp, cs-books, database |
+| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20226 | C++ | assembly-language, c, cpp, emulation, emulator |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
 
