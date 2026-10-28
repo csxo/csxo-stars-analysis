@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 7331
+- **Star 数**: 7445
 - **主语言**: Dart
 - **GitHub 主题**: `android`, `flac`, `flutter`, `ios`, `lossless`, `music-management`, `rust`, `rust-lang`
 
