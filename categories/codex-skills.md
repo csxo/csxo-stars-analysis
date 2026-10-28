@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 26936 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 27025 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
 
 ### [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md)
 
