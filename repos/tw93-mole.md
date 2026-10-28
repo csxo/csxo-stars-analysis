@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 72785
+- **Star 数**: 73146
 - **主语言**: Shell
 - **GitHub 主题**: `analyzer`, `appcleaner`, `clean`, `cleaner`, `cleanmymac`, `command-line`, `daisydisk`, `istat`, `mac`, `macos`, `macos-app`, `native`, `optimize`, `pearcleaner`, `sensei`, `shell`, `swift`, `swiftui`, `uninstall`, `windows`
 
