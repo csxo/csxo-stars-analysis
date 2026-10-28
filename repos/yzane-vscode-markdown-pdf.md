@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1344
+- **Star 数**: 1342
 - **主语言**: HTML
 - **GitHub 主题**: `markdown`, `mermaid`, `pdf`, `plantuml`, `visual-studio-code`, `vscode`, `vscode-extension`
 
