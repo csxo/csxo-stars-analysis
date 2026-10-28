@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17848 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17872 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
 
 ### [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md)
 
