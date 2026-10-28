@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48275 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
-| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36315 | TypeScript | agent, ai, cli, developer-tools, open-source |
+| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48299 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
+| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36353 | TypeScript | agent, ai, cli, developer-tools, open-source |
 
 ### [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md)
 
