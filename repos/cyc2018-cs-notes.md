@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 186332
-- **主语言**: —
+- **Star 数**: 186358
+- **主语言**: Python
 - **GitHub 主题**: `algorithm`, `computer-science`, `cpp`, `interview`, `java`, `leetcode`, `python`, `system-design`
 
 ## 简介
