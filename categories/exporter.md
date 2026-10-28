@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2768 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
+| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2782 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
 
 ### [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md)
 
