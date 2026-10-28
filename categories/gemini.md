@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 108301 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62303 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
-| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6731 | Python | elevenlabs, gemini, genai, notebooklm, openai |
-| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5672 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
-| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 4483 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
+| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 108593 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62335 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6747 | Python | elevenlabs, gemini, genai, notebooklm, openai |
+| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5678 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
+| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 4625 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
 
 ### [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md)
 
