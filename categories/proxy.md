@@ -4,17 +4,17 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 119049 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
-| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 64647 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46905 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42309 | Go | anticensorship, dns, network, proxy, reality |
-| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34708 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31475 | — | adblock, gfw, proxy, shadowrocket, v2ray |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22729 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16720 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
-| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7438 | Go | clash, geoip, geoip2, proxy, quantumultx |
-| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5557 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
-| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59525 | C# | c-sharp, proxy, shadowsocks |
+| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 119321 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
+| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 64842 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46907 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42400 | Go | anticensorship, dns, network, proxy, reality |
+| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34719 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31621 | — | adblock, gfw, proxy, shadowrocket, v2ray |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22762 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16721 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
+| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7440 | Go | clash, geoip, geoip2, proxy, quantumultx |
+| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5575 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
+| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59513 | C# | c-sharp, proxy, shadowsocks |
 
 ### [2dust/v2rayN](../repos/2dust-v2rayn.md)
 
