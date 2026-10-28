@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 153702
+- **Star 数**: 154530
 - **主语言**: Rust
 - **GitHub 主题**: `clash`, `clash-meta`, `clash-verge`, `linux`, `mac`, `mihomo`, `tauri-app`, `windows`
 
@@ -32,10 +32,4 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 ## 标签
 
 `clash` `clash-meta` `clash-verge` `linux` `mac`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [libnyanpasu/clash-nyanpasu](libnyanpasu-clash-nyanpasu.md) | 0.36 | `clash`, `clash-meta`, `mihomo`, `rust`, `tauri-app` |
 
