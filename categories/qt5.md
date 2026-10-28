@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3731 | — | clipboard, feedback, paste, qt, qt5 |
+| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3739 | — | clipboard, feedback, paste, qt, qt5 |
 
 ### [Snipaste/feedback](../repos/snipaste-feedback.md)
 
