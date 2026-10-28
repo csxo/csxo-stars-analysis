@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 3330
+- **Star 数**: 3336
 - **主语言**: JavaScript
 - **GitHub 主题**: `chrome-extension`, `chromium`, `ungoogled-chromium`
 
