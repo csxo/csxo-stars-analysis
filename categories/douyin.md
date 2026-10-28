@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [putyy/res-downloader](../repos/putyy-res-downloader.md) | 7.0 | 20838 | Go | douyin, kuaishou, res-downloader, wechat, wechat-video |
+| [putyy/res-downloader](../repos/putyy-res-downloader.md) | 7.0 | 20942 | Go | douyin, kuaishou, res-downloader, wechat, wechat-video |
 
 ### [putyy/res-downloader](../repos/putyy-res-downloader.md)
 
