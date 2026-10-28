@@ -5,9 +5,9 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 162
+- **Star 数**: 164
 - **主语言**: Python
-- **GitHub 主题**: `beat-detection`, `captions`, `ffmpeg`, `python`, `video-editing`, `whisper`
+- **GitHub 主题**: `ai-video-editor`, `auto-editing`, `beat-detection`, `beat-sync`, `captions`, `claude-code`, `content-creator`, `edits`, `fan-edit`, `ffmpeg`, `montage`, `movie-edit`, `open-source`, `python`, `subtitles`, `tiktok-edits`, `video-automation`, `video-editing`, `whisper`, `youtube-shorts`
 
 ## 简介
 
