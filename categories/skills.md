@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5672 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
-| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1426 | TypeScript | agent-skill, claude-code, codex, macos, skills |
+| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5678 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
+| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1574 | TypeScript | agent-skill, claude-code, codex, macos, skills |
 
 ### [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md)
 
