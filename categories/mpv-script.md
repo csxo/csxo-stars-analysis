@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7750 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
-| [tomasklaen/uosc](../repos/tomasklaen-uosc.md) | 5.5 | 3467 | Lua | mpv, mpv-script |
+| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7758 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
+| [tomasklaen/uosc](../repos/tomasklaen-uosc.md) | 5.5 | 3472 | Lua | mpv, mpv-script |
 
 ### [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md)
 
