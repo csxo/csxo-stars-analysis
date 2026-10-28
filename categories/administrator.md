@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [winsiderss/systeminformer](../repos/winsiderss-systeminformer.md) | 7.0 | 16326 | C | administrator, benchmarking, debugger, monitor, monitor-performance |
+| [winsiderss/systeminformer](../repos/winsiderss-systeminformer.md) | 7.0 | 16355 | C | administrator, benchmarking, debugger, monitor, monitor-performance |
 
 ### [winsiderss/systeminformer](../repos/winsiderss-systeminformer.md)
 
