@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2824
+- **Star 数**: 2826
 - **主语言**: C#
 - **GitHub 主题**: `desktop-app`, `desktop-tool`, `geekdesk`
 
