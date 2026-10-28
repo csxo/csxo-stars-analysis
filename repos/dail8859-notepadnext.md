@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 14728
+- **Star 数**: 14739
 - **主语言**: C++
 - **GitHub 主题**: `desktop`, `editor`, `linux`, `macos`, `notepad`, `notepad-plus-plus`, `qt`, `qt6`
 
