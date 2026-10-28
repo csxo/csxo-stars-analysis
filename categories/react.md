@@ -4,17 +4,17 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 27926 | TypeScript | free, music-player, musicfree, plugin, react |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21875 | TypeScript | clash, cross-platform, react, rust, tauri |
-| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11218 | TypeScript | ai, deepseek, doubao, motion, react |
-| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9743 | TypeScript | electron, linux, macos, react, rss |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9046 | TypeScript | electron, free, music, music-player, react |
-| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7032 | TypeScript | blog, nextjs, notion, portfolio, react |
-| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3366 | TypeScript | epub, epub-reader, nextjs, pwa, react |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28022 | TypeScript | free, music-player, musicfree, plugin, react |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21868 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11262 | TypeScript | ai, deepseek, doubao, motion, react |
+| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9755 | TypeScript | electron, linux, macos, react, rss |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9063 | TypeScript | electron, free, music, music-player, react |
+| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7034 | TypeScript | blog, nextjs, notion, portfolio, react |
+| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3365 | TypeScript | epub, epub-reader, nextjs, pwa, react |
 | [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2347 | TypeScript | extension-chrome, github, pocket, react, rss |
-| [feichao93/battle-city](../repos/feichao93-battle-city.md) | 7.0 | 1879 | TypeScript | battle-city, game, react, redux, redux-saga |
-| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1500 | JavaScript | antd, music, music-player, react, react-router |
-| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8740 | JavaScript | immutable, react, redux, tetris |
+| [feichao93/battle-city](../repos/feichao93-battle-city.md) | 7.0 | 1880 | TypeScript | battle-city, game, react, redux, redux-saga |
+| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1501 | JavaScript | antd, music, music-player, react, react-router |
+| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8738 | JavaScript | immutable, react, redux, tetris |
 
 ### [maotoumao/MusicFree](../repos/maotoumao-musicfree.md)
 
