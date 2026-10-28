@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27726 | — | algorithms, c, cpp, cs-books, database |
+| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27771 | — | algorithms, c, cpp, cs-books, database |
 
 ### [forthespada/CS-Books](../repos/forthespada-cs-books.md)
 
