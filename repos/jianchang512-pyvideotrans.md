@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 19526
+- **Star 数**: 19569
 - **主语言**: Python
 - **GitHub 主题**: `speech-to-text`, `stt`, `subtitle-translation`, `text-to-speech`, `tts`, `video-transition`
 
