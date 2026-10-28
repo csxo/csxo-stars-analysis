@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 7365
+- **Star 数**: 7385
 - **主语言**: C
 - **GitHub 主题**: `clipboard`, `clipboard-manager`
 
