@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41689 | Rust | app, application, cybersecurity, gui, iced |
-| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15742 | Go | gfw, gui, hy2, juicity, linux |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13257 | JavaScript | aria2, ariang, download, gui, html |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9136 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8205 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2829 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41715 | Rust | app, application, cybersecurity, gui, iced |
+| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15755 | Go | gfw, gui, hy2, juicity, linux |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13263 | JavaScript | aria2, ariang, download, gui, html |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9322 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8206 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2832 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
 | [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2353 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
-| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1689 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
+| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1692 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
 
 ### [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md)
 
