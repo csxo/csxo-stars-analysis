@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3330 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
-| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2620 | Python | chromium, ungoogled-chromium, windows |
+| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3336 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
+| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2624 | Python | chromium, ungoogled-chromium, windows |
 
 ### [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md)
 
