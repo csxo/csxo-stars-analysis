@@ -5,9 +5,9 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 13244
+- **Star 数**: 13251
 - **主语言**: Rust
-- **GitHub 主题**: `clash`, `clash-meta`, `clash-nyanpasu`, `clash-rs`, `material-you`, `mihomo`, `react`, `rust`, `tauri`, `tauri-app`
+- **GitHub 主题**: `clash`, `clash-meta`, `clash-nyanpasu`, `clash-rs`, `material-expressive`, `material-you`, `meow-rs`, `mihomo`, `react`, `rust`, `tauri-app`
 
 ## 简介
 
@@ -32,10 +32,4 @@ Clash Nyanpasu～(∠・ω< )⌒☆​
 ## 标签
 
 `clash` `clash-meta` `clash-nyanpasu` `clash-rs` `material-you`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [clash-verge-rev/clash-verge-rev](clash-verge-rev-clash-verge-rev.md) | 0.36 | `clash`, `clash-meta`, `mihomo`, `rust`, `tauri-app` |
 
