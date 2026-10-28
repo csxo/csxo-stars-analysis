@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47566 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47645 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
 
 ### [zhayujie/CowAgent](../repos/zhayujie-cowagent.md)
 
