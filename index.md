@@ -2,9 +2,9 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 663  
-- **已分析**: 663  
-- **分类数**: 1234
+- **Star 总数**: 664  
+- **已分析**: 664  
+- **分类数**: 1235
 
 ## 分类总览
 
@@ -12,7 +12,7 @@
 | --- | ---: |
 | [Other](categories/other.md) | 452 |
 | [(none)](categories/none.md) | 158 |
-| [AI / LLM](categories/ai-llm.md) | 85 |
+| [AI / LLM](categories/ai-llm.md) | 86 |
 | [Frontend](categories/frontend.md) | 63 |
 | [ai](categories/ai.md) | 43 |
 | [DevOps](categories/devops.md) | 32 |
@@ -23,10 +23,10 @@
 | [javascript](categories/javascript.md) | 22 |
 | [clash](categories/clash.md) | 21 |
 | [chatgpt](categories/chatgpt.md) | 20 |
-| [claude-code](categories/claude-code.md) | 17 |
+| [claude-code](categories/claude-code.md) | 18 |
 | [ai-agents](categories/ai-agents.md) | 16 |
+| [claude](categories/claude.md) | 16 |
 | [adblock](categories/adblock.md) | 15 |
-| [claude](categories/claude.md) | 15 |
 | [macos](categories/macos.md) | 15 |
 | [rss](categories/rss.md) | 15 |
 | [awesome-list](categories/awesome-list.md) | 14 |
@@ -34,9 +34,9 @@
 | [hacktoberfest](categories/hacktoberfest.md) | 14 |
 | [cli](categories/cli.md) | 13 |
 | [agent](categories/agent.md) | 12 |
+| [agent-skills](categories/agent-skills.md) | 12 |
 | [electron](categories/electron.md) | 12 |
 | [python](categories/python.md) | 12 |
-| [agent-skills](categories/agent-skills.md) | 11 |
 | [browser-extension](categories/browser-extension.md) | 11 |
 | [chinese](categories/chinese.md) | 11 |
 | [markdown](categories/markdown.md) | 11 |
@@ -237,6 +237,7 @@
 | [crawler](categories/crawler.md) | 2 |
 | [csdn](categories/csdn.md) | 2 |
 | [curriculum](categories/curriculum.md) | 2 |
+| [cursor](categories/cursor.md) | 2 |
 | [dark-mode](categories/dark-mode.md) | 2 |
 | [dark-theme](categories/dark-theme.md) | 2 |
 | [dart](categories/dart.md) | 2 |
@@ -571,6 +572,7 @@
 | [classic-shell](categories/classic-shell.md) | 1 |
 | [classic-start](categories/classic-start.md) | 1 |
 | [claude-code-plugin](categories/claude-code-plugin.md) | 1 |
+| [claude-design](categories/claude-design.md) | 1 |
 | [claude-opus](categories/claude-opus.md) | 1 |
 | [clawd](categories/clawd.md) | 1 |
 | [cleaner](categories/cleaner.md) | 1 |
@@ -630,7 +632,6 @@
 | [cs-books](categories/cs-books.md) | 1 |
 | [ctf-tools](categories/ctf-tools.md) | 1 |
 | [curated-list](categories/curated-list.md) | 1 |
-| [cursor](categories/cursor.md) | 1 |
 | [curves](categories/curves.md) | 1 |
 | [customisation](categories/customisation.md) | 1 |
 | [cyberpunk](categories/cyberpunk.md) | 1 |
@@ -1265,20 +1266,20 @@
 | Tech | Count |
 | --- | ---: |
 | TypeScript | 116 |
-| Python | 105 |
-| JavaScript | 100 |
-| Go | 29 |
+| Python | 104 |
+| JavaScript | 101 |
+| Go | 30 |
+| C++ | 29 |
 | C# | 28 |
-| C++ | 28 |
 | HTML | 23 |
-| C | 16 |
+| Swift | 16 |
+| C | 15 |
 | Kotlin | 15 |
-| Swift | 15 |
 | Rust | 13 |
 | Dart | 10 |
 | Jupyter Notebook | 10 |
 | Lua | 8 |
-| Java | 7 |
+| Java | 6 |
 
 ---
-_生成时间: 2026-10-28T10:14:48Z_
+_生成时间: 2026-10-31T10:06:06Z_
