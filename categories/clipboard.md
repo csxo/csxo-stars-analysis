@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12559 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7366 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
-| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5932 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
-| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3739 | — | clipboard, feedback, paste, qt, qt5 |
-| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7385 | C | clipboard, clipboard-manager |
+| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12573 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7377 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5939 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
+| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3744 | — | clipboard, feedback, paste, qt, qt5 |
+| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7395 | C | clipboard, clipboard-manager |
 
 ### [hluk/CopyQ](../repos/hluk-copyq.md)
 
