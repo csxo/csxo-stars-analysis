@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 135980
+- **Star 数**: 136713
 - **主语言**: Python
 - **GitHub 主题**: `ai-video-generator`, `content-creation`, `ffmpeg`, `instagram-reels`, `llm`, `python`, `short-video`, `subtitles`, `text-to-speech`, `tiktok`, `video-automation`, `video-workflow`, `workflow-automation`, `youtube-shorts`
 
