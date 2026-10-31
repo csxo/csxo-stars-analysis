@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 83549 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
+| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 83629 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
 
 ### [lobehub/lobehub](../repos/lobehub-lobehub.md)
 
