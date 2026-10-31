@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3766
+- **Star 数**: 3779
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-powered`, `bookmark-manager`, `cloudflare-workers`, `desktop-app`, `electron`, `fork-manager`, `gist-client`, `github-api`, `github-client`, `github-helper`, `github-stars`, `hacktoberfest`, `productivity`, `release-tracker`, `repo-manager`, `semantic-search`, `star-manager`, `trending-repositories`
 
