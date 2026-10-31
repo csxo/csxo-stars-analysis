@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 51196 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
+| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 51412 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
 
 ### [upscayl/upscayl](../repos/upscayl-upscayl.md)
 
