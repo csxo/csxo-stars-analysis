@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 57551 | TypeScript | aria2, bt, download, electron, linux |
+| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 57613 | TypeScript | aria2, bt, download, electron, linux |
 
 ### [agalwood/Motrix](../repos/agalwood-motrix.md)
 
