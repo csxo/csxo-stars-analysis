@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21868 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21865 | TypeScript | clash, cross-platform, react, rust, tauri |
 | [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19405 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
-| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10949 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
+| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10958 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
 
 ### [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md)
 
