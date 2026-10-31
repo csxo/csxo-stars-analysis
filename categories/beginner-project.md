@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 288267 | Python | beginner-project, cpp, golang, javascript, project |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 288538 | Python | beginner-project, cpp, golang, javascript, project |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
 
