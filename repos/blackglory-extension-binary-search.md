@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 48
+- **Star 数**: 50
 - **主语言**: TypeScript
 - **GitHub 主题**: `chrome-extension`, `edge-extension`, `manifest-v3`, `typescript`
 
