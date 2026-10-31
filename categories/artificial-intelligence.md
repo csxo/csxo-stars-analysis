@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 187796 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
-| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 174899 | HTML | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
-| [hacksider/Deep-Live-Cam](../repos/hacksider-deep-live-cam.md) | 7.0 | 97322 | Python | ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence |
-| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 70316 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
-| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37800 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21698 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1499 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
+| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 187840 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
+| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 175360 | HTML | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
+| [hacksider/Deep-Live-Cam](../repos/hacksider-deep-live-cam.md) | 7.0 | 97459 | Python | ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence |
+| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 70393 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
+| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37880 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21764 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1503 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
 
 ### [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md)
 
