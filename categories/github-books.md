@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [phodal/ideabook](../repos/phodal-ideabook.md) | 7.0 | 3757 | HTML | ebook, github-books, growth, idea, ideabook |
+| [phodal/ideabook](../repos/phodal-ideabook.md) | 7.0 | 3758 | HTML | ebook, github-books, growth, idea, ideabook |
 
 ### [phodal/ideabook](../repos/phodal-ideabook.md)
 
