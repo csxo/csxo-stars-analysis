@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 23031 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
+| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 23084 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
 | [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19405 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
-| [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md) | 7.0 | 1946 | Python | downloads-songs, mp3, playlist, spotify, spotify-dl |
+| [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md) | 7.0 | 1947 | Python | downloads-songs, mp3, playlist, spotify, spotify-dl |
 
 ### [SpotX-Official/SpotX](../repos/spotx-official-spotx.md)
 
