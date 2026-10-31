@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Atlas-OS/Atlas](../repos/atlas-os-atlas.md) | 7.0 | 21943 | Batchfile | ame-wizard, atlas, atlasos, debloat, fps |
-| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1692 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
+| [Atlas-OS/Atlas](../repos/atlas-os-atlas.md) | 7.0 | 21959 | Batchfile | ame-wizard, atlas, atlasos, debloat, fps |
+| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1693 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
 
 ### [Atlas-OS/Atlas](../repos/atlas-os-atlas.md)
 
