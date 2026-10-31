@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 24424 | Rust | dpi, gpui, hid, hidpp, local-first |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 2834 | TypeScript | ai-agents, bun, codex, electron, local-first |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2049 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 24690 | Rust | dpi, gpui, hid, hidpp, local-first |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 4296 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2053 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
 
 ### [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md)
 
