@@ -4,20 +4,20 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88907 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
-| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39320 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32121 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27221 | Dart | android, bittorrent, cross-platform, debian, downloader |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21868 | TypeScript | clash, cross-platform, react, rust, tauri |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14741 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12559 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9322 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7368 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7366 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
-| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3159 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88930 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39348 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32144 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27279 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21865 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14764 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12573 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9430 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7377 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7367 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3163 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
 | [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 590 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
-| [vim/vim](../repos/vim-vim.md) | 6.5 | 41164 | Vim Script | c, cross-platform, text-editor, vim |
-| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34608 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
+| [vim/vim](../repos/vim-vim.md) | 6.5 | 41178 | Vim Script | c, cross-platform, text-editor, vim |
+| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34627 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
 
 ### [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md)
 
@@ -51,13 +51,13 @@ Clipboard manager with advanced features
 
 Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
-### [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md)
-
-🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
-
 ### [xushengfeng/eSearch](../repos/xushengfeng-esearch.md)
 
 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS
+
+### [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md)
+
+🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
 
 ### [easymodo/qimgv](../repos/easymodo-qimgv.md)
 
