@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 242 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
+| [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 248 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
 
 ### [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md)
 
