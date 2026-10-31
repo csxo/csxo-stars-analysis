@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2334
+- **Star 数**: 2335
 - **主语言**: JavaScript
 - **GitHub 主题**: `browser`, `chrome-extension`, `chromium`, `javascript`, `security-audit`
 
