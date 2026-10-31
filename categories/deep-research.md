@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42545 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
-| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 212 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
+| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42554 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
+| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 218 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
 
 ### [666ghj/BettaFish](../repos/666ghj-bettafish.md)
 
