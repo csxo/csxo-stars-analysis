@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 45376
+- **Star 数**: 45463
 - **主语言**: C++
 - **GitHub 主题**: `firefox`, `firefox-based`, `firefox-browser`, `zen-browser`
 
