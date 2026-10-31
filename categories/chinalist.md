@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29014 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29071 | — | adblock, adguard, anticensorship, chinalist, clash |
 
 ### [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md)
 
