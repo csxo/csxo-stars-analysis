@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39320 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
+| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39348 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
 
 ### [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md)
 
