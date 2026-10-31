@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54663 | Rust | ai, app, application, chatgpt, desktop-app |
-| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 52867 | — | app, apple, apple-tv, apple-vision-pro, awesome |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41715 | Rust | app, application, cybersecurity, gui, iced |
-| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15102 | Swift | app, baidu, bing, deepl, dictionary |
-| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17573 | — | app, mac, macos |
+| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54671 | Rust | ai, app, application, chatgpt, desktop-app |
+| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 52925 | — | app, apple, apple-tv, apple-vision-pro, awesome |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41787 | Rust | app, application, cybersecurity, gui, iced |
+| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15140 | Swift | app, baidu, bing, deepl, dictionary |
+| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17578 | — | app, mac, macos |
 
 ### [lencx/ChatGPT](../repos/lencx-chatgpt.md)
 
