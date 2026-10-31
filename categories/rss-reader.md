@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39179 | TypeScript | ai, reader, rss, rss-reader, rsshub |
-| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1778 | Dart | android, flutter, ios, rss, rss-reader |
-| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2198 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
+| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39202 | TypeScript | ai, reader, rss, rss-reader, rsshub |
+| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1779 | Dart | android, flutter, ios, rss, rss-reader |
+| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2201 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
 
 ### [RSSNext/Folo](../repos/rssnext-folo.md)
 
