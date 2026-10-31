@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 2300
+- **Star 数**: 2299
 - **主语言**: NSIS
 - **GitHub 主题**: `installer`, `vim`, `windows`
 
