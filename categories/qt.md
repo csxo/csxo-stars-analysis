@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 48242 | Python | ocr, ocr-python, paddleocr, qml, qt |
-| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3739 | — | clipboard, feedback, paste, qt, qt5 |
+| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 48306 | Python | ocr, ocr-python, paddleocr, qml, qt |
+| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3744 | — | clipboard, feedback, paste, qt, qt5 |
 
 ### [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md)
 
