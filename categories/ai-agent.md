@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 79407 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53037 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47645 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21698 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1284 | Swift | agent-framework, ai-agent, gemma, ios, litert |
-| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 212 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 79608 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53120 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47707 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21764 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1285 | Swift | agent-framework, ai-agent, gemma, ios, litert |
+| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 218 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
 
 ### [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md)
 
