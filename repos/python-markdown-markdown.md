@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4255
+- **Star 数**: 4256
 - **主语言**: Python
 - **GitHub 主题**: `markdown`, `markdown-parser`, `markdown-to-html`, `python`, `python-markdown`, `python3`
 
