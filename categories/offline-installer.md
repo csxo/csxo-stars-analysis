@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Bush2021/chrome_installer](../repos/bush2021-chrome_installer.md) | 6.5 | 1716 | Python | github-actions, google-chrome, offline-installer, windows |
+| [Bush2021/chrome_installer](../repos/bush2021-chrome_installer.md) | 6.5 | 1721 | Go | github-actions, google-chrome, offline-installer, windows |
 
 ### [Bush2021/chrome_installer](../repos/bush2021-chrome_installer.md)
 
