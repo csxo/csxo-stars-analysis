@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 19809
-- **主语言**: C
+- **Star 数**: 19837
+- **主语言**: C++
 
 ## 简介
 
@@ -32,9 +32,9 @@ Sandboxie Plus & Classic
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [wg/wrk](wg-wrk.md) | 1.00 | `(none)`, `c` |
-| [valinet/ExplorerPatcher](valinet-explorerpatcher.md) | 1.00 | `(none)`, `c` |
-| [Aleksoid1978/MPC-BE](aleksoid1978-mpc-be.md) | 1.00 | `(none)`, `c` |
-| [loc567/loc567](loc567-loc567.md) | 1.00 | `(none)`, `c` |
-| [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
+| [rime/weasel](rime-weasel.md) | 1.00 | `(none)`, `c++` |
+| [Nevcairiel/LAVFilters](nevcairiel-lavfilters.md) | 1.00 | `(none)`, `c++` |
+| [Tatsu-syo/noMeiryoUI](tatsu-syo-nomeiryoui.md) | 1.00 | `(none)`, `c++` |
+| [clsid2/mpc-hc](clsid2-mpc-hc.md) | 1.00 | `(none)`, `c++` |
+| [zhongyang219/TrafficMonitor](zhongyang219-trafficmonitor.md) | 1.00 | `(none)`, `c++` |
 
