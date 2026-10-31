@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 164 | Python | beat-detection, captions, ffmpeg, python, video-editing |
+| [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 165 | Python | beat-detection, captions, ffmpeg, python, video-editing |
 
 ### [blixvip/easyedit](../repos/blixvip-easyedit.md)
 
