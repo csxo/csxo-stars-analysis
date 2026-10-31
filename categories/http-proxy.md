@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46907 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22762 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10949 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46914 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22814 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10958 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
 
 ### [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md)
 
