@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28022 | TypeScript | free, music-player, musicfree, plugin, react |
-| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10267 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9063 | TypeScript | electron, free, music, music-player, react |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28114 | TypeScript | free, music-player, musicfree, plugin, react |
+| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10290 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9090 | TypeScript | electron, free, music, music-player, react |
 | [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1501 | JavaScript | antd, music, music-player, react, react-router |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 54837 | TypeScript | electron, javascript, music-player, vue |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 18953 | TypeScript | javascript, music-player, react-native-app |
-| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11445 | JavaScript | desktop-app, music-player |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 54928 | TypeScript | electron, javascript, music-player, vue |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19034 | TypeScript | javascript, music-player, react-native-app |
+| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11444 | JavaScript | desktop-app, music-player |
 
 ### [maotoumao/MusicFree](../repos/maotoumao-musicfree.md)
 
