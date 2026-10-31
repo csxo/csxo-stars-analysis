@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [TeamNewPipe/NewPipe](../repos/teamnewpipe-newpipe.md) | 7.0 | 40334 | Java | 4k, android, bandcamp, download-videos, newpipe |
+| [TeamNewPipe/NewPipe](../repos/teamnewpipe-newpipe.md) | 7.0 | 40375 | Java | 4k, android, bandcamp, download-videos, newpipe |
 
 ### [TeamNewPipe/NewPipe](../repos/teamnewpipe-newpipe.md)
 
