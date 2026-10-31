@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54663 | Rust | ai, app, application, chatgpt, desktop-app |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32121 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9322 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3766 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
-| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1942 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
-| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1457 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
+| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54671 | Rust | ai, app, application, chatgpt, desktop-app |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32144 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9430 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3779 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1996 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
+| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1459 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
 | [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 590 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
-| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2826 | C# | desktop-app, desktop-tool, geekdesk |
-| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11445 | JavaScript | desktop-app, music-player |
+| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2825 | C# | desktop-app, desktop-tool, geekdesk |
+| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11444 | JavaScript | desktop-app, music-player |
 
 ### [lencx/ChatGPT](../repos/lencx-chatgpt.md)
 
