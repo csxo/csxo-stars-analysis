@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14895 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
-| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13069 | JavaScript | extension, translate, translation, translator, userscript |
-| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10141 | JavaScript | github, release, steam, tampermonkey, userscript |
-| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5721 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
-| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4870 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
-| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3792 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
+| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14890 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
+| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13105 | JavaScript | extension, translate, translation, translator, userscript |
+| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10163 | JavaScript | github, release, steam, tampermonkey, userscript |
+| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5741 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
+| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4879 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
+| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3794 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
 | [machsix/Super-preloader](../repos/machsix-super-preloader.md) | 6.5 | 649 | JavaScript | greasemonkey, tampermonkey, userscript, violentmonkey |
-| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 30913 | TypeScript | bilibili, tampermonkey, userscript |
-| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4269 | JavaScript | csdn, tampermonkey, userscript |
+| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 30953 | TypeScript | bilibili, tampermonkey, userscript |
+| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4272 | JavaScript | csdn, tampermonkey, userscript |
 
 ### [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md)
 
