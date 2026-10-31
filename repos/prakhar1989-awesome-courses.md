@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 72340
+- **Star 数**: 72441
 - **主语言**: —
 - **GitHub 主题**: `awesome`, `awesome-list`, `computer-science`, `courses`
 
