@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 117464 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
+| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 117776 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
 
 ### [immich-app/immich](../repos/immich-app-immich.md)
 
