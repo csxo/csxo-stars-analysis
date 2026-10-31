@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20175 | — | anytls, clash, mac, macos, native |
+| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20179 | — | anytls, clash, mac, macos, native |
 
 ### [yanue/V2rayU](../repos/yanue-v2rayu.md)
 
