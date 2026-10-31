@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43303 | C++ | bittorrent, cpp11, download, ftp, http |
-| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 41184 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
-| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32342 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27221 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43351 | C++ | bittorrent, cpp11, download, ftp, http |
+| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 41255 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
+| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32355 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27279 | Dart | android, bittorrent, cross-platform, debian, downloader |
 
 ### [aria2/aria2](../repos/aria2-aria2.md)
 
