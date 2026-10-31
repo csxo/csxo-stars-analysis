@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 761 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
+| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 763 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
 
 ### [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md)
 
