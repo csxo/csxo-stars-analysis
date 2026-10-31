@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2234 | C# | csharp, dotnet, relaxation, uwp, white-noise |
+| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2235 | C# | csharp, dotnet, relaxation, uwp, white-noise |
 
 ### [jenius-apps/ambie](../repos/jenius-apps-ambie.md)
 
