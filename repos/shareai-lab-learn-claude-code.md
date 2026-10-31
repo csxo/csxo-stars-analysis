@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 79407
+- **Star 数**: 79608
 - **主语言**: Python
 - **GitHub 主题**: `agent`, `agent-development`, `ai-agent`, `claude`, `claude-code`, `educational`, `llm`, `python`, `teaching`, `tutorial`
 
