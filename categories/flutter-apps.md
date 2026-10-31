@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 96128 | Dart | dart, file-sharing, flutter, flutter-apps |
+| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 96764 | Dart | dart, file-sharing, flutter, flutter-apps |
 
 ### [localsend/localsend](../repos/localsend-localsend.md)
 
