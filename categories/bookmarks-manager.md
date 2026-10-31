@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30114 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
+| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30176 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
 
 ### [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md)
 
