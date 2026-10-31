@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 24300 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 26612 | Go | claude-code, codex, deepseek, gemini-cli, llm |
 
 ### [yetone/magpie](../repos/yetone-magpie.md)
 
