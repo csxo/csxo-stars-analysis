@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 24424 | Rust | dpi, gpui, hid, hidpp, local-first |
-| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 92330 | Rust | gpui, rust-lang, text-editor, zed |
+| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 24690 | Rust | dpi, gpui, hid, hidpp, local-first |
+| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 92452 | Rust | gpui, rust-lang, text-editor, zed |
 
 ### [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md)
 
