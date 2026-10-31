@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22771 | — | awesome-lists, chatglm, chinese, llama, llm |
-| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15256 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
+| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22770 | — | awesome-lists, chatglm, chinese, llama, llm |
+| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15255 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
 
 ### [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md)
 
