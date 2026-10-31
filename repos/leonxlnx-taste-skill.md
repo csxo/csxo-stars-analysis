@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 103956
+- **Star 数**: 106580
 - **主语言**: JavaScript
 - **GitHub 主题**: `agent-skills`, `ai-agents`, `anti-slop`, `claude-code`, `codex`, `cursor`, `design-system`, `frontend`, `landing-page`, `ui-design`, `web-design`
 
