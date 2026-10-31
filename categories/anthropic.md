@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 115651 | Go | ai, anthropic, caveman, claude, claude-code |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70426 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 46410 | TypeScript | ai, anthropic, artifacts, aws, azure |
-| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16584 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 116413 | Go | ai, anthropic, caveman, claude, claude-code |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70519 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 46536 | TypeScript | ai, anthropic, artifacts, aws, azure |
+| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16585 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
 
 ### [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md)
 
