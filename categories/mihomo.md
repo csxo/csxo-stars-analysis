@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 27961 | JavaScript | clash, luci, mihomo, openclash, openwrt |
-| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35276 | Python | honkai-star-rail, mihomo, python, star-rail-api |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27019 | TypeScript | clash, clash-meta, electron, mihomo |
-| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10120 | Dart | clash, clashmi, mihomo |
+| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 28018 | JavaScript | clash, luci, mihomo, openclash, openwrt |
+| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35380 | Python | honkai-star-rail, mihomo, python, star-rail-api |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27053 | TypeScript | clash, clash-meta, electron, mihomo |
+| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10195 | Dart | clash, clashmi, mihomo |
 
 ### [vernesong/OpenClash](../repos/vernesong-openclash.md)
 
