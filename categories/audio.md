@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168265 | Python | audio, deep-learning, deepseek, gemma, glm |
-| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 65937 | C | audio, c, ffmpeg, fft, hevc |
-| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37597 | C | audio, c, ffmpeg, mplayer, mpv |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9322 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4401 | Kotlin | album, android, androidx, audio, exoplayer |
-| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1942 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
+| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168383 | Python | audio, deep-learning, deepseek, gemma, glm |
+| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 66114 | C | audio, c, ffmpeg, fft, hevc |
+| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37638 | C | audio, c, ffmpeg, mplayer, mpv |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9430 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4407 | Kotlin | album, android, androidx, audio, exoplayer |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1996 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
 
 ### [huggingface/transformers](../repos/huggingface-transformers.md)
 
