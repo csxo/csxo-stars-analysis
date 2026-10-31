@@ -1,20 +1,21 @@
 # agent-skills
 
-> 项目数: **11**
+> 项目数: **12**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 399595 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 178555 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 111283 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 103956 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 90741 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 78137 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53388 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53037 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 8909 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 880 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
-| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 27025 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 413600 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 181195 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 112076 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 106580 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 91961 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 78387 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53458 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53120 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 9910 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
+| [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 5587 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 890 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 27098 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
 
 ### [morluto/rea](../repos/morluto-rea.md)
 
@@ -51,6 +52,10 @@ AI productivity studio with smart chat, autonomous agents, and 300+ assistants. 
 ### [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md)
 
 A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的
+
+### [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md)
+
+Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude.
 
 ### [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md)
 
