@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [YunYouJun/cook](../repos/yunyoujun-cook.md) | 6.0 | 6542 | Swift | cook, food, recipe |
+| [YunYouJun/cook](../repos/yunyoujun-cook.md) | 6.0 | 6545 | Swift | cook, food, recipe |
 
 ### [YunYouJun/cook](../repos/yunyoujun-cook.md)
 
