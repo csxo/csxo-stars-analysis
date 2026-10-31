@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1692 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
+| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1693 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
 
 ### [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md)
 
