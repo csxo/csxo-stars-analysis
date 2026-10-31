@@ -5,8 +5,8 @@
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
 | [deathau/markdownload](../repos/deathau-markdownload.md) | 7.0 | 4052 | JavaScript | chrome-extension, edge-extension, firefox-addon, firefox-extension, firefox-webextension |
-| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2768 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
-| [BlackGlory/extension-binary-search](../repos/blackglory-extension-binary-search.md) | 6.5 | 48 | TypeScript | chrome-extension, edge-extension, manifest-v3, typescript |
+| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2769 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
+| [BlackGlory/extension-binary-search](../repos/blackglory-extension-binary-search.md) | 6.5 | 50 | TypeScript | chrome-extension, edge-extension, manifest-v3, typescript |
 
 ### [deathau/markdownload](../repos/deathau-markdownload.md)
 
