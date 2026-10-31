@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3261
+- **Star 数**: 3397
 - **主语言**: Go
 - **GitHub 主题**: `ats`, `career`, `careers`, `golang`, `hiring`, `job-aggregator`, `job-board`, `job-portal`, `job-scraper`, `job-search`, `jobs`, `langchain`, `llm`, `meilisearch`, `postgresql`, `recruitment`, `remote-jobs`, `self-hosted`, `svelte`, `sveltekit`
 
