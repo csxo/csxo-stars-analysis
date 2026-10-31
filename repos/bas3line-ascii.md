@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1064
+- **Star 数**: 1097
 - **主语言**: TypeScript
 - **GitHub 主题**: `animation`, `ascii`, `ascii-art`, `astro`, `nextjs`, `react`, `typescript`, `web-components`
 
