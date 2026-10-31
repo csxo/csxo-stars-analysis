@@ -4,16 +4,16 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 157018 | Python | ai, llm, llm-ui, llm-webui, llms |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 135980 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
-| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71049 | Python | agent, gpt, llm, metagpt, multi-agent |
-| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37800 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 24300 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22771 | — | awesome-lists, chatglm, chinese, llama, llm |
-| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14760 | Python | agent, llama, llama4, llm, pretraining |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13474 | TypeScript | ai-bot, doocs, editor, llm, markdown |
-| [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 746 | TypeScript | ai, github-actions, github-pages, llm, rss |
-| [datawhalechina/llm-cookbook](../repos/datawhalechina-llm-cookbook.md) | 5.5 | 24843 | Jupyter Notebook | cookbook, llm |
+| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 157339 | Python | ai, llm, llm-ui, llm-webui, llms |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 136713 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
+| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71099 | Python | agent, gpt, llm, metagpt, multi-agent |
+| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 37880 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 26612 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22770 | — | awesome-lists, chatglm, chinese, llama, llm |
+| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14759 | Python | agent, llama, llama4, llm, pretraining |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13492 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 747 | TypeScript | ai, github-actions, github-pages, llm, rss |
+| [datawhalechina/llm-cookbook](../repos/datawhalechina-llm-cookbook.md) | 5.5 | 24855 | Jupyter Notebook | cookbook, llm |
 
 ### [open-webui/open-webui](../repos/open-webui-open-webui.md)
 
