@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41715 | Rust | app, application, cybersecurity, gui, iced |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41787 | Rust | app, application, cybersecurity, gui, iced |
 
 ### [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md)
 
