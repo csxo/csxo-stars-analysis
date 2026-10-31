@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11413 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11418 | TypeScript | commonmark, editor, gfm, lute, markdown |
 
 ### [Vanessa219/vditor](../repos/vanessa219-vditor.md)
 
