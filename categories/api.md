@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4094 | TypeScript | api, daily-hot, list, rss, vercel |
-| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2195 | Python | aipc, api, cli, cpu, desktopgui |
+| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4102 | TypeScript | api, daily-hot, list, rss, vercel |
+| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2197 | Python | aipc, api, cli, cpu, desktopgui |
 
 ### [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md)
 
