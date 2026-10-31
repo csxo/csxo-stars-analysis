@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 50418
+- **Star 数**: 50505
 - **主语言**: Kotlin
 - **GitHub 主题**: `android`, `android-client`, `android-music-player`, `desktop-client`, `fdroid`, `flutter`, `flutter-desktop`, `linux`, `macos`, `music`, `music-player`, `windows`, `youtube`
 
