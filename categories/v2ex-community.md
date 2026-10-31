@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [coolpace/V2EX_Polish](../repos/coolpace-v2ex_polish.md) | 6.0 | 1217 | TypeScript | extension, v2ex, v2ex-community |
+| [coolpace/V2EX_Polish](../repos/coolpace-v2ex_polish.md) | 6.0 | 1218 | TypeScript | extension, v2ex, v2ex-community |
 
 ### [coolpace/V2EX_Polish](../repos/coolpace-v2ex_polish.md)
 
