@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7034 | TypeScript | blog, nextjs, notion, portfolio, react |
-| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6867 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
+| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7037 | TypeScript | blog, nextjs, notion, portfolio, react |
+| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6865 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
 
 ### [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md)
 
