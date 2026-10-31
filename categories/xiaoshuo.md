@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XIU2/Yuedu](../repos/xiu2-yuedu.md) | 5.5 | 12573 | — | legado, xiaoshuo |
+| [XIU2/Yuedu](../repos/xiu2-yuedu.md) | 5.5 | 12597 | — | legado, xiaoshuo |
 
 ### [XIU2/Yuedu](../repos/xiu2-yuedu.md)
 
