@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Asabeneh/30-Days-Of-Python](../repos/asabeneh-30-days-of-python.md) | 7.0 | 77389 | Python | 30-days-of-python, data, data-science, database, flask |
-| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27771 | — | algorithms, c, cpp, cs-books, database |
-| [doocs/technical-books](../repos/doocs-technical-books.md) | 7.0 | 7021 | TypeScript | architecture, back-end, book-list, database, doocs |
+| [Asabeneh/30-Days-Of-Python](../repos/asabeneh-30-days-of-python.md) | 7.0 | 77749 | Python | 30-days-of-python, data, data-science, database, flask |
+| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27789 | — | algorithms, c, cpp, cs-books, database |
+| [doocs/technical-books](../repos/doocs-technical-books.md) | 7.0 | 7024 | TypeScript | architecture, back-end, book-list, database, doocs |
 
 ### [Asabeneh/30-Days-Of-Python](../repos/asabeneh-30-days-of-python.md)
 
