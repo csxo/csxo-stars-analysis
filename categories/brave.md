@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24007 | — | brave, browser, chromium, linux, macos |
-| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 180 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
+| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24052 | — | brave, browser, chromium, linux, macos |
+| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 187 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
 
 ### [brave/brave-browser](../repos/brave-brave-browser.md)
 
