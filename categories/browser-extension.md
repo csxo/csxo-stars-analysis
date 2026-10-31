@@ -4,17 +4,17 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68879 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25015 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
-| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14656 | Go | browser, browser-extension, chrome, edge, firefox |
-| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14086 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
-| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8795 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
-| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7377 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
-| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6673 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
-| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6281 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
-| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3796 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
-| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2768 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
-| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 319 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68955 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25025 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
+| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14660 | Go | browser, browser-extension, chrome, edge, firefox |
+| [bitwarden/clients](../repos/bitwarden-clients.md) | 7.0 | 14115 | TypeScript | angular, bitwarden, browser-extension, chrome, cli |
+| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8788 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
+| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7383 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
+| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6671 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
+| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6291 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
+| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3801 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
+| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2769 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
+| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 324 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
 
 ### [gorhill/uBlock](../repos/gorhill-ublock.md)
 
