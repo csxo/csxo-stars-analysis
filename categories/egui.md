@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9322 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9430 | Rust | audio, cross-platform, desktop-app, egui, gui |
 
 ### [crmne/spotifast](../repos/crmne-spotifast.md)
 
