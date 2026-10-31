@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6970
+- **Star 数**: 6973
 - **主语言**: Python
 - **GitHub 主题**: `dlna`, `linux`, `macos`, `media-renderer`, `mpv`, `upnp`, `upnp-renderer`, `windows`
 
