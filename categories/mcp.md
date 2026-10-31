@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17526 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17567 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
 
 ### [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md)
 
