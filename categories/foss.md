@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64136 | Go | docker, foss, go, markdown, memo |
-| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9211 | C | arm64, firewall, foss, network, simplewall |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6852 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64195 | Go | docker, foss, go, markdown, memo |
+| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9229 | C | arm64, firewall, foss, network, simplewall |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6862 | — | alternatives, awesome, awesome-list, curated-list, foss |
 
 ### [usememos/memos](../repos/usememos-memos.md)
 
