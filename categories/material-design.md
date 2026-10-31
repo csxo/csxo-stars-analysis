@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30117 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
-| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12908 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
-| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7624 | Kotlin | android, compose, f-droid, kotlin, material-design |
+| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30214 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
+| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12925 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
+| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7631 | Kotlin | android, compose, f-droid, kotlin, material-design |
 | [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md) | 7.0 | 5355 | JavaScript | featured-pictures, hexo-blog-theme, hexo-theme, hexo-theme-matery, material-design |
 
 ### [JunkFood02/Seal](../repos/junkfood02-seal.md)
