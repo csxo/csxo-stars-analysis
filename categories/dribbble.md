@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 46703 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
+| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 46735 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
 
 ### [DIYgod/RSSHub](../repos/diygod-rsshub.md)
 
