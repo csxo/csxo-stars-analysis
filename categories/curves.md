@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21232 | — | control, cpu, curves, fan, fancontrol |
+| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21260 | — | control, cpu, curves, fan, fancontrol |
 
 ### [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md)
 
