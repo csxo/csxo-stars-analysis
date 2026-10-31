@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 12750
+- **Star 数**: 12766
 - **主语言**: —
 - **GitHub 主题**: `books`, `nginx`, `pdf`, `redis`, `software-architecture`, `software-design`
 
