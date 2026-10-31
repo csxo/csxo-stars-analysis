@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10901 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
+| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10907 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
 
 ### [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md)
 
