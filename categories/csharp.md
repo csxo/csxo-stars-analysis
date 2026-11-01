@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40538 | C# | avalonia, capture, color-picker, csharp, dropbox |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32144 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17567 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14764 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5626 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
+| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40563 | C# | avalonia, capture, color-picker, csharp, dropbox |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32157 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17577 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14774 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5627 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
 | [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2235 | C# | csharp, dotnet, relaxation, uwp, white-noise |
-| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1459 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
-| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58849 | C# | csharp, dotnet, hacktoberfest, jellyfin |
+| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1458 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
+| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58887 | C# | csharp, dotnet, hacktoberfest, jellyfin |
 | [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5101 | C# | csharp, tai, wpf |
 
 ### [ShareX/ShareX](../repos/sharex-sharex.md)
