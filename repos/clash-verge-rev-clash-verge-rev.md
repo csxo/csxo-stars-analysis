@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 155272
+- **Star 数**: 155465
 - **主语言**: Rust
 - **GitHub 主题**: `clash`, `clash-meta`, `clash-verge`, `linux`, `mac`, `mihomo`, `tauri-app`, `windows`
 
