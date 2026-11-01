@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 527695 | — | awesome, awesome-list, lists, resources, unicorns |
+| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 528224 | — | awesome, awesome-list, lists, resources, unicorns |
 
 ### [sindresorhus/awesome](../repos/sindresorhus-awesome.md)
 
