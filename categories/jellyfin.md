@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10290 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7367 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
-| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58849 | C# | csharp, dotnet, hacktoberfest, jellyfin |
-| [jellyfin/jellyfin-desktop](../repos/jellyfin-jellyfin-desktop.md) | 5.5 | 5945 | C++ | jellyfin, jellyfin-client |
+| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10300 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7366 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58887 | C# | csharp, dotnet, hacktoberfest, jellyfin |
+| [jellyfin/jellyfin-desktop](../repos/jellyfin-jellyfin-desktop.md) | 5.5 | 5947 | C++ | jellyfin, jellyfin-client |
 
 ### [jeffvli/feishin](../repos/jeffvli-feishin.md)
 
