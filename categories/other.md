@@ -1,237 +1,237 @@
 # Other
 
-> 项目数: **452**
+> 项目数: **453**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 527695 | — | awesome, awesome-list, lists, resources, unicorns |
-| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 400571 | Python | books, education, hacktoberfest, list, resource |
-| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 393516 | TypeScript | ai, assistant, crustacean, molty, openclaw |
-| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 331480 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 288538 | Python | beginner-project, cpp, golang, javascript, project |
-| [TheAlgorithms/Python](../repos/thealgorithms-python.md) | 7.0 | 225728 | Python | algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven |
-| [massgravel/Microsoft-Activation-Scripts](../repos/massgravel-microsoft-activation-scripts.md) | 7.0 | 197046 | Batchfile | activator, hwid, kms, kms38, massgrave |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 194400 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
-| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 193149 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
-| [AUTOMATIC1111/stable-diffusion-webui](../repos/automatic1111-stable-diffusion-webui.md) | 7.0 | 165196 | Python | ai, ai-art, deep-learning, diffusion, gradio |
-| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162633 | — | bash, documentation, linux, macos, unix |
-| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 155272 | Rust | clash, clash-meta, clash-verge, linux, mac |
-| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 142864 | TypeScript | iptv, m3u, playlist, streams, tv |
-| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 140320 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
-| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 134902 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
-| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 131802 | Swift | algo, algorithm, algorithms, book, data-structure |
-| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 124762 | — | awesome-list, design-md, design-system, design-tokens, figma |
-| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 119601 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
-| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 117776 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 95439 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
-| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90296 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
-| [Z4nzu/hackingtool](../repos/z4nzu-hackingtool.md) | 7.0 | 81543 | Python | allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker |
-| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80494 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
-| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 78671 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
-| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 78023 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68955 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 66114 | C | audio, c, ffmpeg, fft, hevc |
-| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 65042 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 59989 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 57613 | TypeScript | aria2, bt, download, electron, linux |
-| [firstcontributions/first-contributions](../repos/firstcontributions-first-contributions.md) | 7.0 | 56639 | — | beginner, beginner-friendly, contribute, contribution, contributions-welcome |
-| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 51412 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
-| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 48710 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
-| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 48306 | Python | ocr, ocr-python, paddleocr, qml, qt |
-| [iina/iina](../repos/iina-iina.md) | 7.0 | 46965 | Swift | hacktoberfest, macos, mpv, swift, video |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46914 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 46735 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
-| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43351 | C++ | bittorrent, cpp11, download, ftp, http |
-| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42506 | Go | anticensorship, dns, network, proxy, reality |
-| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40538 | C# | avalonia, capture, color-picker, csharp, dropbox |
-| [TeamNewPipe/NewPipe](../repos/teamnewpipe-newpipe.md) | 7.0 | 40375 | Java | 4k, android, bandcamp, download-videos, newpipe |
-| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39202 | TypeScript | ai, reader, rss, rss-reader, rsshub |
-| [hehonghui/awesome-english-ebooks](../repos/hehonghui-awesome-english-ebooks.md) | 7.0 | 38844 | CSS | download, ebooks, economist, economist-ebooks, new-yorker |
-| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 38068 | Python | chinese, document, edit, english, japanese |
-| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37638 | C | audio, c, ffmpeg, mplayer, mpv |
-| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36883 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
-| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 35761 | Java | android, android-tv, android-tv-box, java, kotlin |
-| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34733 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
+| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 528224 | — | awesome, awesome-list, lists, resources, unicorns |
+| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 400642 | Python | books, education, hacktoberfest, list, resource |
+| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 393599 | TypeScript | ai, assistant, crustacean, molty, openclaw |
+| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 331693 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 288633 | Python | beginner-project, cpp, golang, javascript, project |
+| [TheAlgorithms/Python](../repos/thealgorithms-python.md) | 7.0 | 225750 | Python | algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven |
+| [massgravel/Microsoft-Activation-Scripts](../repos/massgravel-microsoft-activation-scripts.md) | 7.0 | 197168 | Batchfile | activator, hwid, kms, kms38, massgrave |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 194442 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 193312 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
+| [AUTOMATIC1111/stable-diffusion-webui](../repos/automatic1111-stable-diffusion-webui.md) | 7.0 | 165210 | Python | ai, ai-art, deep-learning, diffusion, gradio |
+| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162646 | — | bash, documentation, linux, macos, unix |
+| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 155465 | Rust | clash, clash-meta, clash-verge, linux, mac |
+| [iptv-org/iptv](../repos/iptv-org-iptv.md) | 7.0 | 142961 | TypeScript | iptv, m3u, playlist, streams, tv |
+| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 140373 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
+| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 134963 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
+| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 131842 | Swift | algo, algorithm, algorithms, book, data-structure |
+| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 124962 | — | awesome-list, design-md, design-system, design-tokens, figma |
+| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 119687 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
+| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 117855 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 95495 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90311 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
+| [Z4nzu/hackingtool](../repos/z4nzu-hackingtool.md) | 7.0 | 81564 | Python | allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker |
+| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80517 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
+| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 78735 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
+| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 78063 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 68991 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 66191 | C | audio, c, ffmpeg, fft, hevc |
+| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 65099 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 60197 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 57663 | TypeScript | aria2, bt, download, electron, linux |
+| [firstcontributions/first-contributions](../repos/firstcontributions-first-contributions.md) | 7.0 | 56651 | — | beginner, beginner-friendly, contribute, contribution, contributions-welcome |
+| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 51543 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
+| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 48770 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
+| [hiroi-sora/Umi-OCR](../repos/hiroi-sora-umi-ocr.md) | 7.0 | 48329 | Python | ocr, ocr-python, paddleocr, qml, qt |
+| [iina/iina](../repos/iina-iina.md) | 7.0 | 46978 | Swift | hacktoberfest, macos, mpv, swift, video |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46915 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 46752 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
+| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43363 | C++ | bittorrent, cpp11, download, ftp, http |
+| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42536 | Go | anticensorship, dns, network, proxy, reality |
+| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40563 | C# | avalonia, capture, color-picker, csharp, dropbox |
+| [TeamNewPipe/NewPipe](../repos/teamnewpipe-newpipe.md) | 7.0 | 40385 | Java | 4k, android, bandcamp, download-videos, newpipe |
+| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39204 | TypeScript | ai, reader, rss, rss-reader, rsshub |
+| [hehonghui/awesome-english-ebooks](../repos/hehonghui-awesome-english-ebooks.md) | 7.0 | 38956 | CSS | download, ebooks, economist, economist-ebooks, new-yorker |
+| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 38086 | Python | chinese, document, edit, english, japanese |
+| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37653 | C | audio, c, ffmpeg, mplayer, mpv |
+| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36882 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
+| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 35795 | Java | android, android-tv, android-tv-box, java, kotlin |
+| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34740 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
 | [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32860 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
-| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32355 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
-| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31814 | Go | bilibili, crawler, download, downloader, go |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31705 | — | adblock, gfw, proxy, shadowrocket, v2ray |
-| [imDazui/Tvlist-awesome-m3u-m3u8](../repos/imdazui-tvlist-awesome-m3u-m3u8.md) | 7.0 | 30298 | — | awesome, iptv, iptv-channels, iptv-free, iptv-m3u8 |
-| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30214 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
-| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29994 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29071 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28747 | JavaScript | china, converter, epg, iptv, ipv6 |
-| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28679 | JavaScript | book, cb7, cbr, cbt, cbz |
-| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28149 | Python | chromium, control, google-chromium, inox, iridium |
-| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27875 | C# | editor, gif, recorder, sketchboard, video |
-| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27789 | — | algorithms, c, cpp, cs-books, database |
-| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27340 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27279 | Dart | android, bittorrent, cross-platform, debian, downloader |
-| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26303 | TypeScript | apify, automation, crawler, crawling, headless |
-| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25880 | Python | auto-update, awesome, epg, iptv, iptv-api |
-| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24052 | — | brave, browser, chromium, linux, macos |
-| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23798 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22645 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22531 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
-| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22274 | Vue | freetube, privacy, subscriptions, video, videos |
-| [BCUninstaller/Bulk-Crap-Uninstaller](../repos/bcuninstaller-bulk-crap-uninstaller.md) | 7.0 | 22152 | C# | application-manager, application-uninstaller, bloatware, bulk-actions, bulk-uninstall |
-| [Atlas-OS/Atlas](../repos/atlas-os-atlas.md) | 7.0 | 21959 | Batchfile | ame-wizard, atlas, atlasos, debloat, fps |
-| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21684 | Python | cnn, demo, docker, face-recognition, fastapi |
-| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21405 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
-| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21260 | — | control, cpu, curves, fan, fancontrol |
-| [putyy/res-downloader](../repos/putyy-res-downloader.md) | 7.0 | 20997 | Go | douyin, kuaishou, res-downloader, wechat, wechat-video |
-| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20690 | C++ | acrylic, aero, blur, customization, discord |
-| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20289 | C++ | assembly-language, c, cpp, emulation, emulator |
-| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20179 | — | anytls, clash, mac, macos, native |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20139 | Python | alternatives, apps, awesome, awesome-list, degoogle |
-| [jianchang512/pyvideotrans](../repos/jianchang512-pyvideotrans.md) | 7.0 | 19601 | Python | speech-to-text, stt, subtitle-translation, text-to-speech, tts |
-| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19349 | JavaScript | linux, macos, ocr, pot, pot-app |
-| [Huanshere/VideoLingo](../repos/huanshere-videolingo.md) | 7.0 | 19013 | Python | ai-translation, dubbing, localization, video-translation, voice-cloning |
-| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18861 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
-| [MustardChef/WSABuilds](../repos/mustardchef-wsabuilds.md) | 7.0 | 18860 | Python | android, android-emulator, google-apps, kernelsu, magisk |
+| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32360 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
+| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31815 | Go | bilibili, crawler, download, downloader, go |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31733 | — | adblock, gfw, proxy, shadowrocket, v2ray |
+| [imDazui/Tvlist-awesome-m3u-m3u8](../repos/imdazui-tvlist-awesome-m3u-m3u8.md) | 7.0 | 30308 | — | awesome, iptv, iptv-channels, iptv-free, iptv-m3u8 |
+| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30241 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
+| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29995 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29086 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28757 | JavaScript | china, converter, epg, iptv, ipv6 |
+| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28683 | JavaScript | book, cb7, cbr, cbt, cbz |
+| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28151 | Python | chromium, control, google-chromium, inox, iridium |
+| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27873 | C# | editor, gif, recorder, sketchboard, video |
+| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 27798 | — | algorithms, c, cpp, cs-books, database |
+| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27341 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27304 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26306 | TypeScript | apify, automation, crawler, crawling, headless |
+| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 25901 | Python | auto-update, awesome, epg, iptv, iptv-api |
+| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24065 | — | brave, browser, chromium, linux, macos |
+| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23803 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 22677 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22533 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22284 | Vue | freetube, privacy, subscriptions, video, videos |
+| [BCUninstaller/Bulk-Crap-Uninstaller](../repos/bcuninstaller-bulk-crap-uninstaller.md) | 7.0 | 22180 | C# | application-manager, application-uninstaller, bloatware, bulk-actions, bulk-uninstall |
+| [Atlas-OS/Atlas](../repos/atlas-os-atlas.md) | 7.0 | 21971 | Batchfile | ame-wizard, atlas, atlasos, debloat, fps |
+| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21686 | Python | cnn, demo, docker, face-recognition, fastapi |
+| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21410 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
+| [Rem0o/FanControl.Releases](../repos/rem0o-fancontrol-releases.md) | 7.0 | 21271 | — | control, cpu, curves, fan, fancontrol |
+| [putyy/res-downloader](../repos/putyy-res-downloader.md) | 7.0 | 21018 | Go | douyin, kuaishou, res-downloader, wechat, wechat-video |
+| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20701 | C++ | acrylic, aero, blur, customization, discord |
+| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20294 | C++ | assembly-language, c, cpp, emulation, emulator |
+| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20180 | — | anytls, clash, mac, macos, native |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20149 | Python | alternatives, apps, awesome, awesome-list, degoogle |
+| [jianchang512/pyvideotrans](../repos/jianchang512-pyvideotrans.md) | 7.0 | 19603 | Python | speech-to-text, stt, subtitle-translation, text-to-speech, tts |
+| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19347 | JavaScript | linux, macos, ocr, pot, pot-app |
+| [Huanshere/VideoLingo](../repos/huanshere-videolingo.md) | 7.0 | 19022 | Python | ai-translation, dubbing, localization, video-translation, voice-cloning |
+| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 18887 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
+| [MustardChef/WSABuilds](../repos/mustardchef-wsabuilds.md) | 7.0 | 18868 | Python | android, android-emulator, google-apps, kernelsu, magisk |
 | [hellzerg/optimizer](../repos/hellzerg-optimizer.md) | 7.0 | 18231 | C# | cleanup, hosts-file, optimize, privacy, registry-hacks |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17892 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
-| [netchx/netch](../repos/netchx-netch.md) | 7.0 | 17691 | C# | fullcone, netch, netfiltersdk, shadowsocks, shadowsocksr |
-| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17110 | C++ | clash, clashr, emoji, gist, quantumult |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17902 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [netchx/netch](../repos/netchx-netch.md) | 7.0 | 17689 | C# | fullcone, netch, netfiltersdk, shadowsocks, shadowsocksr |
+| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17109 | C++ | clash, clashr, emoji, gist, quantumult |
 | [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16726 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
-| [DIYgod/DPlayer](../repos/diygod-dplayer.md) | 7.0 | 16532 | JavaScript | danmaku, dash, dplayer, flv, hls |
-| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16466 | PHP | feed, freshrss, news-aggregator, php, rss |
-| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16400 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
-| [winsiderss/systeminformer](../repos/winsiderss-systeminformer.md) | 7.0 | 16385 | C | administrator, benchmarking, debugger, monitor, monitor-performance |
-| [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md) | 7.0 | 16304 | Python | bot, movies, telegram-bot, tv-shows, yyets |
-| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 15930 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
-| [librespeed/speedtest](../repos/librespeed-speedtest.md) | 7.0 | 15279 | JavaScript | hacktoberfest, html5-speedtest, internet-speed, internet-speed-checker, librespeed |
-| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15140 | Swift | app, baidu, bing, deepl, dictionary |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14764 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14748 | C++ | desktop, editor, linux, macos, notepad |
-| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14660 | Go | browser, browser-extension, chrome, edge, firefox |
-| [YerongAI/Office-Tool](../repos/yerongai-office-tool.md) | 7.0 | 14626 | PowerShell | msoffice, msproject, office, office-365, office-tools |
-| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14307 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
-| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14020 | HTML | blog, blog-theme, clean, fast, feature-rich |
-| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 14002 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
-| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13105 | JavaScript | extension, translate, translation, translator, userscript |
-| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13034 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
-| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12925 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
-| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 12800 | — | ai-video, awesome, awesome-list, claude, claude-opus |
-| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12766 | — | books, nginx, pdf, redis, software-architecture |
+| [DIYgod/DPlayer](../repos/diygod-dplayer.md) | 7.0 | 16531 | JavaScript | danmaku, dash, dplayer, flv, hls |
+| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16472 | PHP | feed, freshrss, news-aggregator, php, rss |
+| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16399 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
+| [winsiderss/systeminformer](../repos/winsiderss-systeminformer.md) | 7.0 | 16392 | C | administrator, benchmarking, debugger, monitor, monitor-performance |
+| [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md) | 7.0 | 16305 | Python | bot, movies, telegram-bot, tv-shows, yyets |
+| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 15937 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
+| [librespeed/speedtest](../repos/librespeed-speedtest.md) | 7.0 | 15278 | JavaScript | hacktoberfest, html5-speedtest, internet-speed, internet-speed-checker, librespeed |
+| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15151 | Swift | app, baidu, bing, deepl, dictionary |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14774 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14752 | C++ | desktop, editor, linux, macos, notepad |
+| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14658 | Go | browser, browser-extension, chrome, edge, firefox |
+| [YerongAI/Office-Tool](../repos/yerongai-office-tool.md) | 7.0 | 14632 | PowerShell | msoffice, msproject, office, office-365, office-tools |
+| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14308 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
+| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14024 | HTML | blog, blog-theme, clean, fast, feature-rich |
+| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 14007 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
+| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13121 | JavaScript | extension, translate, translation, translator, userscript |
+| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13035 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
+| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 12976 | — | ai-video, awesome, awesome-list, claude, claude-opus |
+| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12927 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
+| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12771 | — | books, nginx, pdf, redis, software-architecture |
 | [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12274 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
-| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11217 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
-| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10958 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
-| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10907 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10802 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
-| [taojy123/KeymouseGo](../repos/taojy123-keymousego.md) | 7.0 | 10647 | Python | automate, keyboard, mouse, python, simulation |
-| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10635 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
-| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10597 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
-| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10493 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
-| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10492 | Swift | feed-reader, ios, json-feed, macos, rss |
-| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10163 | JavaScript | github, release, steam, tampermonkey, userscript |
+| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11215 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
+| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10960 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
+| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10908 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10806 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [taojy123/KeymouseGo](../repos/taojy123-keymousego.md) | 7.0 | 10646 | Python | automate, keyboard, mouse, python, simulation |
+| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10636 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
+| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10599 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
+| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10496 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
+| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10494 | Swift | feed-reader, ios, json-feed, macos, rss |
+| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10167 | JavaScript | github, release, steam, tampermonkey, userscript |
 | [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md) | 7.0 | 9633 | TypeScript | mysql, nestjs, rss, rsshub, sqlite |
-| [Open-Shell/Open-Shell-Menu](../repos/open-shell-open-shell-menu.md) | 7.0 | 9444 | C++ | classic-menu, classic-shell, classic-start, microsoft-windows, open-shell |
-| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9229 | C | arm64, firewall, foss, network, simplewall |
-| [community/community](../repos/community-community.md) | 7.0 | 8900 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
-| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8788 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
-| [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md) | 7.0 | 8471 | TypeScript | browser, firefox, gecko, mozilla, webbrowser |
-| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8445 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
-| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8265 | Python | automation, chrome, crawl, csdn, hotmail |
-| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7763 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
-| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7741 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
+| [Open-Shell/Open-Shell-Menu](../repos/open-shell-open-shell-menu.md) | 7.0 | 9448 | C++ | classic-menu, classic-shell, classic-start, microsoft-windows, open-shell |
+| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9234 | C | arm64, firewall, foss, network, simplewall |
+| [community/community](../repos/community-community.md) | 7.0 | 8905 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
+| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8787 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
+| [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md) | 7.0 | 8474 | TypeScript | browser, firefox, gecko, mozilla, webbrowser |
+| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8444 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
+| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8266 | Python | automation, chrome, crawl, csdn, hotmail |
+| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7769 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
+| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7747 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
 | [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7701 | JavaScript | aplayer, html, html5, music, player |
 | [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7676 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7546 | Dart | android, flac, flutter, golang, ios |
-| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7442 | Go | clash, geoip, geoip2, proxy, quantumultx |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7575 | Dart | android, flac, flutter, golang, ios |
+| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7444 | Go | clash, geoip, geoip2, proxy, quantumultx |
 | [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7383 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
-| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7359 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
-| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7192 | Python | plugin, python, qbittorrent, search, search-engine |
+| [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7360 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
+| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7210 | Python | plugin, python, qbittorrent, search, search-engine |
 | [doocs/technical-books](../repos/doocs-technical-books.md) | 7.0 | 7024 | TypeScript | architecture, back-end, book-list, database, doocs |
-| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6973 | Python | dlna, linux, macos, media-renderer, mpv |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6862 | — | alternatives, awesome, awesome-list, curated-list, foss |
-| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6760 | Python | elevenlabs, gemini, genai, notebooklm, openai |
-| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6726 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
+| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6975 | Python | dlna, linux, macos, media-renderer, mpv |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6866 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6765 | Python | elevenlabs, gemini, genai, notebooklm, openai |
+| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6735 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
 | [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6671 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
-| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6648 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
-| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6291 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
-| [TheRealJoelmatic/RemoveAdblockThing](../repos/therealjoelmatic-removeadblockthing.md) | 7.0 | 5976 | JavaScript | adblock, remove-not-allowed, tampermonkey, tampermonkey-userscript, undetected |
-| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5939 | Python | all-in-one, apps, atom-feed, atomfeed, community |
+| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6651 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
+| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6298 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
+| [TheRealJoelmatic/RemoveAdblockThing](../repos/therealjoelmatic-removeadblockthing.md) | 7.0 | 5975 | JavaScript | adblock, remove-not-allowed, tampermonkey, tampermonkey-userscript, undetected |
+| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5940 | Python | all-in-one, apps, atom-feed, atomfeed, community |
 | [rcmaehl/MSEdgeRedirect](../repos/rcmaehl-msedgeredirect.md) | 7.0 | 5922 | AutoIt | edge, image-file-execution-options, msedge, uri, uri-manipulations |
-| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5741 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
-| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5691 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
-| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5626 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
-| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5598 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
-| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5532 | Batchfile | batch, edge, microsoft, removal, remove |
-| [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md) | 7.0 | 5355 | JavaScript | featured-pictures, hexo-blog-theme, hexo-theme, hexo-theme-matery, material-design |
-| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5268 | C# | acrylic, backdrop, mica, win32, windows |
+| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5748 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
+| [GargantuaX/gemini-watermark-remover](../repos/gargantuax-gemini-watermark-remover.md) | 7.0 | 5692 | JavaScript | chrome-extension, gemini, gemini-video-watermark-remover, gemini-watermark-remover, skills |
+| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5627 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
+| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5600 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
+| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5535 | Batchfile | batch, edge, microsoft, removal, remove |
+| [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md) | 7.0 | 5354 | JavaScript | featured-pictures, hexo-blog-theme, hexo-theme, hexo-theme-matery, material-design |
+| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5266 | C# | acrylic, backdrop, mica, win32, windows |
 | [crazy-max/WindowsSpyBlocker](../repos/crazy-max-windowsspyblocker.md) | 7.0 | 5234 | Go | blocker, dnscrypt, firewall, hostsfile, ncsi |
 | [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 5048 | Lua | dicts, ime, pinyin, rime, rime-config |
-| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4879 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
-| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4647 | C++ | acrylic, aero, aeroglass, dwm, mica |
+| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4880 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
+| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4649 | C++ | acrylic, aero, aeroglass, dwm, mica |
 | [ReVanced/revanced-patches-template](../repos/revanced-revanced-patches-template.md) | 7.0 | 4613 | Kotlin | android, dalvik, kotlin, patches, revanced |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4559 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4407 | Kotlin | album, android, androidx, audio, exoplayer |
-| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4297 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
-| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4270 | C++ | acrylic, blur, explorer, mica, shell |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4564 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4411 | Kotlin | album, android, androidx, audio, exoplayer |
+| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4298 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
+| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4272 | C++ | acrylic, blur, explorer, mica, shell |
 | [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4256 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
-| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4102 | TypeScript | api, daily-hot, list, rss, vercel |
+| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4103 | TypeScript | api, daily-hot, list, rss, vercel |
 | [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4087 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
-| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3884 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
-| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3801 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
-| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3794 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
-| [sve1r/Rules-For-Quantumult-X](../repos/sve1r-rules-for-quantumult-x.md) | 7.0 | 3779 | JavaScript | quantumult, quantumult-x, quantumultx, qx, rules |
+| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3885 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
+| [dessant/search-by-image](../repos/dessant-search-by-image.md) | 7.0 | 3802 | JavaScript | browser-extension, chrome-extension, firefox-extension, google, image |
+| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3796 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
+| [sve1r/Rules-For-Quantumult-X](../repos/sve1r-rules-for-quantumult-x.md) | 7.0 | 3777 | JavaScript | quantumult, quantumult-x, quantumultx, qx, rules |
 | [phodal/ideabook](../repos/phodal-ideabook.md) | 7.0 | 3758 | HTML | ebook, github-books, growth, idea, ideabook |
-| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3547 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
+| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3546 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
 | [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md) | 7.0 | 3385 | TypeScript | ai, exe, macos, ocr, pc |
 | [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3359 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
 | [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3163 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
 | [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2789 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
-| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2769 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
+| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2770 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
 | [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2764 | C# | db, ffmpeg, gif, image, library |
-| [revezone/revezone](../repos/revezone-revezone.md) | 7.0 | 2656 | TypeScript | brain-storms, canvas, capture-organize-distill-express, excalidraw, knowledge-management |
-| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2614 | Go | ai, atom, feed-reader, feeds, rss |
-| [dongyuwei/hallelujahIM](../repos/dongyuwei-hallelujahim.md) | 7.0 | 2598 | Objective-C++ | autocomplete, english, input-method, inputmethod, inputmethodkit |
+| [revezone/revezone](../repos/revezone-revezone.md) | 7.0 | 2655 | TypeScript | brain-storms, canvas, capture-organize-distill-express, excalidraw, knowledge-management |
+| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2615 | Go | ai, atom, feed-reader, feeds, rss |
+| [dongyuwei/hallelujahIM](../repos/dongyuwei-hallelujahim.md) | 7.0 | 2597 | Objective-C++ | autocomplete, english, input-method, inputmethod, inputmethodkit |
 | [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2335 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
-| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2270 | Swift | audiobook, ios, open-source, player, swift |
+| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2271 | Swift | audiobook, ios, open-source, player, swift |
 | [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2087 | — | algorithms, elasticsearch, java, jvm, kafka |
 | [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2059 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 2012 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
 | [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md) | 7.0 | 2002 | — | audio-player, media-player, mediainfo, mpv, mpv-config |
-| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 1996 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
-| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1955 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
+| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1954 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
 | [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md) | 7.0 | 1947 | Python | downloads-songs, mp3, playlist, spotify, spotify-dl |
 | [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md) | 7.0 | 1912 | Kotlin | android, image, image-watermark, tools, watermark |
 | [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1779 | Dart | android, flutter, ios, rss, rss-reader |
 | [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1547 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
 | [DualSubs/Universal](../repos/dualsubs-universal.md) | 7.0 | 1402 | JavaScript | dual-subtitles, streaming, streaming-services, subtitles, video |
 | [yzane/vscode-markdown-pdf](../repos/yzane-vscode-markdown-pdf.md) | 7.0 | 1344 | HTML | markdown, mermaid, pdf, plantuml, visual-studio-code |
-| [WhatTheBlock/WindowsSimplify](../repos/whattheblock-windowssimplify.md) | 7.0 | 1285 | — | arm, arm64, lite, ltsb, ltsc |
-| [howie6879/weekly](../repos/howie6879-weekly.md) | 7.0 | 1041 | Python | awesome, backend, front-end, github, rss |
+| [WhatTheBlock/WindowsSimplify](../repos/whattheblock-windowssimplify.md) | 7.0 | 1284 | — | arm, arm64, lite, ltsb, ltsc |
+| [howie6879/weekly](../repos/howie6879-weekly.md) | 7.0 | 1040 | Python | awesome, backend, front-end, github, rss |
 | [weiran/Hackers](../repos/weiran-hackers.md) | 7.0 | 768 | Swift | apple, appstore, cocoapods, hacker-news, hackernews |
 | [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 763 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
-| [versun/RSSBox](../repos/versun-rssbox.md) | 7.0 | 683 | Python | ai, digest, django, feed, filter |
+| [versun/RSSBox](../repos/versun-rssbox.md) | 7.0 | 682 | Python | ai, digest, django, feed, filter |
 | [kkebo/DNSecure](../repos/kkebo-dnsecure.md) | 7.0 | 588 | Swift | dns, dns-over-https, dns-over-tls, doh, dot |
 | [axetroy/anti-redirect](../repos/axetroy-anti-redirect.md) | 7.0 | 493 | TypeScript | axetroy, greasy, javascript, redirect, script |
-| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 324 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
+| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 325 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
 | [said7388/github-portfolio](../repos/said7388-github-portfolio.md) | 7.0 | 277 | JavaScript | developer-portfolio, gitfolio, github, github-pages, github-portfolio |
-| [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 248 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
+| [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 249 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
 | [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 208 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
 | [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 165 | Python | beat-detection, captions, ffmpeg, python, video-editing |
 | [LHRUN/one-space](../repos/lhrun-one-space.md) | 7.0 | 124 | TypeScript | portfolio, portfolio-page, portfolio-site, portfolio-template, portfolio-website |
 | [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 45 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
 | [dafengzhen/infoharvest](../repos/dafengzhen-infoharvest.md) | 7.0 | 21 | TypeScript | bookmark, harvest, info, infoharvest, information-tool |
-| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 185895 | Python | awesome, github, hellogithub, python |
-| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 96764 | Dart | dart, file-sharing, flutter, flutter-apps |
-| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58849 | C# | csharp, dotnet, hacktoberfest, jellyfin |
-| [zen-browser/desktop](../repos/zen-browser-desktop.md) | 6.5 | 45463 | C++ | firefox, firefox-based, firefox-browser, zen-browser |
-| [vim/vim](../repos/vim-vim.md) | 6.5 | 41178 | Vim Script | c, cross-platform, text-editor, vim |
-| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35380 | Python | honkai-star-rail, mihomo, python, star-rail-api |
-| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34627 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27053 | TypeScript | clash, clash-meta, electron, mihomo |
+| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 186090 | Python | awesome, github, hellogithub, python |
+| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 96892 | Dart | dart, file-sharing, flutter, flutter-apps |
+| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 58887 | C# | csharp, dotnet, hacktoberfest, jellyfin |
+| [zen-browser/desktop](../repos/zen-browser-desktop.md) | 6.5 | 45489 | C++ | firefox, firefox-based, firefox-browser, zen-browser |
+| [vim/vim](../repos/vim-vim.md) | 6.5 | 41181 | Vim Script | c, cross-platform, text-editor, vim |
+| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35411 | Python | honkai-star-rail, mihomo, python, star-rail-api |
+| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34630 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27067 | TypeScript | clash, clash-meta, electron, mihomo |
 | [microsoft/winget-cli](../repos/microsoft-winget-cli.md) | 6.5 | 26553 | C++ | command-line, package-manager, windows, winget |
-| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24783 | PowerShell | installer, powershell, scoop, windows |
-| [izackwu/TeachYourselfCS-CN](../repos/izackwu-teachyourselfcs-cn.md) | 6.5 | 22205 | — | chinese-translation, teachyourselfcs, translation, tutorial |
-| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16585 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
-| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 12003 | C++ | directwrite, font, font-rendering, mactype |
-| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6883 | Python | acl, acl4ssr, clash, gfwlist |
-| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4070 | TypeScript | ai, business, product, programming |
+| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24785 | PowerShell | installer, powershell, scoop, windows |
+| [izackwu/TeachYourselfCS-CN](../repos/izackwu-teachyourselfcs-cn.md) | 6.5 | 22206 | — | chinese-translation, teachyourselfcs, translation, tutorial |
+| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16584 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
+| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 12002 | C++ | directwrite, font, font-rendering, mactype |
+| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6888 | Python | acl, acl4ssr, clash, gfwlist |
+| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4071 | TypeScript | ai, business, product, programming |
 | [ShirasawaSama/CefDetectorX](../repos/shirasawasama-cefdetectorx.md) | 6.5 | 2599 | JavaScript | cef, cefsharp, electron, miniblink |
-| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2201 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
+| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2200 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
 | [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2082 | — | china, chinese, chinese-podcasts, podcast |
 | [sxzxs/Real-time-translation-typing](../repos/sxzxs-real-time-translation-typing.md) | 6.5 | 1875 | AutoHotkey | autohotkey, lol, translators, windows |
 | [Bush2021/chrome_installer](../repos/bush2021-chrome_installer.md) | 6.5 | 1721 | Go | github-actions, google-chrome, offline-installer, windows |
@@ -241,214 +241,215 @@
 | [NSRingo/WeatherKit](../repos/nsringo-weatherkit.md) | 6.5 | 391 | JavaScript | apple, apple-weather-app, weatherkit, weatherkit-rest-api |
 | [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md) | 6.5 | 183 | JavaScript | chrome, firefox, webextension, xstyle |
 | [BlackGlory/extension-binary-search](../repos/blackglory-extension-binary-search.md) | 6.5 | 50 | TypeScript | chrome-extension, edge-extension, manifest-v3, typescript |
-| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 61972 | — | china, indie, indie-developer |
-| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59511 | C# | c-sharp, proxy, shadowsocks |
-| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 30953 | TypeScript | bilibili, tampermonkey, userscript |
+| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 61976 | — | china, indie, indie-developer |
+| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59506 | C# | c-sharp, proxy, shadowsocks |
+| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 30967 | TypeScript | bilibili, tampermonkey, userscript |
 | [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md) | 6.0 | 30230 | Python | deep-learning, instruction-following, language-model |
-| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24354 | JavaScript | blog, china, rss |
-| [PicoTrex/Awesome-Nano-Banana-images](../repos/picotrex-awesome-nano-banana-images.md) | 6.0 | 23970 | — | awesome, gemini-2-5-flash-image, nano-banana |
-| [SnapDrop/snapdrop](../repos/snapdrop-snapdrop.md) | 6.0 | 19713 | JavaScript | pwa, snapdrop, webrtc |
-| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18135 | TypeScript | copytranslator, dictionary, translate |
-| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17578 | — | app, mac, macos |
-| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13201 | Python | python, youtube, youtube-downloader |
-| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10195 | Dart | clash, clashmi, mihomo |
-| [stanzhai/be-a-professional-programmer](../repos/stanzhai-be-a-professional-programmer.md) | 6.0 | 9919 | — | awesome, programmer, programmer-tool |
-| [mulaRahul/keyviz](../repos/mularahul-keyviz.md) | 6.0 | 9750 | TypeScript | keypress, keystroke, tauri-rust |
-| [violentmonkey/violentmonkey](../repos/violentmonkey-violentmonkey.md) | 6.0 | 9101 | JavaScript | userscripts-support, violentmonkey, webextensions |
+| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24362 | JavaScript | blog, china, rss |
+| [PicoTrex/Awesome-Nano-Banana-images](../repos/picotrex-awesome-nano-banana-images.md) | 6.0 | 23976 | — | awesome, gemini-2-5-flash-image, nano-banana |
+| [SnapDrop/snapdrop](../repos/snapdrop-snapdrop.md) | 6.0 | 19714 | JavaScript | pwa, snapdrop, webrtc |
+| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18134 | TypeScript | copytranslator, dictionary, translate |
+| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17577 | — | app, mac, macos |
+| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13202 | Python | python, youtube, youtube-downloader |
+| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10207 | Dart | clash, clashmi, mihomo |
+| [stanzhai/be-a-professional-programmer](../repos/stanzhai-be-a-professional-programmer.md) | 6.0 | 9920 | — | awesome, programmer, programmer-tool |
+| [mulaRahul/keyviz](../repos/mularahul-keyviz.md) | 6.0 | 9753 | TypeScript | keypress, keystroke, tauri-rust |
+| [violentmonkey/violentmonkey](../repos/violentmonkey-violentmonkey.md) | 6.0 | 9107 | JavaScript | userscripts-support, violentmonkey, webextensions |
 | [theme-next/hexo-theme-next](../repos/theme-next-hexo-theme-next.md) | 6.0 | 8210 | Stylus | hexo, hexo-theme, theme-next |
-| [langren1353/GM_script](../repos/langren1353-gm_script.md) | 6.0 | 6058 | JavaScript | gm-scripts, greasemonkey, tampermonkey |
+| [langren1353/GM_script](../repos/langren1353-gm_script.md) | 6.0 | 6057 | JavaScript | gm-scripts, greasemonkey, tampermonkey |
 | [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5101 | C# | csharp, tai, wpf |
-| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4272 | JavaScript | csdn, tampermonkey, userscript |
-| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3337 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
-| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2825 | C# | desktop-app, desktop-tool, geekdesk |
+| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4274 | JavaScript | csdn, tampermonkey, userscript |
+| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3338 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
+| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2826 | C# | desktop-app, desktop-tool, geekdesk |
 | [next-theme/hexo-theme-next](../repos/next-theme-hexo-theme-next.md) | 6.0 | 2780 | JavaScript | hexo, hexo-theme, theme-next |
 | [tufu9441/maupassant-hexo](../repos/tufu9441-maupassant-hexo.md) | 6.0 | 2677 | SCSS | hexo, hexo-site, hexo-theme |
-| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2627 | Python | chromium, ungoogled-chromium, windows |
-| [Pintree-io/pintree](../repos/pintree-io-pintree.md) | 6.0 | 2594 | TypeScript | bookmark, directory, directory-website |
-| [vim/vim-win32-installer](../repos/vim-vim-win32-installer.md) | 6.0 | 2299 | NSIS | installer, vim, windows |
+| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2628 | Python | chromium, ungoogled-chromium, windows |
+| [Pintree-io/pintree](../repos/pintree-io-pintree.md) | 6.0 | 2596 | TypeScript | bookmark, directory, directory-website |
+| [vim/vim-win32-installer](../repos/vim-vim-win32-installer.md) | 6.0 | 2300 | NSIS | installer, vim, windows |
 | [Xatta-Trone/medium-parser-extension](../repos/xatta-trone-medium-parser-extension.md) | 6.0 | 1592 | JavaScript | medium, medium-article, medium-com |
 | [coolpace/V2EX_Polish](../repos/coolpace-v2ex_polish.md) | 6.0 | 1218 | TypeScript | extension, v2ex, v2ex-community |
 | [daizhige-org/daizhigev20](../repos/daizhige-org-daizhigev20.md) | 6.0 | 650 | HTML | china-history, chinese-classi, chinese-nlp |
-| [DualSubs/YouTube](../repos/dualsubs-youtube.md) | 6.0 | 529 | HTML | dual-subtitles, subtitles, youtube |
-| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 140854 | HTML | awesome-list, free-for-developers |
-| [deepseek-ai/awesome-deepseek-integration](../repos/deepseek-ai-awesome-deepseek-integration.md) | 5.5 | 39653 | — | awesome, deepseek |
-| [shadowsocks/shadowsocks-android](../repos/shadowsocks-shadowsocks-android.md) | 5.5 | 36829 | Kotlin | android, shadowsocks |
-| [openai/openai-python](../repos/openai-openai-python.md) | 5.5 | 31992 | Python | openai, python |
-| [newsnext/newsnow](../repos/newsnext-newsnow.md) | 5.5 | 22194 | TypeScript | elegant, news |
-| [XIU2/Yuedu](../repos/xiu2-yuedu.md) | 5.5 | 12597 | — | legado, xiaoshuo |
-| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11444 | JavaScript | desktop-app, music-player |
+| [DualSubs/YouTube](../repos/dualsubs-youtube.md) | 6.0 | 530 | HTML | dual-subtitles, subtitles, youtube |
+| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 141195 | HTML | awesome-list, free-for-developers |
+| [deepseek-ai/awesome-deepseek-integration](../repos/deepseek-ai-awesome-deepseek-integration.md) | 5.5 | 39660 | — | awesome, deepseek |
+| [shadowsocks/shadowsocks-android](../repos/shadowsocks-shadowsocks-android.md) | 5.5 | 36838 | Kotlin | android, shadowsocks |
+| [openai/openai-python](../repos/openai-openai-python.md) | 5.5 | 32002 | Python | openai, python |
+| [newsnext/newsnow](../repos/newsnext-newsnow.md) | 5.5 | 22199 | TypeScript | elegant, news |
+| [XIU2/Yuedu](../repos/xiu2-yuedu.md) | 5.5 | 12604 | — | legado, xiaoshuo |
+| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11443 | JavaScript | desktop-app, music-player |
 | [rwv/chinese-dos-games](../repos/rwv-chinese-dos-games.md) | 5.5 | 10350 | Python | dos, game |
-| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9898 | — | alternatives, list |
-| [imsyy/home](../repos/imsyy-home.md) | 5.5 | 4553 | Vue | home, homepage |
-| [tomasklaen/uosc](../repos/tomasklaen-uosc.md) | 5.5 | 3481 | Lua | mpv, mpv-script |
+| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9905 | — | alternatives, list |
+| [imsyy/home](../repos/imsyy-home.md) | 5.5 | 4554 | Vue | home, homepage |
+| [tomasklaen/uosc](../repos/tomasklaen-uosc.md) | 5.5 | 3482 | Lua | mpv, mpv-script |
 | [Orz-3/mini](../repos/orz-3-mini.md) | 5.5 | 2205 | — | icon, mini |
 | [aculix/bitplay](../repos/aculix-bitplay.md) | 5.5 | 1717 | Go | streaming-video, torrents |
-| [Ojhaharsh/30u30](../repos/ojhaharsh-30u30.md) | 5.5 | 1699 | Python | ai, ilya-sutskever |
+| [Ojhaharsh/30u30](../repos/ojhaharsh-30u30.md) | 5.5 | 1705 | Python | ai, ilya-sutskever |
 | [danny0838/content-farm-terminator](../repos/danny0838-content-farm-terminator.md) | 5.5 | 1413 | JavaScript | chrome-extension, firefox-addon |
-| [mattpocock/skills](../repos/mattpocock-skills.md) | 5.0 | 307778 | Shell | (none) |
-| [anomalyco/opencode](../repos/anomalyco-opencode.md) | 5.0 | 223424 | TypeScript | (none) |
-| [jackfrued/Python-100-Days](../repos/jackfrued-python-100-days.md) | 5.0 | 187604 | Jupyter Notebook | (none) |
-| [msitarzewski/agency-agents](../repos/msitarzewski-agency-agents.md) | 5.0 | 165577 | Shell | (none) |
-| [anthropics/claude-code](../repos/anthropics-claude-code.md) | 5.0 | 154011 | TypeScript | (none) |
-| [ytdl-org/youtube-dl](../repos/ytdl-org-youtube-dl.md) | 5.0 | 141434 | Python | (none) |
-| [openai/codex](../repos/openai-codex.md) | 5.0 | 132310 | Rust | (none) |
-| [ruanyf/weekly](../repos/ruanyf-weekly.md) | 5.0 | 107269 | — | (none) |
-| [deepseek-ai/DeepSeek-V3](../repos/deepseek-ai-deepseek-v3.md) | 5.0 | 104692 | Python | (none) |
-| [pbakaus/impeccable](../repos/pbakaus-impeccable.md) | 5.0 | 97571 | Rust | (none) |
-| [deepseek-ai/DeepSeek-R1](../repos/deepseek-ai-deepseek-r1.md) | 5.0 | 91988 | — | (none) |
-| [abi/screenshot-to-code](../repos/abi-screenshot-to-code.md) | 5.0 | 80934 | Python | (none) |
-| [python/cpython](../repos/python-cpython.md) | 5.0 | 77734 | Python | (none) |
-| [PKUFlyingPig/cs-self-learning](../repos/pkuflyingpig-cs-self-learning.md) | 5.0 | 76503 | HTML | (none) |
-| [CompVis/stable-diffusion](../repos/compvis-stable-diffusion.md) | 5.0 | 73559 | Jupyter Notebook | (none) |
-| [cline/cline](../repos/cline-cline.md) | 5.0 | 71090 | TypeScript | (none) |
-| [ChrisTitusTech/winutil](../repos/christitustech-winutil.md) | 5.0 | 65316 | PowerShell | (none) |
-| [adam-p/markdown-here](../repos/adam-p-markdown-here.md) | 5.0 | 60258 | JavaScript | (none) |
-| [soimort/you-get](../repos/soimort-you-get.md) | 5.0 | 56864 | Python | (none) |
-| [multica-ai/multica](../repos/multica-ai-multica.md) | 5.0 | 54414 | Go | (none) |
-| [lllyasviel/Fooocus](../repos/lllyasviel-fooocus.md) | 5.0 | 53769 | Python | (none) |
-| [emilkowalski/skills](../repos/emilkowalski-skills.md) | 5.0 | 52193 | Markdown | (none) |
-| [MetaCubeX/ClashMetaForAndroid](../repos/metacubex-clashmetaforandroid.md) | 5.0 | 48690 | Kotlin | (none) |
-| [gedoor/legado](../repos/gedoor-legado.md) | 5.0 | 47194 | Kotlin | (none) |
-| [zhongyang219/TrafficMonitor](../repos/zhongyang219-trafficmonitor.md) | 5.0 | 46746 | C++ | (none) |
-| [zbezj/HEU_KMS_Activator](../repos/zbezj-heu_kms_activator.md) | 5.0 | 44190 | — | (none) |
-| [QSCTech/zju-icicles](../repos/qsctech-zju-icicles.md) | 5.0 | 41336 | HTML | (none) |
-| [zai-org/ChatGLM-6B](../repos/zai-org-chatglm-6b.md) | 5.0 | 40895 | Python | (none) |
+| [mattpocock/skills](../repos/mattpocock-skills.md) | 5.0 | 308819 | Shell | (none) |
+| [anomalyco/opencode](../repos/anomalyco-opencode.md) | 5.0 | 223700 | TypeScript | (none) |
+| [jackfrued/Python-100-Days](../repos/jackfrued-python-100-days.md) | 5.0 | 187609 | Jupyter Notebook | (none) |
+| [msitarzewski/agency-agents](../repos/msitarzewski-agency-agents.md) | 5.0 | 165771 | Shell | (none) |
+| [anthropics/claude-code](../repos/anthropics-claude-code.md) | 5.0 | 154119 | TypeScript | (none) |
+| [ytdl-org/youtube-dl](../repos/ytdl-org-youtube-dl.md) | 5.0 | 141442 | Python | (none) |
+| [openai/codex](../repos/openai-codex.md) | 5.0 | 132642 | Rust | (none) |
+| [ruanyf/weekly](../repos/ruanyf-weekly.md) | 5.0 | 107335 | — | (none) |
+| [deepseek-ai/DeepSeek-V3](../repos/deepseek-ai-deepseek-v3.md) | 5.0 | 104703 | Python | (none) |
+| [pbakaus/impeccable](../repos/pbakaus-impeccable.md) | 5.0 | 98754 | Rust | (none) |
+| [deepseek-ai/DeepSeek-R1](../repos/deepseek-ai-deepseek-r1.md) | 5.0 | 91993 | — | (none) |
+| [abi/screenshot-to-code](../repos/abi-screenshot-to-code.md) | 5.0 | 80956 | Python | (none) |
+| [python/cpython](../repos/python-cpython.md) | 5.0 | 77768 | Python | (none) |
+| [PKUFlyingPig/cs-self-learning](../repos/pkuflyingpig-cs-self-learning.md) | 5.0 | 76514 | HTML | (none) |
+| [CompVis/stable-diffusion](../repos/compvis-stable-diffusion.md) | 5.0 | 73562 | Jupyter Notebook | (none) |
+| [cline/cline](../repos/cline-cline.md) | 5.0 | 71144 | TypeScript | (none) |
+| [ChrisTitusTech/winutil](../repos/christitustech-winutil.md) | 5.0 | 65361 | PowerShell | (none) |
+| [adam-p/markdown-here](../repos/adam-p-markdown-here.md) | 5.0 | 60259 | JavaScript | (none) |
+| [soimort/you-get](../repos/soimort-you-get.md) | 5.0 | 56862 | Python | (none) |
+| [multica-ai/multica](../repos/multica-ai-multica.md) | 5.0 | 54483 | Go | (none) |
+| [lllyasviel/Fooocus](../repos/lllyasviel-fooocus.md) | 5.0 | 53783 | Python | (none) |
+| [emilkowalski/skills](../repos/emilkowalski-skills.md) | 5.0 | 52575 | Markdown | (none) |
+| [MetaCubeX/ClashMetaForAndroid](../repos/metacubex-clashmetaforandroid.md) | 5.0 | 48742 | Kotlin | (none) |
+| [gedoor/legado](../repos/gedoor-legado.md) | 5.0 | 47195 | Kotlin | (none) |
+| [zhongyang219/TrafficMonitor](../repos/zhongyang219-trafficmonitor.md) | 5.0 | 46763 | C++ | (none) |
+| [zbezj/HEU_KMS_Activator](../repos/zbezj-heu_kms_activator.md) | 5.0 | 44211 | — | (none) |
+| [QSCTech/zju-icicles](../repos/qsctech-zju-icicles.md) | 5.0 | 41338 | HTML | (none) |
+| [zai-org/ChatGLM-6B](../repos/zai-org-chatglm-6b.md) | 5.0 | 40894 | Python | (none) |
 | [wg/wrk](../repos/wg-wrk.md) | 5.0 | 40424 | C | (none) |
-| [SagerNet/sing-box](../repos/sagernet-sing-box.md) | 5.0 | 39467 | Go | (none) |
+| [SagerNet/sing-box](../repos/sagernet-sing-box.md) | 5.0 | 39498 | Go | (none) |
 | [karpathy/LLM101n](../repos/karpathy-llm101n.md) | 5.0 | 37472 | — | (none) |
-| [jqlang/jq](../repos/jqlang-jq.md) | 5.0 | 35992 | C | jq |
-| [valinet/ExplorerPatcher](../repos/valinet-explorerpatcher.md) | 5.0 | 34179 | C | (none) |
-| [chenfei-wu/TaskMatrix](../repos/chenfei-wu-taskmatrix.md) | 5.0 | 33927 | Python | (none) |
-| [linexjlin/GPTs](../repos/linexjlin-gpts.md) | 5.0 | 32032 | — | (none) |
-| [meta-llama/llama3](../repos/meta-llama-llama3.md) | 5.0 | 29168 | Python | (none) |
-| [blackmatrix7/ios_rule_script](../repos/blackmatrix7-ios_rule_script.md) | 5.0 | 28481 | JavaScript | (none) |
-| [microsoft/cascadia-code](../repos/microsoft-cascadia-code.md) | 5.0 | 27952 | Python | (none) |
+| [jqlang/jq](../repos/jqlang-jq.md) | 5.0 | 36004 | C | jq |
+| [valinet/ExplorerPatcher](../repos/valinet-explorerpatcher.md) | 5.0 | 34199 | C | (none) |
+| [chenfei-wu/TaskMatrix](../repos/chenfei-wu-taskmatrix.md) | 5.0 | 33923 | Python | (none) |
+| [linexjlin/GPTs](../repos/linexjlin-gpts.md) | 5.0 | 32029 | — | (none) |
+| [meta-llama/llama3](../repos/meta-llama-llama3.md) | 5.0 | 29167 | Python | (none) |
+| [blackmatrix7/ios_rule_script](../repos/blackmatrix7-ios_rule_script.md) | 5.0 | 28495 | JavaScript | (none) |
+| [microsoft/cascadia-code](../repos/microsoft-cascadia-code.md) | 5.0 | 27951 | Python | (none) |
 | [philc/vimium](../repos/philc-vimium.md) | 5.0 | 27103 | JavaScript | (none) |
 | [Vision-CAIR/MiniGPT-4](../repos/vision-cair-minigpt-4.md) | 5.0 | 25576 | Python | (none) |
-| [Dujltqzv/Some-Many-Books](../repos/dujltqzv-some-many-books.md) | 5.0 | 25482 | — | (none) |
-| [Gar-b-age/CookLikeHOC](../repos/gar-b-age-cooklikehoc.md) | 5.0 | 24847 | JavaScript | (none) |
-| [leiurayer/downkyi](../repos/leiurayer-downkyi.md) | 5.0 | 24359 | — | (none) |
-| [dracula/dracula-theme](../repos/dracula-dracula-theme.md) | 5.0 | 23608 | — | (none) |
-| [FelisCatus/SwitchyOmega](../repos/feliscatus-switchyomega.md) | 5.0 | 22610 | CoffeeScript | (none) |
-| [op7418/Humanizer-zh](../repos/op7418-humanizer-zh.md) | 5.0 | 21586 | Python | (none) |
-| [ntdevlabs/tiny11builder](../repos/ntdevlabs-tiny11builder.md) | 5.0 | 21424 | C# | (none) |
-| [Chuyu-Team/Dism-Multi-language](../repos/chuyu-team-dism-multi-language.md) | 5.0 | 20696 | HTML | (none) |
-| [googlehosts/hosts](../repos/googlehosts-hosts.md) | 5.0 | 20549 | — | hosts |
-| [programthink/books](../repos/programthink-books.md) | 5.0 | 20365 | — | (none) |
-| [BluePointLilac/ContextMenuManager](../repos/bluepointlilac-contextmenumanager.md) | 5.0 | 20353 | C# | (none) |
-| [ruanyf/jstraining](../repos/ruanyf-jstraining.md) | 5.0 | 20035 | — | (none) |
-| [sandboxie-plus/Sandboxie](../repos/sandboxie-plus-sandboxie.md) | 5.0 | 19837 | C++ | (none) |
-| [zhaoolee/ChineseBQB](../repos/zhaoolee-chinesebqb.md) | 5.0 | 16481 | TypeScript | (none) |
+| [Dujltqzv/Some-Many-Books](../repos/dujltqzv-some-many-books.md) | 5.0 | 25519 | — | (none) |
+| [Gar-b-age/CookLikeHOC](../repos/gar-b-age-cooklikehoc.md) | 5.0 | 24851 | JavaScript | (none) |
+| [leiurayer/downkyi](../repos/leiurayer-downkyi.md) | 5.0 | 24356 | — | (none) |
+| [dracula/dracula-theme](../repos/dracula-dracula-theme.md) | 5.0 | 23611 | — | (none) |
+| [FelisCatus/SwitchyOmega](../repos/feliscatus-switchyomega.md) | 5.0 | 22612 | CoffeeScript | (none) |
+| [op7418/Humanizer-zh](../repos/op7418-humanizer-zh.md) | 5.0 | 21647 | Python | (none) |
+| [ntdevlabs/tiny11builder](../repos/ntdevlabs-tiny11builder.md) | 5.0 | 21476 | C# | (none) |
+| [Chuyu-Team/Dism-Multi-language](../repos/chuyu-team-dism-multi-language.md) | 5.0 | 20704 | HTML | (none) |
+| [googlehosts/hosts](../repos/googlehosts-hosts.md) | 5.0 | 20546 | — | hosts |
+| [programthink/books](../repos/programthink-books.md) | 5.0 | 20427 | — | (none) |
+| [BluePointLilac/ContextMenuManager](../repos/bluepointlilac-contextmenumanager.md) | 5.0 | 20355 | C# | (none) |
+| [ruanyf/jstraining](../repos/ruanyf-jstraining.md) | 5.0 | 20036 | — | (none) |
+| [sandboxie-plus/Sandboxie](../repos/sandboxie-plus-sandboxie.md) | 5.0 | 19844 | C++ | (none) |
+| [zhaoolee/ChineseBQB](../repos/zhaoolee-chinesebqb.md) | 5.0 | 16487 | TypeScript | (none) |
 | [meta-llama/codellama](../repos/meta-llama-codellama.md) | 5.0 | 16216 | Python | (none) |
-| [clsid2/mpc-hc](../repos/clsid2-mpc-hc.md) | 5.0 | 16054 | C++ | (none) |
-| [ruanyf/free-books](../repos/ruanyf-free-books.md) | 5.0 | 16045 | — | (none) |
-| [KaringX/karing](../repos/karingx-karing.md) | 5.0 | 15855 | Dart | (none) |
-| [jobbole/awesome-programming-books](../repos/jobbole-awesome-programming-books.md) | 5.0 | 15596 | — | (none) |
-| [programthink/zhao](../repos/programthink-zhao.md) | 5.0 | 14095 | Python | (none) |
-| [CyberCommy/geektime-books](../repos/cybercommy-geektime-books.md) | 5.0 | 13436 | — | (none) |
-| [petergyang/no-ai-slop](../repos/petergyang-no-ai-slop.md) | 5.0 | 12992 | Python | (none) |
-| [tw93/Kami](../repos/tw93-kami.md) | 5.0 | 12169 | HTML | (none) |
-| [AnInsomniacy/rayburst](../repos/aninsomniacy-rayburst.md) | 5.0 | 11306 | TypeScript | (none) |
+| [clsid2/mpc-hc](../repos/clsid2-mpc-hc.md) | 5.0 | 16055 | C++ | (none) |
+| [ruanyf/free-books](../repos/ruanyf-free-books.md) | 5.0 | 16044 | — | (none) |
+| [KaringX/karing](../repos/karingx-karing.md) | 5.0 | 15881 | Dart | (none) |
+| [jobbole/awesome-programming-books](../repos/jobbole-awesome-programming-books.md) | 5.0 | 15595 | — | (none) |
+| [programthink/zhao](../repos/programthink-zhao.md) | 5.0 | 14130 | Python | (none) |
+| [CyberCommy/geektime-books](../repos/cybercommy-geektime-books.md) | 5.0 | 13438 | — | (none) |
+| [petergyang/no-ai-slop](../repos/petergyang-no-ai-slop.md) | 5.0 | 13009 | Python | (none) |
+| [tw93/Kami](../repos/tw93-kami.md) | 5.0 | 12189 | HTML | (none) |
+| [AnInsomniacy/rayburst](../repos/aninsomniacy-rayburst.md) | 5.0 | 11318 | TypeScript | (none) |
 | [hectorqin/reader](../repos/hectorqin-reader.md) | 5.0 | 11073 | TypeScript | (none) |
-| [cxasm/notepad--](../repos/cxasm-notepad.md) | 5.0 | 10574 | C++ | (none) |
+| [cxasm/notepad--](../repos/cxasm-notepad.md) | 5.0 | 10580 | C++ | (none) |
 | [ziahamza/webui-aria2](../repos/ziahamza-webui-aria2.md) | 5.0 | 10358 | JavaScript | (none) |
-| [funstory-ai/BabelDOC](../repos/funstory-ai-babeldoc.md) | 5.0 | 9785 | Python | (none) |
+| [funstory-ai/BabelDOC](../repos/funstory-ai-babeldoc.md) | 5.0 | 9797 | Python | (none) |
 | [felixse/FluentTerminal](../repos/felixse-fluentterminal.md) | 5.0 | 9601 | C# | (none) |
-| [rooktwo/rectg](../repos/rooktwo-rectg.md) | 5.0 | 9368 | Python | telegram |
+| [rooktwo/rectg](../repos/rooktwo-rectg.md) | 5.0 | 9370 | Python | telegram |
 | [Nevcairiel/LAVFilters](../repos/nevcairiel-lavfilters.md) | 5.0 | 9229 | C++ | (none) |
 | [nashsu/FreeAskInternet](../repos/nashsu-freeaskinternet.md) | 5.0 | 8748 | Python | (none) |
-| [getsurfboard/surfboard](../repos/getsurfboard-surfboard.md) | 5.0 | 8710 | — | (none) |
-| [FluentRead/FluentRead](../repos/fluentread-fluentread.md) | 5.0 | 8686 | TypeScript | (none) |
-| [rime/weasel](../repos/rime-weasel.md) | 5.0 | 8240 | C++ | (none) |
+| [FluentRead/FluentRead](../repos/fluentread-fluentread.md) | 5.0 | 8723 | TypeScript | (none) |
+| [getsurfboard/surfboard](../repos/getsurfboard-surfboard.md) | 5.0 | 8712 | — | (none) |
+| [rime/weasel](../repos/rime-weasel.md) | 5.0 | 8238 | C++ | (none) |
 | [zgwl/chinese-buy-us-stock-guide](../repos/zgwl-chinese-buy-us-stock-guide.md) | 5.0 | 7844 | — | (none) |
 | [Cenmrev/V2RayX](../repos/cenmrev-v2rayx.md) | 5.0 | 7615 | Objective-C | (none) |
-| [lijigang/ljg-skills](../repos/lijigang-ljg-skills.md) | 5.0 | 7599 | TypeScript | (none) |
-| [Moriafly/SaltPlayerSource](../repos/moriafly-saltplayersource.md) | 5.0 | 7580 | — | (none) |
-| [kska32/ebooks](../repos/kska32-ebooks.md) | 5.0 | 7524 | JavaScript | (none) |
-| [xM4ddy/OFGB](../repos/xm4ddy-ofgb.md) | 5.0 | 7511 | C# | (none) |
+| [lijigang/ljg-skills](../repos/lijigang-ljg-skills.md) | 5.0 | 7605 | TypeScript | (none) |
+| [Moriafly/SaltPlayerSource](../repos/moriafly-saltplayersource.md) | 5.0 | 7586 | — | (none) |
+| [kska32/ebooks](../repos/kska32-ebooks.md) | 5.0 | 7527 | JavaScript | (none) |
+| [xM4ddy/OFGB](../repos/xm4ddy-ofgb.md) | 5.0 | 7510 | C# | (none) |
 | [Tatsu-syo/noMeiryoUI](../repos/tatsu-syo-nomeiryoui.md) | 5.0 | 6754 | C++ | (none) |
-| [twostraws/SwiftUI-Agent-Skill](../repos/twostraws-swiftui-agent-skill.md) | 5.0 | 6420 | — | (none) |
-| [deepseek-ai/awesome-deepseek-agent](../repos/deepseek-ai-awesome-deepseek-agent.md) | 5.0 | 6332 | — | (none) |
+| [twostraws/SwiftUI-Agent-Skill](../repos/twostraws-swiftui-agent-skill.md) | 5.0 | 6429 | — | (none) |
+| [deepseek-ai/awesome-deepseek-agent](../repos/deepseek-ai-awesome-deepseek-agent.md) | 5.0 | 6335 | — | (none) |
 | [zu1k/book-searcher](../repos/zu1k-book-searcher.md) | 5.0 | 6296 | TypeScript | (none) |
-| [rileytestut/Delta](../repos/rileytestut-delta.md) | 5.0 | 6221 | Swift | (none) |
-| [felixonmars/dnsmasq-china-list](../repos/felixonmars-dnsmasq-china-list.md) | 5.0 | 6138 | Ruby | (none) |
+| [rileytestut/Delta](../repos/rileytestut-delta.md) | 5.0 | 6224 | Swift | (none) |
+| [felixonmars/dnsmasq-china-list](../repos/felixonmars-dnsmasq-china-list.md) | 5.0 | 6137 | Ruby | (none) |
+| [luolangaga/tubatools](../repos/luolangaga-tubatools.md) | 5.0 | 5976 | C# | (none) |
 | [kuafuai/DevOpsGPT](../repos/kuafuai-devopsgpt.md) | 5.0 | 5972 | HTML | (none) |
-| [luolangaga/tubatools](../repos/luolangaga-tubatools.md) | 5.0 | 5952 | C# | (none) |
-| [w37fhy/QuantumultX](../repos/w37fhy-quantumultx.md) | 5.0 | 5923 | JavaScript | (none) |
-| [fmz200/wool_scripts](../repos/fmz200-wool_scripts.md) | 5.0 | 5881 | Vim Snippet | (none) |
-| [laylavish/uBlockOrigin-HUGE-AI-Blocklist](../repos/laylavish-ublockorigin-huge-ai-blocklist.md) | 5.0 | 5828 | — | (none) |
+| [w37fhy/QuantumultX](../repos/w37fhy-quantumultx.md) | 5.0 | 5922 | JavaScript | (none) |
+| [fmz200/wool_scripts](../repos/fmz200-wool_scripts.md) | 5.0 | 5890 | Vim Snippet | (none) |
+| [laylavish/uBlockOrigin-HUGE-AI-Blocklist](../repos/laylavish-ublockorigin-huge-ai-blocklist.md) | 5.0 | 5829 | — | (none) |
 | [chavyleung/scripts](../repos/chavyleung-scripts.md) | 5.0 | 5527 | JavaScript | boxjs |
-| [MetaCubeX/meta-rules-dat](../repos/metacubex-meta-rules-dat.md) | 5.0 | 5444 | Shell | (none) |
-| [mattpocock/dictionary-of-ai-coding](../repos/mattpocock-dictionary-of-ai-coding.md) | 5.0 | 5323 | TypeScript | (none) |
-| [LOWERTOP/Shadowrocket](../repos/lowertop-shadowrocket.md) | 5.0 | 5272 | HTML | shadowrocket |
-| [luestr/ProxyResource](../repos/luestr-proxyresource.md) | 5.0 | 5095 | Vim Snippet | (none) |
+| [MetaCubeX/meta-rules-dat](../repos/metacubex-meta-rules-dat.md) | 5.0 | 5477 | Shell | (none) |
+| [mattpocock/dictionary-of-ai-coding](../repos/mattpocock-dictionary-of-ai-coding.md) | 5.0 | 5333 | TypeScript | (none) |
+| [LOWERTOP/Shadowrocket](../repos/lowertop-shadowrocket.md) | 5.0 | 5312 | HTML | shadowrocket |
+| [luestr/ProxyResource](../repos/luestr-proxyresource.md) | 5.0 | 5097 | Vim Snippet | (none) |
 | [rime/home](../repos/rime-home.md) | 5.0 | 5022 | HTML | (none) |
-| [2dust/clashN](../repos/2dust-clashn.md) | 5.0 | 4974 | C# | (none) |
-| [Aleksoid1978/MPC-BE](../repos/aleksoid1978-mpc-be.md) | 5.0 | 4637 | C | (none) |
+| [2dust/clashN](../repos/2dust-clashn.md) | 5.0 | 4971 | C# | (none) |
+| [Aleksoid1978/MPC-BE](../repos/aleksoid1978-mpc-be.md) | 5.0 | 4647 | C | (none) |
 | [Orz-3/QuantumultX](../repos/orz-3-quantumultx.md) | 5.0 | 4501 | JavaScript | (none) |
 | [stackia/best-windows-apps](../repos/stackia-best-windows-apps.md) | 5.0 | 4177 | — | (none) |
-| [app2smile/rules](../repos/app2smile-rules.md) | 5.0 | 4151 | JavaScript | (none) |
-| [shishan100/Java-Interview-Advanced](../repos/shishan100-java-interview-advanced.md) | 5.0 | 4128 | HTML | (none) |
+| [app2smile/rules](../repos/app2smile-rules.md) | 5.0 | 4150 | JavaScript | (none) |
+| [shishan100/Java-Interview-Advanced](../repos/shishan100-java-interview-advanced.md) | 5.0 | 4126 | HTML | (none) |
 | [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4058 | — | markdown |
-| [freestylefly/CodexGuide](../repos/freestylefly-codexguide.md) | 5.0 | 3931 | TypeScript | (none) |
-| [Script-Hub-Org/Script-Hub](../repos/script-hub-org-script-hub.md) | 5.0 | 3839 | JavaScript | (none) |
-| [gaboolic/rime-frost](../repos/gaboolic-rime-frost.md) | 5.0 | 3790 | Lua | (none) |
+| [freestylefly/CodexGuide](../repos/freestylefly-codexguide.md) | 5.0 | 3942 | TypeScript | (none) |
+| [Script-Hub-Org/Script-Hub](../repos/script-hub-org-script-hub.md) | 5.0 | 3841 | JavaScript | (none) |
+| [gaboolic/rime-frost](../repos/gaboolic-rime-frost.md) | 5.0 | 3793 | Lua | (none) |
 | [ssnhd/rime](../repos/ssnhd-rime.md) | 5.0 | 3534 | Lua | (none) |
-| [hardbeat920/monocode](../repos/hardbeat920-monocode.md) | 5.0 | 3496 | TypeScript | (none) |
+| [hardbeat920/monocode](../repos/hardbeat920-monocode.md) | 5.0 | 3502 | TypeScript | (none) |
 | [corbt/agent.exe](../repos/corbt-agent-exe.md) | 5.0 | 3471 | TypeScript | (none) |
-| [deezertidal/QuantumultX-Rewrite](../repos/deezertidal-quantumultx-rewrite.md) | 5.0 | 3318 | JavaScript | (none) |
+| [deezertidal/QuantumultX-Rewrite](../repos/deezertidal-quantumultx-rewrite.md) | 5.0 | 3317 | JavaScript | (none) |
 | [trojan-gfw/igniter](../repos/trojan-gfw-igniter.md) | 5.0 | 3274 | Java | (none) |
 | [taxigps/xbmc-addons-chinese](../repos/taxigps-xbmc-addons-chinese.md) | 5.0 | 3207 | Python | (none) |
 | [crossutility/Quantumult-X](../repos/crossutility-quantumult-x.md) | 5.0 | 3193 | JavaScript | (none) |
-| [yujitach/MenuMeters](../repos/yujitach-menumeters.md) | 5.0 | 3086 | Objective-C | (none) |
+| [yujitach/MenuMeters](../repos/yujitach-menumeters.md) | 5.0 | 3087 | Objective-C | (none) |
 | [polymorphicshade/NewPipe](../repos/polymorphicshade-newpipe.md) | 5.0 | 3079 | Java | (none) |
-| [leigest519/ScreenCoder](../repos/leigest519-screencoder.md) | 5.0 | 3011 | Python | (none) |
-| [ExclaveNetwork/Exclave](../repos/exclavenetwork-exclave.md) | 5.0 | 2891 | Kotlin | (none) |
-| [qianguyihao/blog-list](../repos/qianguyihao-blog-list.md) | 5.0 | 2834 | — | (none) |
-| [btpf/Alexandria](../repos/btpf-alexandria.md) | 5.0 | 2723 | TypeScript | (none) |
-| [Bistutu/GoMusic](../repos/bistutu-gomusic.md) | 5.0 | 2506 | Go | (none) |
-| [RanKKI/LawRefBook](../repos/rankki-lawrefbook.md) | 5.0 | 2459 | Swift | (none) |
+| [leigest519/ScreenCoder](../repos/leigest519-screencoder.md) | 5.0 | 3009 | Python | (none) |
+| [ExclaveNetwork/Exclave](../repos/exclavenetwork-exclave.md) | 5.0 | 2893 | Kotlin | (none) |
+| [qianguyihao/blog-list](../repos/qianguyihao-blog-list.md) | 5.0 | 2833 | — | (none) |
+| [btpf/Alexandria](../repos/btpf-alexandria.md) | 5.0 | 2722 | TypeScript | (none) |
+| [Bistutu/GoMusic](../repos/bistutu-gomusic.md) | 5.0 | 2507 | Go | (none) |
+| [RanKKI/LawRefBook](../repos/rankki-lawrefbook.md) | 5.0 | 2460 | Swift | (none) |
 | [xinggsf/Adblock-Plus-Rule](../repos/xinggsf-adblock-plus-rule.md) | 5.0 | 2410 | Batchfile | (none) |
 | [zhaoolee/StarsAndClown](../repos/zhaoolee-starsandclown.md) | 5.0 | 2316 | Python | (none) |
-| [loc567/loc567](../repos/loc567-loc567.md) | 5.0 | 2294 | C | (none) |
+| [loc567/loc567](../repos/loc567-loc567.md) | 5.0 | 2296 | C | (none) |
 | [adirh3/Fluent-Search](../repos/adirh3-fluent-search.md) | 5.0 | 2220 | C# | (none) |
-| [bin392328206/six-finger](../repos/bin392328206-six-finger.md) | 5.0 | 2157 | Java | (none) |
+| [bin392328206/six-finger](../repos/bin392328206-six-finger.md) | 5.0 | 2156 | Java | (none) |
 | [datacurve-ai/deep-swe](../repos/datacurve-ai-deep-swe.md) | 5.0 | 1879 | Python | (none) |
-| [justlovemaki/CloudFlare-AI-Insight-Daily](../repos/justlovemaki-cloudflare-ai-insight-daily.md) | 5.0 | 1815 | JavaScript | aicoding |
+| [justlovemaki/CloudFlare-AI-Insight-Daily](../repos/justlovemaki-cloudflare-ai-insight-daily.md) | 5.0 | 1816 | JavaScript | aicoding |
 | [zstmfhy/zlibrary-to-notebooklm](../repos/zstmfhy-zlibrary-to-notebooklm.md) | 5.0 | 1754 | Python | (none) |
+| [DimensionDev/Flare](../repos/dimensiondev-flare.md) | 5.0 | 1680 | Kotlin | (none) |
 | [KoriIku/luxirty-search](../repos/koriiku-luxirty-search.md) | 5.0 | 1676 | CSS | (none) |
-| [DimensionDev/Flare](../repos/dimensiondev-flare.md) | 5.0 | 1674 | Kotlin | (none) |
 | [kaich/Yuedu](../repos/kaich-yuedu.md) | 5.0 | 1568 | — | (none) |
-| [anytls/anytls-go](../repos/anytls-anytls-go.md) | 5.0 | 1559 | Go | (none) |
+| [anytls/anytls-go](../repos/anytls-anytls-go.md) | 5.0 | 1561 | Go | (none) |
 | [bumingbaipod/podcast](../repos/bumingbaipod-podcast.md) | 5.0 | 1555 | — | (none) |
 | [wongdean/rime-settings](../repos/wongdean-rime-settings.md) | 5.0 | 1508 | Lua | rime |
 | [devv-ai/devv](../repos/devv-ai-devv.md) | 5.0 | 1492 | — | (none) |
 | [op7418/guizang-s-prompt](../repos/op7418-guizang-s-prompt.md) | 5.0 | 1478 | — | (none) |
 | [ruanyf/reading-list](../repos/ruanyf-reading-list.md) | 5.0 | 1407 | — | (none) |
-| [SplashtopInc/winstall](../repos/splashtopinc-winstall.md) | 5.0 | 1381 | JavaScript | (none) |
+| [SplashtopInc/winstall](../repos/splashtopinc-winstall.md) | 5.0 | 1382 | JavaScript | (none) |
 | [microsoft/win32-app-isolation](../repos/microsoft-win32-app-isolation.md) | 5.0 | 1312 | — | (none) |
 | [Biliverse/Universe](../repos/biliverse-universe.md) | 5.0 | 1217 | — | bilibili |
 | [ViggoZ/producthunt-daily-hot](../repos/viggoz-producthunt-daily-hot.md) | 5.0 | 1010 | Python | producthunt |
 | [pengan1987/computer-museum-dnbwg](../repos/pengan1987-computer-museum-dnbwg.md) | 5.0 | 988 | JavaScript | (none) |
-| [threerocks/sweety-handdraw-video](../repos/threerocks-sweety-handdraw-video.md) | 5.0 | 968 | JavaScript | (none) |
+| [threerocks/sweety-handdraw-video](../repos/threerocks-sweety-handdraw-video.md) | 5.0 | 977 | JavaScript | (none) |
 | [kargisimos/offensive-bookmarks](../repos/kargisimos-offensive-bookmarks.md) | 5.0 | 919 | HTML | (none) |
 | [chiflix/splayerx](../repos/chiflix-splayerx.md) | 5.0 | 819 | Vue | (none) |
 | [cyl0/ModernX](../repos/cyl0-modernx.md) | 5.0 | 770 | Lua | mpv |
-| [JimLiu/Illustrated-Agent-Skills](../repos/jimliu-illustrated-agent-skills.md) | 5.0 | 735 | — | (none) |
+| [JimLiu/Illustrated-Agent-Skills](../repos/jimliu-illustrated-agent-skills.md) | 5.0 | 736 | — | (none) |
 | [MetaCubeX/Clash.Mini](../repos/metacubex-clash-mini.md) | 5.0 | 620 | Go | (none) |
 | [AAAAAAAJ/slides](../repos/aaaaaaaj-slides.md) | 5.0 | 533 | Python | (none) |
 | [qxinGitHub/searchEngineJump](../repos/qxingithub-searchenginejump.md) | 5.0 | 528 | JavaScript | (none) |
 | [gblazex/smoothscroll](../repos/gblazex-smoothscroll.md) | 5.0 | 499 | JavaScript | (none) |
 | [runningcheese/Awesome-Userscripts](../repos/runningcheese-awesome-userscripts.md) | 5.0 | 480 | — | (none) |
-| [ssborbis/ContextSearch-web-ext](../repos/ssborbis-contextsearch-web-ext.md) | 5.0 | 465 | JavaScript | (none) |
+| [ssborbis/ContextSearch-web-ext](../repos/ssborbis-contextsearch-web-ext.md) | 5.0 | 466 | JavaScript | (none) |
 | [Nemu-x/SlothClash](../repos/nemu-x-slothclash.md) | 5.0 | 416 | Go | (none) |
 | [jkiss/sensitive-words](../repos/jkiss-sensitive-words.md) | 5.0 | 369 | — | (none) |
 | [ViggoZ/hackernews-cn](../repos/viggoz-hackernews-cn.md) | 5.0 | 356 | TypeScript | hackernews |
 | [xiguaxigua/ffmpeg-online](../repos/xiguaxigua-ffmpeg-online.md) | 5.0 | 328 | JavaScript | ffmpeg |
-| [sunxen/EpubPressX](../repos/sunxen-epubpressx.md) | 5.0 | 256 | JavaScript | (none) |
+| [sunxen/EpubPressX](../repos/sunxen-epubpressx.md) | 5.0 | 257 | JavaScript | (none) |
+| [benjitaylor/skills](../repos/benjitaylor-skills.md) | 5.0 | 236 | TypeScript | (none) |
 | [leshkodev/freetube](../repos/leshkodev-freetube.md) | 5.0 | 210 | Swift | (none) |
 | [kokoryh/Script](../repos/kokoryh-script.md) | 5.0 | 191 | JavaScript | (none) |
-| [zirawell/R-Store](../repos/zirawell-r-store.md) | 5.0 | 183 | Vim Snippet | (none) |
+| [zirawell/R-Store](../repos/zirawell-r-store.md) | 5.0 | 182 | Vim Snippet | (none) |
 | [joeseesun/lennys-podcast-newsletter](../repos/joeseesun-lennys-podcast-newsletter.md) | 5.0 | 181 | Python | (none) |
 | [bgpeer/rules](../repos/bgpeer-rules.md) | 5.0 | 72 | Python | (none) |
 | [Adsryen/clash-override](../repos/adsryen-clash-override.md) | 5.0 | 67 | TypeScript | (none) |
@@ -885,13 +886,13 @@ A simple, open source bilingual translation extension & Greasemonkey script (一
 
 wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
-### [libre-tube/LibreTube](../repos/libre-tube-libretube.md)
-
-An alternative frontend for YouTube, for Android.
-
 ### [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md)
 
 A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
+
+### [libre-tube/LibreTube](../repos/libre-tube-libretube.md)
+
+An alternative frontend for YouTube, for Android.
 
 ### [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md)
 
@@ -1205,13 +1206,13 @@ Player for your DRM-free audiobooks
 
 自用Surge等代理app规则与配置，自用js脚本，爬虫每周自动更新规则
 
-### [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md)
-
-mpv.net_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
-
 ### [leemysw/yovoice](../repos/leemysw-yovoice.md)
 
 Open-source local AI audio & music studio for macOS & Windows. Voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.
+
+### [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md)
+
+mpv.net_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
 
 ### [8680/GOODBYEADS](../repos/8680-goodbyeads.md)
 
@@ -1869,13 +1870,13 @@ LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 
 FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
 
-### [getsurfboard/surfboard](../repos/getsurfboard-surfboard.md)
-
-https://getsurfboard.com
-
 ### [FluentRead/FluentRead](../repos/fluentread-fluentread.md)
 
 An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。
+
+### [getsurfboard/surfboard](../repos/getsurfboard-surfboard.md)
+
+https://getsurfboard.com
 
 ### [rime/weasel](../repos/rime-weasel.md)
 
@@ -1929,13 +1930,13 @@ Delta is an all-in-one classic video game emulator for non-jailbroken iOS device
 
 Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
 
-### [kuafuai/DevOpsGPT](../repos/kuafuai-devopsgpt.md)
-
-Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
-
 ### [luolangaga/tubatools](../repos/luolangaga-tubatools.md)
 
 这是图吧工具箱基于 WinUI 3 全新重构的版本，一款由社区驱动、深度契合 Windows 11 设计美学的现代化工具箱。它不仅确保你始终使用最新版本的工具，还集成了更加丰富的实用功能，更可满足高度自定义的个性化需求。
+
+### [kuafuai/DevOpsGPT](../repos/kuafuai-devopsgpt.md)
+
+Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
 
 ### [w37fhy/QuantumultX](../repos/w37fhy-quantumultx.md)
 
@@ -2105,13 +2106,13 @@ AI资讯日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成
 
 一键将 Z-Library 书籍自动下载并上传到 Google NotebookLM
 
-### [KoriIku/luxirty-search](../repos/koriiku-luxirty-search.md)
-
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
-
 ### [DimensionDev/Flare](../repos/dimensiondev-flare.md)
 
 Browse Mastodon, Bluesky, X, Misskey, Nostr, Pixiv, Fanbox and RSS all in one app. One timeline, all your accounts, cross-post everywhere.
+
+### [KoriIku/luxirty-search](../repos/koriiku-luxirty-search.md)
+
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 
 ### [kaich/Yuedu](../repos/kaich-yuedu.md)
 
@@ -2224,6 +2225,10 @@ An online version of ffmpeg built on ffmpeg.wasm
 ### [sunxen/EpubPressX](../repos/sunxen-epubpressx.md)
 
 一个 chrome 插件，可以将网页制作成 epub 电子书，支持微信读书等
+
+### [benjitaylor/skills](../repos/benjitaylor-skills.md)
+
+Skills for AI coding agents
 
 ### [leshkodev/freetube](../repos/leshkodev-freetube.md)
 
