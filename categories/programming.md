@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 557740 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
-| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 111073 | Shell | awesome, computer-science, meetup, papers, programming |
-| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4070 | TypeScript | ai, business, product, programming |
+| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 557996 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
+| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 111096 | Shell | awesome, computer-science, meetup, papers, programming |
+| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4071 | TypeScript | ai, business, product, programming |
 
 ### [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md)
 
