@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iina/iina](../repos/iina-iina.md) | 7.0 | 46965 | Swift | hacktoberfest, macos, mpv, swift, video |
-| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37638 | C | audio, c, ffmpeg, mplayer, mpv |
-| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7763 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
-| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6973 | Python | dlna, linux, macos, media-renderer, mpv |
+| [iina/iina](../repos/iina-iina.md) | 7.0 | 46978 | Swift | hacktoberfest, macos, mpv, swift, video |
+| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37653 | C | audio, c, ffmpeg, mplayer, mpv |
+| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7769 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
+| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6975 | Python | dlna, linux, macos, media-renderer, mpv |
 | [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md) | 7.0 | 2002 | — | audio-player, media-player, mediainfo, mpv, mpv-config |
-| [tomasklaen/uosc](../repos/tomasklaen-uosc.md) | 5.5 | 3481 | Lua | mpv, mpv-script |
+| [tomasklaen/uosc](../repos/tomasklaen-uosc.md) | 5.5 | 3482 | Lua | mpv, mpv-script |
 | [cyl0/ModernX](../repos/cyl0-modernx.md) | 5.0 | 770 | Lua | mpv |
 
 ### [iina/iina](../repos/iina-iina.md)
