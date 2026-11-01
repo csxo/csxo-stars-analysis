@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 65042
+- **Star 数**: 65099
 - **主语言**: Kotlin
 - **GitHub 主题**: `android`, `proxy`, `shadowsocks`, `socks5`, `trojan`, `v2fly`, `v2ray`, `vless`, `vmess`, `vpn`, `xray`, `xtls`
 
