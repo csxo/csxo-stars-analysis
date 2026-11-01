@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31705 | — | adblock, gfw, proxy, shadowrocket, v2ray |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31733 | — | adblock, gfw, proxy, shadowrocket, v2ray |
 | [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16726 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10802 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
-| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8445 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
-| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5598 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10806 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8444 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
+| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5600 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
 | [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2059 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
-| [LOWERTOP/Shadowrocket](../repos/lowertop-shadowrocket.md) | 5.0 | 5272 | HTML | shadowrocket |
+| [LOWERTOP/Shadowrocket](../repos/lowertop-shadowrocket.md) | 5.0 | 5312 | HTML | shadowrocket |
 
 ### [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md)
 
