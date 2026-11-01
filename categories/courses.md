@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 72441 | — | awesome, awesome-list, computer-science, courses |
+| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 72458 | — | awesome, awesome-list, computer-science, courses |
 
 ### [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md)
 
