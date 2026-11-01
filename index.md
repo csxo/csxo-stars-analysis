@@ -2,21 +2,21 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 664  
-- **已分析**: 664  
-- **分类数**: 1235
+- **Star 总数**: 666  
+- **已分析**: 666  
+- **分类数**: 1239
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 452 |
-| [(none)](categories/none.md) | 158 |
+| [Other](categories/other.md) | 453 |
+| [(none)](categories/none.md) | 159 |
 | [AI / LLM](categories/ai-llm.md) | 86 |
 | [Frontend](categories/frontend.md) | 63 |
 | [ai](categories/ai.md) | 43 |
+| [CLI / Terminal](categories/cli-terminal.md) | 32 |
 | [DevOps](categories/devops.md) | 32 |
-| [CLI / Terminal](categories/cli-terminal.md) | 31 |
 | [chrome-extension](categories/chrome-extension.md) | 25 |
 | [android](categories/android.md) | 23 |
 | [awesome](categories/awesome.md) | 22 |
@@ -76,6 +76,7 @@
 | [bilibili](categories/bilibili.md) | 6 |
 | [browser](categories/browser.md) | 6 |
 | [china](categories/china.md) | 6 |
+| [clipboard](categories/clipboard.md) | 6 |
 | [downloader](categories/downloader.md) | 6 |
 | [flutter](categories/flutter.md) | 6 |
 | [gfw](categories/gfw.md) | 6 |
@@ -87,7 +88,6 @@
 | [aria2](categories/aria2.md) | 5 |
 | [c-plus-plus](categories/c-plus-plus.md) | 5 |
 | [chatbot](categories/chatbot.md) | 5 |
-| [clipboard](categories/clipboard.md) | 5 |
 | [cpp](categories/cpp.md) | 5 |
 | [docker](categories/docker.md) | 5 |
 | [dotnet](categories/dotnet.md) | 5 |
@@ -376,6 +376,7 @@
 | [aigc](categories/aigc.md) | 1 |
 | [aimusic](categories/aimusic.md) | 1 |
 | [aipc](categories/aipc.md) | 1 |
+| [airdrop-alternative](categories/airdrop-alternative.md) | 1 |
 | [airflow-alternative](categories/airflow-alternative.md) | 1 |
 | [aivoice](categories/aivoice.md) | 1 |
 | [album](categories/album.md) | 1 |
@@ -579,6 +580,8 @@
 | [cleanmymac](categories/cleanmymac.md) | 1 |
 | [click](categories/click.md) | 1 |
 | [clip](categories/clip.md) | 1 |
+| [clipboard-sharing](categories/clipboard-sharing.md) | 1 |
+| [clipboard-sync](categories/clipboard-sync.md) | 1 |
 | [cloud-native](categories/cloud-native.md) | 1 |
 | [cloudflare-workers](categories/cloudflare-workers.md) | 1 |
 | [cocoapods](categories/cocoapods.md) | 1 |
@@ -614,6 +617,7 @@
 | [cook](categories/cook.md) | 1 |
 | [cookies](categories/cookies.md) | 1 |
 | [cooking](categories/cooking.md) | 1 |
+| [copy-paste](categories/copy-paste.md) | 1 |
 | [copyq](categories/copyq.md) | 1 |
 | [copytranslator](categories/copytranslator.md) | 1 |
 | [cordis](categories/cordis.md) | 1 |
@@ -1265,21 +1269,21 @@
 
 | Tech | Count |
 | --- | ---: |
-| TypeScript | 116 |
-| Python | 104 |
-| JavaScript | 101 |
+| TypeScript | 117 |
+| Python | 103 |
+| JavaScript | 102 |
 | Go | 30 |
 | C++ | 29 |
 | C# | 28 |
-| HTML | 23 |
+| HTML | 22 |
 | Swift | 16 |
 | C | 15 |
 | Kotlin | 15 |
 | Rust | 13 |
-| Dart | 10 |
+| Dart | 11 |
 | Jupyter Notebook | 10 |
 | Lua | 8 |
 | Java | 6 |
 
 ---
-_生成时间: 2026-10-31T10:06:06Z_
+_生成时间: 2026-11-01T10:57:19Z_
