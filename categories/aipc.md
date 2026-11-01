@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2197 | Python | aipc, api, cli, cpu, desktopgui |
+| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2201 | Python | aipc, api, cli, cpu, desktopgui |
 
 ### [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md)
 
