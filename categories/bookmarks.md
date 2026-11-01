@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30176 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
-| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16400 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2053 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
-| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 324 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
+| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30214 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
+| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16399 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2054 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 325 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
 
 ### [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md)
 
