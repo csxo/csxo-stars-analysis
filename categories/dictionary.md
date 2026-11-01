@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15140 | Swift | app, baidu, bing, deepl, dictionary |
-| [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md) | 7.0 | 1993 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
-| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18135 | TypeScript | copytranslator, dictionary, translate |
+| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15151 | Swift | app, baidu, bing, deepl, dictionary |
+| [amzxyz/rime-wanxiang-data](../repos/amzxyz-rime-wanxiang-data.md) | 7.0 | 1994 | Python | dictionary, fcitx5-dict, grammar, language-model, rime |
+| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18134 | TypeScript | copytranslator, dictionary, translate |
 
 ### [tisfeng/Easydict](../repos/tisfeng-easydict.md)
 
