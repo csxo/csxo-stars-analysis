@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 155272 | Rust | clash, clash-meta, clash-verge, linux, mac |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 59989 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13268 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27053 | TypeScript | clash, clash-meta, electron, mihomo |
+| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 155465 | Rust | clash, clash-meta, clash-verge, linux, mac |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 60197 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13270 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27067 | TypeScript | clash, clash-meta, electron, mihomo |
 
 ### [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md)
 
