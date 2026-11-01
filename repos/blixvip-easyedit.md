@@ -7,7 +7,7 @@
 - **价值评分**: 7.0/10
 - **Star 数**: 165
 - **主语言**: Python
-- **GitHub 主题**: `ai-video-editor`, `auto-editing`, `beat-detection`, `beat-sync`, `captions`, `claude-code`, `content-creator`, `edits`, `fan-edit`, `ffmpeg`, `montage`, `movie-edit`, `open-source`, `python`, `subtitles`, `tiktok-edits`, `video-automation`, `video-editing`, `whisper`, `youtube-shorts`
+- **GitHub 主题**: `ai-video-editor`, `auto-editing`, `beat-detection`, `beat-sync`, `captions`, `claude-code`, `content-creator`, `fan-edit`, `ffmpeg`, `good-first-issue`, `help-wanted`, `montage`, `movie-edit`, `python`, `subtitles`, `tiktok-edits`, `video-automation`, `video-editing`, `whisper`, `youtube-shorts`
 
 ## 简介
 
