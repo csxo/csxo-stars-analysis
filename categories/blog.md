@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 78023 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
-| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14020 | HTML | blog, blog-theme, clean, fast, feature-rich |
+| [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md) | 7.0 | 78063 | Dart | blog, confluence-alternative, content-management, content-services, documentation |
+| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14024 | HTML | blog, blog-theme, clean, fast, feature-rich |
 | [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7037 | TypeScript | blog, nextjs, notion, portfolio, react |
-| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24354 | JavaScript | blog, china, rss |
+| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24362 | JavaScript | blog, china, rss |
 
 ### [AppFlowy-IO/AppFlowy](../repos/appflowy-io-appflowy.md)
 
