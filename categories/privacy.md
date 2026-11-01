@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22274 | Vue | freetube, privacy, subscriptions, video, videos |
+| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22284 | Vue | freetube, privacy, subscriptions, video, videos |
 | [hellzerg/optimizer](../repos/hellzerg-optimizer.md) | 7.0 | 18231 | C# | cleanup, hosts-file, optimize, privacy, registry-hacks |
 
 ### [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md)
