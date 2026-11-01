@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54671 | Rust | ai, app, application, chatgpt, desktop-app |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41787 | Rust | app, application, cybersecurity, gui, iced |
+| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54665 | Rust | ai, app, application, chatgpt, desktop-app |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41798 | Rust | app, application, cybersecurity, gui, iced |
 | [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9071 | TypeScript | ai, application, browser, chatgpt, claude |
 
 ### [lencx/ChatGPT](../repos/lencx-chatgpt.md)
