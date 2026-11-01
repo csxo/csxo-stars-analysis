@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [community/community](../repos/community-community.md) | 7.0 | 8900 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
+| [community/community](../repos/community-community.md) | 7.0 | 8905 | Ruby | feedback, github, github-actions, github-codespaces, github-discussions |
 | [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 747 | TypeScript | ai, github-actions, github-pages, llm, rss |
 | [Bush2021/chrome_installer](../repos/bush2021-chrome_installer.md) | 6.5 | 1721 | Go | github-actions, google-chrome, offline-installer, windows |
 
