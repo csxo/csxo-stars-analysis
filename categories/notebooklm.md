@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6760 | Python | elevenlabs, gemini, genai, notebooklm, openai |
+| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6765 | Python | elevenlabs, gemini, genai, notebooklm, openai |
 
 ### [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md)
 
