@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119456 | — | android, angular, books, free, ios |
-| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10635 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
-| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10492 | Swift | feed-reader, ios, json-feed, macos, rss |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119466 | — | android, angular, books, free, ios |
+| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10636 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
+| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10494 | Swift | feed-reader, ios, json-feed, macos, rss |
 | [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7676 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7546 | Dart | android, flac, flutter, golang, ios |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4559 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2270 | Swift | audiobook, ios, open-source, player, swift |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7575 | Dart | android, flac, flutter, golang, ios |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4564 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2271 | Swift | audiobook, ios, open-source, player, swift |
 | [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1779 | Dart | android, flutter, ios, rss, rss-reader |
 | [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1285 | Swift | agent-framework, ai-agent, gemma, ios, litert |
 | [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 208 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
