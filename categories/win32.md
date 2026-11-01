@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17892 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
-| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5268 | C# | acrylic, backdrop, mica, win32, windows |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17902 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5266 | C# | acrylic, backdrop, mica, win32, windows |
 
 ### [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md)
 
