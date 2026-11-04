@@ -1,11 +1,11 @@
 # [benjitaylor/skills](https://github.com/benjitaylor/skills)
 
-> Skills for AI coding agents
+> Skills for AI coding agents.
 
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 236
+- **Star 数**: 1712
 - **主语言**: TypeScript
 
 ## 简介
