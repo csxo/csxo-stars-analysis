@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 137040 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
-| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 78735 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
-| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 66191 | C | audio, c, ffmpeg, fft, hevc |
-| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37653 | C | audio, c, ffmpeg, mplayer, mpv |
-| [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2764 | C# | db, ffmpeg, gif, image, library |
-| [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 165 | Python | beat-detection, captions, ffmpeg, python, video-editing |
-| [xiguaxigua/ffmpeg-online](../repos/xiguaxigua-ffmpeg-online.md) | 5.0 | 328 | JavaScript | ffmpeg |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 138527 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
+| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 78945 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
+| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 66464 | C | audio, c, ffmpeg, fft, hevc |
+| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37701 | C | audio, c, ffmpeg, mplayer, mpv |
+| [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2762 | C# | db, ffmpeg, gif, image, library |
+| [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 167 | Python | beat-detection, captions, ffmpeg, python, video-editing |
+| [xiguaxigua/ffmpeg-online](../repos/xiguaxigua-ffmpeg-online.md) | 5.0 | 327 | JavaScript | ffmpeg |
 
 ### [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md)
 
