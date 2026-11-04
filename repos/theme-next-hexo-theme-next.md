@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 8210
+- **Star 数**: 8205
 - **主语言**: Stylus
 - **GitHub 主题**: `hexo`, `hexo-theme`, `theme-next`
 
