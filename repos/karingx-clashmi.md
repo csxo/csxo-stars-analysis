@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 10207
+- **Star 数**: 10287
 - **主语言**: Dart
 - **GitHub 主题**: `clash`, `clashmi`, `mihomo`
 
@@ -32,4 +32,10 @@ Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 ## 标签
 
 `clash` `clashmi` `mihomo`
+
+## 同类项目
+
+| Project | Similarity | Shared tags |
+| --- | ---: | --- |
+| [appshubcc/Bettbox](appshubcc-bettbox.md) | 0.43 | `clash`, `dart`, `mihomo` |
 
