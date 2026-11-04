@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 157441 | Python | ai, llm, llm-ui, llm-webui, llms |
-| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42561 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
-| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 143629 | Python | agents, llms, python, rag |
+| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 157731 | Svelte | ai, llm, llm-ui, llm-webui, llms |
+| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42579 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
+| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 143873 | Python | agents, llms, python, rag |
 
 ### [open-webui/open-webui](../repos/open-webui-open-webui.md)
 
