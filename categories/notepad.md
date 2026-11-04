@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14752 | C++ | desktop, editor, linux, macos, notepad |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14763 | C++ | desktop, editor, linux, macos, notepad |
 
 ### [dail8859/NotepadNext](../repos/dail8859-notepadnext.md)
 
