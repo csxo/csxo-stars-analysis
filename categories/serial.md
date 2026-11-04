@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Eugeny/tabby](../repos/eugeny-tabby.md) | 7.0 | 75238 | TypeScript | serial, ssh-client, telnet-client, terminal, terminal-emulators |
+| [Eugeny/tabby](../repos/eugeny-tabby.md) | 7.0 | 75284 | TypeScript | serial, ssh-client, telnet-client, terminal, terminal-emulators |
 
 ### [Eugeny/tabby](../repos/eugeny-tabby.md)
 
