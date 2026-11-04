@@ -33,8 +33,8 @@
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
 | [rileytestut/Delta](rileytestut-delta.md) | 1.00 | `(none)`, `swift` |
+| [OpenMinis/OpenMinis](openminis-openminis.md) | 1.00 | `(none)`, `swift` |
 | [leshkodev/freetube](leshkodev-freetube.md) | 1.00 | `(none)`, `swift` |
 | [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
 | [programthink/books](programthink-books.md) | 0.50 | `(none)` |
-| [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
 
