@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 288633 | Python | beginner-project, cpp, golang, javascript, project |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46915 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25339 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22820 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15706 | Go | community, forum, go, golang, hacktoberfest |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7575 | Dart | android, flac, flutter, golang, ios |
-| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3439 | Go | ats, career, careers, golang, hiring |
-| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 725 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 288980 | Python | beginner-project, cpp, golang, javascript, project |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46917 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25373 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22846 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15710 | Go | community, forum, go, golang, hacktoberfest |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7664 | Dart | android, flac, flutter, golang, ios |
+| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3440 | Go | ats, career, careers, golang, hiring |
+| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
 
