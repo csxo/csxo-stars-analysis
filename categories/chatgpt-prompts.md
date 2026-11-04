@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 175471 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
+| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 175761 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
 
 ### [f/prompts.chat](../repos/f-prompts-chat.md)
 
