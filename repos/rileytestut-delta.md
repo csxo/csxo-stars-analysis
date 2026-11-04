@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 6224
+- **Star 数**: 6233
 - **主语言**: Swift
 
 ## 简介
@@ -33,8 +33,8 @@ Delta is an all-in-one classic video game emulator for non-jailbroken iOS device
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
 | [RanKKI/LawRefBook](rankki-lawrefbook.md) | 1.00 | `(none)`, `swift` |
+| [OpenMinis/OpenMinis](openminis-openminis.md) | 1.00 | `(none)`, `swift` |
 | [leshkodev/freetube](leshkodev-freetube.md) | 1.00 | `(none)`, `swift` |
 | [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
 | [programthink/books](programthink-books.md) | 0.50 | `(none)` |
-| [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
 
