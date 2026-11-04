@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12576 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
-| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5939 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
-| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7398 | C | clipboard, clipboard-manager |
+| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12592 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
+| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5940 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
+| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7421 | C | clipboard, clipboard-manager |
 
 ### [hluk/CopyQ](../repos/hluk-copyq.md)
 
