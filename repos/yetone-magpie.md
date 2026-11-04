@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 27307
+- **Star 数**: 29528
 - **主语言**: Go
 - **GitHub 主题**: `claude-code`, `codex`, `deepseek`, `gemini-cli`, `llm`, `macos`
 
