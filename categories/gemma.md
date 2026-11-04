@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 185530 | Go | deepseek, gemma, gemma3, glm, go |
-| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168404 | Python | audio, deep-learning, deepseek, gemma, glm |
-| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75816 | Python | agent, ai, deepseek, fine-tuning, gemma |
-| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1285 | Swift | agent-framework, ai-agent, gemma, ios, litert |
+| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 185877 | Go | deepseek, gemma, gemma3, glm, go |
+| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168526 | Python | audio, deep-learning, deepseek, gemma, glm |
+| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75882 | Python | agent, ai, deepseek, fine-tuning, gemma |
+| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1289 | Swift | agent-framework, ai-agent, gemma, ios, litert |
 
 ### [ollama/ollama](../repos/ollama-ollama.md)
 
