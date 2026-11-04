@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 103425 | — | chinese, cookbook, cooking, dishes, recipes |
-| [datawhalechina/llm-cookbook](../repos/datawhalechina-llm-cookbook.md) | 5.5 | 24857 | Jupyter Notebook | cookbook, llm |
+| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 103510 | — | chinese, cookbook, cooking, dishes, recipes |
+| [datawhalechina/llm-cookbook](../repos/datawhalechina-llm-cookbook.md) | 5.5 | 24870 | Jupyter Notebook | cookbook, llm |
 
 ### [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md)
 
