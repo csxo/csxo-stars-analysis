@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [versun/RSSBox](../repos/versun-rssbox.md) | 7.0 | 682 | Python | ai, digest, django, feed, filter |
+| [versun/RSSBox](../repos/versun-rssbox.md) | 7.0 | 681 | Python | ai, digest, django, feed, filter |
 
 ### [versun/RSSBox](../repos/versun-rssbox.md)
 
