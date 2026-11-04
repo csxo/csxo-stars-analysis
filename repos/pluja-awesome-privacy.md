@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 20149
-- **主语言**: Python
+- **Star 数**: 20209
+- **主语言**: TypeScript
 - **GitHub 主题**: `alternatives`, `apps`, `awesome`, `awesome-list`, `degoogle`, `gafam`, `list`, `privacy`, `services`
 
 ## 简介
