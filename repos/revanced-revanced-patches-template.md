@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4613
+- **Star 数**: 4612
 - **主语言**: Kotlin
 - **GitHub 主题**: `android`, `dalvik`, `kotlin`, `patches`, `revanced`, `reverse-engineering`
 
