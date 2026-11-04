@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162646 | — | bash, documentation, linux, macos, unix |
+| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162669 | — | bash, documentation, linux, macos, unix |
 
 ### [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md)
 
