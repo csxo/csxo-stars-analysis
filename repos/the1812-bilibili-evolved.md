@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 30967
+- **Star 数**: 31002
 - **主语言**: TypeScript
 - **GitHub 主题**: `bilibili`, `tampermonkey`, `userscript`
 
