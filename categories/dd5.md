@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hua1995116/awesome-ai-painting](../repos/hua1995116-awesome-ai-painting.md) | 7.0 | 11778 | — | ai-painting, dd5, disco-diffusion, stable-diffusion, stable-diffusion-diffusers |
+| [hua1995116/awesome-ai-painting](../repos/hua1995116-awesome-ai-painting.md) | 7.0 | 11774 | — | ai-painting, dd5, disco-diffusion, stable-diffusion, stable-diffusion-diffusers |
 
 ### [hua1995116/awesome-ai-painting](../repos/hua1995116-awesome-ai-painting.md)
 
