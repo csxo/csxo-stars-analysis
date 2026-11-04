@@ -1,11 +1,12 @@
 # accessibility
 
-> 项目数: **2**
+> 项目数: **3**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 43827 | Kotlin | accessibility, android, auto, click, compose |
-| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22533 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 43994 | Kotlin | accessibility, android, auto, click, compose |
+| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22571 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 6375 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
 
 ### [gkd-kit/gkd](../repos/gkd-kit-gkd.md)
 
@@ -14,4 +15,8 @@
 ### [darkreader/darkreader](../repos/darkreader-darkreader.md)
 
 Dark Reader Chrome and Firefox extension
+
+### [wangzan101/Mika](../repos/wangzan101-mika.md)
+
+An on-device AI agent for Android that operates apps and the web to get things done for you.
 
