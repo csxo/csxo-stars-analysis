@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 210
+- **Star 数**: 211
 - **主语言**: Swift
 
 ## 简介
@@ -34,7 +34,7 @@ Native SwiftUI YouTube client for iOS. Cookie-based auth, AVPlayer, offline down
 | --- | ---: | --- |
 | [rileytestut/Delta](rileytestut-delta.md) | 1.00 | `(none)`, `swift` |
 | [RanKKI/LawRefBook](rankki-lawrefbook.md) | 1.00 | `(none)`, `swift` |
+| [OpenMinis/OpenMinis](openminis-openminis.md) | 1.00 | `(none)`, `swift` |
 | [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
 | [programthink/books](programthink-books.md) | 0.50 | `(none)` |
-| [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
 
