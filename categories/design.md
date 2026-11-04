@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6001 | HTML | design, motion, motionskill, product, skill |
-| [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md) | 7.0 | 2357 | Pascal | android, customisation, design, google, material-ui |
+| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6069 | HTML | design, motion, motionskill, product, skill |
+| [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md) | 7.0 | 2360 | Pascal | android, customisation, design, google, material-ui |
 
 ### [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md)
 
