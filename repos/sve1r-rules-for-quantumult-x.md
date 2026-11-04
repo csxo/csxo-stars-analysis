@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3777
+- **Star 数**: 3776
 - **主语言**: JavaScript
 - **GitHub 主题**: `quantumult`, `quantumult-x`, `quantumultx`, `qx`, `rules`, `scripts`
 
