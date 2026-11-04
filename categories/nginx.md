@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12771 | — | books, nginx, pdf, redis, software-architecture |
+| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12790 | — | books, nginx, pdf, redis, software-architecture |
 
 ### [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md)
 
