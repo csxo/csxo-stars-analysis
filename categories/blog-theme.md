@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14024 | HTML | blog, blog-theme, clean, fast, feature-rich |
+| [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md) | 7.0 | 14025 | HTML | blog, blog-theme, clean, fast, feature-rich |
 
 ### [adityatelange/hugo-PaperMod](../repos/adityatelange-hugo-papermod.md)
 
