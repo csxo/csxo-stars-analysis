@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3373 | TypeScript | epub, epub-reader, nextjs, pwa, react |
+| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3375 | TypeScript | epub, epub-reader, nextjs, pwa, react |
 | [SnapDrop/snapdrop](../repos/snapdrop-snapdrop.md) | 6.0 | 19714 | JavaScript | pwa, snapdrop, webrtc |
 
 ### [pacexy/flow](../repos/pacexy-flow.md)
