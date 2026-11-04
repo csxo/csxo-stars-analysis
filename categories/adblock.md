@@ -4,21 +4,21 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38030 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31733 | — | adblock, gfw, proxy, shadowrocket, v2ray |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29086 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 23097 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
-| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 14007 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
-| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10908 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
-| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7747 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
-| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6735 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
-| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6298 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
-| [TheRealJoelmatic/RemoveAdblockThing](../repos/therealjoelmatic-removeadblockthing.md) | 7.0 | 5975 | JavaScript | adblock, remove-not-allowed, tampermonkey, tampermonkey-userscript, undetected |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4564 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3546 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
-| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1954 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
-| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 208 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
-| [otobtc/ADhosts](../repos/otobtc-adhosts.md) | 6.5 | 1600 | — | ad, adblock, android, hosts |
+| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38133 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 31815 | — | adblock, gfw, proxy, shadowrocket, v2ray |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29127 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [SpotX-Official/SpotX](../repos/spotx-official-spotx.md) | 7.0 | 23147 | PowerShell | adblock, spotify, spotify-ad-blocker, spotify-ad-free, spotify-adblocker |
+| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 14019 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
+| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10920 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
+| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7767 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
+| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6744 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
+| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6315 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
+| [TheRealJoelmatic/RemoveAdblockThing](../repos/therealjoelmatic-removeadblockthing.md) | 7.0 | 5976 | JavaScript | adblock, remove-not-allowed, tampermonkey, tampermonkey-userscript, undetected |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4572 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3551 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
+| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1958 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
+| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 209 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
+| [otobtc/ADhosts](../repos/otobtc-adhosts.md) | 6.5 | 1604 | — | ad, adblock, android, hosts |
 
 ### [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md)
 
