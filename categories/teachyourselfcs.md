@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [izackwu/TeachYourselfCS-CN](../repos/izackwu-teachyourselfcs-cn.md) | 6.5 | 22206 | — | chinese-translation, teachyourselfcs, translation, tutorial |
+| [izackwu/TeachYourselfCS-CN](../repos/izackwu-teachyourselfcs-cn.md) | 6.5 | 22209 | — | chinese-translation, teachyourselfcs, translation, tutorial |
 
 ### [izackwu/TeachYourselfCS-CN](../repos/izackwu-teachyourselfcs-cn.md)
 
