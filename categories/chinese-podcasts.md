@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2082 | — | china, chinese, chinese-podcasts, podcast |
+| [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2081 | — | china, chinese, chinese-podcasts, podcast |
 
 ### [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md)
 
