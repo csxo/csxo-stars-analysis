@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 3502
-- **主语言**: TypeScript
+- **Star 数**: 3591
+- **主语言**: Rust
 
 ## 简介
 
@@ -32,9 +32,9 @@ A GUI for your coding agents
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [zhaoolee/ChineseBQB](zhaoolee-chinesebqb.md) | 1.00 | `(none)`, `typescript` |
-| [hectorqin/reader](hectorqin-reader.md) | 1.00 | `(none)`, `typescript` |
-| [btpf/Alexandria](btpf-alexandria.md) | 1.00 | `(none)`, `typescript` |
-| [zu1k/book-searcher](zu1k-book-searcher.md) | 1.00 | `(none)`, `typescript` |
-| [FluentRead/FluentRead](fluentread-fluentread.md) | 1.00 | `(none)`, `typescript` |
+| [openai/codex](openai-codex.md) | 1.00 | `(none)`, `rust` |
+| [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
+| [programthink/books](programthink-books.md) | 0.50 | `(none)` |
+| [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
+| [ruanyf/reading-list](ruanyf-reading-list.md) | 0.50 | `(none)` |
 
