@@ -4,18 +4,18 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 160144 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
-| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 83657 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
-| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79724 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 79659 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75816 | Python | agent, ai, deepseek, fine-tuning, gemma |
-| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71116 | Python | agent, gpt, llm, metagpt, multi-agent |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39964 | Python | agent, chat, chatgpt, chattts, chinese |
-| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36391 | TypeScript | agent, ai, cli, developer-tools, open-source |
-| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23086 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
-| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20279 | JavaScript | agent, ai, coding, course, deepseek |
-| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14760 | Python | agent, llama, llama4, llm, pretraining |
-| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2729 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
+| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 160387 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
+| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 83834 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 79860 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79792 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
+| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75882 | Python | agent, ai, deepseek, fine-tuning, gemma |
+| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71161 | Python | agent, gpt, llm, metagpt, multi-agent |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39977 | Python | agent, chat, chatgpt, chattts, chinese |
+| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36403 | TypeScript | agent, ai, cli, developer-tools, open-source |
+| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23111 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
+| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20335 | JavaScript | agent, ai, coding, course, deepseek |
+| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14755 | Python | agent, llama, llama4, llm, pretraining |
+| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2732 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
 
 ### [langgenius/dify](../repos/langgenius-dify.md)
 
@@ -25,13 +25,13 @@ Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 
 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
-### [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md)
-
-🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-
 ### [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md)
 
 Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+
+### [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md)
+
+🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ### [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md)
 
