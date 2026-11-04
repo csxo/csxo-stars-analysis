@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 21971
-- **主语言**: Batchfile
+- **Star 数**: 22015
+- **主语言**: PowerShell
 - **GitHub 主题**: `ame-wizard`, `atlas`, `atlasos`, `debloat`, `fps`, `gaming`, `latency`, `open-source`, `opensource`, `performance`, `privacy`, `security`, `tweaks`, `windows`
 
 ## 简介
