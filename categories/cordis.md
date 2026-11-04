@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 267880 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
+| [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md) | 6.5 | 271960 | TypeScript | ai-agents, cordis, dsh, dsh-plugin |
 
 ### [deepseek-ai/deepseek-harness](../repos/deepseek-ai-deepseek-harness.md)
 
