@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 4820 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
+| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 5050 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
 
 ### [dimthink/PriceAI](../repos/dimthink-priceai.md)
 
