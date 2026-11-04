@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 27067
+- **Star 数**: 27132
 - **主语言**: TypeScript
 - **GitHub 主题**: `clash`, `clash-meta`, `electron`, `mihomo`
 
@@ -32,4 +32,10 @@
 ## 标签
 
 `clash` `clash-meta` `electron` `mihomo`
+
+## 同类项目
+
+| Project | Similarity | Shared tags |
+| --- | ---: | --- |
+| [appshubcc/Bettbox](appshubcc-bettbox.md) | 0.38 | `clash`, `clash-meta`, `mihomo` |
 
