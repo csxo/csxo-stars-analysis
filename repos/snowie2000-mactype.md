@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 12002
+- **Star 数**: 12005
 - **主语言**: C++
 - **GitHub 主题**: `directwrite`, `font`, `font-rendering`, `mactype`
 
