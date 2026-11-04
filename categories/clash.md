@@ -1,30 +1,31 @@
 # clash
 
-> 项目数: **21**
+> 项目数: **22**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 155465 | Rust | clash, clash-meta, clash-verge, linux, mac |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 60197 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33566 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29086 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 28032 | JavaScript | clash, luci, mihomo, openclash, openwrt |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21865 | TypeScript | clash, cross-platform, react, rust, tauri |
-| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20180 | — | anytls, clash, mac, macos, native |
-| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17109 | C++ | clash, clashr, emoji, gist, quantumult |
-| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13270 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
-| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11215 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10806 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
-| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9450 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
-| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7747 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
-| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7444 | Go | clash, geoip, geoip2, proxy, quantumultx |
-| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6651 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
-| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3546 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2833 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
-| [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2059 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27067 | TypeScript | clash, clash-meta, electron, mihomo |
-| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6888 | Python | acl, acl4ssr, clash, gfwlist |
-| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10207 | Dart | clash, clashmi, mihomo |
+| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 156251 | Rust | clash, clash-meta, clash-verge, linux, mac |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 60991 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33631 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29127 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 28065 | JavaScript | clash, luci, mihomo, openclash, openwrt |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21866 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20178 | — | anytls, clash, mac, macos, native |
+| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17111 | C++ | clash, clashr, emoji, gist, quantumult |
+| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13282 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
+| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11211 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10833 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9454 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
+| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7767 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
+| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7446 | Go | clash, geoip, geoip2, proxy, quantumultx |
+| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6665 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
+| [appshubcc/Bettbox](../repos/appshubcc-bettbox.md) | 7.0 | 4668 | Dart | bettbox, clash, clash-meta, mihomo, mihomo-client |
+| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3551 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2835 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2062 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27132 | TypeScript | clash, clash-meta, electron, mihomo |
+| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6892 | Python | acl, acl4ssr, clash, gfwlist |
+| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10287 | Dart | clash, clashmi, mihomo |
 
 ### [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md)
 
@@ -85,6 +86,10 @@ Multi-user anti-filtering panel, with an effortless installation and supporting 
 ### [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md)
 
 🌚 🌍 🌝 GeoIP 增强版，自由定制多种格式 GeoIP 文件，包括但不限于 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset、Nginx allow & deny 规则文件等。Enhanced edition of GeoIP for Nginx, V2Ray, Xray-core, Clash, mihomo, sing-box, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, dae, etc.
+
+### [appshubcc/Bettbox](../repos/appshubcc-bettbox.md)
+
+Another Better Network Toolbox
 
 ### [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md)
 
