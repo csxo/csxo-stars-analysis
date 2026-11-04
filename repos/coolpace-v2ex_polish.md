@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 1218
+- **Star 数**: 1222
 - **主语言**: TypeScript
 - **GitHub 主题**: `extension`, `v2ex`, `v2ex-community`
 
