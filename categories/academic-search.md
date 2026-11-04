@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 220 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
+| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 226 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
 
 ### [taxueseek/argo](../repos/taxueseek-argo.md)
 
