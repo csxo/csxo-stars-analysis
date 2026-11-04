@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5748
+- **Star 数**: 5773
 - **主语言**: TypeScript
 - **GitHub 主题**: `chrome-extension`, `greasemonkey-userscript`, `scriptcat`, `userscript`, `webextension`
 
