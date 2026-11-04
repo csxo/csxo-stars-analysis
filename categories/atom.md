@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2615 | Go | ai, atom, feed-reader, feeds, rss |
+| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2619 | Go | ai, atom, feed-reader, feeds, rss |
 
 ### [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md)
 
