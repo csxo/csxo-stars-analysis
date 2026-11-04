@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 185530 | Go | deepseek, gemma, gemma3, glm, go |
-| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168404 | Python | audio, deep-learning, deepseek, gemma, glm |
+| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 185877 | Go | deepseek, gemma, gemma3, glm, go |
+| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168526 | Python | audio, deep-learning, deepseek, gemma, glm |
 
 ### [ollama/ollama](../repos/ollama-ollama.md)
 
