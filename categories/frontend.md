@@ -4,69 +4,69 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md) | 7.0 | 458342 | TypeScript | careers, certification, community, curriculum, d3 |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 143593 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119466 | — | android, angular, books, free, ios |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97059 | JavaScript | css, curriculum, education, html, javascript |
-| [tw93/Mole](../repos/tw93-mole.md) | 7.0 | 73507 | Shell | analyzer, appcleaner, clean, cleaner, cleanmymac |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64212 | Go | docker, foss, go, markdown, memo |
-| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 52944 | — | app, apple, apple-tv, apple-vision-pro, awesome |
-| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41798 | Rust | app, application, cybersecurity, gui, iced |
-| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38030 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
-| [shadps4-emu/shadPS4](../repos/shadps4-emu-shadps4.md) | 7.0 | 34003 | C++ | cpp, cpp23, emulation, emulator, imgui |
-| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33566 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32157 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30214 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28145 | TypeScript | free, music-player, musicfree, plugin, react |
-| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 24809 | Rust | dpi, gpui, hid, hidpp, local-first |
-| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22518 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21865 | TypeScript | clash, cross-platform, react, rust, tauri |
-| [pavlobu/deskreen](../repos/pavlobu-deskreen.md) | 7.0 | 21701 | TypeScript | blueprintjs, darkwire-io, deskreen, easy-to-use, electon-app |
-| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20288 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
-| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 19984 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
-| [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19406 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15706 | Go | community, forum, go, golang, hacktoberfest |
-| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13406 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
-| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13270 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13266 | JavaScript | aria2, ariang, download, gui, html |
-| [hua1995116/awesome-ai-painting](../repos/hua1995116-awesome-ai-painting.md) | 7.0 | 11778 | — | ai-painting, dd5, disco-diffusion, stable-diffusion, stable-diffusion-diffusers |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11423 | TypeScript | commonmark, editor, gfm, lute, markdown |
-| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11292 | TypeScript | ai, deepseek, doubao, motion, react |
-| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9772 | TypeScript | electron, linux, macos, react, rss |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9471 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9450 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
-| [xanderfrangos/twinkle-tray](../repos/xanderfrangos-twinkle-tray.md) | 7.0 | 9276 | JavaScript | backlight, backlight-brightness, brightness, brightness-control, brightness-level |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9096 | TypeScript | electron, free, music, music-player, react |
-| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 8972 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
-| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8214 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7633 | Kotlin | android, compose, f-droid, kotlin, material-design |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7366 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
-| [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md) | 7.0 | 7361 | — | all-platforms, apple, apple-music, foobar2000, itunes |
-| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7037 | TypeScript | blog, nextjs, notion, portfolio, react |
-| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6134 | CSS | beautify, css, customization, spicetify, spicetify-themes |
-| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6001 | HTML | design, motion, motionskill, product, skill |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3991 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
-| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3373 | TypeScript | epub, epub-reader, nextjs, pwa, react |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2833 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
-| [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md) | 7.0 | 2357 | Pascal | android, customisation, design, google, material-ui |
-| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2354 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
+| [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md) | 7.0 | 458522 | TypeScript | careers, certification, community, curriculum, d3 |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 145005 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119501 | — | android, angular, books, free, ios |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97094 | JavaScript | css, curriculum, education, html, javascript |
+| [tw93/Mole](../repos/tw93-mole.md) | 7.0 | 73835 | Shell | analyzer, appcleaner, clean, cleaner, cleanmymac |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64267 | Go | docker, foss, go, markdown, memo |
+| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 53018 | — | app, apple, apple-tv, apple-vision-pro, awesome |
+| [GyulyVGC/sniffnet](../repos/gyulyvgc-sniffnet.md) | 7.0 | 41859 | Rust | app, application, cybersecurity, gui, iced |
+| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38133 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
+| [shadps4-emu/shadPS4](../repos/shadps4-emu-shadps4.md) | 7.0 | 34050 | C++ | cpp, cpp23, emulation, emulator, imgui |
+| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33631 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32185 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30281 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28246 | TypeScript | free, music-player, musicfree, plugin, react |
+| [AprilNEA/OpenLogi](../repos/aprilnea-openlogi.md) | 7.0 | 25080 | Rust | dpi, gpui, hid, hidpp, local-first |
+| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22541 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21866 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [pavlobu/deskreen](../repos/pavlobu-deskreen.md) | 7.0 | 21712 | TypeScript | blueprintjs, darkwire-io, deskreen, easy-to-use, electon-app |
+| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20312 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
+| [iDvel/rime-ice](../repos/idvel-rime-ice.md) | 7.0 | 20025 | Lua | rime, rime-config, rime-custom, rime-schema, rime-squirrel |
+| [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19407 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15710 | Go | community, forum, go, golang, hacktoberfest |
+| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13413 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
+| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13282 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13268 | JavaScript | aria2, ariang, download, gui, html |
+| [hua1995116/awesome-ai-painting](../repos/hua1995116-awesome-ai-painting.md) | 7.0 | 11774 | — | ai-painting, dd5, disco-diffusion, stable-diffusion, stable-diffusion-diffusers |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11432 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11330 | TypeScript | ai, deepseek, doubao, motion, react |
+| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9779 | TypeScript | electron, linux, macos, react, rss |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 9632 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9454 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
+| [xanderfrangos/twinkle-tray](../repos/xanderfrangos-twinkle-tray.md) | 7.0 | 9288 | JavaScript | backlight, backlight-brightness, brightness, brightness-control, brightness-level |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9110 | TypeScript | electron, free, music, music-player, react |
+| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 8983 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
+| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8210 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
+| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7635 | Kotlin | android, compose, f-droid, kotlin, material-design |
+| [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md) | 7.0 | 7373 | — | all-platforms, apple, apple-music, foobar2000, itunes |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7362 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md) | 7.0 | 7039 | TypeScript | blog, nextjs, notion, portfolio, react |
+| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6135 | CSS | beautify, css, customization, spicetify, spicetify-themes |
+| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6069 | HTML | design, motion, motionskill, product, skill |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3990 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [pacexy/flow](../repos/pacexy-flow.md) | 7.0 | 3375 | TypeScript | epub, epub-reader, nextjs, pwa, react |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2835 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md) | 7.0 | 2360 | Pascal | android, customisation, design, google, material-ui |
+| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2353 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
 | [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2348 | TypeScript | extension-chrome, github, pocket, react, rss |
-| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2235 | C# | csharp, dotnet, relaxation, uwp, white-noise |
-| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2201 | Python | aipc, api, cli, cpu, desktopgui |
+| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2237 | C# | csharp, dotnet, relaxation, uwp, white-noise |
+| [rupeshs/fastsdcpu](../repos/rupeshs-fastsdcpu.md) | 7.0 | 2204 | Python | aipc, api, cli, cpu, desktopgui |
 | [LouisBarranqueiro/hexo-theme-tranquilpeak](../repos/louisbarranqueiro-hexo-theme-tranquilpeak.md) | 7.0 | 1890 | SCSS | hexo, hexo-theme, hexo-theme-tranquilpeak, theme, tranquilpeak |
 | [editablejs/editable](../repos/editablejs-editable.md) | 7.0 | 1801 | TypeScript | editable, react-editor, rich-editor, slate-editor, text-editor |
-| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1691 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
-| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1501 | JavaScript | antd, music, music-player, react, react-router |
-| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1458 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
-| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 611 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 590 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
-| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 188 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
-| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 92480 | Rust | gpui, rust-lang, text-editor, zed |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 54962 | TypeScript | electron, javascript, music-player, vue |
-| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8736 | JavaScript | immutable, react, redux, tetris |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19059 | TypeScript | javascript, music-player, react-native-app |
-| [Xmader/aria-ng-gui](../repos/xmader-aria-ng-gui.md) | 6.0 | 2026 | JavaScript | aria2, aria2-app, aria2-gui |
-| [QL-Win/QuickLook](../repos/ql-win-quicklook.md) | 5.0 | 25613 | C# | quicklook |
+| [Teraskull/PyDebloatX](../repos/teraskull-pydebloatx.md) | 7.0 | 1689 | Python | debloat, fluent, gui, microsoft-store, pydebloatx |
+| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1499 | JavaScript | antd, music, music-player, react, react-router |
+| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1460 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
+| [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 613 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 593 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [mstcvk/mc-download-manager](../repos/mstcvk-mc-download-manager.md) | 7.0 | 189 | Swift | brave, chrome-extension, download-manager, homebrew, homebrew-cask |
+| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 92657 | Rust | gpui, rust-lang, text-editor, zed |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55045 | TypeScript | electron, javascript, music-player, vue |
+| [chvin/react-tetris](../repos/chvin-react-tetris.md) | 6.5 | 8734 | JavaScript | immutable, react, redux, tetris |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19123 | TypeScript | javascript, music-player, react-native-app |
+| [Xmader/aria-ng-gui](../repos/xmader-aria-ng-gui.md) | 6.0 | 2027 | JavaScript | aria2, aria2-app, aria2-gui |
+| [QL-Win/QuickLook](../repos/ql-win-quicklook.md) | 5.0 | 25642 | C# | quicklook |
 
 ### [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md)
 
@@ -212,13 +212,13 @@ Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cros
 
 An Android RSS reader presented in Material You style.
 
-### [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md)
-
-🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
-
 ### [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md)
 
 Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+
+### [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md)
+
+🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
 
 ### [transitive-bullshit/nextjs-notion-starter-kit](../repos/transitive-bullshit-nextjs-notion-starter-kit.md)
 
