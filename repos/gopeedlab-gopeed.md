@@ -5,9 +5,9 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 27304
+- **Star 数**: 27370
 - **主语言**: Dart
-- **GitHub 主题**: `android`, `bittorrent`, `cross-platform`, `debian`, `downloader`, `flutter`, `golang`, `http`, `https`, `ios`, `macos`, `magnet`, `torrent`, `ubuntu`, `windows`
+- **GitHub 主题**: `android`, `bittorrent`, `cross-platform`, `download-manger`, `downloader`, `downloadmanager`, `ed2k`, `flutter`, `ftp`, `golang`, `hls-downloader`, `http`, `https`, `ios`, `m3u8-downloader`, `macos`, `magnet`, `torrent`, `ubuntu`, `windows`
 
 ## 简介
 
