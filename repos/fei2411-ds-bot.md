@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 4765
+- **Star 数**: 5487
 - **主语言**: JavaScript
 - **GitHub 主题**: `bot`, `deepseek-harness`, `dsh-plugin`, `multi-agent`
 
