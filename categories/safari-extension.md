@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4880 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
+| [quoid/userscripts](../repos/quoid-userscripts.md) | 7.0 | 4883 | Swift | safari, safari-app-extension, safari-extension, swift, userscript |
 
 ### [quoid/userscripts](../repos/quoid-userscripts.md)
 
