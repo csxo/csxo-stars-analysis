@@ -4,26 +4,26 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 175471 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
-| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 122701 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
-| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79724 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
-| [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md) | 7.0 | 71590 | Python | academic, chatglm-6b, chatgpt, gpt-4, large-language-models |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70566 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 66971 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
-| [PlexPt/awesome-chatgpt-prompts-zh](../repos/plexpt-awesome-chatgpt-prompts-zh.md) | 7.0 | 64282 | — | chat-gpt, chatgpt, chatgpt3, chatgpt4, gpt |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62713 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
-| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54665 | Rust | ai, app, application, chatgpt, desktop-app |
-| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42218 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39964 | Python | agent, chat, chatgpt, chattts, chinese |
+| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 175761 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
+| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 122958 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
+| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79792 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
+| [binary-husky/gpt_academic](../repos/binary-husky-gpt_academic.md) | 7.0 | 71606 | Python | academic, chatglm-6b, chatgpt, gpt-4, large-language-models |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70690 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 67004 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
+| [PlexPt/awesome-chatgpt-prompts-zh](../repos/plexpt-awesome-chatgpt-prompts-zh.md) | 7.0 | 64385 | — | chat-gpt, chatgpt, chatgpt3, chatgpt4, gpt |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62807 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54664 | Rust | ai, app, application, chatgpt, desktop-app |
+| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42253 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39977 | Python | agent, chat, chatgpt, chattts, chinese |
 | [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25022 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21775 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16847 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
-| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14892 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
-| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9757 | — | bobapp, chatgpt, deepseek, doubao, ernie |
-| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9071 | TypeScript | ai, application, browser, chatgpt, claude |
-| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 4820 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
-| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 76900 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
-| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17216 | — | ai, chat, chatgpt, openai |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21855 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16856 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
+| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14893 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
+| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9759 | — | bobapp, chatgpt, deepseek, doubao, ernie |
+| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9074 | TypeScript | ai, application, browser, chatgpt, claude |
+| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 5050 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
+| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 76947 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
+| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17218 | — | ai, chat, chatgpt, openai |
 
 ### [f/prompts.chat](../repos/f-prompts-chat.md)
 
