@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80517 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
-| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9234 | C | arm64, firewall, foss, network, simplewall |
+| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80580 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
+| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9246 | C | arm64, firewall, foss, network, simplewall |
 | [WhatTheBlock/WindowsSimplify](../repos/whattheblock-windowssimplify.md) | 7.0 | 1284 | — | arm, arm64, lite, ltsb, ltsc |
 
 ### [ventoy/Ventoy](../repos/ventoy-ventoy.md)
