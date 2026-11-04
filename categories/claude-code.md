@@ -1,27 +1,28 @@
 # claude-code
 
-> 项目数: **18**
+> 项目数: **19**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 416829 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 181770 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 143593 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 140242 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 116596 | Go | ai, anthropic, caveman, claude, claude-code |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 112387 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 107361 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 92248 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 89501 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 79659 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53153 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42218 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 27307 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 5712 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
-| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2877 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
-| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2729 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
-| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1644 | TypeScript | agent-skill, claude-code, codex, macos, skills |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 894 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 429029 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 184124 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 145005 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 142106 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 117373 | Go | ai, anthropic, caveman, claude, claude-code |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 113157 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 109769 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 93307 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 90441 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 79860 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53247 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42253 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 29528 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6052 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
+| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2894 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
+| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2732 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
+| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1668 | TypeScript | agent-skill, claude-code, codex, macos, skills |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 901 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md) | 7.0 | 457 | JavaScript | chinese, claude-code, claude-skills, explainer-video, text-to-video |
 
 ### [morluto/rea](../repos/morluto-rea.md)
 
@@ -94,4 +95,8 @@ BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, trans
 ### [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md)
 
 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。
+
+### [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md)
+
+Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）
 
