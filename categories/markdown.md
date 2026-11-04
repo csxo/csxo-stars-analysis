@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 193312 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64212 | Go | docker, foss, go, markdown, memo |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13497 | TypeScript | ai-bot, doocs, editor, llm, markdown |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11423 | TypeScript | commonmark, editor, gfm, lute, markdown |
-| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4256 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3991 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2054 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [microsoft/markitdown](../repos/microsoft-markitdown.md) | 7.0 | 193825 | Python | autogen, autogen-extension, langchain, markdown, microsoft-office |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64267 | Go | docker, foss, go, markdown, memo |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13512 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11432 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4257 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3990 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2055 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
 | [yzane/vscode-markdown-pdf](../repos/yzane-vscode-markdown-pdf.md) | 7.0 | 1344 | HTML | markdown, mermaid, pdf, plantuml, visual-studio-code |
-| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 403 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
+| [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 408 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
 | [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 45 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
 | [younghz/Markdown](../repos/younghz-markdown.md) | 5.0 | 4058 | — | markdown |
 
