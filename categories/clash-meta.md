@@ -1,13 +1,14 @@
 # clash-meta
 
-> 项目数: **4**
+> 项目数: **5**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 155465 | Rust | clash, clash-meta, clash-verge, linux, mac |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 60197 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13270 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27067 | TypeScript | clash, clash-meta, electron, mihomo |
+| [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md) | 7.0 | 156251 | Rust | clash, clash-meta, clash-verge, linux, mac |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 60991 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13282 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
+| [appshubcc/Bettbox](../repos/appshubcc-bettbox.md) | 7.0 | 4668 | Dart | bettbox, clash, clash-meta, mihomo, mihomo-client |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27132 | TypeScript | clash, clash-meta, electron, mihomo |
 
 ### [clash-verge-rev/clash-verge-rev](../repos/clash-verge-rev-clash-verge-rev.md)
 
@@ -20,6 +21,10 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 ### [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md)
 
 Clash Nyanpasu～(∠・ω< )⌒☆​
+
+### [appshubcc/Bettbox](../repos/appshubcc-bettbox.md)
+
+Another Better Network Toolbox
 
 ### [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md)
 
