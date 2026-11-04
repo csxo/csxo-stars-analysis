@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 187853 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
-| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79724 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
-| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 143629 | Python | agents, llms, python, rag |
+| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 187894 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
+| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79792 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
+| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 143873 | Python | agents, llms, python, rag |
 
 ### [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md)
 
