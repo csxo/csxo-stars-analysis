@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 41289
+- **Star 数**: 41346
 - **主语言**: C++
 - **GitHub 主题**: `bittorrent`, `bittorrent-client`, `c-plus-plus`, `crossplatform`, `torrent`, `torrent-client`
 
