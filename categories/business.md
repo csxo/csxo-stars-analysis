@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4071 | TypeScript | ai, business, product, programming |
+| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4080 | TypeScript | ai, business, product, programming |
 
 ### [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md)
 
