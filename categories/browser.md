@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24065 | — | brave, browser, chromium, linux, macos |
-| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22795 | JavaScript | annotations, archive, archiver, auto-save, browser |
-| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14658 | Go | browser, browser-extension, chrome, edge, firefox |
-| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9071 | TypeScript | ai, application, browser, chatgpt, claude |
+| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24096 | — | brave, browser, chromium, linux, macos |
+| [gildas-lormeau/SingleFile](../repos/gildas-lormeau-singlefile.md) | 7.0 | 22830 | JavaScript | annotations, archive, archiver, auto-save, browser |
+| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14671 | Go | browser, browser-extension, chrome, edge, firefox |
+| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9074 | TypeScript | ai, application, browser, chatgpt, claude |
 | [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md) | 7.0 | 8474 | TypeScript | browser, firefox, gecko, mozilla, webbrowser |
 | [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2335 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
 
