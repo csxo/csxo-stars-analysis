@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28246 | TypeScript | free, music-player, musicfree, plugin, react |
-| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10327 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9110 | TypeScript | electron, free, music, music-player, react |
-| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1499 | JavaScript | antd, music, music-player, react, react-router |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55045 | TypeScript | electron, javascript, music-player, vue |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19123 | TypeScript | javascript, music-player, react-native-app |
-| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11444 | JavaScript | desktop-app, music-player |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28308 | TypeScript | free, music-player, musicfree, plugin, react |
+| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10350 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9115 | TypeScript | electron, free, music, music-player, react |
+| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1500 | JavaScript | antd, music, music-player, react, react-router |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55142 | TypeScript | electron, javascript, music-player, vue |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19182 | TypeScript | javascript, music-player, react-native-app |
+| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11447 | JavaScript | desktop-app, music-player |
 
 ### [maotoumao/MusicFree](../repos/maotoumao-musicfree.md)
 
