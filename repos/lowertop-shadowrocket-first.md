@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5614
+- **Star 数**: 5629
 - **主语言**: —
 - **GitHub 主题**: `giffgaff`, `okx`, `proxy`, `shadowrocket`, `t-mobile`, `talkatone`, `ultramobile`, `vowifi`, `wifi-call`
 
