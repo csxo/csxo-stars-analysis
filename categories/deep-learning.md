@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168526 | Python | audio, deep-learning, deepseek, gemma, glm |
-| [AUTOMATIC1111/stable-diffusion-webui](../repos/automatic1111-stable-diffusion-webui.md) | 7.0 | 165238 | Python | ai, ai-art, deep-learning, diffusion, gradio |
-| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79792 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
-| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 70550 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
-| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36881 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
-| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16856 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
-| [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md) | 6.0 | 30229 | Python | deep-learning, instruction-following, language-model |
+| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168619 | Python | audio, deep-learning, deepseek, gemma, glm |
+| [AUTOMATIC1111/stable-diffusion-webui](../repos/automatic1111-stable-diffusion-webui.md) | 7.0 | 165250 | Python | ai, ai-art, deep-learning, diffusion, gradio |
+| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79880 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
+| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 70623 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
+| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36872 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
+| [datawhalechina/leedl-tutorial](../repos/datawhalechina-leedl-tutorial.md) | 7.0 | 16854 | Jupyter Notebook | bert, chatgpt, cnn, deep-learning, diffusion |
+| [tatsu-lab/stanford_alpaca](../repos/tatsu-lab-stanford_alpaca.md) | 6.0 | 30223 | Python | deep-learning, instruction-following, language-model |
 
 ### [huggingface/transformers](../repos/huggingface-transformers.md)
 
