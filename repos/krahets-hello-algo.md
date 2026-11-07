@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 131928
-- **主语言**: Swift
+- **Star 数**: 131996
+- **主语言**: Python
 - **GitHub 主题**: `algo`, `algorithm`, `algorithms`, `book`, `data-structure`, `data-structures`, `data-structures-and-algorithms`, `dsa`, `education`, `leetcode`, `programming`
 
 ## 简介
