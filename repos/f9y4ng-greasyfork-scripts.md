@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1547
+- **Star 数**: 1549
 - **主语言**: JavaScript
 - **GitHub 主题**: `font-rendering`, `greasemonkey`, `greasyfork`, `javascript`, `redirect`, `search-engine`, `tampermonkey`, `userscript`, `violentmonkey`
 
