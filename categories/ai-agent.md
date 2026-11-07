@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 79860 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53247 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47783 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21855 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 6375 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
-| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3169 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80005 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53312 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47826 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21934 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 7490 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
+| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3281 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
 | [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1289 | Swift | agent-framework, ai-agent, gemma, ios, litert |
-| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 226 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
+| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 234 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
 
 ### [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md)
 
