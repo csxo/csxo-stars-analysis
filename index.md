@@ -2,16 +2,16 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 675  
-- **已分析**: 675  
+- **Star 总数**: 676  
+- **已分析**: 676  
 - **分类数**: 1253
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 457 |
-| [(none)](categories/none.md) | 162 |
+| [Other](categories/other.md) | 458 |
+| [(none)](categories/none.md) | 163 |
 | [AI / LLM](categories/ai-llm.md) | 89 |
 | [Frontend](categories/frontend.md) | 63 |
 | [ai](categories/ai.md) | 43 |
@@ -1285,12 +1285,12 @@
 | --- | ---: |
 | TypeScript | 118 |
 | JavaScript | 105 |
-| Python | 101 |
+| Python | 102 |
 | Go | 30 |
 | C++ | 29 |
 | C# | 28 |
 | HTML | 23 |
-| Swift | 18 |
+| Swift | 17 |
 | Kotlin | 16 |
 | C | 15 |
 | Rust | 15 |
@@ -1300,4 +1300,4 @@
 | Java | 6 |
 
 ---
-_生成时间: 2026-11-04T11:47:19Z_
+_生成时间: 2026-11-07T10:49:55Z_
