@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30281 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
-| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20312 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
+| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30375 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
+| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20335 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
 
 ### [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md)
 
