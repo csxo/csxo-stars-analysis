@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 1722
+- **Star 数**: 1736
 - **主语言**: Python
 - **GitHub 主题**: `ai`, `ilya-sutskever`
 
