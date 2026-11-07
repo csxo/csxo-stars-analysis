@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 55045
+- **Star 数**: 55142
 - **主语言**: TypeScript
 - **GitHub 主题**: `electron`, `javascript`, `music-player`, `vue`
 
