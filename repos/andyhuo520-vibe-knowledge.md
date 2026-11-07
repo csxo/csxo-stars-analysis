@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 457
+- **Star 数**: 556
 - **主语言**: JavaScript
 - **GitHub 主题**: `chinese`, `claude-code`, `claude-skills`, `explainer-video`, `text-to-video`, `threejs`, `video-generation`
 
