@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28169 | Python | chromium, control, google-chromium, inox, iridium |
+| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28186 | Python | chromium, control, google-chromium, inox, iridium |
 
 ### [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md)
 
