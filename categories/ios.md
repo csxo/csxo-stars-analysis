@@ -4,16 +4,16 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119501 | — | android, angular, books, free, ios |
-| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10645 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
-| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10499 | Swift | feed-reader, ios, json-feed, macos, rss |
-| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7678 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7664 | Dart | android, flac, flutter, golang, ios |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4572 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2274 | Swift | audiobook, ios, open-source, player, swift |
-| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1781 | Dart | android, flutter, ios, rss, rss-reader |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119514 | — | android, angular, books, free, ios |
+| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10649 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
+| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10507 | Swift | feed-reader, ios, json-feed, macos, rss |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7752 | Dart | android, flac, flutter, golang, ios |
+| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7682 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4573 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2277 | Swift | audiobook, ios, open-source, player, swift |
+| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1780 | Dart | android, flutter, ios, rss, rss-reader |
 | [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1289 | Swift | agent-framework, ai-agent, gemma, ios, litert |
-| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 209 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
+| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 211 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
 
 ### [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md)
 
@@ -27,13 +27,13 @@
 
 RSS reader for macOS and iOS.
 
-### [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md)
-
-NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
-
 ### [mornyeapp/Mornye](../repos/mornyeapp-mornye.md)
 
 Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+
+### [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md)
+
+NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
 ### [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md)
 
