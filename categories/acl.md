@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6892 | Python | acl, acl4ssr, clash, gfwlist |
+| [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md) | 6.5 | 6902 | Python | acl, acl4ssr, clash, gfwlist |
 
 ### [ACL4SSR/ACL4SSR](../repos/acl4ssr-acl4ssr.md)
 
