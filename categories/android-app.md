@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10606 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
-| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1640 | Dart | android, android-app, dart, flutter, flutter-app |
+| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10615 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
+| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1641 | Dart | android, android-app, dart, flutter, flutter-app |
 
 ### [niedev/RTranslator](../repos/niedev-rtranslator.md)
 
