@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6870 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
+| [webclipper/web-clipper](../repos/webclipper-web-clipper.md) | 7.0 | 6873 | TypeScript | chrome-extension, notion, onenote, readability, web-clipper |
 
 ### [webclipper/web-clipper](../repos/webclipper-web-clipper.md)
 
