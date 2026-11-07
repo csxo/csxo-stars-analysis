@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10833 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
-| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8446 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10854 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8447 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
 | [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2062 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
 
 ### [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md)
