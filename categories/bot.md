@@ -5,7 +5,7 @@
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
 | [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md) | 7.0 | 16309 | Python | bot, movies, telegram-bot, tv-shows, yyets |
-| [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md) | 6.5 | 5487 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
+| [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md) | 6.5 | 6084 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
 
 ### [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md)
 
