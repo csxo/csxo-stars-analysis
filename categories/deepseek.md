@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 185877 | Go | deepseek, gemma, gemma3, glm, go |
-| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168526 | Python | audio, deep-learning, deepseek, gemma, glm |
-| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75882 | Python | agent, ai, deepseek, fine-tuning, gemma |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53247 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 29528 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20335 | JavaScript | agent, ai, coding, course, deepseek |
-| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11330 | TypeScript | ai, deepseek, doubao, motion, react |
-| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9759 | — | bobapp, chatgpt, deepseek, doubao, ernie |
-| [deepseek-ai/awesome-deepseek-integration](../repos/deepseek-ai-awesome-deepseek-integration.md) | 5.5 | 39711 | — | awesome, deepseek |
+| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 186213 | Go | deepseek, gemma, gemma3, glm, go |
+| [huggingface/transformers](../repos/huggingface-transformers.md) | 7.0 | 168619 | Python | audio, deep-learning, deepseek, gemma, glm |
+| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75923 | Python | agent, ai, deepseek, fine-tuning, gemma |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53312 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 31547 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20373 | JavaScript | agent, ai, coding, course, deepseek |
+| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11362 | TypeScript | ai, deepseek, doubao, motion, react |
+| [ripperhe/Bob](../repos/ripperhe-bob.md) | 7.0 | 9758 | — | bobapp, chatgpt, deepseek, doubao, ernie |
+| [deepseek-ai/awesome-deepseek-integration](../repos/deepseek-ai-awesome-deepseek-integration.md) | 5.5 | 39749 | — | awesome, deepseek |
 
 ### [ollama/ollama](../repos/ollama-ollama.md)
 
