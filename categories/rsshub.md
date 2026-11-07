@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39221 | TypeScript | ai, reader, rss, rss-reader, rsshub |
-| [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md) | 7.0 | 9627 | TypeScript | mysql, nestjs, rss, rsshub, sqlite |
-| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7394 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
+| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39242 | TypeScript | ai, reader, rss, rss-reader, rsshub |
+| [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md) | 7.0 | 9621 | TypeScript | mysql, nestjs, rss, rsshub, sqlite |
+| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7401 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
 
 ### [RSSNext/Folo](../repos/rssnext-folo.md)
 
