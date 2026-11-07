@@ -1,13 +1,13 @@
 # [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 
-> Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+> Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 14671
+- **Star 数**: 14678
 - **主语言**: Go
-- **GitHub 主题**: `browser`, `browser-extension`, `chrome`, `edge`, `firefox`, `golang`, `hacking`, `macos`, `pentest-tool`, `windows`
+- **GitHub 主题**: `browser`, `chrome`, `chromium`, `cli`, `dfir`, `digital-forensics`, `edge`, `firefox`, `golang`, `hacking`, `incident-response`, `linux`, `macos`, `pentest-tool`, `safari`, `windows`
 
 ## 简介
 
