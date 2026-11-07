@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 19340
+- **Star 数**: 19336
 - **主语言**: JavaScript
 - **GitHub 主题**: `linux`, `macos`, `ocr`, `pot`, `pot-app`, `recognize`, `tauri`, `translate`, `translation`, `tts`, `windows`
 - **已归档**: ✅
