@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LouisBarranqueiro/hexo-theme-tranquilpeak](../repos/louisbarranqueiro-hexo-theme-tranquilpeak.md) | 7.0 | 1890 | SCSS | hexo, hexo-theme, hexo-theme-tranquilpeak, theme, tranquilpeak |
+| [LouisBarranqueiro/hexo-theme-tranquilpeak](../repos/louisbarranqueiro-hexo-theme-tranquilpeak.md) | 7.0 | 1891 | SCSS | hexo, hexo-theme, hexo-theme-tranquilpeak, theme, tranquilpeak |
 
 ### [LouisBarranqueiro/hexo-theme-tranquilpeak](../repos/louisbarranqueiro-hexo-theme-tranquilpeak.md)
 
