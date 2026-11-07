@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 6052
+- **Star 数**: 6193
 - **主语言**: JavaScript
 - **GitHub 主题**: `agent-skills`, `claude`, `claude-code`, `claude-design`, `cursor`, `design`, `dsh-plugin`, `dsh-plugins`, `prototyping`, `ui-design`
 
