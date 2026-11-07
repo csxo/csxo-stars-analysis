@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9246 | C | arm64, firewall, foss, network, simplewall |
+| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9261 | C | arm64, firewall, foss, network, simplewall |
 
 ### [henrypp/simplewall](../repos/henrypp-simplewall.md)
 
