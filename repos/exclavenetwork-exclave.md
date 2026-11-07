@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 2897
+- **Star 数**: 2901
 - **主语言**: Kotlin
 
 ## 简介
@@ -34,7 +34,7 @@ Proxy client
 | --- | ---: | --- |
 | [gedoor/legado](gedoor-legado.md) | 1.00 | `(none)`, `kotlin` |
 | [MetaCubeX/ClashMetaForAndroid](metacubex-clashmetaforandroid.md) | 1.00 | `(none)`, `kotlin` |
-| [DimensionDev/Flare](dimensiondev-flare.md) | 1.00 | `(none)`, `kotlin` |
+| [flaresocialapp/Flare](flaresocialapp-flare.md) | 1.00 | `(none)`, `kotlin` |
 | [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
 | [programthink/books](programthink-books.md) | 0.50 | `(none)` |
 
