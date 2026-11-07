@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42610 | Go | anticensorship, dns, network, proxy, reality |
-| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34750 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29127 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25710 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
-| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19746 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
-| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6665 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
+| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42681 | Go | anticensorship, dns, network, proxy, reality |
+| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34748 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29171 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25711 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
+| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19743 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
+| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6671 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
 
 ### [XTLS/Xray-core](../repos/xtls-xray-core.md)
 
