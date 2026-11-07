@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [zen-browser/desktop](../repos/zen-browser-desktop.md) | 6.5 | 45560 | C++ | firefox, firefox-based, firefox-browser, zen-browser |
+| [zen-browser/desktop](../repos/zen-browser-desktop.md) | 6.5 | 45633 | C++ | firefox, firefox-based, firefox-browser, zen-browser |
 
 ### [zen-browser/desktop](../repos/zen-browser-desktop.md)
 
