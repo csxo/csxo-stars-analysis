@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 44195 | Kotlin | accessibility, android, auto, click, compose |
-| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22570 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
-| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 7490 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
+| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 44424 | Kotlin | accessibility, android, auto, click, compose |
+| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22578 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 7992 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
 
 ### [gkd-kit/gkd](../repos/gkd-kit-gkd.md)
 
