@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 1593
+- **Star 数**: 1596
 - **主语言**: JavaScript
 - **GitHub 主题**: `medium`, `medium-article`, `medium-com`
 
