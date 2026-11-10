@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9115
+- **Star 数**: 9134
 - **主语言**: TypeScript
 - **GitHub 主题**: `electron`, `free`, `music`, `music-player`, `react`, `typescript`
 
