@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 53094 | — | app, apple, apple-tv, apple-vision-pro, awesome |
+| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 53160 | — | app, apple, apple-tv, apple-vision-pro, awesome |
 
 ### [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md)
 
