@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8268 | Python | automation, chrome, crawl, csdn, hotmail |
+| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8269 | Python | automation, chrome, crawl, csdn, hotmail |
 
 ### [kangvcar/InfoSpider](../repos/kangvcar-infospider.md)
 
