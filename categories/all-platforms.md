@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md) | 7.0 | 7379 | — | all-platforms, apple, apple-music, foobar2000, itunes |
+| [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md) | 7.0 | 7382 | — | all-platforms, apple, apple-music, foobar2000, itunes |
 
 ### [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md)
 
