@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 46849
+- **Star 数**: 46904
 - **主语言**: TypeScript
 - **GitHub 主题**: `bilibili`, `douban`, `dribbble`, `instagram`, `lofter`, `magpie-plugin`, `pixiv`, `rss`, `rsshub`, `spotify`, `telegram`, `tiktok`, `twitter`, `v2ex`, `wechat`, `weibo`, `ximalaya`, `youtube`, `zhihu`
 
