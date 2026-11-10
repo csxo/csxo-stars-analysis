@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 135268 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
+| [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md) | 7.0 | 135432 | TypeScript | canvas, collaboration, diagrams, drawing, hacktoberfest |
 
 ### [excalidraw/excalidraw](../repos/excalidraw-excalidraw.md)
 
