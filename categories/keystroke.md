@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [mulaRahul/keyviz](../repos/mularahul-keyviz.md) | 6.0 | 9767 | TypeScript | keypress, keystroke, tauri-rust |
+| [mulaRahul/keyviz](../repos/mularahul-keyviz.md) | 6.0 | 9775 | TypeScript | keypress, keystroke, tauri-rust |
 
 ### [mulaRahul/keyviz](../repos/mularahul-keyviz.md)
 
