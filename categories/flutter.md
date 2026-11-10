@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 118435 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 61777 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7752 | Dart | android, flac, flutter, golang, ios |
-| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1780 | Dart | android, flutter, ios, rss, rss-reader |
+| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 118683 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 62401 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7839 | Dart | android, flac, flutter, golang, ios |
+| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1781 | Dart | android, flutter, ios, rss, rss-reader |
 | [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1641 | Dart | android, android-app, dart, flutter, flutter-app |
-| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 97688 | Dart | dart, file-sharing, flutter, flutter-apps |
+| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 98208 | Dart | dart, file-sharing, flutter, flutter-apps |
 
 ### [immich-app/immich](../repos/immich-app-immich.md)
 
