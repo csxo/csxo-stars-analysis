@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 11447
+- **Star 数**: 11449
 - **主语言**: JavaScript
 - **GitHub 主题**: `desktop-app`, `music-player`
 
