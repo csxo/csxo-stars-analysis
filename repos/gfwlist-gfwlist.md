@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 25711
+- **Star 数**: 25713
 - **主语言**: —
 - **GitHub 主题**: `anticensorship`, `censorship`, `censorship-circumvention`, `china`, `gfw`
 
