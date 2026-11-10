@@ -1,10 +1,15 @@
 # ai-assistant
 
-> 项目数: **1**
+> 项目数: **2**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 1950 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
+| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 9703 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
+| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 2033 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
+
+### [makecindy/cindy](../repos/makecindy-cindy.md)
+
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 ### [leepokai/Codync](../repos/leepokai-codync.md)
 
