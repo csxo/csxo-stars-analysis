@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 6902
+- **Star 数**: 6913
 - **主语言**: Python
 - **GitHub 主题**: `acl`, `acl4ssr`, `clash`, `gfwlist`
 
