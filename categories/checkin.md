@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 211 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
+| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 215 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
 
 ### [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md)
 
