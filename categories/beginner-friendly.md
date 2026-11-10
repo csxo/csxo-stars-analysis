@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [firstcontributions/first-contributions](../repos/firstcontributions-first-contributions.md) | 7.0 | 56731 | — | beginner, beginner-friendly, contribute, contribution, contributions-welcome |
+| [firstcontributions/first-contributions](../repos/firstcontributions-first-contributions.md) | 7.0 | 56774 | — | beginner, beginner-friendly, contribute, contribution, contributions-welcome |
 
 ### [firstcontributions/first-contributions](../repos/firstcontributions-first-contributions.md)
 
