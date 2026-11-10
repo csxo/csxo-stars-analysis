@@ -1,11 +1,11 @@
 # [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
 
-> Privacy Badger is a browser extension that automatically learns to block hidden trackers
+> Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3885
+- **Star 数**: 3886
 - **主语言**: JavaScript
 - **GitHub 主题**: `browser-fingerprinting`, `chrome-extension`, `cookies`, `fingerprinting`, `firefox-extension`, `javascript`, `privacy`, `tracking`, `webextension`
 
