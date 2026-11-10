@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6671 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
+| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6685 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
 
 ### [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md)
 
