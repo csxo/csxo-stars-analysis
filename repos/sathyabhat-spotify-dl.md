@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1947
+- **Star 数**: 1946
 - **主语言**: Python
 - **GitHub 主题**: `downloads-songs`, `mp3`, `playlist`, `spotify`, `spotify-dl`
 
