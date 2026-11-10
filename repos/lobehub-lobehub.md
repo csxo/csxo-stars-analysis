@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 84288
+- **Star 数**: 84730
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent`, `agent-collaboration`, `agent-harness`, `loop-engineering`, `mcp`, `personal-assistant`, `proactive-agent`, `skills`, `super-agent`, `task-management`
 
