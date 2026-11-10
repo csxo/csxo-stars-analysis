@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17110 | C++ | clash, clashr, emoji, gist, quantumult |
+| [tindy2013/subconverter](../repos/tindy2013-subconverter.md) | 7.0 | 17111 | C++ | clash, clashr, emoji, gist, quantumult |
 | [sve1r/Rules-For-Quantumult-X](../repos/sve1r-rules-for-quantumult-x.md) | 7.0 | 3777 | JavaScript | quantumult, quantumult-x, quantumultx, qx, rules |
 
 ### [tindy2013/subconverter](../repos/tindy2013-subconverter.md)
