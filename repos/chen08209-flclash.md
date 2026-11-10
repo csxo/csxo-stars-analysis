@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 61777
+- **Star 数**: 62401
 - **主语言**: Dart
 - **GitHub 主题**: `clash`, `clash-meta`, `flutter`, `hysteria`, `multi-platform`, `proxy`, `v2ray`, `vless`, `vpn`
 
