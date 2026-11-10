@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71206 | Python | agent, gpt, llm, metagpt, multi-agent |
-| [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md) | 6.5 | 6084 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
+| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71239 | Python | agent, gpt, llm, metagpt, multi-agent |
+| [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md) | 6.5 | 6783 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
 
 ### [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md)
 
