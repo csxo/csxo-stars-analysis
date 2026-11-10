@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10182 | JavaScript | github, release, steam, tampermonkey, userscript |
+| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10195 | JavaScript | github, release, steam, tampermonkey, userscript |
 
 ### [XIU2/UserScript](../repos/xiu2-userscript.md)
 
