@@ -5,9 +5,9 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 74154
+- **Star 数**: 74492
 - **主语言**: Shell
-- **GitHub 主题**: `analyzer`, `appcleaner`, `clean`, `cleaner`, `cleanmymac`, `command-line`, `daisydisk`, `istat`, `mac`, `macos`, `macos-app`, `native`, `optimize`, `pearcleaner`, `sensei`, `shell`, `swift`, `swiftui`, `uninstall`, `windows`
+- **GitHub 主题**: `analyzer`, `appcleaner`, `clean`, `cleaner`, `cleanmymac`, `command-line`, `daisydisk`, `deepseek-harness`, `dsh-plugin`, `dsh-skill`, `gemini-cli-extension`, `istat`, `macos`, `macos-app`, `optimize`, `pearcleaner`, `sensei`, `shell`, `uninstall`, `windows`
 
 ## 简介
 
