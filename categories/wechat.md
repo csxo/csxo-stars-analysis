@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [putyy/res-downloader](../repos/putyy-res-downloader.md) | 7.0 | 21151 | Go | douyin, kuaishou, res-downloader, wechat, wechat-video |
-| [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 47 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
+| [putyy/res-downloader](../repos/putyy-res-downloader.md) | 7.0 | 21196 | Go | douyin, kuaishou, res-downloader, wechat, wechat-video |
+| [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 48 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
 
 ### [putyy/res-downloader](../repos/putyy-res-downloader.md)
 
