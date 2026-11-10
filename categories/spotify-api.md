@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19429 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
+| [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md) | 7.0 | 19426 | Rust | cli, rust, spotify, spotify-api, spotify-tui |
 
 ### [Rigellute/spotify-tui](../repos/rigellute-spotify-tui.md)
 
