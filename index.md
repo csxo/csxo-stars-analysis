@@ -2,39 +2,39 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 676  
-- **已分析**: 676  
-- **分类数**: 1253
+- **Star 总数**: 684  
+- **已分析**: 684  
+- **分类数**: 1263
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 458 |
-| [(none)](categories/none.md) | 163 |
-| [AI / LLM](categories/ai-llm.md) | 89 |
-| [Frontend](categories/frontend.md) | 63 |
-| [ai](categories/ai.md) | 43 |
+| [Other](categories/other.md) | 462 |
+| [(none)](categories/none.md) | 165 |
+| [AI / LLM](categories/ai-llm.md) | 92 |
+| [Frontend](categories/frontend.md) | 64 |
+| [ai](categories/ai.md) | 44 |
 | [CLI / Terminal](categories/cli-terminal.md) | 33 |
 | [DevOps](categories/devops.md) | 33 |
-| [android](categories/android.md) | 25 |
+| [android](categories/android.md) | 26 |
 | [chrome-extension](categories/chrome-extension.md) | 25 |
 | [awesome](categories/awesome.md) | 22 |
 | [clash](categories/clash.md) | 22 |
+| [claude-code](categories/claude-code.md) | 22 |
 | [javascript](categories/javascript.md) | 22 |
 | [chatgpt](categories/chatgpt.md) | 20 |
-| [claude-code](categories/claude-code.md) | 19 |
-| [ai-agents](categories/ai-agents.md) | 17 |
-| [claude](categories/claude.md) | 17 |
+| [ai-agents](categories/ai-agents.md) | 18 |
+| [claude](categories/claude.md) | 18 |
 | [adblock](categories/adblock.md) | 15 |
 | [macos](categories/macos.md) | 15 |
 | [rss](categories/rss.md) | 15 |
+| [agent](categories/agent.md) | 14 |
 | [awesome-list](categories/awesome-list.md) | 14 |
 | [cross-platform](categories/cross-platform.md) | 14 |
 | [hacktoberfest](categories/hacktoberfest.md) | 14 |
 | [agent-skills](categories/agent-skills.md) | 13 |
 | [cli](categories/cli.md) | 13 |
-| [agent](categories/agent.md) | 12 |
 | [chinese](categories/chinese.md) | 12 |
 | [electron](categories/electron.md) | 12 |
 | [python](categories/python.md) | 12 |
@@ -43,20 +43,21 @@
 | [proxy](categories/proxy.md) | 11 |
 | [react](categories/react.md) | 11 |
 | [shadowsocks](categories/shadowsocks.md) | 11 |
+| [ai-agent](categories/ai-agent.md) | 10 |
 | [chrome](categories/chrome.md) | 10 |
+| [desktop-app](categories/desktop-app.md) | 10 |
 | [ios](categories/ios.md) | 10 |
 | [linux](categories/linux.md) | 10 |
 | [llm](categories/llm.md) | 10 |
+| [codex](categories/codex.md) | 9 |
 | [csharp](categories/csharp.md) | 9 |
 | [deepseek](categories/deepseek.md) | 9 |
-| [desktop-app](categories/desktop-app.md) | 9 |
 | [userscript](categories/userscript.md) | 9 |
-| [ai-agent](categories/ai-agent.md) | 8 |
-| [codex](categories/codex.md) | 8 |
 | [editor](categories/editor.md) | 8 |
 | [firefox](categories/firefox.md) | 8 |
 | [golang](categories/golang.md) | 8 |
 | [gui](categories/gui.md) | 8 |
+| [music-player](categories/music-player.md) | 8 |
 | [tampermonkey](categories/tampermonkey.md) | 8 |
 | [windows](categories/windows.md) | 8 |
 | [artificial-intelligence](categories/artificial-intelligence.md) | 7 |
@@ -67,7 +68,6 @@
 | [desktop](categories/desktop.md) | 7 |
 | [ffmpeg](categories/ffmpeg.md) | 7 |
 | [mpv](categories/mpv.md) | 7 |
-| [music-player](categories/music-player.md) | 7 |
 | [rime](categories/rime.md) | 7 |
 | [shadowrocket](categories/shadowrocket.md) | 7 |
 | [adguard](categories/adguard.md) | 6 |
@@ -84,6 +84,7 @@
 | [hexo-theme](categories/hexo-theme.md) | 6 |
 | [openai](categories/openai.md) | 6 |
 | [quantumultx](categories/quantumultx.md) | 6 |
+| [anthropic](categories/anthropic.md) | 5 |
 | [app](categories/app.md) | 5 |
 | [aria2](categories/aria2.md) | 5 |
 | [c-plus-plus](categories/c-plus-plus.md) | 5 |
@@ -106,7 +107,6 @@
 | [adguardhome](categories/adguardhome.md) | 4 |
 | [algorithm](categories/algorithm.md) | 4 |
 | [algorithms](categories/algorithms.md) | 4 |
-| [anthropic](categories/anthropic.md) | 4 |
 | [antigravity](categories/antigravity.md) | 4 |
 | [apple](categories/apple.md) | 4 |
 | [automation](categories/automation.md) | 4 |
@@ -193,6 +193,7 @@
 | [aero](categories/aero.md) | 2 |
 | [agent-framework](categories/agent-framework.md) | 2 |
 | [agent-tools](categories/agent-tools.md) | 2 |
+| [ai-assistant](categories/ai-assistant.md) | 2 |
 | [ai-chat](categories/ai-chat.md) | 2 |
 | [ai-search-engine](categories/ai-search-engine.md) | 2 |
 | [ai-translation](categories/ai-translation.md) | 2 |
@@ -213,6 +214,7 @@
 | [bot](categories/bot.md) | 2 |
 | [brave](categories/brave.md) | 2 |
 | [bsd](categories/bsd.md) | 2 |
+| [bun](categories/bun.md) | 2 |
 | [c-sharp](categories/c-sharp.md) | 2 |
 | [canvas](categories/canvas.md) | 2 |
 | [careers](categories/careers.md) | 2 |
@@ -243,6 +245,7 @@
 | [dart](categories/dart.md) | 2 |
 | [debloat](categories/debloat.md) | 2 |
 | [deep-research](categories/deep-research.md) | 2 |
+| [deepseek-harness](categories/deepseek-harness.md) | 2 |
 | [design](categories/design.md) | 2 |
 | [developer-tools](categories/developer-tools.md) | 2 |
 | [diffusion](categories/diffusion.md) | 2 |
@@ -333,6 +336,7 @@
 | [win32](categories/win32.md) | 2 |
 | [wpf](categories/wpf.md) | 2 |
 | [youtube](categories/youtube.md) | 2 |
+| [1st-party-security](categories/1st-party-security.md) | 1 |
 | [30-days-of-python](categories/30-days-of-python.md) | 1 |
 | [4k](categories/4k.md) | 1 |
 | [aac](categories/aac.md) | 1 |
@@ -355,14 +359,15 @@
 | [agent-collaboration](categories/agent-collaboration.md) | 1 |
 | [agent-development](categories/agent-development.md) | 1 |
 | [agent-harness](categories/agent-harness.md) | 1 |
+| [agent-orchestration](categories/agent-orchestration.md) | 1 |
 | [agent-plugins](categories/agent-plugins.md) | 1 |
 | [agentgpt](categories/agentgpt.md) | 1 |
 | [agentic-framework](categories/agentic-framework.md) | 1 |
 | [agentic-workflow](categories/agentic-workflow.md) | 1 |
 | [agentic-workflows](categories/agentic-workflows.md) | 1 |
 | [ai-art](categories/ai-art.md) | 1 |
-| [ai-assistant](categories/ai-assistant.md) | 1 |
 | [ai-bot](categories/ai-bot.md) | 1 |
+| [ai-coding-agent](categories/ai-coding-agent.md) | 1 |
 | [ai-deep-fake](categories/ai-deep-fake.md) | 1 |
 | [ai-face](categories/ai-face.md) | 1 |
 | [ai-music](categories/ai-music.md) | 1 |
@@ -372,6 +377,7 @@
 | [ai-short-film](categories/ai-short-film.md) | 1 |
 | [ai-skills](categories/ai-skills.md) | 1 |
 | [ai-subscription](categories/ai-subscription.md) | 1 |
+| [ai-tools](categories/ai-tools.md) | 1 |
 | [ai-video-generation](categories/ai-video-generation.md) | 1 |
 | [ai-video-generator](categories/ai-video-generator.md) | 1 |
 | [ai-webcam](categories/ai-webcam.md) | 1 |
@@ -411,6 +417,7 @@
 | [anti-slop](categories/anti-slop.md) | 1 |
 | [antigravity-skills](categories/antigravity-skills.md) | 1 |
 | [antisurveillance](categories/antisurveillance.md) | 1 |
+| [any-listen](categories/any-listen.md) | 1 |
 | [anytls](categories/anytls.md) | 1 |
 | [apify](categories/apify.md) | 1 |
 | [aplayer](categories/aplayer.md) | 1 |
@@ -423,6 +430,7 @@
 | [application-launcher](categories/application-launcher.md) | 1 |
 | [application-manager](categories/application-manager.md) | 1 |
 | [application-uninstaller](categories/application-uninstaller.md) | 1 |
+| [applicationcontrol](categories/applicationcontrol.md) | 1 |
 | [appstore](categories/appstore.md) | 1 |
 | [arc-browser](categories/arc-browser.md) | 1 |
 | [architecture](categories/architecture.md) | 1 |
@@ -449,6 +457,7 @@
 | [ats](categories/ats.md) | 1 |
 | [audio-player](categories/audio-player.md) | 1 |
 | [audiobook](categories/audiobook.md) | 1 |
+| [audit](categories/audit.md) | 1 |
 | [auto](categories/auto.md) | 1 |
 | [auto-install](categories/auto-install.md) | 1 |
 | [auto-save](categories/auto-save.md) | 1 |
@@ -490,6 +499,7 @@
 | [binary-analysis](categories/binary-analysis.md) | 1 |
 | [bing](categories/bing.md) | 1 |
 | [bios](categories/bios.md) | 1 |
+| [bitlocker](categories/bitlocker.md) | 1 |
 | [bittorrent-client](categories/bittorrent-client.md) | 1 |
 | [bittorrent-trackers](categories/bittorrent-trackers.md) | 1 |
 | [bitwarden](categories/bitwarden.md) | 1 |
@@ -521,7 +531,6 @@
 | [bt](categories/bt.md) | 1 |
 | [bulk-actions](categories/bulk-actions.md) | 1 |
 | [bulk-uninstall](categories/bulk-uninstall.md) | 1 |
-| [bun](categories/bun.md) | 1 |
 | [business](categories/business.md) | 1 |
 | [business-knowledge](categories/business-knowledge.md) | 1 |
 | [bypass-gfw](categories/bypass-gfw.md) | 1 |
@@ -608,6 +617,7 @@
 | [command-line-tool](categories/command-line-tool.md) | 1 |
 | [command-palette](categories/command-palette.md) | 1 |
 | [community-driven](categories/community-driven.md) | 1 |
+| [compliance](categories/compliance.md) | 1 |
 | [components](categories/components.md) | 1 |
 | [compose-desktop](categories/compose-desktop.md) | 1 |
 | [compose-multiplatform](categories/compose-multiplatform.md) | 1 |
@@ -673,7 +683,6 @@
 | [debugger](categories/debugger.md) | 1 |
 | [deep-search](categories/deep-search.md) | 1 |
 | [deepl](categories/deepl.md) | 1 |
-| [deepseek-harness](categories/deepseek-harness.md) | 1 |
 | [deepseek-r1](categories/deepseek-r1.md) | 1 |
 | [degoogle](categories/degoogle.md) | 1 |
 | [demo](categories/demo.md) | 1 |
@@ -1022,6 +1031,7 @@
 | [musicfree](categories/musicfree.md) | 1 |
 | [mysql](categories/mysql.md) | 1 |
 | [nano-banana](categories/nano-banana.md) | 1 |
+| [nas](categories/nas.md) | 1 |
 | [native](categories/native.md) | 1 |
 | [navidrome](categories/navidrome.md) | 1 |
 | [ncsi](categories/ncsi.md) | 1 |
@@ -1283,21 +1293,21 @@
 
 | Tech | Count |
 | --- | ---: |
-| TypeScript | 118 |
+| TypeScript | 123 |
 | JavaScript | 105 |
-| Python | 102 |
+| Python | 101 |
 | Go | 30 |
+| C# | 29 |
 | C++ | 29 |
-| C# | 28 |
 | HTML | 23 |
+| Rust | 18 |
 | Swift | 17 |
 | Kotlin | 16 |
 | C | 15 |
-| Rust | 15 |
 | Dart | 12 |
 | Jupyter Notebook | 10 |
 | Lua | 8 |
 | Java | 6 |
 
 ---
-_生成时间: 2026-11-07T10:49:55Z_
+_生成时间: 2026-11-10T12:00:00Z_
