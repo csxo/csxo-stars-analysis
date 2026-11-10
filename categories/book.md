@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 131996 | Python | algo, algorithm, algorithms, book, data-structure |
-| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28754 | JavaScript | book, cb7, cbr, cbt, cbz |
+| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 132124 | Python | algo, algorithm, algorithms, book, data-structure |
+| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28790 | JavaScript | book, cb7, cbr, cbt, cbz |
 
 ### [krahets/hello-algo](../repos/krahets-hello-algo.md)
 
