@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1461 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
+| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1463 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
 
 ### [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md)
 
