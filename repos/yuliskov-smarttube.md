@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 36029
+- **Star 数**: 36162
 - **主语言**: Java
 - **GitHub 主题**: `android`, `android-tv`, `android-tv-box`, `java`, `kotlin`, `retrofit2`, `rxjava-android`
 
