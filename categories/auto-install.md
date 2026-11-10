@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80632 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
+| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80704 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
 
 ### [ventoy/Ventoy](../repos/ventoy-ventoy.md)
 
