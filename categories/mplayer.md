@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 37965 | C | audio, c, ffmpeg, mplayer, mpv |
+| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 38041 | C | audio, c, ffmpeg, mplayer, mpv |
 
 ### [mpv-player/mpv](../repos/mpv-player-mpv.md)
 
