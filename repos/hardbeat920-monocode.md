@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 3697
+- **Star 数**: 3852
 - **主语言**: Rust
 
 ## 简介
@@ -32,9 +32,9 @@ A GUI for your coding agents
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
+| [funstory-ai/BabelDOC](funstory-ai-babeldoc.md) | 1.00 | `(none)`, `rust` |
 | [openai/codex](openai-codex.md) | 1.00 | `(none)`, `rust` |
 | [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
 | [programthink/books](programthink-books.md) | 0.50 | `(none)` |
 | [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
-| [ruanyf/reading-list](ruanyf-reading-list.md) | 0.50 | `(none)` |
 
