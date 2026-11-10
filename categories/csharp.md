@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40746 | C# | avalonia, capture, color-picker, csharp, dropbox |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32203 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17620 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14875 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5631 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
-| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2239 | C# | csharp, dotnet, relaxation, uwp, white-noise |
-| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1461 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
-| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 59088 | C# | csharp, dotnet, hacktoberfest, jellyfin |
-| [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5106 | C# | csharp, tai, wpf |
+| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40910 | C# | avalonia, capture, color-picker, csharp, dropbox |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32244 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17633 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 14915 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5637 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
+| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2240 | C# | csharp, dotnet, relaxation, uwp, white-noise |
+| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1463 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
+| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 59179 | C# | csharp, dotnet, hacktoberfest, jellyfin |
+| [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5111 | C# | csharp, tai, wpf |
 
 ### [ShareX/ShareX](../repos/sharex-sharex.md)
 
