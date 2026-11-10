@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 78966 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26368 | TypeScript | apify, automation, crawler, crawling, headless |
-| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8268 | Python | automation, chrome, crawl, csdn, hotmail |
-| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 7490 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 79178 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26404 | TypeScript | apify, automation, crawler, crawling, headless |
+| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8269 | Python | automation, chrome, crawl, csdn, hotmail |
+| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 7992 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
 
 ### [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md)
 
