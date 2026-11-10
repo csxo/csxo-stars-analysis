@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [SnapDrop/snapdrop](../repos/snapdrop-snapdrop.md) | 6.0 | 19711 | JavaScript | pwa, snapdrop, webrtc |
+| [SnapDrop/snapdrop](../repos/snapdrop-snapdrop.md) | 6.0 | 19712 | JavaScript | pwa, snapdrop, webrtc |
 
 ### [SnapDrop/snapdrop](../repos/snapdrop-snapdrop.md)
 
