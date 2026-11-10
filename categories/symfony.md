@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13053 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
+| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13056 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
 
 ### [wallabag/wallabag](../repos/wallabag-wallabag.md)
 
