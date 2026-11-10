@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10766 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
-| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 97688 | Dart | dart, file-sharing, flutter, flutter-apps |
+| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10768 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
+| [localsend/localsend](../repos/localsend-localsend.md) | 6.5 | 98208 | Dart | dart, file-sharing, flutter, flutter-apps |
 
 ### [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md)
 
