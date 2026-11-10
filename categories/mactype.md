@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 12008 | C++ | directwrite, font, font-rendering, mactype |
+| [snowie2000/mactype](../repos/snowie2000-mactype.md) | 6.5 | 12011 | C++ | directwrite, font, font-rendering, mactype |
 
 ### [snowie2000/mactype](../repos/snowie2000-mactype.md)
 
