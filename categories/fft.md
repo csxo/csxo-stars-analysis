@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 66675 | C | audio, c, ffmpeg, fft, hevc |
+| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 66863 | C | audio, c, ffmpeg, fft, hevc |
 
 ### [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md)
 
