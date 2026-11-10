@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 42267
+- **Star 数**: 42290
 - **主语言**: TypeScript
 - **GitHub 主题**: `assistant`, `chatbot`, `chatgpt`, `claude`, `claude-code`, `copilot`, `deepseek`, `gemini`, `gpt`, `gpt-5`, `ollama`, `openai`
 
