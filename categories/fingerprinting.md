@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3885 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
+| [EFForg/privacybadger](../repos/efforg-privacybadger.md) | 7.0 | 3886 | JavaScript | browser-fingerprinting, chrome-extension, cookies, fingerprinting, firefox-extension |
 
 ### [EFForg/privacybadger](../repos/efforg-privacybadger.md)
 
