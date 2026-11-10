@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 146331 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 143729 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 113802 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 78966 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 147585 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [Graphify-Labs/graphify](../repos/graphify-labs-graphify.md) | 7.0 | 145325 | Python | ai-agents, antigravity, ast, claude-code, code-analysis |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 114785 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 79178 | Python | agent-skills, ai-agents, antigravity, automation, claude |
 
 ### [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md)
 
