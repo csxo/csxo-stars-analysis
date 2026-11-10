@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97120 | JavaScript | css, curriculum, education, html, javascript |
-| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22576 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
-| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6141 | CSS | beautify, css, customization, spicetify, spicetify-themes |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97124 | JavaScript | css, curriculum, education, html, javascript |
+| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22595 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
+| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6146 | CSS | beautify, css, customization, spicetify, spicetify-themes |
 
 ### [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md)
 
