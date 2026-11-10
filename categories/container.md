@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [isno/theByteBook](../repos/isno-thebytebook.md) | 7.0 | 8541 | JavaScript | cloud-native, container, devops, distributed-systems, finops |
+| [isno/theByteBook](../repos/isno-thebytebook.md) | 7.0 | 8539 | JavaScript | cloud-native, container, devops, distributed-systems, finops |
 
 ### [isno/theByteBook](../repos/isno-thebytebook.md)
 
