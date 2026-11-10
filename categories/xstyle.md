@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md) | 6.5 | 182 | JavaScript | chrome, firefox, webextension, xstyle |
+| [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md) | 6.5 | 183 | JavaScript | chrome, firefox, webextension, xstyle |
 
 ### [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md)
 
