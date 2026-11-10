@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 103667
+- **Star 数**: 103810
 - **主语言**: —
 - **GitHub 主题**: `chinese`, `cookbook`, `cooking`, `dishes`, `recipes`
 
