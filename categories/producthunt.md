@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ViggoZ/producthunt-daily-hot](../repos/viggoz-producthunt-daily-hot.md) | 5.0 | 1013 | Python | producthunt |
+| [ViggoZ/producthunt-daily-hot](../repos/viggoz-producthunt-daily-hot.md) | 5.0 | 1015 | Python | producthunt |
 
 ### [ViggoZ/producthunt-daily-hot](../repos/viggoz-producthunt-daily-hot.md)
 
