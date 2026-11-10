@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 89
+- **Star 数**: 169
 - **主语言**: Dart
 - **GitHub 主题**: `airdrop-alternative`, `clipboard`, `clipboard-sharing`, `clipboard-sync`, `copy-paste`, `cross-platform`, `end-to-end-encryption`, `file-sync`, `file-transfer`, `flutter`, `golang`, `linux`, `macos`, `nat-traversal`, `p2p`, `self-hosted`, `tailscale`, `universal-clipboard`, `webrtc`, `windows`
 
