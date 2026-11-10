@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3821 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3850 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
 
 ### [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md)
 
