@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28792 | JavaScript | china, converter, epg, iptv, ipv6 |
-| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10516 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
+| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28807 | JavaScript | china, converter, epg, iptv, ipv6 |
+| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10520 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
 
 ### [fanmingming/live](../repos/fanmingming-live.md)
 
