@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 394103 | TypeScript | ai, assistant, crustacean, molty, openclaw |
+| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 394280 | TypeScript | ai, assistant, crustacean, molty, openclaw |
 
 ### [openclaw/openclaw](../repos/openclaw-openclaw.md)
 
