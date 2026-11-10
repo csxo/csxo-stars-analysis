@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 15973 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
+| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 16003 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
 
 ### [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md)
 
