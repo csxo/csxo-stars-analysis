@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5631 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
+| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5637 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
 
 ### [the1812/Malware-Patch](../repos/the1812-malware-patch.md)
 
