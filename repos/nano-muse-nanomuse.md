@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3281
+- **Star 数**: 3377
 - **主语言**: Swift
 - **GitHub 主题**: `agent-skills`, `ai-agent`, `android`, `computer-use`, `cross-device`, `desktop-app`, `gui-agent`, `ios`, `linux`, `llm`, `mcp`, `meta-muse`, `mobile-agent`, `muse`, `nanomuse`, `openminis`, `openmuse`, `personal-agent`
 
