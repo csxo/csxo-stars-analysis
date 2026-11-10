@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28754 | JavaScript | book, cb7, cbr, cbt, cbz |
+| [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md) | 7.0 | 28790 | JavaScript | book, cb7, cbr, cbt, cbz |
 
 ### [koodo-reader/koodo-reader](../repos/koodo-reader-koodo-reader.md)
 
