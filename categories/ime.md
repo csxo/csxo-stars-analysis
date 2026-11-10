@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 5083 | Lua | dicts, ime, pinyin, rime, rime-config |
+| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 5108 | Lua | dicts, ime, pinyin, rime, rime-config |
 
 ### [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md)
 
