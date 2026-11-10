@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10649 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
+| [NSRingo/iRingo](../repos/nsringo-iringo.md) | 7.0 | 10651 | — | apple-maps, apple-news, apple-weather-app, geolocation, ios |
 | [NSRingo/WeatherKit](../repos/nsringo-weatherkit.md) | 6.5 | 402 | JavaScript | apple, apple-weather-app, weatherkit, weatherkit-rest-api |
 
 ### [NSRingo/iRingo](../repos/nsringo-iringo.md)
