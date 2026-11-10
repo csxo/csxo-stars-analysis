@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31825 | Go | bilibili, crawler, download, downloader, go |
-| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26368 | TypeScript | apify, automation, crawler, crawling, headless |
+| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31833 | Go | bilibili, crawler, download, downloader, go |
+| [apify/crawlee](../repos/apify-crawlee.md) | 7.0 | 26404 | TypeScript | apify, automation, crawler, crawling, headless |
 
 ### [iawia002/lux](../repos/iawia002-lux.md)
 
