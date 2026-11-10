@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22341 | Vue | freetube, privacy, subscriptions, video, videos |
+| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22402 | Vue | freetube, privacy, subscriptions, video, videos |
 
 ### [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md)
 
