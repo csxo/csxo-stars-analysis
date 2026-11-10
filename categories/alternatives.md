@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20235 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6886 | — | alternatives, awesome, awesome-list, curated-list, foss |
-| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9934 | — | alternatives, list |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20256 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6893 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [KenneyNL/Adobe-Alternatives](../repos/kenneynl-adobe-alternatives.md) | 5.5 | 9951 | — | alternatives, list |
 
 ### [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md)
 
