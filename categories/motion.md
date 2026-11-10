@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11362 | TypeScript | ai, deepseek, doubao, motion, react |
-| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6129 | HTML | design, motion, motionskill, product, skill |
+| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11376 | TypeScript | ai, deepseek, doubao, motion, react |
+| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6210 | HTML | design, motion, motionskill, product, skill |
 
 ### [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md)
 
