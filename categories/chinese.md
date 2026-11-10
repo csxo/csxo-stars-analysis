@@ -4,18 +4,18 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 103667 | — | chinese, cookbook, cooking, dishes, recipes |
-| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 54085 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39994 | Python | agent, chat, chatgpt, chattts, chinese |
-| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 38270 | Python | chinese, document, edit, english, japanese |
-| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22780 | — | awesome-lists, chatglm, chinese, llama, llm |
-| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6036 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
-| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4298 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
-| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4091 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
-| [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md) | 7.0 | 556 | JavaScript | chinese, claude-code, claude-skills, explainer-video, text-to-video |
+| [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md) | 7.0 | 103810 | — | chinese, cookbook, cooking, dishes, recipes |
+| [chinese-poetry/chinese-poetry](../repos/chinese-poetry-chinese-poetry.md) | 7.0 | 54229 | JavaScript | chinese, chinese-poetry, ci, json, poetry |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39996 | Python | agent, chat, chatgpt, chattts, chinese |
+| [PDFMathTranslate/PDFMathTranslate](../repos/pdfmathtranslate-pdfmathtranslate.md) | 7.0 | 38343 | Python | chinese, document, edit, english, japanese |
+| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22779 | — | awesome-lists, chatglm, chinese, llama, llm |
+| [OFA-Sys/Chinese-CLIP](../repos/ofa-sys-chinese-clip.md) | 7.0 | 6041 | Jupyter Notebook | chinese, clip, computer-vision, contrastive-loss, coreml-models |
+| [esbatmop/MNBVC](../repos/esbatmop-mnbvc.md) | 7.0 | 4300 | — | chinese, chinese-language, chinese-nlp, chinese-simplified, corpus-data |
+| [jaywcjlove/free-font](../repos/jaywcjlove-free-font.md) | 7.0 | 4094 | JavaScript | chinese, chinese-font, chinese-fonts, english-font, font |
+| [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md) | 7.0 | 613 | JavaScript | chinese, claude-code, claude-skills, explainer-video, text-to-video |
 | [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 249 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
 | [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2080 | — | china, chinese, chinese-podcasts, podcast |
-| [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1647 | — | chinese, email, newsletter, rss |
+| [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1646 | — | chinese, email, newsletter, rss |
 
 ### [Anduin2017/HowToCook](../repos/anduin2017-howtocook.md)
 
