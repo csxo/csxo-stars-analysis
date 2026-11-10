@@ -4,17 +4,17 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195124 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
-| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 57906 | TypeScript | aria2, bt, download, electron, linux |
-| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 51893 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
-| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27367 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
-| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9779 | TypeScript | electron, linux, macos, react, rss |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9115 | TypeScript | electron, free, music, music-player, react |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7407 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 6152 | TypeScript | ai-agents, bun, codex, electron, local-first |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3821 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55142 | TypeScript | electron, javascript, music-player, vue |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27157 | TypeScript | clash, clash-meta, electron, mihomo |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195250 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 58088 | TypeScript | aria2, bt, download, electron, linux |
+| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 52148 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
+| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27387 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
+| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9787 | TypeScript | electron, linux, macos, react, rss |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9134 | TypeScript | electron, free, music, music-player, react |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7414 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 6788 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3850 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55231 | TypeScript | electron, javascript, music-player, vue |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27181 | TypeScript | clash, clash-meta, electron, mihomo |
 | [ShirasawaSama/CefDetectorX](../repos/shirasawasama-cefdetectorx.md) | 6.5 | 2599 | JavaScript | cef, cefsharp, electron, miniblink |
 
 ### [microsoft/vscode](../repos/microsoft-vscode.md)
