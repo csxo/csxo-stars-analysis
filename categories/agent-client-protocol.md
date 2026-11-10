@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 1950 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
+| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 2033 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
 
 ### [leepokai/Codync](../repos/leepokai-codync.md)
 
