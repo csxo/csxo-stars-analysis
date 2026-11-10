@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 144076 | Python | agents, llms, python, rag |
+| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 144340 | Python | agents, llms, python, rag |
 
 ### [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md)
 
