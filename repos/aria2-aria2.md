@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 43424
+- **Star 数**: 43460
 - **主语言**: C++
 - **GitHub 主题**: `bittorrent`, `cpp11`, `download`, `ftp`, `http`, `metalink`, `rpc`, `sftp`
 
