@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34670 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
+| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34678 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
 
 ### [balena-io/etcher](../repos/balena-io-etcher.md)
 
