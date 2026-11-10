@@ -1,26 +1,27 @@
 # claude
 
-> 项目数: **17**
+> 项目数: **18**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 186073 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 146331 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 118078 | Go | ai, anthropic, caveman, claude, claude-code |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88944 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80005 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 78966 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70761 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 62871 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47826 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42267 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21934 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 188085 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 147585 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 118781 | Go | ai, anthropic, caveman, claude, claude-code |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88941 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80199 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 79178 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70818 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 63070 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47861 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42290 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
+| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38506 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 21991 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
 | [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15243 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
-| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 13966 | — | ai-video, awesome, awesome-list, claude, claude-opus |
-| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9075 | TypeScript | ai, application, browser, chatgpt, claude |
-| [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6193 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
-| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 5170 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
-| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 1950 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
+| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 14660 | — | ai-video, awesome, awesome-list, claude, claude-opus |
+| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9073 | TypeScript | ai, application, browser, chatgpt, claude |
+| [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6280 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
+| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 5299 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
+| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 2033 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
 
 ### [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md)
 
@@ -61,6 +62,10 @@ Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and s
 ### [chatboxai/chatbox](../repos/chatboxai-chatbox.md)
 
 Powerful AI Client
+
+### [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md)
+
+⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 ### [liyupi/ai-guide](../repos/liyupi-ai-guide.md)
 
