@@ -1,10 +1,15 @@
 # bun
 
-> 项目数: **1**
+> 项目数: **2**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 6152 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38506 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 6788 | TypeScript | ai-agents, bun, codex, electron, local-first |
+
+### [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md)
+
+⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 ### [nightly-labs/openbot](../repos/nightly-labs-openbot.md)
 
