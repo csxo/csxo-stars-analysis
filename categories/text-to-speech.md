@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36872 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
-| [jianchang512/pyvideotrans](../repos/jianchang512-pyvideotrans.md) | 7.0 | 19664 | Python | speech-to-text, stt, subtitle-translation, text-to-speech, tts |
+| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36875 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
+| [jianchang512/pyvideotrans](../repos/jianchang512-pyvideotrans.md) | 7.0 | 19694 | Python | speech-to-text, stt, subtitle-translation, text-to-speech, tts |
 
 ### [babysor/MockingBird](../repos/babysor-mockingbird.md)
 
