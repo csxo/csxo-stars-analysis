@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 16589
+- **Star 数**: 16590
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-playground`, `anthropic`, `chatbot`, `webcontainers-api`
 
