@@ -1,13 +1,14 @@
 # anthropic
 
-> 项目数: **4**
+> 项目数: **5**
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 118078 | Go | ai, anthropic, caveman, claude, claude-code |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70761 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 46833 | TypeScript | ai, anthropic, artifacts, aws, azure |
-| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16589 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 118781 | Go | ai, anthropic, caveman, claude, claude-code |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70818 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 46929 | TypeScript | ai, anthropic, artifacts, aws, azure |
+| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38506 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
+| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16590 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
 
 ### [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md)
 
@@ -20,6 +21,10 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 ### [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md)
 
 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+
+### [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md)
+
+⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 ### [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md)
 
