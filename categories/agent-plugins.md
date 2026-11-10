@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 2947 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
+| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 3000 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
 
 ### [runkids/skillshare](../repos/runkids-skillshare.md)
 
