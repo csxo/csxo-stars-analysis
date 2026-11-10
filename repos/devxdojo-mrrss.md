@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2625
+- **Star 数**: 2639
 - **主语言**: Go
 - **GitHub 主题**: `ai`, `atom`, `feed-reader`, `feeds`, `rss`, `rss-reader`
 
