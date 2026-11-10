@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7780 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
+| [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md) | 7.0 | 7798 | GLSL | mpv, mpv-config, mpv-player, mpv-script, mpv-shader |
 | [diana7127/mpv.net-DW](../repos/diana7127-mpv-net-dw.md) | 7.0 | 2004 | — | audio-player, media-player, mediainfo, mpv, mpv-config |
 
 ### [hooke007/mpv_PlayKit](../repos/hooke007-mpv_playkit.md)
