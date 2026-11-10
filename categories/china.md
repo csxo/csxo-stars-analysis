@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28792 | JavaScript | china, converter, epg, iptv, ipv6 |
-| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25711 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
+| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28807 | JavaScript | china, converter, epg, iptv, ipv6 |
+| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25713 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
 | [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19743 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
 | [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2080 | — | china, chinese, chinese-podcasts, podcast |
-| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 62015 | — | china, indie, indie-developer |
-| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24407 | JavaScript | blog, china, rss |
+| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 62030 | — | china, indie, indie-developer |
+| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24425 | JavaScript | blog, china, rss |
 
 ### [fanmingming/live](../repos/fanmingming-live.md)
 
