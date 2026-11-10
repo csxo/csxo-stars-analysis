@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 162696
+- **Star 数**: 162731
 - **主语言**: —
 - **GitHub 主题**: `bash`, `documentation`, `linux`, `macos`, `unix`, `windows`
 
