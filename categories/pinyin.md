@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 5083 | Lua | dicts, ime, pinyin, rime, rime-config |
-| [fkxxyz/rime-cloverpinyin](../repos/fkxxyz-rime-cloverpinyin.md) | 6.5 | 2005 | Python | fcitx, pinyin, rime, schema |
+| [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md) | 7.0 | 5108 | Lua | dicts, ime, pinyin, rime, rime-config |
+| [fkxxyz/rime-cloverpinyin](../repos/fkxxyz-rime-cloverpinyin.md) | 6.5 | 2003 | Python | fcitx, pinyin, rime, schema |
 
 ### [amzxyz/rime-wanxiang](../repos/amzxyz-rime-wanxiang.md)
 
