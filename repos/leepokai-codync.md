@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2033
+- **Star 数**: 2072
 - **主语言**: Rust
 - **GitHub 主题**: `acp`, `agent-client-protocol`, `ai-agents`, `ai-assistant`, `claude`, `claude-code`, `codex`, `coding-agents`, `cursor`, `gemini`, `gemini-cli`, `grok-bot-alternative`, `ios`, `iphone`, `linux`, `macos`, `mcp`, `open-source`, `rust`, `self-hosted`
 
