@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13208 | Python | python, youtube, youtube-downloader |
+| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13209 | Python | python, youtube, youtube-downloader |
 
 ### [pytube/pytube](../repos/pytube-pytube.md)
 
