@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 9703
+- **Star 数**: 10019
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent`, `ai-agent`, `ai-assistant`, `android`, `claude-code`, `codex`, `electron`, `ios`, `llm`, `macos`, `react-native`, `typescript`, `windows`
 
