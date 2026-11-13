@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [moudey/Shell](../repos/moudey-shell.md) | 7.0 | 6938 | C++ | context-menu, file-explorer, nilesoft-shell, right-click, shell-extension |
+| [moudey/Shell](../repos/moudey-shell.md) | 7.0 | 6948 | C++ | context-menu, file-explorer, nilesoft-shell, right-click, shell-extension |
 
 ### [moudey/Shell](../repos/moudey-shell.md)
 
