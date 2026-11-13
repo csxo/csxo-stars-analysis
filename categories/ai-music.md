@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 2150 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 2175 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
 
 ### [leemysw/yovoice](../repos/leemysw-yovoice.md)
 
