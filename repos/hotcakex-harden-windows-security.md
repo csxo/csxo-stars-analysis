@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4844
+- **Star 数**: 4847
 - **主语言**: C#
 - **GitHub 主题**: `1st-party-security`, `applicationcontrol`, `audit`, `bitlocker`, `compliance`, `defender`, `encryption`, `enterprise-security`, `firewall-configuration`, `harden`, `intune`, `operation-system-security`, `proactive`, `security`, `security-hardening`, `tpm2`, `wdac`, `windows`, `windows11`, `windowsdefender`
 
