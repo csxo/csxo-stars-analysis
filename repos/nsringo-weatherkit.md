@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 402
+- **Star 数**: 404
 - **主语言**: JavaScript
 - **GitHub 主题**: `apple`, `apple-weather-app`, `weatherkit`, `weatherkit-rest-api`
 
