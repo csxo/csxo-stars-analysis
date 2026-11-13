@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 38506
+- **Star 数**: 38916
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-agent`, `ai-coding-agent`, `anthropic`, `bun`, `claude`, `cli`, `coding-assistant`, `llm`, `mcp`, `multi-provider`, `openai`, `rust`, `terminal`, `tui`, `typescript`
 
