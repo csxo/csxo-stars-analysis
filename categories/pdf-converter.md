@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 96201 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 96494 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
 
 ### [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md)
 
