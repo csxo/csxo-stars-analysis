@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 9009 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
+| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 9025 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
 
 ### [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md)
 
