@@ -4,15 +4,15 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 153250 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 147585 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 114785 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 112777 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53394 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 33663 | Go | claude-code, codex, deepseek, gemini-cli, llm |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 6788 | TypeScript | ai-agents, bun, codex, electron, local-first |
-| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1718 | TypeScript | agent-skill, claude-code, codex, macos, skills |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 926 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 154147 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 148899 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 116979 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 114662 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53481 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [yetone/magpie](../repos/yetone-magpie.md) | 7.0 | 35898 | Go | claude-code, codex, deepseek, gemini-cli, llm |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 7387 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1761 | TypeScript | agent-skill, claude-code, codex, macos, skills |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 938 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
 
 ### [farion1231/cc-switch](../repos/farion1231-cc-switch.md)
 
