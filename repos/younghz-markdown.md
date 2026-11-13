@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 4055
+- **Star 数**: 4056
 - **主语言**: —
 - **GitHub 主题**: `markdown`
 
@@ -28,10 +28,4 @@ Markdown 基本语法。
 ## 标签
 
 `markdown`
-
-## 同类项目
-
-| Project | Similarity | Shared tags |
-| --- | ---: | --- |
-| [emilkowalski/skills](emilkowalski-skills.md) | 0.50 | `markdown` |
 
