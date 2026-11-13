@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5547 | Batchfile | batch, edge, microsoft, removal, remove |
+| [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md) | 7.0 | 5553 | Batchfile | batch, edge, microsoft, removal, remove |
 
 ### [ShadowWhisperer/Remove-MS-Edge](../repos/shadowwhisperer-remove-ms-edge.md)
 
