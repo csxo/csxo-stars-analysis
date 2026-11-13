@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38506 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 6788 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38916 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 7387 | TypeScript | ai-agents, bun, codex, electron, local-first |
 
 ### [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md)
 
