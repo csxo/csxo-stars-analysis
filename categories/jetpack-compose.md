@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30521 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
-| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 7992 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
+| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30624 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
+| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 8491 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
 
 ### [JunkFood02/Seal](../repos/junkfood02-seal.md)
 
