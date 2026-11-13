@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 29989
+- **Star 数**: 29982
 - **主语言**: JavaScript
 - **GitHub 主题**: `deprecated`, `html5-video`, `javascript`, `plyr`, `videojs`, `vimeo`, `youtube`
 
