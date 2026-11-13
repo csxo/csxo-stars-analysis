@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10195 | JavaScript | github, release, steam, tampermonkey, userscript |
+| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10200 | JavaScript | github, release, steam, tampermonkey, userscript |
 | [TheRealJoelmatic/RemoveAdblockThing](../repos/therealjoelmatic-removeadblockthing.md) | 7.0 | 5970 | JavaScript | adblock, remove-not-allowed, tampermonkey, tampermonkey-userscript, undetected |
-| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3802 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
-| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2804 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
+| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3801 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
+| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2814 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
 | [machsix/Super-preloader](../repos/machsix-super-preloader.md) | 6.5 | 648 | JavaScript | greasemonkey, tampermonkey, userscript, violentmonkey |
-| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 31058 | TypeScript | bilibili, tampermonkey, userscript |
-| [langren1353/GM_script](../repos/langren1353-gm_script.md) | 6.0 | 6055 | JavaScript | gm-scripts, greasemonkey, tampermonkey |
-| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4276 | JavaScript | csdn, tampermonkey, userscript |
+| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 31089 | TypeScript | bilibili, tampermonkey, userscript |
+| [langren1353/GM_script](../repos/langren1353-gm_script.md) | 6.0 | 6054 | JavaScript | gm-scripts, greasemonkey, tampermonkey |
+| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4277 | JavaScript | csdn, tampermonkey, userscript |
 
 ### [XIU2/UserScript](../repos/xiu2-userscript.md)
 
