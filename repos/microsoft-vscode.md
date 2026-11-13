@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 195250
+- **Star 数**: 195361
 - **主语言**: TypeScript
 - **GitHub 主题**: `editor`, `electron`, `microsoft`, `typescript`, `visual-studio-code`
 
