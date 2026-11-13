@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 14695
+- **Star 数**: 14707
 - **主语言**: Go
 - **GitHub 主题**: `browser`, `chrome`, `chromium`, `cli`, `dfir`, `digital-forensics`, `edge`, `firefox`, `golang`, `hacking`, `incident-response`, `linux`, `macos`, `pentest-tool`, `safari`, `windows`
 
