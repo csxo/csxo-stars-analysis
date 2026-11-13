@@ -4,20 +4,20 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 160827 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
-| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 84730 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80199 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 79960 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
-| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 75971 | Python | agent, ai, deepseek, fine-tuning, gemma |
-| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71239 | Python | agent, gpt, llm, metagpt, multi-agent |
-| [herdrdev/herdr](../repos/herdrdev-herdr.md) | 7.0 | 49883 | Rust | agent, agent-orchestration, ai, ai-agents, claude-code |
-| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 39996 | Python | agent, chat, chatgpt, chattts, chinese |
-| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36451 | TypeScript | agent, ai, cli, developer-tools, open-source |
-| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23136 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
-| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20391 | JavaScript | agent, ai, coding, course, deepseek |
-| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14755 | Python | agent, llama, llama4, llm, pretraining |
-| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 9703 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
-| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2737 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
+| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 161086 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
+| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 85247 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80366 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [dair-ai/Prompt-Engineering-Guide](../repos/dair-ai-prompt-engineering-guide.md) | 7.0 | 80029 | MDX | agent, agents, ai-agents, chatgpt, deep-learning |
+| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 76027 | Python | agent, ai, deepseek, fine-tuning, gemma |
+| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71270 | Python | agent, gpt, llm, metagpt, multi-agent |
+| [herdrdev/herdr](../repos/herdrdev-herdr.md) | 7.0 | 50731 | Rust | agent, agent-orchestration, ai, ai-agents, claude-code |
+| [2noise/ChatTTS](../repos/2noise-chattts.md) | 7.0 | 40003 | Python | agent, chat, chatgpt, chattts, chinese |
+| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36469 | TypeScript | agent, ai, cli, developer-tools, open-source |
+| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23154 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
+| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20411 | JavaScript | agent, ai, coding, course, deepseek |
+| [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14757 | Python | agent, llama, llama4, llm, pretraining |
+| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 10019 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
+| [LearnPrompt/LearnPrompt](../repos/learnprompt-learnprompt.md) | 7.0 | 2742 | MDX | agent, aimusic, aivoice, chatgpt-app, claude-code |
 
 ### [langgenius/dify](../repos/langgenius-dify.md)
 
