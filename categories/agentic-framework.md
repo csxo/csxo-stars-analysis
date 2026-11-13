@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 160827 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
+| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 161086 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
 
 ### [langgenius/dify](../repos/langgenius-dify.md)
 
