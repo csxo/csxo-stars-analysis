@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5653 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
+| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5671 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
 
 ### [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md)
 
