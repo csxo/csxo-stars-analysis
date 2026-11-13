@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23136 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
+| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23154 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
 
 ### [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md)
 
