@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 46929 | TypeScript | ai, anthropic, artifacts, aws, azure |
+| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 47081 | TypeScript | ai, anthropic, artifacts, aws, azure |
 
 ### [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md)
 
