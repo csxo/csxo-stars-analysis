@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [rwv/chinese-dos-games](../repos/rwv-chinese-dos-games.md) | 5.5 | 10351 | Python | dos, game |
+| [rwv/chinese-dos-games](../repos/rwv-chinese-dos-games.md) | 5.5 | 10356 | Python | dos, game |
 
 ### [rwv/chinese-dos-games](../repos/rwv-chinese-dos-games.md)
 
