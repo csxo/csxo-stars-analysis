@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 15713
+- **Star 数**: 15711
 - **主语言**: Go
 - **GitHub 主题**: `community`, `forum`, `go`, `golang`, `hacktoberfest`, `q-and-a`, `question`, `react`, `typescript`
 
