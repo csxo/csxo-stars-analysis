@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10520 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
-| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59487 | C# | c-sharp, proxy, shadowsocks |
+| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10529 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
+| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59481 | C# | c-sharp, proxy, shadowsocks |
 
 ### [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md)
 
