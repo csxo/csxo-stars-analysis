@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15270 | Swift | app, baidu, bing, deepl, dictionary |
+| [tisfeng/Easydict](../repos/tisfeng-easydict.md) | 7.0 | 15301 | Swift | app, baidu, bing, deepl, dictionary |
 
 ### [tisfeng/Easydict](../repos/tisfeng-easydict.md)
 
