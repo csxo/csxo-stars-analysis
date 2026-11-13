@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 63070 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 63512 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
 
 ### [tw93/Pake](../repos/tw93-pake.md)
 
