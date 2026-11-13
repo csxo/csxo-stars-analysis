@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 257331 | — | awesome, awesome-list, bsd, cheatsheets, devops |
-| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80704 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
+| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 258128 | — | awesome, awesome-list, bsd, cheatsheets, devops |
+| [ventoy/Ventoy](../repos/ventoy-ventoy.md) | 7.0 | 80869 | C | arm64, auto-install, bootable-usb, bsd, chromeos |
 
 ### [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md)
 
