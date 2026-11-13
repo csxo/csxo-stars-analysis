@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 10195
+- **Star 数**: 10200
 - **主语言**: JavaScript
 - **GitHub 主题**: `github`, `release`, `steam`, `tampermonkey`, `userscript`
 
