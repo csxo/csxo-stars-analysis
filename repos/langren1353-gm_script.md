@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 6055
+- **Star 数**: 6054
 - **主语言**: JavaScript
 - **GitHub 主题**: `gm-scripts`, `greasemonkey`, `tampermonkey`
 
