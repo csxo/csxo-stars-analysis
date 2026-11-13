@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5275 | C# | acrylic, backdrop, mica, win32, windows |
-| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4678 | C++ | acrylic, aero, aeroglass, dwm, mica |
-| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4291 | C++ | acrylic, blur, explorer, mica, shell |
+| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5276 | C# | acrylic, backdrop, mica, win32, windows |
+| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4689 | C++ | acrylic, aero, aeroglass, dwm, mica |
+| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4299 | C++ | acrylic, blur, explorer, mica, shell |
 
 ### [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md)
 
