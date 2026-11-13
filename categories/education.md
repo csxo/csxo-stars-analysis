@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 401423 | Python | books, education, hacktoberfest, list, resource |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97124 | JavaScript | css, curriculum, education, html, javascript |
+| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 401526 | Python | books, education, hacktoberfest, list, resource |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97127 | JavaScript | css, curriculum, education, html, javascript |
 
 ### [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md)
 
