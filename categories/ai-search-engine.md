@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 38142 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
-| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1511 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
+| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 38193 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
+| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1517 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
 
 ### [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md)
 
