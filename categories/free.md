@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 561472 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119551 | — | android, angular, books, free, ios |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28421 | TypeScript | free, music-player, musicfree, plugin, react |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9134 | TypeScript | electron, free, music, music-player, react |
+| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 562236 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119597 | — | android, angular, books, free, ios |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28518 | TypeScript | free, music-player, musicfree, plugin, react |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9152 | TypeScript | electron, free, music, music-player, react |
 
 ### [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md)
 
