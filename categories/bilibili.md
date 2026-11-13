@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 46904 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
-| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31833 | Go | bilibili, crawler, download, downloader, go |
-| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8771 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
-| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6344 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
-| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 31058 | TypeScript | bilibili, tampermonkey, userscript |
-| [Biliverse/Universe](../repos/biliverse-universe.md) | 5.0 | 1219 | — | bilibili |
+| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 46984 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
+| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31839 | Go | bilibili, crawler, download, downloader, go |
+| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8772 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
+| [hanydd/BilibiliSponsorBlock](../repos/hanydd-bilibilisponsorblock.md) | 7.0 | 6366 | TypeScript | adblock, bilibili, browser-extension, chrome, chrome-extension |
+| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 31089 | TypeScript | bilibili, tampermonkey, userscript |
+| [Biliverse/Universe](../repos/biliverse-universe.md) | 5.0 | 1221 | — | bilibili |
 
 ### [DIYgod/RSSHub](../repos/diygod-rsshub.md)
 
