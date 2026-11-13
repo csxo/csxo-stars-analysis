@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22067
+- **Star 数**: 22097
 - **主语言**: PowerShell
 - **GitHub 主题**: `ame-wizard`, `atlas`, `atlasos`, `debloat`, `fps`, `gaming`, `latency`, `open-source`, `opensource`, `performance`, `privacy`, `security`, `tweaks`, `windows`
 
