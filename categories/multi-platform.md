@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 62401 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 62972 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
 
 ### [chen08209/FlClash](../repos/chen08209-flclash.md)
 
