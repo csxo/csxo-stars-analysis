@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 49883
+- **Star 数**: 50731
 - **主语言**: Rust
 - **GitHub 主题**: `agent`, `agent-orchestration`, `ai`, `ai-agents`, `claude-code`, `cli`, `codex`, `coding-agents`, `developer-tools`, `devtools`, `multiplexer`, `rust`, `terminal`, `terminal-multiplexer`, `terminal-ui`, `tmux`, `tui`, `workspace-manager`
 
