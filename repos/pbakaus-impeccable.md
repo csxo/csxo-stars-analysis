@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 107221
+- **Star 数**: 109266
 - **主语言**: Rust
 - **GitHub 主题**: `agent-skills`, `ai`, `anti-slop`, `design`, `slop`
 
