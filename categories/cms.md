@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90430 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
-| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 4057 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
+| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90461 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
+| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 4123 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
 
 ### [gohugoio/hugo](../repos/gohugoio-hugo.md)
 
