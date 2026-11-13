@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/winget-cli](../repos/microsoft-winget-cli.md) | 6.5 | 26580 | C++ | command-line, package-manager, windows, winget |
+| [microsoft/winget-cli](../repos/microsoft-winget-cli.md) | 6.5 | 26600 | C++ | command-line, package-manager, windows, winget |
 
 ### [microsoft/winget-cli](../repos/microsoft-winget-cli.md)
 
