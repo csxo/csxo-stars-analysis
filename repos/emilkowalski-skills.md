@@ -5,8 +5,9 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 55606
+- **Star 数**: 56526
 - **主语言**: Markdown
+- **GitHub 主题**: `agent-skills`, `animation`, `claude-code`, `codex`, `cursor`, `design-engineering`
 
 ## 简介
 
@@ -32,9 +33,5 @@ Skills for Designers and Engineers.
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [dracula/dracula-theme](dracula-dracula-theme.md) | 0.50 | `(none)` |
-| [younghz/Markdown](younghz-markdown.md) | 0.50 | `markdown` |
-| [programthink/books](programthink-books.md) | 0.50 | `(none)` |
-| [jkiss/sensitive-words](jkiss-sensitive-words.md) | 0.50 | `(none)` |
-| [ruanyf/reading-list](ruanyf-reading-list.md) | 0.50 | `(none)` |
+| [addyosmani/agent-skills](addyosmani-agent-skills.md) | 0.36 | `agent-skills`, `claude-code`, `codex`, `cursor` |
 
