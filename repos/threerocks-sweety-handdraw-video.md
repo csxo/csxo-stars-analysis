@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 1179
-- **主语言**: JavaScript
+- **Star 数**: 1209
+- **主语言**: Python
 
 ## 简介
 
@@ -32,9 +32,9 @@
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [philc/vimium](philc-vimium.md) | 1.00 | `(none)`, `javascript` |
-| [gblazex/smoothscroll](gblazex-smoothscroll.md) | 1.00 | `(none)`, `javascript` |
-| [ziahamza/webui-aria2](ziahamza-webui-aria2.md) | 1.00 | `(none)`, `javascript` |
-| [adam-p/markdown-here](adam-p-markdown-here.md) | 1.00 | `(none)`, `javascript` |
-| [qxinGitHub/searchEngineJump](qxingithub-searchenginejump.md) | 1.00 | `(none)`, `javascript` |
+| [ytdl-org/youtube-dl](ytdl-org-youtube-dl.md) | 1.00 | `(none)`, `python` |
+| [soimort/you-get](soimort-you-get.md) | 1.00 | `(none)`, `python` |
+| [taxigps/xbmc-addons-chinese](taxigps-xbmc-addons-chinese.md) | 1.00 | `(none)`, `python` |
+| [programthink/zhao](programthink-zhao.md) | 1.00 | `(none)`, `python` |
+| [python/cpython](python-cpython.md) | 1.00 | `(none)`, `python` |
 
