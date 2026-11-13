@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 40910 | C# | avalonia, capture, color-picker, csharp, dropbox |
+| [ShareX/ShareX](../repos/sharex-sharex.md) | 7.0 | 41004 | C# | avalonia, capture, color-picker, csharp, dropbox |
 
 ### [ShareX/ShareX](../repos/sharex-sharex.md)
 
