@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69227 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6680 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69292 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6682 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
 | [crazy-max/WindowsSpyBlocker](../repos/crazy-max-windowsspyblocker.md) | 7.0 | 5239 | Go | blocker, dnscrypt, firewall, hostsfile, ncsi |
 
 ### [gorhill/uBlock](../repos/gorhill-ublock.md)
