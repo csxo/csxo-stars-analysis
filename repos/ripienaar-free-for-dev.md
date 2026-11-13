@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.5/10
-- **Star 数**: 142437
+- **Star 数**: 142732
 - **主语言**: HTML
 - **GitHub 主题**: `awesome-list`, `free-for-developers`
 
