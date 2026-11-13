@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24806 | PowerShell | installer, powershell, scoop, windows |
-| [vim/vim-win32-installer](../repos/vim-vim-win32-installer.md) | 6.0 | 2301 | NSIS | installer, vim, windows |
+| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24809 | PowerShell | installer, powershell, scoop, windows |
+| [vim/vim-win32-installer](../repos/vim-vim-win32-installer.md) | 6.0 | 2302 | NSIS | installer, vim, windows |
 
 ### [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md)
 
