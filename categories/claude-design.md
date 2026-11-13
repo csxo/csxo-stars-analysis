@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6280 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
+| [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6418 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
 
 ### [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md)
 
