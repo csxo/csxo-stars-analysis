@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 118781 | Go | ai, anthropic, caveman, claude, claude-code |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70818 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 46929 | TypeScript | ai, anthropic, artifacts, aws, azure |
-| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38506 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
-| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16590 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 119577 | Go | ai, anthropic, caveman, claude, claude-code |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70890 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 47081 | TypeScript | ai, anthropic, artifacts, aws, azure |
+| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38916 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
+| [stackblitz/bolt.new](../repos/stackblitz-bolt-new.md) | 6.5 | 16594 | TypeScript | ai-playground, anthropic, chatbot, webcontainers-api |
 
 ### [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md)
 
