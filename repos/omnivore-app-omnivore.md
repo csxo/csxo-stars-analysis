@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 16414
+- **Star 数**: 16416
 - **主语言**: TypeScript
 - **GitHub 主题**: `bookmarks`, `logseq`, `logseq-plugin`, `productivity`, `read-it-later`, `reader`, `reading`
 
