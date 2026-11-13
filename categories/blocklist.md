@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6680 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
+| [iorate/ublacklist](../repos/iorate-ublacklist.md) | 7.0 | 6682 | TypeScript | blocker, blocklist, browser-extension, chrome-extension, edge-addon |
 
 ### [iorate/ublacklist](../repos/iorate-ublacklist.md)
 
