@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13300 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
-| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12979 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
+| [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md) | 7.0 | 13310 | Rust | clash, clash-meta, clash-nyanpasu, clash-rs, material-you |
+| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12998 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
 
 ### [libnyanpasu/clash-nyanpasu](../repos/libnyanpasu-clash-nyanpasu.md)
 
