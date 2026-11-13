@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 289457 | Python | beginner-project, cpp, golang, javascript, project |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46907 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25453 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22892 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15713 | Go | community, forum, go, golang, hacktoberfest |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7839 | Dart | android, flac, flutter, golang, ios |
-| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3465 | Go | ats, career, careers, golang, hiring |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 289644 | Python | beginner-project, cpp, golang, javascript, project |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46908 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25491 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22913 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15711 | Go | community, forum, go, golang, hacktoberfest |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7904 | Dart | android, flac, flutter, golang, ios |
+| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3510 | Go | ats, career, careers, golang, hiring |
 | [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 725 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
