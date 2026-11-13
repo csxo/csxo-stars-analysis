@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20256 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20288 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
 | [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5952 | Python | all-in-one, apps, atom-feed, atomfeed, community |
 
 ### [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md)
