@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20783 | C++ | acrylic, aero, blur, customization, discord |
-| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4678 | C++ | acrylic, aero, aeroglass, dwm, mica |
+| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20805 | C++ | acrylic, aero, blur, customization, discord |
+| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4689 | C++ | acrylic, aero, aeroglass, dwm, mica |
 
 ### [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md)
 
