@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186473 | JavaScript | algorithm, computer-science, cpp, interview, java |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 96201 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
-| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 36162 | Java | android, android-tv, android-tv-box, java, kotlin |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17633 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
-| [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2087 | — | algorithms, elasticsearch, java, jvm, kafka |
+| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186500 | JavaScript | algorithm, computer-science, cpp, interview, java |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 96494 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 36274 | Java | android, android-tv, android-tv-box, java, kotlin |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17644 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2086 | — | algorithms, elasticsearch, java, jvm, kafka |
 
 ### [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md)
 
