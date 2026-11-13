@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [obra/superpowers](../repos/obra-superpowers.md) | 7.0 | 315410 | Shell | ai, brainstorming, coding, obra, sdlc |
+| [obra/superpowers](../repos/obra-superpowers.md) | 7.0 | 317012 | Shell | ai, brainstorming, coding, obra, sdlc |
 
 ### [obra/superpowers](../repos/obra-superpowers.md)
 
