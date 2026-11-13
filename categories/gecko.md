@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md) | 7.0 | 8485 | TypeScript | browser, firefox, gecko, mozilla, webbrowser |
+| [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md) | 7.0 | 8492 | TypeScript | browser, firefox, gecko, mozilla, webbrowser |
 
 ### [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md)
 
