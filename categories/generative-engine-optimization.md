@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 4057 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
+| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 4123 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
 
 ### [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md)
 
