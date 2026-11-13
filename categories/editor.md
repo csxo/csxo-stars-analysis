@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195250 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
-| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27911 | C# | editor, gif, recorder, sketchboard, video |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14778 | C++ | desktop, editor, linux, macos, notepad |
-| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14310 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13519 | TypeScript | ai-bot, doocs, editor, llm, markdown |
-| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11444 | TypeScript | commonmark, editor, gfm, lute, markdown |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3992 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 596 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195361 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27931 | C# | editor, gif, recorder, sketchboard, video |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14787 | C++ | desktop, editor, linux, macos, notepad |
+| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14311 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13531 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11449 | TypeScript | commonmark, editor, gfm, lute, markdown |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3994 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 598 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
 
 ### [microsoft/vscode](../repos/microsoft-vscode.md)
 
