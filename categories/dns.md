@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42778 | Go | anticensorship, dns, network, proxy, reality |
-| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38312 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
-| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12343 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
-| [kkebo/DNSecure](../repos/kkebo-dnsecure.md) | 7.0 | 588 | Swift | dns, dns-over-https, dns-over-tls, doh, dot |
+| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 42872 | Go | anticensorship, dns, network, proxy, reality |
+| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38417 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
+| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12363 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
+| [kkebo/DNSecure](../repos/kkebo-dnsecure.md) | 7.0 | 589 | Swift | dns, dns-over-https, dns-over-tls, doh, dot |
 
 ### [XTLS/Xray-core](../repos/xtls-xray-core.md)
 
