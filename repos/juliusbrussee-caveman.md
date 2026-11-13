@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 118781
+- **Star 数**: 119577
 - **主语言**: Go
 - **GitHub 主题**: `ai`, `anthropic`, `caveman`, `claude`, `claude-code`, `llm`, `meme`, `prompt-engineering`, `skill`, `tokens`
 
