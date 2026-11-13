@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DeanChensj/jiangshan-map](../repos/deanchensj-jiangshan-map.md) | 7.0 | 5195 | JavaScript | ancient-china, cartography, china-map, chinese-history, classical-chinese-poetry |
+| [DeanChensj/jiangshan-map](../repos/deanchensj-jiangshan-map.md) | 7.0 | 5557 | JavaScript | ancient-china, cartography, china-map, chinese-history, classical-chinese-poetry |
 
 ### [DeanChensj/jiangshan-map](../repos/deanchensj-jiangshan-map.md)
 
