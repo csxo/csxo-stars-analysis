@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55231 | TypeScript | electron, javascript, music-player, vue |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55306 | TypeScript | electron, javascript, music-player, vue |
 
 ### [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md)
 
