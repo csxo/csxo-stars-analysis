@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105363 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
-| [firstcontributions/first-contributions](../repos/firstcontributions-first-contributions.md) | 7.0 | 56774 | — | beginner, beginner-friendly, contribute, contribution, contributions-welcome |
+| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105374 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
+| [firstcontributions/first-contributions](../repos/firstcontributions-first-contributions.md) | 7.0 | 56833 | — | beginner, beginner-friendly, contribute, contribution, contributions-welcome |
 
 ### [microsoft/terminal](../repos/microsoft-terminal.md)
 
