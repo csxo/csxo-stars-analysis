@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 11767
+- **Star 数**: 11764
 - **主语言**: —
 - **GitHub 主题**: `ai-painting`, `dd5`, `disco-diffusion`, `stable-diffusion`, `stable-diffusion-diffusers`, `stable-diffusion-embedding`, `stable-diffusion-tutorial`, `stable-diffusion-v1-5`, `stable-diffusion-webui`
 
