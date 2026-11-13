@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 333725
+- **Star 数**: 334439
 - **主语言**: Python
 - **GitHub 主题**: `awesome`, `awesome-list`, `python`, `python-frameworks`, `python-libraries`, `python-tools`
 
