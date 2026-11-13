@@ -4,32 +4,32 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119551 | — | android, angular, books, free, ios |
-| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 65647 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
-| [team-spotube/spotube](../repos/team-spotube-spotube.md) | 7.0 | 50707 | Kotlin | android, android-client, android-music-player, desktop-client, fdroid |
-| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 44424 | Kotlin | accessibility, android, auto, click, compose |
-| [TeamNewPipe/NewPipe](../repos/teamnewpipe-newpipe.md) | 7.0 | 40553 | Java | 4k, android, bandcamp, download-videos, newpipe |
-| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 36162 | Java | android, android-tv, android-tv-box, java, kotlin |
-| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30521 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27568 | Dart | android, bittorrent, cross-platform, debian, downloader |
-| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21456 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
-| [MustardChef/WSABuilds](../repos/mustardchef-wsabuilds.md) | 7.0 | 18968 | Python | android, android-emulator, google-apps, kernelsu, magisk |
-| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12979 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
-| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10624 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
-| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 9703 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
-| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 7992 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7839 | Dart | android, flac, flutter, golang, ios |
-| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7686 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
-| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7654 | Kotlin | android, compose, f-droid, kotlin, material-design |
-| [ReVanced/revanced-patches-template](../repos/revanced-revanced-patches-template.md) | 7.0 | 4614 | Kotlin | android, dalvik, kotlin, patches, revanced |
-| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4443 | Kotlin | album, android, androidx, audio, exoplayer |
-| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3377 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119597 | — | android, angular, books, free, ios |
+| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 65809 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
+| [team-spotube/spotube](../repos/team-spotube-spotube.md) | 7.0 | 50751 | Kotlin | android, android-client, android-music-player, desktop-client, fdroid |
+| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 44650 | Kotlin | accessibility, android, auto, click, compose |
+| [TeamNewPipe/NewPipe](../repos/teamnewpipe-newpipe.md) | 7.0 | 40638 | Java | 4k, android, bandcamp, download-videos, newpipe |
+| [yuliskov/SmartTube](../repos/yuliskov-smarttube.md) | 7.0 | 36274 | Java | android, android-tv, android-tv-box, java, kotlin |
+| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30624 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27656 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21476 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
+| [MustardChef/WSABuilds](../repos/mustardchef-wsabuilds.md) | 7.0 | 19001 | Python | android, android-emulator, google-apps, kernelsu, magisk |
+| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12998 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
+| [niedev/RTranslator](../repos/niedev-rtranslator.md) | 7.0 | 10650 | Java | android, android-app, bluetooth-le, mobile-app, nllb |
+| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 10019 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
+| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 8491 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 7904 | Dart | android, flac, flutter, golang, ios |
+| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7691 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
+| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7666 | Kotlin | android, compose, f-droid, kotlin, material-design |
+| [ReVanced/revanced-patches-template](../repos/revanced-revanced-patches-template.md) | 7.0 | 4612 | Kotlin | android, dalvik, kotlin, patches, revanced |
+| [OxygenCobalt/Auxio](../repos/oxygencobalt-auxio.md) | 7.0 | 4455 | Kotlin | album, android, androidx, audio, exoplayer |
+| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3453 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
 | [Runixe786/MD3-Windows](../repos/runixe786-md3-windows.md) | 7.0 | 2359 | Pascal | android, customisation, design, google, material-ui |
-| [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md) | 7.0 | 1915 | Kotlin | android, image, image-watermark, tools, watermark |
-| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1781 | Dart | android, flutter, ios, rss, rss-reader |
-| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1641 | Dart | android, android-app, dart, flutter, flutter-app |
-| [otobtc/ADhosts](../repos/otobtc-adhosts.md) | 6.5 | 1606 | — | ad, adblock, android, hosts |
-| [shadowsocks/shadowsocks-android](../repos/shadowsocks-shadowsocks-android.md) | 5.5 | 36835 | Kotlin | android, shadowsocks |
+| [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md) | 7.0 | 1917 | Kotlin | android, image, image-watermark, tools, watermark |
+| [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1784 | Dart | android, flutter, ios, rss, rss-reader |
+| [Livinglist/Hacki](../repos/livinglist-hacki.md) | 7.0 | 1643 | Dart | android, android-app, dart, flutter, flutter-app |
+| [otobtc/ADhosts](../repos/otobtc-adhosts.md) | 6.5 | 1612 | — | ad, adblock, android, hosts |
+| [shadowsocks/shadowsocks-android](../repos/shadowsocks-shadowsocks-android.md) | 5.5 | 36836 | Kotlin | android, shadowsocks |
 
 ### [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md)
 
