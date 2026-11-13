@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8219 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2838 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8223 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2840 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
 
 ### [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md)
 
