@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 364325 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
-| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 132293 | Python | algo, algorithm, algorithms, book, data-structure |
-| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 28051 | — | algorithms, c, cpp, cs-books, database |
+| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 364418 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
+| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 132350 | Python | algo, algorithm, algorithms, book, data-structure |
+| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 28073 | — | algorithms, c, cpp, cs-books, database |
 | [Jstarfish/JavaKeeper](../repos/jstarfish-javakeeper.md) | 7.0 | 2086 | — | algorithms, elasticsearch, java, jvm, kafka |
 
 ### [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md)
