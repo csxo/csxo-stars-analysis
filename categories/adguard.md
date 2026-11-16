@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38417 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29265 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7824 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
-| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6801 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4578 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1962 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
+| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38502 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29324 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7842 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
+| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6827 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4581 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1965 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
 
 ### [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md)
 
