@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 12998 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
+| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 13015 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
 
 ### [libre-tube/LibreTube](../repos/libre-tube-libretube.md)
 
