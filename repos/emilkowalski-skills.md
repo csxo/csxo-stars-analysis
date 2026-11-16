@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 56526
+- **Star 数**: 57343
 - **主语言**: Markdown
 - **GitHub 主题**: `agent-skills`, `animation`, `claude-code`, `codex`, `cursor`, `design-engineering`
 
