@@ -5,9 +5,9 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 32858
+- **Star 数**: 32856
 - **主语言**: Swift
-- **GitHub 主题**: `hysteria2`, `macos`, `shadowsocks`, `shadowsocksx-ng`, `swift`, `v2ray-plugin`
+- **GitHub 主题**: `hysteria2`, `macos`, `proxy`, `proxy-client`, `shadowsocks`, `shadowsocksx-ng`, `swift`, `v2ray-plugin`
 
 ## 简介
 
