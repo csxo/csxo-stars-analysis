@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 53232 | — | app, apple, apple-tv, apple-vision-pro, awesome |
-| [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md) | 7.0 | 7390 | — | all-platforms, apple, apple-music, foobar2000, itunes |
-| [weiran/Hackers](../repos/weiran-hackers.md) | 7.0 | 768 | Swift | apple, appstore, cocoapods, hacker-news, hackernews |
-| [NSRingo/WeatherKit](../repos/nsringo-weatherkit.md) | 6.5 | 404 | JavaScript | apple, apple-weather-app, weatherkit, weatherkit-rest-api |
+| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 53293 | — | app, apple, apple-tv, apple-vision-pro, awesome |
+| [WXRIW/Lyricify-App](../repos/wxriw-lyricify-app.md) | 7.0 | 7400 | — | all-platforms, apple, apple-music, foobar2000, itunes |
+| [weiran/Hackers](../repos/weiran-hackers.md) | 7.0 | 769 | Swift | apple, appstore, cocoapods, hacker-news, hackernews |
+| [NSRingo/WeatherKit](../repos/nsringo-weatherkit.md) | 6.5 | 406 | JavaScript | apple, apple-weather-app, weatherkit, weatherkit-rest-api |
 
 ### [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md)
 
