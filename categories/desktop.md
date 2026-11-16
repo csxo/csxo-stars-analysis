@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 140938 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88950 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 63512 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32270 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 19253 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
-| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 16022 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14787 | C++ | desktop, editor, linux, macos, notepad |
+| [microsoft/PowerToys](../repos/microsoft-powertoys.md) | 7.0 | 141043 | C | advanced-paste, color-picker, command-palette, desktop, fancyzones |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88969 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 63666 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32278 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 19320 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
+| [Flow-Launcher/Flow.Launcher](../repos/flow-launcher-flow-launcher.md) | 7.0 | 16034 | C# | alfred, application-launcher, desktop, finder, flow-launcher |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14789 | C++ | desktop, editor, linux, macos, notepad |
 
 ### [microsoft/PowerToys](../repos/microsoft-powertoys.md)
 
