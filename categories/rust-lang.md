@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 94906 | Rust | gpui, rust-lang, text-editor, zed |
+| [zed-industries/zed](../repos/zed-industries-zed.md) | 6.5 | 95136 | Rust | gpui, rust-lang, text-editor, zed |
 
 ### [zed-industries/zed](../repos/zed-industries-zed.md)
 
