@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2055 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
-| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 260 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2056 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 268 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
 
 ### [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md)
 
