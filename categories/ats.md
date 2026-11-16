@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3510 | Go | ats, career, careers, golang, hiring |
+| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3548 | Go | ats, career, careers, golang, hiring |
 
 ### [strelov1/freehire](../repos/strelov1-freehire.md)
 
