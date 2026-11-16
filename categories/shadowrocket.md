@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 32093 | — | adblock, gfw, proxy, shadowrocket, v2ray |
-| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16734 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10896 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
-| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8447 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
-| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5671 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
-| [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2064 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
-| [LOWERTOP/Shadowrocket](../repos/lowertop-shadowrocket.md) | 5.0 | 5464 | HTML | shadowrocket |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 32153 | — | adblock, gfw, proxy, shadowrocket, v2ray |
+| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16740 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10910 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8444 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
+| [LOWERTOP/Shadowrocket-First](../repos/lowertop-shadowrocket-first.md) | 7.0 | 5679 | — | giffgaff, okx, proxy, shadowrocket, t-mobile |
+| [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2063 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
+| [LOWERTOP/Shadowrocket](../repos/lowertop-shadowrocket.md) | 5.0 | 5480 | HTML | shadowrocket |
 
 ### [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md)
 
