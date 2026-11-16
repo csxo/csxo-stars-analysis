@@ -4,21 +4,21 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162742 | — | bash, documentation, linux, macos, unix |
-| [iina/iina](../repos/iina-iina.md) | 7.0 | 47108 | Swift | hacktoberfest, macos, mpv, swift, video |
-| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32858 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
-| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24199 | — | brave, browser, chromium, linux, macos |
-| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20190 | — | anytls, clash, mac, macos, native |
-| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19333 | JavaScript | linux, macos, ocr, pot, pot-app |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14787 | C++ | desktop, editor, linux, macos, notepad |
-| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10527 | Swift | feed-reader, ios, json-feed, macos, rss |
-| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9795 | TypeScript | electron, linux, macos, react, rss |
-| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6986 | Python | dlna, linux, macos, media-renderer, mpv |
-| [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md) | 7.0 | 3382 | TypeScript | ai, exe, macos, ocr, pc |
-| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 2175 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
-| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1761 | TypeScript | agent-skill, claude-code, codex, macos, skills |
+| [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md) | 7.0 | 162772 | — | bash, documentation, linux, macos, unix |
+| [iina/iina](../repos/iina-iina.md) | 7.0 | 47141 | Swift | hacktoberfest, macos, mpv, swift, video |
+| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32856 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
+| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24229 | — | brave, browser, chromium, linux, macos |
+| [yanue/V2rayU](../repos/yanue-v2rayu.md) | 7.0 | 20197 | — | anytls, clash, mac, macos, native |
+| [pot-app/pot-desktop](../repos/pot-app-pot-desktop.md) | 7.0 | 19322 | JavaScript | linux, macos, ocr, pot, pot-app |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14789 | C++ | desktop, editor, linux, macos, notepad |
+| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10539 | Swift | feed-reader, ios, json-feed, macos, rss |
+| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9796 | TypeScript | electron, linux, macos, react, rss |
+| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6984 | Python | dlna, linux, macos, media-renderer, mpv |
+| [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md) | 7.0 | 3381 | TypeScript | ai, exe, macos, ocr, pc |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 2216 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
+| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1775 | TypeScript | agent-skill, claude-code, codex, macos, skills |
 | [jaywcjlove/quick-rss](../repos/jaywcjlove-quick-rss.md) | 7.0 | 619 | Swift | feed, feeds, jaywcjlove, macos, macos-app |
-| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17578 | — | app, mac, macos |
+| [hzlzh/Best-App](../repos/hzlzh-best-app.md) | 6.0 | 17580 | — | app, mac, macos |
 
 ### [jlevy/the-art-of-command-line](../repos/jlevy-the-art-of-command-line.md)
 
