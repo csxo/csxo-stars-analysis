@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4123
+- **Star 数**: 4144
 - **主语言**: PHP
 - **GitHub 主题**: `ai`, `chrome-extension`, `cms`, `content-automation`, `generative-engine-optimization`, `geo`, `laravel`, `multi-site`, `openai-compatible`, `php`, `postgresql`, `pwa`, `rag`, `seo`
 
