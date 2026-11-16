@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3384
+- **Star 数**: 3386
 - **主语言**: TypeScript
 - **GitHub 主题**: `epub`, `epub-reader`, `nextjs`, `pwa`, `react`, `reactjs`, `reader`, `typescript`
 
