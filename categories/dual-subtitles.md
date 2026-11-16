@@ -5,7 +5,7 @@
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
 | [DualSubs/Universal](../repos/dualsubs-universal.md) | 7.0 | 1403 | JavaScript | dual-subtitles, streaming, streaming-services, subtitles, video |
-| [DualSubs/YouTube](../repos/dualsubs-youtube.md) | 6.0 | 534 | HTML | dual-subtitles, subtitles, youtube |
+| [DualSubs/YouTube](../repos/dualsubs-youtube.md) | 6.0 | 536 | HTML | dual-subtitles, subtitles, youtube |
 
 ### [DualSubs/Universal](../repos/dualsubs-universal.md)
 
