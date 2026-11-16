@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 116979 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 118140 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
 | [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6418 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
 
 ### [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md)
