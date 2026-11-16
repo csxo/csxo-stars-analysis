@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 32093 | — | adblock, gfw, proxy, shadowrocket, v2ray |
-| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25716 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
-| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16734 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
-| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15841 | Go | gfw, gui, hy2, juicity, linux |
-| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11199 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
-| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6701 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md) | 7.0 | 32153 | — | adblock, gfw, proxy, shadowrocket, v2ray |
+| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25720 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
+| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16740 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
+| [v2rayA/v2rayA](../repos/v2raya-v2raya.md) | 7.0 | 15863 | Go | gfw, gui, hy2, juicity, linux |
+| [Hackl0us/SS-Rule-Snippet](../repos/hackl0us-ss-rule-snippet.md) | 7.0 | 11200 | JavaScript | clash, clashx, gfw, gfwlist, hackl0us |
+| [Loyalsoldier/geoip](../repos/loyalsoldier-geoip.md) | 7.0 | 6708 | Go | anti-censorship, anticensorship, clash, geoip, gfw |
 
 ### [Johnshall/Shadowrocket-ADBlock-Rules-Forever](../repos/johnshall-shadowrocket-adblock-rules-forever.md)
 
