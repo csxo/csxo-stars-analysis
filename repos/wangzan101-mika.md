@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8491
+- **Star 数**: 8811
 - **主语言**: Kotlin
 - **GitHub 主题**: `accessibility`, `ai-agent`, `android`, `automation`, `jetpack-compose`, `kotlin`, `llm`, `mobile-agent`
 
