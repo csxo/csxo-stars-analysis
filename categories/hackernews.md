@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [weiran/Hackers](../repos/weiran-hackers.md) | 7.0 | 768 | Swift | apple, appstore, cocoapods, hacker-news, hackernews |
+| [weiran/Hackers](../repos/weiran-hackers.md) | 7.0 | 769 | Swift | apple, appstore, cocoapods, hacker-news, hackernews |
 | [ViggoZ/hackernews-cn](../repos/viggoz-hackernews-cn.md) | 5.0 | 355 | TypeScript | hackernews |
 
 ### [weiran/Hackers](../repos/weiran-hackers.md)
