@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dongyuwei/hallelujahIM](../repos/dongyuwei-hallelujahim.md) | 7.0 | 2604 | Objective-C++ | autocomplete, english, input-method, inputmethod, inputmethodkit |
+| [dongyuwei/hallelujahIM](../repos/dongyuwei-hallelujahim.md) | 7.0 | 2605 | Objective-C++ | autocomplete, english, input-method, inputmethod, inputmethodkit |
 
 ### [dongyuwei/hallelujahIM](../repos/dongyuwei-hallelujahim.md)
 
