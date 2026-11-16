@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 79502 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
-| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 67175 | C | audio, c, ffmpeg, fft, hevc |
-| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 38097 | C | audio, c, ffmpeg, mplayer, mpv |
-| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 28051 | — | algorithms, c, cpp, cs-books, database |
-| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20414 | C++ | assembly-language, c, cpp, emulation, emulator |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 17996 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
-| [vim/vim](../repos/vim-vim.md) | 6.5 | 41319 | Vim Script | c, cross-platform, text-editor, vim |
+| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 79617 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
+| [FFmpeg/FFmpeg](../repos/ffmpeg-ffmpeg.md) | 7.0 | 67395 | C | audio, c, ffmpeg, fft, hevc |
+| [mpv-player/mpv](../repos/mpv-player-mpv.md) | 7.0 | 38147 | C | audio, c, ffmpeg, mplayer, mpv |
+| [forthespada/CS-Books](../repos/forthespada-cs-books.md) | 7.0 | 28073 | — | algorithms, c, cpp, cs-books, database |
+| [RPCS3/rpcs3](../repos/rpcs3-rpcs3.md) | 7.0 | 20448 | C++ | assembly-language, c, cpp, emulation, emulator |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 18008 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [vim/vim](../repos/vim-vim.md) | 6.5 | 41326 | Vim Script | c, cross-platform, text-editor, vim |
 
 ### [obsproject/obs-studio](../repos/obsproject-obs-studio.md)
 
