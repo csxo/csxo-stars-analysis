@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 665
+- **Star 数**: 669
 - **主语言**: HTML
 - **GitHub 主题**: `china-history`, `chinese-classi`, `chinese-nlp`
 
