@@ -4,24 +4,24 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 190051 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 148899 | Python | ai-skills, antigravity, claude, claude-code, codex |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 119577 | Go | ai, anthropic, caveman, claude, claude-code |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88950 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80366 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 79386 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70890 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 63512 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47912 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42320 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
-| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 38916 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 22073 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15242 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
-| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 15101 | — | ai-video, awesome, awesome-list, claude, claude-opus |
-| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9072 | TypeScript | ai, application, browser, chatgpt, claude |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 191809 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [nextlevelbuilder/ui-ux-pro-max-skill](../repos/nextlevelbuilder-ui-ux-pro-max-skill.md) | 7.0 | 150212 | Python | ai-skills, antigravity, claude, claude-code, codex |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 120619 | Go | ai, anthropic, caveman, claude, claude-code |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88969 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80473 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 79621 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 70939 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [tw93/Pake](../repos/tw93-pake.md) | 7.0 | 63666 | Rust | chatgpt, claude, desktop, gemini, hight-performance |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 47949 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [chatboxai/chatbox](../repos/chatboxai-chatbox.md) | 7.0 | 42348 | TypeScript | assistant, chatbot, chatgpt, claude, claude-code |
+| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 39162 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 22146 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 15443 | — | ai-video, awesome, awesome-list, claude, claude-opus |
+| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15240 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
+| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9074 | TypeScript | ai, application, browser, chatgpt, claude |
 | [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6418 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
-| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 5428 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
-| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 2072 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
+| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 5561 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
+| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 2160 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
 
 ### [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md)
 
@@ -71,13 +71,13 @@ Powerful AI Client
 
 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站
 
-### [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md)
-
-GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-
 ### [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md)
 
 A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
+
+### [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md)
+
+GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 
 ### [lencx/Noi](../repos/lencx-noi.md)
 
