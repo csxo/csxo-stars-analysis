@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dafengzhen/infoharvest](../repos/dafengzhen-infoharvest.md) | 7.0 | 21 | TypeScript | bookmark, harvest, info, infoharvest, information-tool |
+| [dafengzhen/infoharvest](../repos/dafengzhen-infoharvest.md) | 7.0 | 20 | TypeScript | bookmark, harvest, info, infoharvest, information-tool |
 
 ### [dafengzhen/infoharvest](../repos/dafengzhen-infoharvest.md)
 
