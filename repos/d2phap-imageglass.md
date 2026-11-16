@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 14951
+- **Star 数**: 14976
 - **主语言**: C#
 - **GitHub 主题**: `appimage`, `avalonia`, `avif`, `cross-platform`, `csharp`, `dotnet`, `flatpak`, `heic`, `image-viewer`, `imageglass`, `jpeg-xl`, `jxl`, `linux`, `linux-app`, `macos`, `macos-app`, `photo-viewer`, `picture-viewer`, `raw-image`, `winforms`
 
