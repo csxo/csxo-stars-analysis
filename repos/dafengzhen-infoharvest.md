@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 21
+- **Star 数**: 20
 - **主语言**: TypeScript
 - **GitHub 主题**: `bookmark`, `harvest`, `info`, `infoharvest`, `information-tool`, `tool`
 
