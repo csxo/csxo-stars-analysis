@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5642 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
-| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5276 | C# | acrylic, backdrop, mica, win32, windows |
-| [microsoft/winget-cli](../repos/microsoft-winget-cli.md) | 6.5 | 26600 | C++ | command-line, package-manager, windows, winget |
-| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24809 | PowerShell | installer, powershell, scoop, windows |
-| [sxzxs/Real-time-translation-typing](../repos/sxzxs-real-time-translation-typing.md) | 6.5 | 1876 | AutoHotkey | autohotkey, lol, translators, windows |
-| [Bush2021/chrome_installer](../repos/bush2021-chrome_installer.md) | 6.5 | 1737 | Go | github-actions, google-chrome, offline-installer, windows |
-| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2643 | Python | chromium, ungoogled-chromium, windows |
-| [vim/vim-win32-installer](../repos/vim-vim-win32-installer.md) | 6.0 | 2302 | NSIS | installer, vim, windows |
+| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5647 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
+| [MicaForEveryone/MicaForEveryone](../repos/micaforeveryone-micaforeveryone.md) | 7.0 | 5279 | C# | acrylic, backdrop, mica, win32, windows |
+| [microsoft/winget-cli](../repos/microsoft-winget-cli.md) | 6.5 | 26610 | C++ | command-line, package-manager, windows, winget |
+| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24818 | PowerShell | installer, powershell, scoop, windows |
+| [sxzxs/Real-time-translation-typing](../repos/sxzxs-real-time-translation-typing.md) | 6.5 | 1874 | AutoHotkey | autohotkey, lol, translators, windows |
+| [Bush2021/chrome_installer](../repos/bush2021-chrome_installer.md) | 6.5 | 1736 | Go | github-actions, google-chrome, offline-installer, windows |
+| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2647 | Python | chromium, ungoogled-chromium, windows |
+| [vim/vim-win32-installer](../repos/vim-vim-win32-installer.md) | 6.0 | 2303 | NSIS | installer, vim, windows |
 
 ### [the1812/Malware-Patch](../repos/the1812-malware-patch.md)
 
