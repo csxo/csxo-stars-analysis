@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10475 | Dart | clash, clashmi, mihomo |
+| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10541 | Dart | clash, clashmi, mihomo |
 
 ### [KaringX/clashmi](../repos/karingx-clashmi.md)
 
