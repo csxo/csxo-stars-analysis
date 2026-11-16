@@ -1,11 +1,11 @@
 # [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
 
-> A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+> A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22623
+- **Star 数**: 22694
 - **主语言**: JavaScript
 - **GitHub 主题**: `bootstrap-icons`, `components`, `css`, `icon`, `icon-pack`, `icons`, `icons-pack`, `iconset`, `quality-svg-icons`, `react`, `svelte`, `svg`, `svg-icons`, `tabler-icons`
 
