@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 62529 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
-| [hellzerg/optimizer](../repos/hellzerg-optimizer.md) | 7.0 | 18237 | C# | cleanup, hosts-file, optimize, privacy, registry-hacks |
+| [Raphire/Win11Debloat](../repos/raphire-win11debloat.md) | 7.0 | 62954 | PowerShell | automated, bloatware, bloatware-removal, cleanup, cli |
+| [hellzerg/optimizer](../repos/hellzerg-optimizer.md) | 7.0 | 18260 | C# | cleanup, hosts-file, optimize, privacy, registry-hacks |
 
 ### [Raphire/Win11Debloat](../repos/raphire-win11debloat.md)
 
