@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 5.0/10
-- **Star 数**: 58985
+- **Star 数**: 62201
 - **主语言**: TypeScript
 - **GitHub 主题**: `agent-orchestration`, `agents`, `ai`, `chatgpt`, `claude`, `claude-code`, `code`, `vibe-coding`
 
