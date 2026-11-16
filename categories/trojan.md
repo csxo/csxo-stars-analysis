@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 120524 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
-| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 65809 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
-| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 49398 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
+| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 120741 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
+| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 66002 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
+| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 49544 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
 
 ### [2dust/v2rayN](../repos/2dust-v2rayn.md)
 
