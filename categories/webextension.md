@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5868 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
+| [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md) | 7.0 | 5899 | TypeScript | chrome-extension, greasemonkey-userscript, scriptcat, userscript, webextension |
 | [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md) | 6.5 | 182 | JavaScript | chrome, firefox, webextension, xstyle |
 
 ### [scriptscat/scriptcat](../repos/scriptscat-scriptcat.md)
