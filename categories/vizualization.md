@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 27040 | JavaScript | agent-skill, open-source, svg, vizualization |
+| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 27612 | JavaScript | agent-skill, open-source, svg, vizualization |
 
 ### [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md)
 
