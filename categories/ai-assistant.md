@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 10019 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
-| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 2072 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
+| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 10209 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
+| [leepokai/Codync](../repos/leepokai-codync.md) | 7.0 | 2160 | Rust | acp, agent-client-protocol, ai-agents, ai-assistant, claude |
 
 ### [makecindy/cindy](../repos/makecindy-cindy.md)
 
