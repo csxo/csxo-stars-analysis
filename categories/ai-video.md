@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 15511 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
-| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 15101 | — | ai-video, awesome, awesome-list, claude, claude-opus |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2525 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 17053 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
+| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 15443 | — | ai-video, awesome, awesome-list, claude, claude-opus |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2552 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
 
 ### [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md)
 
