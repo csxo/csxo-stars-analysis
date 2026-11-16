@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 33979 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
-| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9556 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
+| [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md) | 7.0 | 34074 | Dart | clash, clashmeta, ech, hysteria, hysteria2 |
+| [hiddify/Hiddify-Manager](../repos/hiddify-hiddify-manager.md) | 7.0 | 9601 | Python | clash, clashforwindows, clashmeta, ech, hiddify |
 
 ### [hiddify/hiddify-app](../repos/hiddify-hiddify-app.md)
 
