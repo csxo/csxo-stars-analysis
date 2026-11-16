@@ -5,9 +5,9 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 53481
+- **Star 数**: 53558
 - **主语言**: TypeScript
-- **GitHub 主题**: `agent-skills`, `agent-workspace`, `agentic-workspace`, `ai-agents`, `ai-models`, `ai-productivity`, `ai-workspace`, `computer-use`, `llm`, `mcp-client`, `ollama`
+- **GitHub 主题**: `agent-skills`, `agent-workspace`, `agentic-workspace`, `ai-agents`, `ai-models`, `ai-productivity`, `ai-workspace`, `computer-use`, `llm`, `mcp`, `mcp-client`, `ollama`, `rag`
 
 ## 简介
 
