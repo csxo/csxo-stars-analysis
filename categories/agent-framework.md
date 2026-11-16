@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42686 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
-| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1291 | Swift | agent-framework, ai-agent, gemma, ios, litert |
+| [666ghj/BettaFish](../repos/666ghj-bettafish.md) | 7.0 | 42724 | Python | agent-framework, data-analysis, deep-research, deep-search, llms |
+| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1292 | Swift | agent-framework, ai-agent, gemma, ios, litert |
 
 ### [666ghj/BettaFish](../repos/666ghj-bettafish.md)
 
