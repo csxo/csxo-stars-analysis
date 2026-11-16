@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8275 | Python | automation, chrome, crawl, csdn, hotmail |
-| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4277 | JavaScript | csdn, tampermonkey, userscript |
+| [kangvcar/InfoSpider](../repos/kangvcar-infospider.md) | 7.0 | 8274 | Python | automation, chrome, crawl, csdn, hotmail |
+| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4279 | JavaScript | csdn, tampermonkey, userscript |
 
 ### [kangvcar/InfoSpider](../repos/kangvcar-infospider.md)
 
