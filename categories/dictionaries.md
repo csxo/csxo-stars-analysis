@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13434 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
+| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13437 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
 
 ### [crimx/ext-saladict](../repos/crimx-ext-saladict.md)
 
