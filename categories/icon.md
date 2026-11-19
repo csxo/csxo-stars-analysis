@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22694 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
+| [tabler/tabler-icons](../repos/tabler-tabler-icons.md) | 7.0 | 22716 | JavaScript | bootstrap-icons, components, css, icon, icon-pack |
 | [Orz-3/mini](../repos/orz-3-mini.md) | 5.5 | 2209 | — | icon, mini |
 
 ### [tabler/tabler-icons](../repos/tabler-tabler-icons.md)
