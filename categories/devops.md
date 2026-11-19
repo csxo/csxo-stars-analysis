@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 258897 | — | awesome, awesome-list, bsd, cheatsheets, devops |
+| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 259640 | — | awesome, awesome-list, bsd, cheatsheets, devops |
 | [Tikam02/DevOps-Guide](../repos/tikam02-devops-guide.md) | 7.0 | 9382 | HTML | ansible, cheatsheet, ci-cd, containers, devops |
-| [isno/theByteBook](../repos/isno-thebytebook.md) | 7.0 | 8539 | JavaScript | cloud-native, container, devops, distributed-systems, finops |
+| [isno/theByteBook](../repos/isno-thebytebook.md) | 7.0 | 8538 | JavaScript | cloud-native, container, devops, distributed-systems, finops |
 
 ### [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md)
 
