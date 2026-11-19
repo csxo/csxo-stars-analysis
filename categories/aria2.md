@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 58378 | TypeScript | aria2, bt, download, electron, linux |
-| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32419 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13275 | JavaScript | aria2, ariang, download, gui, html |
+| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 58526 | TypeScript | aria2, bt, download, electron, linux |
+| [XIU2/TrackersListCollection](../repos/xiu2-trackerslistcollection.md) | 7.0 | 32436 | — | aria2, aria2-format-tracker, bittorrent, bittorrent-trackers, qbittorrent |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13279 | JavaScript | aria2, ariang, download, gui, html |
 | [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2355 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
-| [Xmader/aria-ng-gui](../repos/xmader-aria-ng-gui.md) | 6.0 | 2025 | JavaScript | aria2, aria2-app, aria2-gui |
+| [Xmader/aria-ng-gui](../repos/xmader-aria-ng-gui.md) | 6.0 | 2026 | JavaScript | aria2, aria2-app, aria2-gui |
 
 ### [agalwood/Motrix](../repos/agalwood-motrix.md)
 
