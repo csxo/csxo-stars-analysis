@@ -1,13 +1,13 @@
 # [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
 
-> 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 840+ cases traced to original posts, 490+ cross-model retest runs, 27 copy-ready templates, 79 installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.
+> 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 1000+ cases traced to original posts, 490+ cross-model retest runs, 27 copy-ready templates, 80+ installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 2552
+- **Star 数**: 2597
 - **主语言**: JavaScript
-- **GitHub 主题**: `agent-skill`, `ai-video`, `ai-video-generation`, `awesome`, `awesome-list`, `bytedance`, `claude-code`, `codex`, `goodcase`, `minimax`, `prompt-engineering`, `prompt-library`, `prompt-templates`, `prompts`, `seedance`, `seedance-2-0`, `seedance-2-5`, `text-to-video`, `video-generation`
+- **GitHub 主题**: `agent-skill`, `ai-video`, `ai-video-generation`, `awesome`, `awesome-list`, `bytedance`, `claude-code`, `codex`, `goodcase`, `minimax`, `prompt-engineering`, `prompt-library`, `prompt-templates`, `prompts`, `reproducibility`, `seedance`, `seedance-2-0`, `seedance-2-5`, `text-to-video`, `video-generation`
 
 ## 简介
 
