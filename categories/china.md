@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28858 | JavaScript | china, converter, epg, iptv, ipv6 |
-| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25720 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
-| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19748 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
-| [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2083 | — | china, chinese, chinese-podcasts, podcast |
-| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 62133 | — | china, indie, indie-developer |
-| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24499 | JavaScript | blog, china, rss |
+| [fanmingming/live](../repos/fanmingming-live.md) | 7.0 | 28898 | JavaScript | china, converter, epg, iptv, ipv6 |
+| [gfwlist/gfwlist](../repos/gfwlist-gfwlist.md) | 7.0 | 25729 | — | anticensorship, censorship, censorship-circumvention, china, gfw |
+| [trojan-gfw/trojan](../repos/trojan-gfw-trojan.md) | 7.0 | 19747 | C++ | anticensorship, antisurveillance, bypass-gfw, censorship-circumvention, china |
+| [alaskasquirrel/Chinese-Podcasts](../repos/alaskasquirrel-chinese-podcasts.md) | 6.5 | 2082 | — | china, chinese, chinese-podcasts, podcast |
+| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 62185 | — | china, indie, indie-developer |
+| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24527 | JavaScript | blog, china, rss |
 
 ### [fanmingming/live](../repos/fanmingming-live.md)
 
