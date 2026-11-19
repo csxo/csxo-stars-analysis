@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 1917
+- **Star 数**: 1919
 - **主语言**: Kotlin
 - **GitHub 主题**: `android`, `image`, `image-watermark`, `tools`, `watermark`, `watermwark`
 
