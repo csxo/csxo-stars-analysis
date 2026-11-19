@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105399 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
-| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5945 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
+| [microsoft/terminal](../repos/microsoft-terminal.md) | 7.0 | 105433 | C++ | cmd, command-line, console, contributions-welcome, good-first-issue |
+| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5948 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
 
 ### [microsoft/terminal](../repos/microsoft-terminal.md)
 
