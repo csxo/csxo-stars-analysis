@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 401668
+- **Star 数**: 401874
 - **主语言**: Python
 - **GitHub 主题**: `books`, `education`, `hacktoberfest`, `list`, `resource`
 
