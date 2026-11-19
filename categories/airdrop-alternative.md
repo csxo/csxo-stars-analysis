@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [baiyuze/pasteferry](../repos/baiyuze-pasteferry.md) | 7.0 | 193 | Dart | airdrop-alternative, clipboard, clipboard-sharing, clipboard-sync, copy-paste |
+| [baiyuze/pasteferry](../repos/baiyuze-pasteferry.md) | 7.0 | 197 | Dart | airdrop-alternative, clipboard, clipboard-sharing, clipboard-sync, copy-paste |
 
 ### [baiyuze/pasteferry](../repos/baiyuze-pasteferry.md)
 
