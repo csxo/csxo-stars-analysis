@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39527 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
-| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36493 | TypeScript | agent, ai, cli, developer-tools, open-source |
-| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2286 | Swift | audiobook, ios, open-source, player, swift |
-| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 27612 | JavaScript | agent-skill, open-source, svg, vizualization |
+| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39559 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
+| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36517 | TypeScript | agent, ai, cli, developer-tools, open-source |
+| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2287 | Swift | audiobook, ios, open-source, player, swift |
+| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 28200 | JavaScript | agent-skill, open-source, svg, vizualization |
 
 ### [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md)
 
