@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 154850
+- **Star 数**: 155729
 - **主语言**: Rust
 - **GitHub 主题**: `ai-tools`, `claude-code`, `codex`, `deepseek-harness`, `desktop-app`, `grok`, `grokbuild`, `hermes`, `kimi-code`, `mcp`, `open-source`, `opencode`, `pi`, `provider-management`, `rust`, `skills`, `skills-management`, `tauri`, `wsl-support`
 
