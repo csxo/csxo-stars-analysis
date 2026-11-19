@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Huanshere/VideoLingo](../repos/huanshere-videolingo.md) | 7.0 | 19281 | Python | ai-translation, dubbing, localization, video-translation, voice-cloning |
+| [Huanshere/VideoLingo](../repos/huanshere-videolingo.md) | 7.0 | 19317 | Python | ai-translation, dubbing, localization, video-translation, voice-cloning |
 | [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 251 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
 
 ### [Huanshere/VideoLingo](../repos/huanshere-videolingo.md)
