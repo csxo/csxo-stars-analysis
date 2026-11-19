@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4949
+- **Star 数**: 5030
 - **主语言**: Dart
 - **GitHub 主题**: `bettbox`, `clash`, `clash-meta`, `mihomo`, `mihomo-client`
 
