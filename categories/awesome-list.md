@@ -4,20 +4,20 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 563036 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
-| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 537721 | — | awesome, awesome-list, lists, resources, unicorns |
-| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 335132 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
-| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 258897 | — | awesome, awesome-list, bsd, cheatsheets, devops |
-| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 177624 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
-| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 127748 | — | awesome-list, design-md, design-system, design-tokens, figma |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53813 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20308 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
-| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 15443 | — | ai-video, awesome, awesome-list, claude, claude-opus |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6919 | — | alternatives, awesome, awesome-list, curated-list, foss |
-| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3360 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2552 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
-| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 72915 | — | awesome, awesome-list, computer-science, courses |
-| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 142965 | HTML | awesome-list, free-for-developers |
+| [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md) | 7.0 | 563820 | Markdown | awesome-list, free, programming, tutorial-code, tutorial-exercises |
+| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 539274 | — | awesome, awesome-list, lists, resources, unicorns |
+| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 335789 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
+| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 259640 | — | awesome, awesome-list, bsd, cheatsheets, devops |
+| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 177875 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
+| [VoltAgent/awesome-design-md](../repos/voltagent-awesome-design-md.md) | 7.0 | 128221 | — | awesome-list, design-md, design-system, design-tokens, figma |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53857 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20327 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
+| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 15891 | — | ai-video, awesome, awesome-list, claude, claude-opus |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6932 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3363 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2597 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 73004 | — | awesome, awesome-list, computer-science, courses |
+| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 143181 | HTML | awesome-list, free-for-developers |
 
 ### [codecrafters-io/build-your-own-x](../repos/codecrafters-io-build-your-own-x.md)
 
