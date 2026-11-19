@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 120619 | Go | ai, anthropic, caveman, claude, claude-code |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 121432 | Go | ai, anthropic, caveman, claude, claude-code |
 
 ### [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md)
 
