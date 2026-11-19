@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20446 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
+| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20474 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
 | [dafengzhen/infoharvest](../repos/dafengzhen-infoharvest.md) | 7.0 | 20 | TypeScript | bookmark, harvest, info, infoharvest, information-tool |
 | [Pintree-io/pintree](../repos/pintree-io-pintree.md) | 6.0 | 2591 | TypeScript | bookmark, directory, directory-website |
 
