@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28598 | TypeScript | free, music-player, musicfree, plugin, react |
-| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10425 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9156 | TypeScript | electron, free, music, music-player, react |
-| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1499 | JavaScript | antd, music, music-player, react, react-router |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55398 | TypeScript | electron, javascript, music-player, vue |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19381 | TypeScript | javascript, music-player, react-native-app |
-| [any-listen/any-listen](../repos/any-listen-any-listen.md) | 6.0 | 4923 | TypeScript | any-listen, music-player, nas |
-| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11452 | JavaScript | desktop-app, music-player |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28701 | TypeScript | free, music-player, musicfree, plugin, react |
+| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10445 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9177 | TypeScript | electron, free, music, music-player, react |
+| [enzeberg/tonzhon-music](../repos/enzeberg-tonzhon-music.md) | 7.0 | 1500 | JavaScript | antd, music, music-player, react, react-router |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55484 | TypeScript | electron, javascript, music-player, vue |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19458 | TypeScript | javascript, music-player, react-native-app |
+| [any-listen/any-listen](../repos/any-listen-any-listen.md) | 6.0 | 4965 | TypeScript | any-listen, music-player, nas |
+| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11451 | JavaScript | desktop-app, music-player |
 
 ### [maotoumao/MusicFree](../repos/maotoumao-musicfree.md)
 
