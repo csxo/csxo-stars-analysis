@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 187192 | Go | deepseek, gemma, gemma3, glm, go |
-| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90480 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64501 | Go | docker, foss, go, markdown, memo |
-| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31845 | Go | bilibili, crawler, download, downloader, go |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15711 | Go | community, forum, go, golang, hacktoberfest |
+| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 187593 | Go | deepseek, gemma, gemma3, glm, go |
+| [gohugoio/hugo](../repos/gohugoio-hugo.md) | 7.0 | 90512 | Go | blog-engine, cms, content-management-system, documentation-tool, go |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64568 | Go | docker, foss, go, markdown, memo |
+| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31850 | Go | bilibili, crawler, download, downloader, go |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15717 | Go | community, forum, go, golang, hacktoberfest |
 
 ### [ollama/ollama](../repos/ollama-ollama.md)
 
