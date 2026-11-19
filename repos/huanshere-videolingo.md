@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 19281
+- **Star 数**: 19317
 - **主语言**: Python
 - **GitHub 主题**: `ai-translation`, `dubbing`, `localization`, `video-translation`, `voice-cloning`
 
