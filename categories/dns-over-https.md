@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38502 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
-| [kkebo/DNSecure](../repos/kkebo-dnsecure.md) | 7.0 | 590 | Swift | dns, dns-over-https, dns-over-tls, doh, dot |
+| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38574 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
+| [kkebo/DNSecure](../repos/kkebo-dnsecure.md) | 7.0 | 591 | Swift | dns, dns-over-https, dns-over-tls, doh, dot |
 
 ### [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md)
 
