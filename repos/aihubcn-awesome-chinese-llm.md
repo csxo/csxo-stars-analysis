@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22784
+- **Star 数**: 22785
 - **主语言**: —
 - **GitHub 主题**: `awesome-lists`, `chatglm`, `chinese`, `llama`, `llm`, `nlp`
 
