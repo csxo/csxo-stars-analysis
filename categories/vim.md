@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [vim/vim](../repos/vim-vim.md) | 6.5 | 41326 | Vim Script | c, cross-platform, text-editor, vim |
+| [vim/vim](../repos/vim-vim.md) | 6.5 | 41309 | Vim Script | c, cross-platform, text-editor, vim |
 | [vim/vim-win32-installer](../repos/vim-vim-win32-installer.md) | 6.0 | 2303 | NSIS | installer, vim, windows |
 
 ### [vim/vim](../repos/vim-vim.md)
