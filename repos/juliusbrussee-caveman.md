@@ -1,11 +1,11 @@
 # [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
-> 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+> why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 120619
+- **Star 数**: 121432
 - **主语言**: Go
 - **GitHub 主题**: `ai`, `anthropic`, `caveman`, `claude`, `claude-code`, `llm`, `meme`, `prompt-engineering`, `skill`, `tokens`
 
