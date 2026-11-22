@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 15891
+- **Star 数**: 16177
 - **主语言**: —
 - **GitHub 主题**: `ai-video`, `awesome`, `awesome-list`, `claude`, `claude-opus`, `creative-coding`, `motion-graphics`, `prompts`, `threejs`
 
