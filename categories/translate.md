@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13428 | JavaScript | extension, translate, translation, translator, userscript |
-| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18148 | TypeScript | copytranslator, dictionary, translate |
+| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13485 | JavaScript | extension, translate, translation, translator, userscript |
+| [CopyTranslator/CopyTranslator](../repos/copytranslator-copytranslator.md) | 6.0 | 18154 | TypeScript | copytranslator, dictionary, translate |
 
 ### [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md)
 
