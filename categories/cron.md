@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [dagucloud/dagu](../repos/dagucloud-dagu.md) | 7.0 | 4633 | Go | agentic-workflows, ai-agents, ai-workflows, airflow-alternative, cron |
+| [dagucloud/dagu](../repos/dagucloud-dagu.md) | 7.0 | 4647 | Go | agentic-workflows, ai-agents, ai-workflows, airflow-alternative, cron |
 
 ### [dagucloud/dagu](../repos/dagucloud-dagu.md)
 
