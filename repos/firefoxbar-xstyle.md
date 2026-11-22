@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 182
+- **Star 数**: 183
 - **主语言**: JavaScript
 - **GitHub 主题**: `chrome`, `firefox`, `webextension`, `xstyle`
 
