@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24828 | PowerShell | installer, powershell, scoop, windows |
+| [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md) | 6.5 | 24836 | PowerShell | installer, powershell, scoop, windows |
 
 ### [ScoopInstaller/Scoop](../repos/scoopinstaller-scoop.md)
 
