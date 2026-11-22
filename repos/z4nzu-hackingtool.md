@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 82025
+- **Star 数**: 82104
 - **主语言**: Python
 - **GitHub 主题**: `ai-all-in-one-hackingtool`, `ai-hacking`, `ai-security-tool`, `ai-security-tools`, `allinonehackingtool`, `besthackingtool`, `ctf-tools`, `ddos-attack-tool`, `hacker`, `hacking`, `linux`, `password-attack`, `steganography`, `web-attack`, `wireless-attack`, `xss-attacks`, `xss-detection`
 
