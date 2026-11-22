@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [otobtc/ADhosts](../repos/otobtc-adhosts.md) | 6.5 | 1613 | — | ad, adblock, android, hosts |
+| [otobtc/ADhosts](../repos/otobtc-adhosts.md) | 6.5 | 1615 | — | ad, adblock, android, hosts |
 
 ### [otobtc/ADhosts](../repos/otobtc-adhosts.md)
 
