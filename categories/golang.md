@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 290008 | Python | beginner-project, cpp, golang, javascript, project |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46907 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25566 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22959 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 290240 | Python | beginner-project, cpp, golang, javascript, project |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46906 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25598 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 22970 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
 | [apache/answer](../repos/apache-answer.md) | 7.0 | 15717 | Go | community, forum, go, golang, hacktoberfest |
-| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 8042 | Dart | android, flac, flutter, golang, ios |
-| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3584 | Go | ats, career, careers, golang, hiring |
-| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 725 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
+| [mornyeapp/Mornye](../repos/mornyeapp-mornye.md) | 7.0 | 8110 | Dart | android, flac, flutter, golang, ios |
+| [strelov1/freehire](../repos/strelov1-freehire.md) | 7.0 | 3621 | Go | ats, career, careers, golang, hiring |
+| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
 
