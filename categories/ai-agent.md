@@ -4,16 +4,16 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80639 | Python | agent, agent-development, ai-agent, claude, claude-code |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53657 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 48007 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 39461 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 22227 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 10300 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
-| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 9138 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
-| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3594 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
-| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1293 | Swift | agent-framework, ai-agent, gemma, ios, litert |
-| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 281 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80720 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53741 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 48042 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [can1357/oh-my-pi](../repos/can1357-oh-my-pi.md) | 7.0 | 39630 | TypeScript | ai-agent, ai-coding-agent, anthropic, bun, claude |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 22298 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [makecindy/cindy](../repos/makecindy-cindy.md) | 7.0 | 10383 | TypeScript | agent, ai-agent, ai-assistant, android, claude-code |
+| [wangzan101/Mika](../repos/wangzan101-mika.md) | 7.0 | 9561 | Kotlin | accessibility, ai-agent, android, automation, jetpack-compose |
+| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3634 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
+| [kellyvv/PhoneClaw](../repos/kellyvv-phoneclaw.md) | 7.0 | 1296 | Swift | agent-framework, ai-agent, gemma, ios, litert |
+| [taxueseek/argo](../repos/taxueseek-argo.md) | 7.0 | 284 | Python | academic-search, agent-tools, ai-agent, deep-research, dsh-ecosystem |
 
 ### [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md)
 
