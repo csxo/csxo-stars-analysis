@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 28282 | JavaScript | clash, luci, mihomo, openclash, openwrt |
-| [appshubcc/Bettbox](../repos/appshubcc-bettbox.md) | 7.0 | 5030 | Dart | bettbox, clash, clash-meta, mihomo, mihomo-client |
-| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35916 | Python | honkai-star-rail, mihomo, python, star-rail-api |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27266 | TypeScript | clash, clash-meta, electron, mihomo |
-| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10610 | Dart | clash, clashmi, mihomo |
+| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 28330 | JavaScript | clash, luci, mihomo, openclash, openwrt |
+| [appshubcc/Bettbox](../repos/appshubcc-bettbox.md) | 7.0 | 5126 | Dart | bettbox, clash, clash-meta, mihomo, mihomo-client |
+| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35983 | Python | honkai-star-rail, mihomo, python, star-rail-api |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27291 | TypeScript | clash, clash-meta, electron, mihomo |
+| [KaringX/clashmi](../repos/karingx-clashmi.md) | 6.0 | 10651 | Dart | clash, clashmi, mihomo |
 
 ### [vernesong/OpenClash](../repos/vernesong-openclash.md)
 
