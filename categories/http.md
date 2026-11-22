@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43563 | C++ | bittorrent, cpp11, download, ftp, http |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10941 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43591 | C++ | bittorrent, cpp11, download, ftp, http |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10961 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
 
 ### [aria2/aria2](../repos/aria2-aria2.md)
 
