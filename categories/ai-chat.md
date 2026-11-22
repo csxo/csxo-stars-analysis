@@ -5,7 +5,7 @@
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
 | [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md) | 7.0 | 416 | TypeScript | ai-chat, chrome-extension, markdown, obsidian, obsidian-clipper |
-| [nomic-ai/gpt4all](../repos/nomic-ai-gpt4all.md) | 5.5 | 77339 | C++ | ai-chat, llm-inference |
+| [nomic-ai/gpt4all](../repos/nomic-ai-gpt4all.md) | 5.5 | 77328 | C++ | ai-chat, llm-inference |
 
 ### [joeseesun/qiaomu-clipper](../repos/joeseesun-qiaomu-clipper.md)
 
