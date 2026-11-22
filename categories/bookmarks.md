@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30688 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
-| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16422 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
-| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2055 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
+| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30758 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
+| [omnivore-app/omnivore](../repos/omnivore-app-omnivore.md) | 7.0 | 16419 | TypeScript | bookmarks, logseq, logseq-plugin, productivity, read-it-later |
+| [afar1/fieldtheory-cli](../repos/afar1-fieldtheory-cli.md) | 7.0 | 2060 | TypeScript | agent-tools, bookmarks, cli, local-first, markdown |
 | [kubai087/lumno-extension](../repos/kubai087-lumno-extension.md) | 7.0 | 365 | TypeScript | arc-browser, bookmarks, browser-extension, browser-history, chrome-extension |
 
 ### [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md)
