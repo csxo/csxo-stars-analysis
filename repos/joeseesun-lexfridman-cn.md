@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 251
+- **Star 数**: 252
 - **主语言**: HTML
 - **GitHub 主题**: `ai-translation`, `chinese`, `lex-fridman`, `podcast`, `python`, `rss`, `static-site`
 
