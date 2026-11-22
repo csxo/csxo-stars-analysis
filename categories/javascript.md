@@ -4,28 +4,28 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 290008 | Python | beginner-project, cpp, golang, javascript, project |
-| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 119623 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
-| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97140 | JavaScript | css, curriculum, education, html, javascript |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69476 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 46313 | Svelte | collaboration, downloader, instagram, javascript, music |
-| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29986 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
-| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23862 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 23034 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17683 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
-| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10768 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
+| [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md) | 7.0 | 290240 | Python | beginner-project, cpp, golang, javascript, project |
+| [immich-app/immich](../repos/immich-app-immich.md) | 7.0 | 119840 | TypeScript | backup-tool, flutter, google-photos, google-photos-alternative, javascript |
+| [microsoft/Web-Dev-For-Beginners](../repos/microsoft-web-dev-for-beginners.md) | 7.0 | 97150 | JavaScript | css, curriculum, education, html, javascript |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69564 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 46499 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [sampotts/plyr](../repos/sampotts-plyr.md) | 7.0 | 29983 | JavaScript | deprecated, html5-video, javascript, plyr, videojs |
+| [node-red/node-red](../repos/node-red-node-red.md) | 7.0 | 23868 | JavaScript | flow-based-programming, javascript, low-code, node-red, openjs-foundation |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 23108 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [microsoft/mcp-for-beginners](../repos/microsoft-mcp-for-beginners.md) | 7.0 | 17697 | Jupyter Notebook | csharp, java, javascript, javascript-applications, mcp |
+| [ShareDropio/sharedrop](../repos/sharedropio-sharedrop.md) | 7.0 | 10766 | JavaScript | ember, ember-cli, file-sharing, javascript, peer-to-peer |
 | [imgly/background-removal-js](../repos/imgly-background-removal-js.md) | 7.0 | 7379 | TypeScript | background-removal, image-matting, image-segmentation, javascript, onnx |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7357 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
-| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4585 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2355 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
-| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2333 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
-| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1554 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
-| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 774 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
-| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 725 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
-| [axetroy/anti-redirect](../repos/axetroy-anti-redirect.md) | 7.0 | 494 | TypeScript | axetroy, greasy, javascript, redirect, script |
-| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 215 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55484 | TypeScript | electron, javascript, music-player, vue |
-| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19458 | TypeScript | javascript, music-player, react-native-app |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7355 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4586 | JavaScript | adblock, adblocker, adguard, ios, javascript |
+| [binux/yaaw](../repos/binux-yaaw.md) | 7.0 | 2354 | JavaScript | aria2, aria2-web-frontend, gui, javascript, web |
+| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2332 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
+| [F9y4ng/GreasyFork-Scripts](../repos/f9y4ng-greasyfork-scripts.md) | 7.0 | 1552 | JavaScript | font-rendering, greasemonkey, greasyfork, javascript, redirect |
+| [pavelkomarov/exportify](../repos/pavelkomarov-exportify.md) | 7.0 | 775 | Jupyter Notebook | data-analysis, github-pages-website, javascript, javascript-promise, jupyter-notebook |
+| [hardhackerlabs/themes](../repos/hardhackerlabs-themes.md) | 7.0 | 724 | — | color-scheme, cyberpunk, golang, iterm2, javascript |
+| [axetroy/anti-redirect](../repos/axetroy-anti-redirect.md) | 7.0 | 493 | TypeScript | axetroy, greasy, javascript, redirect, script |
+| [ZenmoFeiShi/Qx](../repos/zenmofeishi-qx.md) | 7.0 | 216 | JavaScript | adblock, checkin, ios, javascript, quantumult-x |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55576 | TypeScript | electron, javascript, music-player, vue |
+| [lyswhut/lx-music-mobile](../repos/lyswhut-lx-music-mobile.md) | 6.0 | 19535 | TypeScript | javascript, music-player, react-native-app |
 
 ### [practical-tutorials/project-based-learning](../repos/practical-tutorials-project-based-learning.md)
 
