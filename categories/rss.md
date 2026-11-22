@@ -4,21 +4,21 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39319 | TypeScript | ai, reader, rss, rss-reader, rsshub |
-| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16631 | PHP | feed, freshrss, news-aggregator, php, rss |
-| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10547 | Swift | feed-reader, ios, json-feed, macos, rss |
-| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9801 | TypeScript | electron, linux, macos, react, rss |
-| [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md) | 7.0 | 9617 | TypeScript | mysql, nestjs, rss, rsshub, sqlite |
-| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7421 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
-| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4108 | TypeScript | api, daily-hot, list, rss, vercel |
-| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2661 | Go | ai, atom, feed-reader, feeds, rss |
-| [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2350 | TypeScript | extension-chrome, github, pocket, react, rss |
+| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39334 | TypeScript | ai, reader, rss, rss-reader, rsshub |
+| [FreshRSS/FreshRSS](../repos/freshrss-freshrss.md) | 7.0 | 16648 | PHP | feed, freshrss, news-aggregator, php, rss |
+| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10553 | Swift | feed-reader, ios, json-feed, macos, rss |
+| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9802 | TypeScript | electron, linux, macos, react, rss |
+| [cooderl/wewe-rss](../repos/cooderl-wewe-rss.md) | 7.0 | 9615 | TypeScript | mysql, nestjs, rss, rsshub, sqlite |
+| [DIYgod/RSSHub-Radar](../repos/diygod-rsshub-radar.md) | 7.0 | 7428 | TypeScript | browser-extension, chrome-extension, firefox-addon, rss, rsshub |
+| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4109 | TypeScript | api, daily-hot, list, rss, vercel |
+| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2664 | Go | ai, atom, feed-reader, feeds, rss |
+| [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2349 | TypeScript | extension-chrome, github, pocket, react, rss |
 | [yang991178/fluent-reader-lite](../repos/yang991178-fluent-reader-lite.md) | 7.0 | 1783 | Dart | android, flutter, ios, rss, rss-reader |
 | [howie6879/weekly](../repos/howie6879-weekly.md) | 7.0 | 1043 | Python | awesome, backend, front-end, github, rss |
 | [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 749 | TypeScript | ai, github-actions, github-pages, llm, rss |
-| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2420 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
-| [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1646 | — | chinese, email, newsletter, rss |
-| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24527 | JavaScript | blog, china, rss |
+| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2430 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
+| [alaskasquirrel/Email-newsletter-RSS](../repos/alaskasquirrel-email-newsletter-rss.md) | 6.5 | 1647 | — | chinese, email, newsletter, rss |
+| [timqian/chinese-independent-blogs](../repos/timqian-chinese-independent-blogs.md) | 6.0 | 24555 | JavaScript | blog, china, rss |
 
 ### [RSSNext/Folo](../repos/rssnext-folo.md)
 
