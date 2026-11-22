@@ -4,18 +4,18 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 335789 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
-| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 209087 | Python | cli, downloader, python, sponsorblock, youtube-dl |
-| [taojy123/KeymouseGo](../repos/taojy123-keymousego.md) | 7.0 | 10658 | Python | automate, keyboard, mouse, python, simulation |
-| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7269 | Python | plugin, python, qbittorrent, search, search-engine |
-| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4259 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
-| [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 251 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
+| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 336376 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
+| [yt-dlp/yt-dlp](../repos/yt-dlp-yt-dlp.md) | 7.0 | 209812 | Python | cli, downloader, python, sponsorblock, youtube-dl |
+| [taojy123/KeymouseGo](../repos/taojy123-keymousego.md) | 7.0 | 10662 | Python | automate, keyboard, mouse, python, simulation |
+| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7276 | Python | plugin, python, qbittorrent, search, search-engine |
+| [Python-Markdown/markdown](../repos/python-markdown-markdown.md) | 7.0 | 4257 | Python | markdown, markdown-parser, markdown-to-html, python, python-markdown |
+| [joeseesun/lexfridman-cn](../repos/joeseesun-lexfridman-cn.md) | 7.0 | 252 | HTML | ai-translation, chinese, lex-fridman, podcast, python |
 | [blixvip/easyedit](../repos/blixvip-easyedit.md) | 7.0 | 172 | Python | beat-detection, captions, ffmpeg, python, video-editing |
-| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 189954 | Python | awesome, github, hellogithub, python |
-| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 145059 | Python | agents, llms, python, rag |
-| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35916 | Python | honkai-star-rail, mihomo, python, star-rail-api |
-| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13207 | Python | python, youtube, youtube-downloader |
-| [openai/openai-python](../repos/openai-openai-python.md) | 5.5 | 32190 | Python | openai, python |
+| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 190487 | Python | awesome, github, hellogithub, python |
+| [Shubhamsaboo/awesome-llm-apps](../repos/shubhamsaboo-awesome-llm-apps.md) | 6.5 | 145366 | Python | agents, llms, python, rag |
+| [MetaCubeX/mihomo](../repos/metacubex-mihomo.md) | 6.5 | 35983 | Python | honkai-star-rail, mihomo, python, star-rail-api |
+| [pytube/pytube](../repos/pytube-pytube.md) | 6.0 | 13210 | Python | python, youtube, youtube-downloader |
+| [openai/openai-python](../repos/openai-openai-python.md) | 5.5 | 32212 | Python | openai, python |
 
 ### [vinta/awesome-python](../repos/vinta-awesome-python.md)
 
