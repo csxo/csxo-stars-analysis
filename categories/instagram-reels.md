@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 144633 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
+| [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md) | 7.0 | 145044 | Python | ai-video-generator, content-creation, ffmpeg, instagram-reels, llm |
 
 ### [harry0703/MoneyPrinterTurbo](../repos/harry0703-moneyprinterturbo.md)
 
