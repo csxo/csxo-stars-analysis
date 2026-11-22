@@ -4,20 +4,20 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88981 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
-| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39559 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32297 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27800 | Dart | android, bittorrent, cross-platform, debian, downloader |
-| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21847 | TypeScript | clash, cross-platform, react, rust, tauri |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 15013 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12670 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 10542 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7445 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
-| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7357 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
-| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3171 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 603 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
-| [vim/vim](../repos/vim-vim.md) | 6.5 | 41309 | Vim Script | c, cross-platform, text-editor, vim |
-| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34743 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
+| [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md) | 7.0 | 88982 | TypeScript | calclaude, claude, cross-platform, desktop, fe |
+| [spacedriveapp/spacedrive](../repos/spacedriveapp-spacedrive.md) | 7.0 | 39576 | Rust | cross-platform, distributed-systems, encryption, file-manager, open-source |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32303 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27890 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [zzzgydi/clash-verge](../repos/zzzgydi-clash-verge.md) | 7.0 | 21836 | TypeScript | clash, cross-platform, react, rust, tauri |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 15033 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12681 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 10646 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7464 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [SPlayer-Dev/SPlayer](../repos/splayer-dev-splayer.md) | 7.0 | 7355 | TypeScript | cross-platform, emby, javascript, jellyfin, media-server |
+| [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3172 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 604 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [vim/vim](../repos/vim-vim.md) | 6.5 | 41370 | Vim Script | c, cross-platform, text-editor, vim |
+| [balena-io/etcher](../repos/balena-io-etcher.md) | 6.5 | 34752 | TypeScript | cross-platform, etcher, sd-cards, usb-drives |
 
 ### [ChatGPTNextWeb/NextChat](../repos/chatgptnextweb-nextchat.md)
 
