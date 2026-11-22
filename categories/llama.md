@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22785 | — | awesome-lists, chatglm, chinese, llama, llm |
+| [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22782 | — | awesome-lists, chatglm, chinese, llama, llm |
 | [LlamaChinese/Llama-Chinese](../repos/llamachinese-llama-chinese.md) | 7.0 | 14757 | Python | agent, llama, llama4, llm, pretraining |
 
 ### [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md)
