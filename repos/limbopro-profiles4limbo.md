@@ -1,11 +1,11 @@
 # [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo)
 
-> 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
+> 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、blackmatrix7分流规则，Clash订阅转换。
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 3564
+- **Star 数**: 3565
 - **主语言**: JavaScript
 - **GitHub 主题**: `adblock`, `blackmatrix7`, `clash`, `quantumultx`, `tiktok`
 
