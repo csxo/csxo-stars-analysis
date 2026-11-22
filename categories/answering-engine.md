@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 38255 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
+| [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md) | 7.0 | 38282 | TypeScript | ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm |
 
 ### [ItzCrazyKns/Vane](../repos/itzcrazykns-vane.md)
 
