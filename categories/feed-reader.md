@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10547 | Swift | feed-reader, ios, json-feed, macos, rss |
-| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7694 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
-| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2661 | Go | ai, atom, feed-reader, feeds, rss |
+| [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md) | 7.0 | 10553 | Swift | feed-reader, ios, json-feed, macos, rss |
+| [samuelclay/NewsBlur](../repos/samuelclay-newsblur.md) | 7.0 | 7695 | HTML | android, elasticsearch, feed-reader, ios, mongodb |
+| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2664 | Go | ai, atom, feed-reader, feeds, rss |
 
 ### [Ranchero-Software/NetNewsWire](../repos/ranchero-software-netnewswire.md)
 
