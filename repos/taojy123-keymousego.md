@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 10658
+- **Star 数**: 10662
 - **主语言**: Python
 - **GitHub 主题**: `automate`, `keyboard`, `mouse`, `python`, `simulation`
 
