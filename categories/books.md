@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 401874 | Python | books, education, hacktoberfest, list, resource |
-| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119663 | — | android, angular, books, free, ios |
-| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12910 | — | books, nginx, pdf, redis, software-architecture |
+| [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md) | 7.0 | 402065 | Python | books, education, hacktoberfest, list, resource |
+| [justjavac/free-programming-books-zh_CN](../repos/justjavac-free-programming-books-zh_cn.md) | 7.0 | 119686 | — | android, angular, books, free, ios |
+| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12918 | — | books, nginx, pdf, redis, software-architecture |
 
 ### [EbookFoundation/free-programming-books](../repos/ebookfoundation-free-programming-books.md)
 
