@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [violentmonkey/violentmonkey](../repos/violentmonkey-violentmonkey.md) | 6.0 | 9210 | JavaScript | userscripts-support, violentmonkey, webextensions |
+| [violentmonkey/violentmonkey](../repos/violentmonkey-violentmonkey.md) | 6.0 | 9226 | JavaScript | userscripts-support, violentmonkey, webextensions |
 
 ### [violentmonkey/violentmonkey](../repos/violentmonkey-violentmonkey.md)
 
