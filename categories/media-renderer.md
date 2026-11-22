@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6983 | Python | dlna, linux, macos, media-renderer, mpv |
+| [xfangfang/Macast](../repos/xfangfang-macast.md) | 7.0 | 6985 | Python | dlna, linux, macos, media-renderer, mpv |
 
 ### [xfangfang/Macast](../repos/xfangfang-macast.md)
 
