@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 47107 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
-| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 46313 | Svelte | collaboration, downloader, instagram, javascript, music |
+| [DIYgod/RSSHub](../repos/diygod-rsshub.md) | 7.0 | 47155 | TypeScript | bilibili, douban, dribbble, instagram, lofter |
+| [imputnet/cobalt](../repos/imputnet-cobalt.md) | 7.0 | 46499 | Svelte | collaboration, downloader, instagram, javascript, music |
 
 ### [DIYgod/RSSHub](../repos/diygod-rsshub.md)
 
