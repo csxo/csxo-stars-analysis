@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 18560 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
-| [bas3line/ascii](../repos/bas3line-ascii.md) | 7.0 | 1261 | TypeScript | animation, ascii, ascii-art, astro, nextjs |
+| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 19696 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
+| [bas3line/ascii](../repos/bas3line-ascii.md) | 7.0 | 1275 | TypeScript | animation, ascii, ascii-art, astro, nextjs |
 
 ### [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md)
 
