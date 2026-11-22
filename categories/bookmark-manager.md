@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30688 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
-| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20474 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3890 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md) | 7.0 | 30758 | TypeScript | bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native |
+| [linkwarden/linkwarden](../repos/linkwarden-linkwarden.md) | 7.0 | 20505 | TypeScript | bookmark, bookmark-manager, collaboration, nextjs, react-native |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3904 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
 
 ### [karakeep-app/karakeep](../repos/karakeep-app-karakeep.md)
 
