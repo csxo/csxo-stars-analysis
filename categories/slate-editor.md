@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [editablejs/editable](../repos/editablejs-editable.md) | 7.0 | 1799 | TypeScript | editable, react-editor, rich-editor, slate-editor, text-editor |
+| [editablejs/editable](../repos/editablejs-editable.md) | 7.0 | 1798 | TypeScript | editable, react-editor, rich-editor, slate-editor, text-editor |
 
 ### [editablejs/editable](../repos/editablejs-editable.md)
 
