@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [rcmaehl/MSEdgeRedirect](../repos/rcmaehl-msedgeredirect.md) | 7.0 | 5939 | AutoIt | edge, image-file-execution-options, msedge, uri, uri-manipulations |
+| [rcmaehl/MSEdgeRedirect](../repos/rcmaehl-msedgeredirect.md) | 7.0 | 5945 | AutoIt | edge, image-file-execution-options, msedge, uri, uri-manipulations |
 
 ### [rcmaehl/MSEdgeRedirect](../repos/rcmaehl-msedgeredirect.md)
 
