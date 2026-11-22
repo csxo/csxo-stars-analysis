@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [daizhige-org/daizhigev20](../repos/daizhige-org-daizhigev20.md) | 6.0 | 674 | HTML | china-history, chinese-classi, chinese-nlp |
+| [daizhige-org/daizhigev20](../repos/daizhige-org-daizhigev20.md) | 6.0 | 679 | HTML | china-history, chinese-classi, chinese-nlp |
 
 ### [daizhige-org/daizhigev20](../repos/daizhige-org-daizhigev20.md)
 
