@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 8391
+- **Star 数**: 8736
 - **主语言**: JavaScript
 - **GitHub 主题**: `ancient-china`, `cartography`, `china-map`, `chinese-history`, `classical-chinese-poetry`, `digital-humanities`, `gis`, `historical-atlas`, `historical-map`, `interactive-map`
 
