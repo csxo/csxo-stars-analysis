@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27973 | C# | editor, gif, recorder, sketchboard, video |
+| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27981 | C# | editor, gif, recorder, sketchboard, video |
 
 ### [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md)
 
