@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28701 | TypeScript | free, music-player, musicfree, plugin, react |
-| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7269 | Python | plugin, python, qbittorrent, search, search-engine |
+| [maotoumao/MusicFree](../repos/maotoumao-musicfree.md) | 7.0 | 28777 | TypeScript | free, music-player, musicfree, plugin, react |
+| [qbittorrent/search-plugins](../repos/qbittorrent-search-plugins.md) | 7.0 | 7276 | Python | plugin, python, qbittorrent, search, search-engine |
 
 ### [maotoumao/MusicFree](../repos/maotoumao-musicfree.md)
 
