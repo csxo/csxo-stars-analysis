@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6406 | HTML | design, motion, motionskill, product, skill |
-| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4090 | TypeScript | ai, business, product, programming |
+| [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md) | 7.0 | 6447 | HTML | design, motion, motionskill, product, skill |
+| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4091 | TypeScript | ai, business, product, programming |
 
 ### [Jakubantalik/transitions.dev](../repos/jakubantalik-transitions-dev.md)
 
