@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69476 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 23034 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
-| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14729 | Go | browser, browser-extension, chrome, edge, firefox |
-| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13437 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
-| [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md) | 7.0 | 8499 | TypeScript | browser, firefox, gecko, mozilla, webbrowser |
-| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2777 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
-| [zen-browser/desktop](../repos/zen-browser-desktop.md) | 6.5 | 45904 | C++ | firefox, firefox-based, firefox-browser, zen-browser |
-| [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md) | 6.5 | 182 | JavaScript | chrome, firefox, webextension, xstyle |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69564 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [xifangczy/cat-catch](../repos/xifangczy-cat-catch.md) | 7.0 | 23108 | JavaScript | chrome, chrome-extension, firefox, firefox-extension, javascript |
+| [moonD4rk/HackBrowserData](../repos/moond4rk-hackbrowserdata.md) | 7.0 | 14735 | Go | browser, browser-extension, chrome, edge, firefox |
+| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13442 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
+| [Floorp-Projects/Floorp](../repos/floorp-projects-floorp.md) | 7.0 | 8503 | TypeScript | browser, firefox, gecko, mozilla, webbrowser |
+| [salarcode/SmartProxy](../repos/salarcode-smartproxy.md) | 7.0 | 2779 | TypeScript | browser-extension, chrome, chrome-extension, edge-extension, firefox |
+| [zen-browser/desktop](../repos/zen-browser-desktop.md) | 6.5 | 45945 | C++ | firefox, firefox-based, firefox-browser, zen-browser |
+| [FirefoxBar/xStyle](../repos/firefoxbar-xstyle.md) | 6.5 | 183 | JavaScript | chrome, firefox, webextension, xstyle |
 
 ### [gorhill/uBlock](../repos/gorhill-ublock.md)
 
