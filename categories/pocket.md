@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2350 | TypeScript | extension-chrome, github, pocket, react, rss |
+| [lcomplete/huntly](../repos/lcomplete-huntly.md) | 7.0 | 2349 | TypeScript | extension-chrome, github, pocket, react, rss |
 
 ### [lcomplete/huntly](../repos/lcomplete-huntly.md)
 
