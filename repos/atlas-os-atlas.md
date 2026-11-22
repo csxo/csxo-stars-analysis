@@ -1,13 +1,13 @@
 # [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 
-> 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+> An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22151
+- **Star 数**: 22164
 - **主语言**: PowerShell
-- **GitHub 主题**: `ame-wizard`, `atlas`, `atlasos`, `debloat`, `fps`, `gaming`, `latency`, `open-source`, `opensource`, `performance`, `privacy`, `security`, `tweaks`, `windows`
+- **GitHub 主题**: `atlas`, `atlasos`, `debloat`, `fps`, `gaming`, `latency`, `open-source`, `performance`, `privacy`, `security`, `tweaks`, `windows`
 
 ## 简介
 
