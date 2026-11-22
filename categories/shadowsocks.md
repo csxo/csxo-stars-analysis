@@ -4,17 +4,17 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 120957 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
-| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 66173 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
-| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 49705 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46907 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34785 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
-| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32862 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
+| [2dust/v2rayN](../repos/2dust-v2rayn.md) | 7.0 | 121166 | C# | proxy, shadowsocks, socks5, trojan, v2fly |
+| [2dust/v2rayNG](../repos/2dust-v2rayng.md) | 7.0 | 66339 | Kotlin | android, proxy, shadowsocks, socks5, trojan |
+| [cmliu/edgetunnel](../repos/cmliu-edgetunnel.md) | 7.0 | 49843 | JavaScript | shadowsocks, shadowsocks-ws-tls, trojan, vless, vless-ws-tls |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46906 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [v2fly/v2ray-core](../repos/v2fly-v2ray-core.md) | 7.0 | 34791 | Go | anticensorship, hacktoberfest, network, proxy, shadowsocks |
+| [shadowsocks/ShadowsocksX-NG](../repos/shadowsocks-shadowsocksx-ng.md) | 7.0 | 32863 | Swift | kcptun, macos, shadowsocks, shadowsocksx-ng, swift |
 | [netchx/netch](../repos/netchx-netch.md) | 7.0 | 17692 | C# | fullcone, netch, netfiltersdk, shadowsocks, shadowsocksr |
-| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16737 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
-| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10988 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
-| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59483 | C# | c-sharp, proxy, shadowsocks |
-| [shadowsocks/shadowsocks-android](../repos/shadowsocks-shadowsocks-android.md) | 5.5 | 36842 | Kotlin | android, shadowsocks |
+| [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16739 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
+| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 10992 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
+| [shadowsocks/shadowsocks-windows](../repos/shadowsocks-shadowsocks-windows.md) | 6.0 | 59484 | C# | c-sharp, proxy, shadowsocks |
+| [shadowsocks/shadowsocks-android](../repos/shadowsocks-shadowsocks-android.md) | 5.5 | 36845 | Kotlin | android, shadowsocks |
 
 ### [2dust/v2rayN](../repos/2dust-v2rayn.md)
 
