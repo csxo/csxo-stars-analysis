@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 964 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 967 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
 
 ### [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md)
 
