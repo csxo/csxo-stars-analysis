@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 5762
+- **Star 数**: 5779
 - **主语言**: JavaScript
 - **GitHub 主题**: `chrome-extension`, `gemini`, `gemini-video-watermark-remover`, `gemini-watermark-remover`, `skills`, `userscript`, `watermark-remover`
 
