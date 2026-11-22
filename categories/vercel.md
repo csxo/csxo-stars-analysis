@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4108 | TypeScript | api, daily-hot, list, rss, vercel |
+| [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md) | 7.0 | 4109 | TypeScript | api, daily-hot, list, rss, vercel |
 
 ### [imsyy/DailyHotApi](../repos/imsyy-dailyhotapi.md)
 
