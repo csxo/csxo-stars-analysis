@@ -4,19 +4,19 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 469203 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
-| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 194542 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
-| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 119073 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 118708 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 97921 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 79856 | Python | agent-skills, ai-agents, antigravity, automation, claude |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53857 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53657 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
-| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 18560 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
+| [morluto/rea](../repos/morluto-rea.md) | 7.0 | 473423 | TypeScript | agent-skills, ai-agents, binary-analysis, claude-code, cli |
+| [DietrichGebert/ponytail](../repos/dietrichgebert-ponytail.md) | 7.0 | 196638 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 119908 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md) | 7.0 | 119673 | JavaScript | agent-skills, antigravity, claude-code, codex, cursor |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 98695 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [ComposioHQ/awesome-claude-skills](../repos/composiohq-awesome-claude-skills.md) | 7.0 | 80043 | Python | agent-skills, ai-agents, antigravity, automation, claude |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53923 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [CherryHQ/cherry-studio](../repos/cherryhq-cherry-studio.md) | 7.0 | 53741 | TypeScript | agent-skills, ai-agent, claude-code, codex, deepseek |
+| [lemomo-ai/lemo-opuscar](../repos/lemomo-ai-lemo-opuscar.md) | 7.0 | 19696 | JavaScript | agent-skills, ai-agents, ai-short-film, ai-video, animation |
 | [JimLiu/baoyu-design](../repos/jimliu-baoyu-design.md) | 7.0 | 6418 | JavaScript | agent-skills, claude, claude-code, claude-design, cursor |
-| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3594 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
-| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 964 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
-| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 27702 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3634 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
+| [op7418/guizang-product-video-skill](../repos/op7418-guizang-product-video-skill.md) | 7.0 | 967 | Python | agent-skills, claude-code, codepilot, codex, hyperframes |
+| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 27789 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
 
 ### [morluto/rea](../repos/morluto-rea.md)
 
@@ -26,13 +26,13 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-### [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md)
-
-Production-grade engineering skills for AI coding agents.
-
 ### [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md)
 
 Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+### [addyosmani/agent-skills](../repos/addyosmani-agent-skills.md)
+
+Production-grade engineering skills for AI coding agents.
 
 ### [tt-a1i/archify](../repos/tt-a1i-archify.md)
 
