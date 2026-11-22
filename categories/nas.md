@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [any-listen/any-listen](../repos/any-listen-any-listen.md) | 6.0 | 4965 | TypeScript | any-listen, music-player, nas |
+| [any-listen/any-listen](../repos/any-listen-any-listen.md) | 6.0 | 5000 | TypeScript | any-listen, music-player, nas |
 
 ### [any-listen/any-listen](../repos/any-listen-any-listen.md)
 
