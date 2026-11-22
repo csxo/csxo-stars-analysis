@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 123851
+- **Star 数**: 123990
 - **主语言**: Jupyter Notebook
 - **GitHub 主题**: `ai`, `azure`, `chatgpt`, `dall-e`, `generative-ai`, `generativeai`, `gpt`, `language-model`, `llms`, `microsoft-for-beginners`, `openai`, `prompt-engineering`, `semantic-search`, `transformers`
 
