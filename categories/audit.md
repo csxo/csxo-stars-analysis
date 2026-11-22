@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [HotCakeX/Harden-Windows-Security](../repos/hotcakex-harden-windows-security.md) | 7.0 | 4861 | C# | 1st-party-security, applicationcontrol, audit, bitlocker, compliance |
+| [HotCakeX/Harden-Windows-Security](../repos/hotcakex-harden-windows-security.md) | 7.0 | 4864 | C# | 1st-party-security, applicationcontrol, audit, bitlocker, compliance |
 
 ### [HotCakeX/Harden-Windows-Security](../repos/hotcakex-harden-windows-security.md)
 
