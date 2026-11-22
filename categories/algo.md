@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 132458 | Python | algo, algorithm, algorithms, book, data-structure |
+| [krahets/hello-algo](../repos/krahets-hello-algo.md) | 7.0 | 132565 | Python | algo, algorithm, algorithms, book, data-structure |
 
 ### [krahets/hello-algo](../repos/krahets-hello-algo.md)
 
