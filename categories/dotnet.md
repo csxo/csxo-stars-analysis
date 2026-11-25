@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 15033 | C# | avalonia, avif, cross-platform, csharp, dotnet |
-| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10573 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
-| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 9067 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
-| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2242 | C# | csharp, dotnet, relaxation, uwp, white-noise |
-| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 59622 | C# | csharp, dotnet, hacktoberfest, jellyfin |
+| [d2phap/ImageGlass](../repos/d2phap-imageglass.md) | 7.0 | 15062 | C# | avalonia, avif, cross-platform, csharp, dotnet |
+| [studyzy/imewlconverter](../repos/studyzy-imewlconverter.md) | 7.0 | 10581 | C# | c-sharp, chinese-characters, converter, dotnet, dotnet-core |
+| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 9079 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
+| [jenius-apps/ambie](../repos/jenius-apps-ambie.md) | 7.0 | 2244 | C# | csharp, dotnet, relaxation, uwp, white-noise |
+| [jellyfin/jellyfin](../repos/jellyfin-jellyfin.md) | 6.5 | 59746 | C# | csharp, dotnet, hacktoberfest, jellyfin |
 
 ### [d2phap/ImageGlass](../repos/d2phap-imageglass.md)
 
