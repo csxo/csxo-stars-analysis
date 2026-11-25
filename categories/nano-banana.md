@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [PicoTrex/Awesome-Nano-Banana-images](../repos/picotrex-awesome-nano-banana-images.md) | 6.0 | 24102 | — | awesome, gemini-2-5-flash-image, nano-banana |
+| [PicoTrex/Awesome-Nano-Banana-images](../repos/picotrex-awesome-nano-banana-images.md) | 6.0 | 24123 | — | awesome, gemini-2-5-flash-image, nano-banana |
 
 ### [PicoTrex/Awesome-Nano-Banana-images](../repos/picotrex-awesome-nano-banana-images.md)
 
