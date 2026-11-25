@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7694 | JavaScript | aplayer, html, html5, music, player |
-| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3807 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
-| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2290 | Swift | audiobook, ios, open-source, player, swift |
+| [DIYgod/APlayer](../repos/diygod-aplayer.md) | 7.0 | 7696 | JavaScript | aplayer, html, html5, music, player |
+| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3808 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
+| [TortugaPower/BookPlayer](../repos/tortugapower-bookplayer.md) | 7.0 | 2291 | Swift | audiobook, ios, open-source, player, swift |
 
 ### [DIYgod/APlayer](../repos/diygod-aplayer.md)
 
