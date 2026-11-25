@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 62253 | — | china, indie, indie-developer |
+| [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md) | 6.0 | 62303 | — | china, indie, indie-developer |
 
 ### [1c7/chinese-independent-developer](../repos/1c7-chinese-independent-developer.md)
 
