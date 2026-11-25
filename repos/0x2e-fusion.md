@@ -5,8 +5,8 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 2430
-- **主语言**: TypeScript
+- **Star 数**: 2438
+- **主语言**: Go
 - **GitHub 主题**: `rss`, `rss-aggregator`, `rss-reader`, `self-hosted`
 
 ## 简介
@@ -37,7 +37,5 @@ A lightweight, self-hosted friendly RSS reader
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [Seanium/FeedMe](seanium-feedme.md) | 0.44 | `rss`, `rss-reader`, `self-hosted`, `typescript` |
 | [FreshRSS/FreshRSS](freshrss-freshrss.md) | 0.40 | `rss`, `rss-aggregator`, `rss-reader`, `self-hosted` |
-| [RSSNext/Folo](rssnext-folo.md) | 0.38 | `rss`, `rss-reader`, `typescript` |
 
