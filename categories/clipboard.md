@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12681 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7464 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
-| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5944 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
-| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3770 | — | clipboard, feedback, paste, qt, qt5 |
+| [hluk/CopyQ](../repos/hluk-copyq.md) | 7.0 | 12695 | C++ | clipboard, clipboard-manager, copyq, cross-platform, scripting |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7487 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [Slackadays/Clipboard](../repos/slackadays-clipboard.md) | 7.0 | 5947 | C++ | bash, cli, clipboard, clipboard-manager, cmd |
+| [Snipaste/feedback](../repos/snipaste-feedback.md) | 7.0 | 3780 | — | clipboard, feedback, paste, qt, qt5 |
 | [baiyuze/pasteferry](../repos/baiyuze-pasteferry.md) | 7.0 | 207 | Dart | airdrop-alternative, clipboard, clipboard-sharing, clipboard-sync, copy-paste |
-| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7515 | C | clipboard, clipboard-manager |
+| [sabrogden/Ditto](../repos/sabrogden-ditto.md) | 5.5 | 7527 | C | clipboard, clipboard-manager |
 
 ### [hluk/CopyQ](../repos/hluk-copyq.md)
 
