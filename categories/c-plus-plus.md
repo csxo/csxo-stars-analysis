@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 79954 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
-| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 41814 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
-| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21526 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 18054 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [obsproject/obs-studio](../repos/obsproject-obs-studio.md) | 7.0 | 80108 | C | c, c-plus-plus, directshow, facebook-live, ffmpeg |
+| [qbittorrent/qBittorrent](../repos/qbittorrent-qbittorrent.md) | 7.0 | 41918 | C++ | bittorrent, bittorrent-client, c-plus-plus, crossplatform, torrent |
+| [xbmc/xbmc](../repos/xbmc-xbmc.md) | 7.0 | 21533 | C++ | android, c-plus-plus, entertainment-hub, hacktoberfest, home-theater |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 18068 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
 | [easymodo/qimgv](../repos/easymodo-qimgv.md) | 7.0 | 3172 | C++ | c-plus-plus, cross-platform, image-viewer, libmpv, linux |
 
 ### [obsproject/obs-studio](../repos/obsproject-obs-studio.md)
