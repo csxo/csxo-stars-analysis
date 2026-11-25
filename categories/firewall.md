@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9346 | C | arm64, firewall, foss, network, simplewall |
-| [crazy-max/WindowsSpyBlocker](../repos/crazy-max-windowsspyblocker.md) | 7.0 | 5240 | Go | blocker, dnscrypt, firewall, hostsfile, ncsi |
+| [henrypp/simplewall](../repos/henrypp-simplewall.md) | 7.0 | 9369 | C | arm64, firewall, foss, network, simplewall |
+| [crazy-max/WindowsSpyBlocker](../repos/crazy-max-windowsspyblocker.md) | 7.0 | 5242 | Go | blocker, dnscrypt, firewall, hostsfile, ncsi |
 
 ### [henrypp/simplewall](../repos/henrypp-simplewall.md)
 
