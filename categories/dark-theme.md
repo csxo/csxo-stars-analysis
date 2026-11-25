@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22617 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
-| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8762 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
+| [darkreader/darkreader](../repos/darkreader-darkreader.md) | 7.0 | 22626 | TypeScript | accessibility, chrome-extension, dark-mode, dark-theme, darkmode |
+| [BewlyBewly/BewlyBewly](../repos/bewlybewly-bewlybewly.md) | 7.0 | 8758 | Vue | bilibili, browser-extension, chrome-extension, dark-mode, dark-theme |
 
 ### [darkreader/darkreader](../repos/darkreader-darkreader.md)
 
