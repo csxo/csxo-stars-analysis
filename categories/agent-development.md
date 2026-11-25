@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80720 | Python | agent, agent-development, ai-agent, claude, claude-code |
+| [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md) | 7.0 | 80884 | Python | agent, agent-development, ai-agent, claude, claude-code |
 
 ### [shareAI-lab/learn-claude-code](../repos/shareai-lab-learn-claude-code.md)
 
