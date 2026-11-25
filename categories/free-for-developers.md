@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 143367 | HTML | awesome-list, free-for-developers |
+| [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md) | 5.5 | 143624 | HTML | awesome-list, free-for-developers |
 
 ### [ripienaar/free-for-dev](../repos/ripienaar-free-for-dev.md)
 
