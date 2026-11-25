@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 67100 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
-| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15238 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
+| [xtekky/gpt4free](../repos/xtekky-gpt4free.md) | 7.0 | 67107 | Python | chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api |
+| [GaiZhenbiao/ChuanhuChatGPT](../repos/gaizhenbiao-chuanhuchatgpt.md) | 7.0 | 15232 | Python | chatbot, chatglm, chatgpt-api, claude, dalle3 |
 
 ### [xtekky/gpt4free](../repos/xtekky-gpt4free.md)
 
