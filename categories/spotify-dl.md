@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md) | 7.0 | 1950 | Python | downloads-songs, mp3, playlist, spotify, spotify-dl |
+| [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md) | 7.0 | 1953 | Python | downloads-songs, mp3, playlist, spotify, spotify-dl |
 
 ### [SathyaBhat/spotify-dl](../repos/sathyabhat-spotify-dl.md)
 
