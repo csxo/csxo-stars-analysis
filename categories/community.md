@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md) | 7.0 | 459464 | TypeScript | careers, certification, community, curriculum, d3 |
-| [apache/answer](../repos/apache-answer.md) | 7.0 | 15717 | Go | community, forum, go, golang, hacktoberfest |
-| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5961 | Python | all-in-one, apps, atom-feed, atomfeed, community |
+| [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md) | 7.0 | 459609 | TypeScript | careers, certification, community, curriculum, d3 |
+| [apache/answer](../repos/apache-answer.md) | 7.0 | 15715 | Go | community, forum, go, golang, hacktoberfest |
+| [AboutRSS/ALL-about-RSS](../repos/aboutrss-all-about-rss.md) | 7.0 | 5963 | Python | all-in-one, apps, atom-feed, atomfeed, community |
 
 ### [freeCodeCamp/freeCodeCamp](../repos/freecodecamp-freecodecamp.md)
 
