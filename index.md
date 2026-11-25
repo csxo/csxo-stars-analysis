@@ -2,15 +2,15 @@
 
 > 由 GitHub Stars Analyzer 自动生成
 
-- **Star 总数**: 684  
-- **已分析**: 684  
-- **分类数**: 1263
+- **Star 总数**: 685  
+- **已分析**: 685  
+- **分类数**: 1266
 
 ## 分类总览
 
 | Category | Projects |
 | --- | ---: |
-| [Other](categories/other.md) | 462 |
+| [Other](categories/other.md) | 463 |
 | [(none)](categories/none.md) | 165 |
 | [AI / LLM](categories/ai-llm.md) | 92 |
 | [Frontend](categories/frontend.md) | 64 |
@@ -85,6 +85,7 @@
 | [openai](categories/openai.md) | 6 |
 | [quantumultx](categories/quantumultx.md) | 6 |
 | [anthropic](categories/anthropic.md) | 5 |
+| [antigravity](categories/antigravity.md) | 5 |
 | [app](categories/app.md) | 5 |
 | [aria2](categories/aria2.md) | 5 |
 | [c-plus-plus](categories/c-plus-plus.md) | 5 |
@@ -107,7 +108,6 @@
 | [adguardhome](categories/adguardhome.md) | 4 |
 | [algorithm](categories/algorithm.md) | 4 |
 | [algorithms](categories/algorithms.md) | 4 |
-| [antigravity](categories/antigravity.md) | 4 |
 | [apple](categories/apple.md) | 4 |
 | [automation](categories/automation.md) | 4 |
 | [bittorrent](categories/bittorrent.md) | 4 |
@@ -120,6 +120,7 @@
 | [firefox-extension](categories/firefox-extension.md) | 4 |
 | [free](categories/free.md) | 4 |
 | [gemma](categories/gemma.md) | 4 |
+| [http-proxy](categories/http-proxy.md) | 4 |
 | [iptv](categories/iptv.md) | 4 |
 | [jellyfin](categories/jellyfin.md) | 4 |
 | [material-design](categories/material-design.md) | 4 |
@@ -167,7 +168,6 @@
 | [greasemonkey](categories/greasemonkey.md) | 3 |
 | [hosts](categories/hosts.md) | 3 |
 | [html](categories/html.md) | 3 |
-| [http-proxy](categories/http-proxy.md) | 3 |
 | [hysteria](categories/hysteria.md) | 3 |
 | [image](categories/image.md) | 3 |
 | [list](categories/list.md) | 3 |
@@ -709,6 +709,7 @@
 | [discord](categories/discord.md) | 1 |
 | [dishes](categories/dishes.md) | 1 |
 | [django](categories/django.md) | 1 |
+| [dll-injection](categories/dll-injection.md) | 1 |
 | [dlna](categories/dlna.md) | 1 |
 | [dns-over-quic](categories/dns-over-quic.md) | 1 |
 | [dns-over-tls](categories/dns-over-tls.md) | 1 |
@@ -806,6 +807,7 @@
 | [flv](categories/flv.md) | 1 |
 | [foobar2000](categories/foobar2000.md) | 1 |
 | [food](categories/food.md) | 1 |
+| [force-proxy-network-hook](categories/force-proxy-network-hook.md) | 1 |
 | [forum](categories/forum.md) | 1 |
 | [fps](categories/fps.md) | 1 |
 | [free-for-developers](categories/free-for-developers.md) | 1 |
@@ -1007,6 +1009,7 @@
 | [microsoft-windows](categories/microsoft-windows.md) | 1 |
 | [microsoftstore-api](categories/microsoftstore-api.md) | 1 |
 | [mihomo-client](categories/mihomo-client.md) | 1 |
+| [minhook](categories/minhook.md) | 1 |
 | [mini](categories/mini.md) | 1 |
 | [miniblink](categories/miniblink.md) | 1 |
 | [minimax](categories/minimax.md) | 1 |
@@ -1293,21 +1296,21 @@
 
 | Tech | Count |
 | --- | ---: |
-| TypeScript | 124 |
+| TypeScript | 123 |
 | JavaScript | 104 |
-| Python | 103 |
-| Go | 30 |
+| Python | 102 |
+| Go | 31 |
+| C++ | 30 |
 | C# | 29 |
-| C++ | 29 |
 | HTML | 23 |
+| Kotlin | 18 |
 | Rust | 17 |
-| Swift | 17 |
-| Kotlin | 16 |
 | C | 15 |
+| Swift | 15 |
 | Dart | 12 |
 | Jupyter Notebook | 10 |
-| Lua | 7 |
+| Lua | 8 |
 | Java | 6 |
 
 ---
-_生成时间: 2026-11-22T12:11:50Z_
+_生成时间: 2026-11-25T13:46:53Z_
