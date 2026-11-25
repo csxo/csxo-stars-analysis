@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2620 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
-| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1798 | TypeScript | agent-skill, claude-code, codex, macos, skills |
-| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 28643 | JavaScript | agent-skill, open-source, svg, vizualization |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2646 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [JimLiu/baocut](../repos/jimliu-baocut.md) | 7.0 | 1807 | TypeScript | agent-skill, claude-code, codex, macos, skills |
+| [wheresryan22/anatomy](../repos/wheresryan22-anatomy.md) | 6.5 | 29143 | JavaScript | agent-skill, open-source, svg, vizualization |
 
 ### [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md)
 
