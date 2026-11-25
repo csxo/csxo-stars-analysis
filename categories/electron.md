@@ -4,17 +4,17 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195736 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
-| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 58674 | TypeScript | aria2, bt, download, electron, linux |
-| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 53053 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
-| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27445 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
-| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9802 | TypeScript | electron, linux, macos, react, rss |
-| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 9732 | TypeScript | ai-agents, bun, codex, electron, local-first |
-| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9204 | TypeScript | electron, free, music, music-player, react |
-| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7464 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3904 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
-| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55576 | TypeScript | electron, javascript, music-player, vue |
-| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27291 | TypeScript | clash, clash-meta, electron, mihomo |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195774 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 58794 | TypeScript | aria2, bt, download, electron, linux |
+| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 53215 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
+| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27458 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
+| [nightly-labs/openbot](../repos/nightly-labs-openbot.md) | 7.0 | 10677 | TypeScript | ai-agents, bun, codex, electron, local-first |
+| [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md) | 7.0 | 9810 | TypeScript | electron, linux, macos, react, rss |
+| [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md) | 7.0 | 9226 | TypeScript | electron, free, music, music-player, react |
+| [xushengfeng/eSearch](../repos/xushengfeng-esearch.md) | 7.0 | 7487 | TypeScript | clipboard, color-picker, cross-platform, electron, image-editing |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3916 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [lyswhut/lx-music-desktop](../repos/lyswhut-lx-music-desktop.md) | 6.5 | 55670 | TypeScript | electron, javascript, music-player, vue |
+| [mihomo-party-org/clash-party](../repos/mihomo-party-org-clash-party.md) | 6.5 | 27345 | TypeScript | clash, clash-meta, electron, mihomo |
 | [ShirasawaSama/CefDetectorX](../repos/shirasawasama-cefdetectorx.md) | 6.5 | 2599 | JavaScript | cef, cefsharp, electron, miniblink |
 
 ### [microsoft/vscode](../repos/microsoft-vscode.md)
@@ -33,13 +33,13 @@ A full-featured download manager.
 
 Switch hosts quickly!
 
-### [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md)
-
-Modern desktop RSS reader built with Electron, React, and Fluent UI
-
 ### [nightly-labs/openbot](../repos/nightly-labs-openbot.md)
 
 A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+
+### [yang991178/fluent-reader](../repos/yang991178-fluent-reader.md)
+
+Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 ### [maotoumao/MusicFreeDesktop](../repos/maotoumao-musicfreedesktop.md)
 
