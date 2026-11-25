@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10226 | JavaScript | github, release, steam, tampermonkey, userscript |
-| [TheRealJoelmatic/RemoveAdblockThing](../repos/therealjoelmatic-removeadblockthing.md) | 7.0 | 5967 | JavaScript | adblock, remove-not-allowed, tampermonkey, tampermonkey-userscript, undetected |
-| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3807 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
-| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2824 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
+| [XIU2/UserScript](../repos/xiu2-userscript.md) | 7.0 | 10235 | JavaScript | github, release, steam, tampermonkey, userscript |
+| [TheRealJoelmatic/RemoveAdblockThing](../repos/therealjoelmatic-removeadblockthing.md) | 7.0 | 5961 | JavaScript | adblock, remove-not-allowed, tampermonkey, tampermonkey-userscript, undetected |
+| [xxxily/h5player](../repos/xxxily-h5player.md) | 7.0 | 3808 | TypeScript | chrome-extension, h5player, player, tampermonkey, userscript |
+| [prinsss/twitter-web-exporter](../repos/prinsss-twitter-web-exporter.md) | 7.0 | 2829 | TypeScript | archiver, exporter, tampermonkey, twitter, twitter-api |
 | [machsix/Super-preloader](../repos/machsix-super-preloader.md) | 6.5 | 648 | JavaScript | greasemonkey, tampermonkey, userscript, violentmonkey |
-| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 31183 | TypeScript | bilibili, tampermonkey, userscript |
-| [langren1353/GM_script](../repos/langren1353-gm_script.md) | 6.0 | 6057 | JavaScript | gm-scripts, greasemonkey, tampermonkey |
-| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4284 | JavaScript | csdn, tampermonkey, userscript |
+| [the1812/Bilibili-Evolved](../repos/the1812-bilibili-evolved.md) | 6.0 | 31217 | TypeScript | bilibili, tampermonkey, userscript |
+| [langren1353/GM_script](../repos/langren1353-gm_script.md) | 6.0 | 6058 | JavaScript | gm-scripts, greasemonkey, tampermonkey |
+| [adlered/CSDNGreener](../repos/adlered-csdngreener.md) | 6.0 | 4286 | JavaScript | csdn, tampermonkey, userscript |
 
 ### [XIU2/UserScript](../repos/xiu2-userscript.md)
 
