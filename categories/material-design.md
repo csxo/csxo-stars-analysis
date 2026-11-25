@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 30908 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
-| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 13036 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
-| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7698 | Kotlin | android, compose, f-droid, kotlin, material-design |
-| [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md) | 7.0 | 5352 | JavaScript | featured-pictures, hexo-blog-theme, hexo-theme, hexo-theme-matery, material-design |
+| [JunkFood02/Seal](../repos/junkfood02-seal.md) | 7.0 | 31010 | Kotlin | android, f-droid, jetpack-compose, kotlin, material-design |
+| [libre-tube/LibreTube](../repos/libre-tube-libretube.md) | 7.0 | 13062 | Kotlin | android, kotlin, material-design, material-design-3-expressive, material-you |
+| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7713 | Kotlin | android, compose, f-droid, kotlin, material-design |
+| [blinkfox/hexo-theme-matery](../repos/blinkfox-hexo-theme-matery.md) | 7.0 | 5353 | JavaScript | featured-pictures, hexo-blog-theme, hexo-theme, hexo-theme-matery, material-design |
 
 ### [JunkFood02/Seal](../repos/junkfood02-seal.md)
 
