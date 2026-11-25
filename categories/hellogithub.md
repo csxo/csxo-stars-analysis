@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 190487 | Python | awesome, github, hellogithub, python |
+| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 191196 | Python | awesome, github, hellogithub, python |
 
 ### [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md)
 
