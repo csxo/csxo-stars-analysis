@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 45212 | Kotlin | accessibility, android, auto, click, compose |
-| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 19456 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
-| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7698 | Kotlin | android, compose, f-droid, kotlin, material-design |
+| [gkd-kit/gkd](../repos/gkd-kit-gkd.md) | 7.0 | 45416 | Kotlin | accessibility, android, auto, click, compose |
+| [amir1376/ab-download-manager](../repos/amir1376-ab-download-manager.md) | 7.0 | 19541 | Kotlin | chrome, compose, compose-desktop, compose-multiplatform, desktop |
+| [ReadYouApp/ReadYou](../repos/readyouapp-readyou.md) | 7.0 | 7713 | Kotlin | android, compose, f-droid, kotlin, material-design |
 
 ### [gkd-kit/gkd](../repos/gkd-kit-gkd.md)
 
