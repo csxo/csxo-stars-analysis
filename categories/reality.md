@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 43088 | Go | anticensorship, dns, network, proxy, reality |
+| [XTLS/Xray-core](../repos/xtls-xray-core.md) | 7.0 | 43150 | Go | anticensorship, dns, network, proxy, reality |
 
 ### [XTLS/Xray-core](../repos/xtls-xray-core.md)
 
