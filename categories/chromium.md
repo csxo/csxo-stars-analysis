@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69564 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
-| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28315 | Python | chromium, control, google-chromium, inox, iridium |
-| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24279 | — | brave, browser, chromium, linux, macos |
-| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 14142 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
-| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2332 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
-| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3353 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
-| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2655 | Python | chromium, ungoogled-chromium, windows |
+| [gorhill/uBlock](../repos/gorhill-ublock.md) | 7.0 | 69664 | JavaScript | blocker, browser-extension, chromium, firefox, javascript |
+| [ungoogled-software/ungoogled-chromium](../repos/ungoogled-software-ungoogled-chromium.md) | 7.0 | 28348 | Python | chromium, control, google-chromium, inox, iridium |
+| [brave/brave-browser](../repos/brave-brave-browser.md) | 7.0 | 24314 | — | brave, browser, chromium, linux, macos |
+| [ajayyy/SponsorBlock](../repos/ajayyy-sponsorblock.md) | 7.0 | 14164 | TypeScript | adblock, adblocker, chrome, chrome-extension, chromium |
+| [dnakov/little-rat](../repos/dnakov-little-rat.md) | 7.0 | 2331 | JavaScript | browser, chrome-extension, chromium, javascript, security-audit |
+| [NeverDecaf/chromium-web-store](../repos/neverdecaf-chromium-web-store.md) | 6.0 | 3362 | JavaScript | chrome-extension, chromium, ungoogled-chromium |
+| [ungoogled-software/ungoogled-chromium-windows](../repos/ungoogled-software-ungoogled-chromium-windows.md) | 6.0 | 2660 | Python | chromium, ungoogled-chromium, windows |
 
 ### [gorhill/uBlock](../repos/gorhill-ublock.md)
 
