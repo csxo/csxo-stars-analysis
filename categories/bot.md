@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md) | 7.0 | 16328 | Python | bot, movies, telegram-bot, tv-shows, yyets |
-| [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md) | 6.5 | 8681 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
+| [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md) | 7.0 | 16334 | Python | bot, movies, telegram-bot, tv-shows, yyets |
+| [Fei-Craft/DS-Bot](../repos/fei-craft-ds-bot.md) | 6.5 | 8919 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
 
 ### [tgbot-collection/YYeTsBot](../repos/tgbot-collection-yyetsbot.md)
 
 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 
-### [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md)
+### [Fei-Craft/DS-Bot](../repos/fei-craft-ds-bot.md)
 
 A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
 
