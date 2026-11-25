@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 26917
+- **Star 数**: 26955
 - **主语言**: Python
 - **GitHub 主题**: `download-music`, `hacktoberfest`, `mp3`, `music`, `playlists`, `python`, `song`, `song-lyrics`, `spotdl`, `spotdl-cli`, `spotify`, `youtube-music`
 
