@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 28330 | JavaScript | clash, luci, mihomo, openclash, openwrt |
+| [vernesong/OpenClash](../repos/vernesong-openclash.md) | 7.0 | 28363 | JavaScript | clash, luci, mihomo, openclash, openwrt |
 
 ### [vernesong/OpenClash](../repos/vernesong-openclash.md)
 
