@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [mastodon/mastodon](../repos/mastodon-mastodon.md) | 7.0 | 50660 | Ruby | activity-stream, activitypub, docker, fediverse, mastodon |
+| [mastodon/mastodon](../repos/mastodon-mastodon.md) | 7.0 | 50631 | Ruby | activity-stream, activitypub, docker, fediverse, mastodon |
 
 ### [mastodon/mastodon](../repos/mastodon-mastodon.md)
 
