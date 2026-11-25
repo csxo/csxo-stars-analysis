@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 48
+- **Star 数**: 49
 - **主语言**: TypeScript
 - **GitHub 主题**: `markdown`, `obsidian-plugin`, `publishing`, `typescript`, `wechat`
 
