@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27981 | C# | editor, gif, recorder, sketchboard, video |
+| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27997 | C# | editor, gif, recorder, sketchboard, video |
 | [hitchao/Jvedio](../repos/hitchao-jvedio.md) | 7.0 | 2758 | C# | db, ffmpeg, gif, image, library |
 
 ### [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md)
