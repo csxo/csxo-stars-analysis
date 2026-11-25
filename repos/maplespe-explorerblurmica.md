@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 4299
+- **Star 数**: 4303
 - **主语言**: C++
 - **GitHub 主题**: `acrylic`, `blur`, `explorer`, `mica`, `shell`, `windows10`, `windows11`
 
