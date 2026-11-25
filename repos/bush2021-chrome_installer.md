@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.5/10
-- **Star 数**: 1739
+- **Star 数**: 1744
 - **主语言**: Go
 - **GitHub 主题**: `github-actions`, `google-chrome`, `offline-installer`, `windows`
 
