@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [MiniMax-AI/minimax-code](../repos/minimax-ai-minimax-code.md) | 6.0 | 2271 | TypeScript | coding-agents, harness, minimax |
+| [MiniMax-AI/minimax-code](../repos/minimax-ai-minimax-code.md) | 6.0 | 2286 | TypeScript | coding-agents, harness, minimax |
 
 ### [MiniMax-AI/minimax-code](../repos/minimax-ai-minimax-code.md)
 
