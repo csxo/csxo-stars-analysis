@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md) | 7.0 | 2070 | JavaScript | hexo, hexo-theme, hexo-theme-stellar, ready-for-agent, stellar |
+| [xaoxuu/hexo-theme-stellar](../repos/xaoxuu-hexo-theme-stellar.md) | 7.0 | 2072 | JavaScript | hexo, hexo-theme, hexo-theme-stellar, ready-for-agent, stellar |
 | [LouisBarranqueiro/hexo-theme-tranquilpeak](../repos/louisbarranqueiro-hexo-theme-tranquilpeak.md) | 7.0 | 1891 | SCSS | hexo, hexo-theme, hexo-theme-tranquilpeak, theme, tranquilpeak |
 | [theme-next/hexo-theme-next](../repos/theme-next-hexo-theme-next.md) | 6.0 | 8201 | Stylus | hexo, hexo-theme, theme-next |
 | [next-theme/hexo-theme-next](../repos/next-theme-hexo-theme-next.md) | 6.0 | 2777 | JavaScript | hexo, hexo-theme, theme-next |
