@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md) | 7.0 | 767 | JavaScript | chinese, claude-code, claude-skills, explainer-video, text-to-video |
+| [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md) | 7.0 | 817 | JavaScript | chinese, claude-code, claude-skills, explainer-video, text-to-video |
 
 ### [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md)
 
