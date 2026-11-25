@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10961 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
-| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8439 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
-| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7466 | Go | clash, geoip, geoip2, proxy, quantumultx |
+| [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md) | 7.0 | 10986 | JavaScript | clash, http, loon, quantumultx, shadowrocket |
+| [NobyDa/Script](../repos/nobyda-script.md) | 7.0 | 8438 | JavaScript | jsbox, loon, nobyda, quantumultx, shadowrocket |
+| [Hackl0us/GeoIP2-CN](../repos/hackl0us-geoip2-cn.md) | 7.0 | 7464 | Go | clash, geoip, geoip2, proxy, quantumultx |
 | [sve1r/Rules-For-Quantumult-X](../repos/sve1r-rules-for-quantumult-x.md) | 7.0 | 3780 | JavaScript | quantumult, quantumult-x, quantumultx, qx, rules |
-| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3565 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
+| [limbopro/Profiles4limbo](../repos/limbopro-profiles4limbo.md) | 7.0 | 3566 | JavaScript | adblock, blackmatrix7, clash, quantumultx, tiktok |
 | [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2066 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
 
 ### [sub-store-org/Sub-Store](../repos/sub-store-org-sub-store.md)
