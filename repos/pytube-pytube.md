@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 6.0/10
-- **Star 数**: 13210
+- **Star 数**: 13214
 - **主语言**: Python
 - **GitHub 主题**: `python`, `youtube`, `youtube-downloader`
 
