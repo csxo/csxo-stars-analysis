@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21753 | Python | cnn, demo, docker, face-recognition, fastapi |
+| [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md) | 7.0 | 21774 | Python | cnn, demo, docker, face-recognition, fastapi |
 
 ### [Zeyi-Lin/HivisionIDPhotos](../repos/zeyi-lin-hivisionidphotos.md)
 
