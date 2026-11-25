@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27890 | Dart | android, bittorrent, cross-platform, debian, downloader |
+| [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md) | 7.0 | 27978 | Dart | android, bittorrent, cross-platform, debian, downloader |
 
 ### [GopeedLab/gopeed](../repos/gopeedlab-gopeed.md)
 
