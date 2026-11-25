@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md) | 7.0 | 1919 | Kotlin | android, image, image-watermark, tools, watermark |
+| [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md) | 7.0 | 1922 | Kotlin | android, image, image-watermark, tools, watermark |
 
 ### [rosuH/EasyWatermark](../repos/rosuh-easywatermark.md)
 
