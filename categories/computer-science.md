@@ -4,13 +4,13 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nilbuild/developer-roadmap](../repos/nilbuild-developer-roadmap.md) | 7.0 | 372539 | TypeScript | angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science, dba-roadmap |
-| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 364778 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
-| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186561 | JavaScript | algorithm, computer-science, cpp, interview, java |
-| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 111738 | Shell | awesome, computer-science, meetup, papers, programming |
-| [PKUanonym/REKCARC-TSC-UHT](../repos/pkuanonym-rekcarc-tsc-uht.md) | 7.0 | 38113 | HTML | computer-science, course, course-assignment, course-project, tsinghua-university |
-| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 73081 | — | awesome, awesome-list, computer-science, courses |
-| [ForrestKnight/open-source-cs](../repos/forrestknight-open-source-cs.md) | 5.0 | 23787 | — | computer-science |
+| [nilbuild/developer-roadmap](../repos/nilbuild-developer-roadmap.md) | 7.0 | 372744 | TypeScript | angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science, dba-roadmap |
+| [jwasham/coding-interview-university](../repos/jwasham-coding-interview-university.md) | 7.0 | 365046 | — | algorithm, algorithms, coding-interview, coding-interviews, computer-science |
+| [CyC2018/CS-Notes](../repos/cyc2018-cs-notes.md) | 7.0 | 186589 | JavaScript | algorithm, computer-science, cpp, interview, java |
+| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 111839 | Shell | awesome, computer-science, meetup, papers, programming |
+| [PKUanonym/REKCARC-TSC-UHT](../repos/pkuanonym-rekcarc-tsc-uht.md) | 7.0 | 38135 | HTML | computer-science, course, course-assignment, course-project, tsinghua-university |
+| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 73153 | — | awesome, awesome-list, computer-science, courses |
+| [ForrestKnight/open-source-cs](../repos/forrestknight-open-source-cs.md) | 5.0 | 23794 | — | computer-science |
 
 ### [nilbuild/developer-roadmap](../repos/nilbuild-developer-roadmap.md)
 
