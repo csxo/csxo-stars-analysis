@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [herdrdev/herdr](../repos/herdrdev-herdr.md) | 7.0 | 52270 | Rust | agent, agent-orchestration, ai, ai-agents, claude-code |
+| [herdrdev/herdr](../repos/herdrdev-herdr.md) | 7.0 | 52791 | Rust | agent, agent-orchestration, ai, ai-agents, claude-code |
 
 ### [herdrdev/herdr](../repos/herdrdev-herdr.md)
 
