@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64632 | Go | docker, foss, go, markdown, memo |
+| [usememos/memos](../repos/usememos-memos.md) | 7.0 | 64690 | Go | docker, foss, go, markdown, memo |
 
 ### [usememos/memos](../repos/usememos-memos.md)
 
