@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4701 | C++ | acrylic, aero, aeroglass, dwm, mica |
+| [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md) | 7.0 | 4706 | C++ | acrylic, aero, aeroglass, dwm, mica |
 
 ### [Maplespe/DWMBlurGlass](../repos/maplespe-dwmblurglass.md)
 
