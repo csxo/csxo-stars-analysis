@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 749
+- **Star 数**: 746
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai`, `github-actions`, `github-pages`, `llm`, `rss`, `rss-reader`, `self-hosted`
 
@@ -37,6 +37,5 @@
 
 | Project | Similarity | Shared tags |
 | --- | ---: | --- |
-| [0x2E/fusion](0x2e-fusion.md) | 0.44 | `rss`, `rss-reader`, `self-hosted`, `typescript` |
 | [RSSNext/Folo](rssnext-folo.md) | 0.40 | `ai`, `rss`, `rss-reader`, `typescript` |
 
