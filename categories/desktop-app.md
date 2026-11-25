@@ -4,16 +4,16 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 156299 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
+| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 157084 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
 | [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54677 | Rust | ai, app, application, chatgpt, desktop-app |
-| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32303 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
-| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 10646 | Rust | audio, cross-platform, desktop-app, egui, gui |
-| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3904 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
-| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 2286 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
-| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1474 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 604 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
-| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2829 | C# | desktop-app, desktop-tool, geekdesk |
-| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11453 | JavaScript | desktop-app, music-player |
+| [DevToys-app/DevToys](../repos/devtoys-app-devtoys.md) | 7.0 | 32320 | C# | blazor, cross-platform, csharp, desktop, desktop-app |
+| [crmne/spotifast](../repos/crmne-spotifast.md) | 7.0 | 10751 | Rust | audio, cross-platform, desktop-app, egui, gui |
+| [AmintaCCCP/GithubStarsManager](../repos/amintacccp-githubstarsmanager.md) | 7.0 | 3916 | TypeScript | ai-powered, bookmark-manager, cloudflare-workers, desktop-app, electron |
+| [leemysw/yovoice](../repos/leemysw-yovoice.md) | 7.0 | 2348 | TypeScript | ai-music, audio, desktop-app, local-ai, macos |
+| [Gaoyifei1011/GetStoreApp](../repos/gaoyifei1011-getstoreapp.md) | 7.0 | 1475 | C# | csharp, desktop-app, fluent-design, microsoftstore-api, msix |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 605 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2830 | C# | desktop-app, desktop-tool, geekdesk |
+| [listen1/listen1_desktop](../repos/listen1-listen1_desktop.md) | 5.5 | 11452 | JavaScript | desktop-app, music-player |
 
 ### [farion1231/cc-switch](../repos/farion1231-cc-switch.md)
 
