@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 39576
+- **Star 数**: 39600
 - **主语言**: Rust
 - **GitHub 主题**: `cross-platform`, `distributed-systems`, `encryption`, `file-manager`, `open-source`, `rust`, `storage`, `typescript`
 
