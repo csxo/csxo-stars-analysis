@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3634 | Swift | agent-skills, ai-agent, android, computer-use, cross-device |
+| [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md) | 7.0 | 3702 | Kotlin | agent-skills, ai-agent, android, computer-use, cross-device |
 
 ### [nano-muse/nanoMuse](../repos/nano-muse-nanomuse.md)
 
