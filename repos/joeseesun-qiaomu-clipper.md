@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 416
+- **Star 数**: 417
 - **主语言**: TypeScript
 - **GitHub 主题**: `ai-chat`, `chrome-extension`, `markdown`, `obsidian`, `obsidian-clipper`, `read-later`, `rss`, `typescript`, `web-clipper`
 
