@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jellyfin/jellyfin-desktop](../repos/jellyfin-jellyfin-desktop.md) | 5.5 | 6063 | C++ | jellyfin, jellyfin-client |
+| [jellyfin/jellyfin-desktop](../repos/jellyfin-jellyfin-desktop.md) | 5.5 | 6074 | C++ | jellyfin, jellyfin-client |
 
 ### [jellyfin/jellyfin-desktop](../repos/jellyfin-jellyfin-desktop.md)
 
