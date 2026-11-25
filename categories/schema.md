@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fkxxyz/rime-cloverpinyin](../repos/fkxxyz-rime-cloverpinyin.md) | 6.5 | 2005 | Python | fcitx, pinyin, rime, schema |
+| [fkxxyz/rime-cloverpinyin](../repos/fkxxyz-rime-cloverpinyin.md) | 6.5 | 2003 | Python | fcitx, pinyin, rime, schema |
 
 ### [fkxxyz/rime-cloverpinyin](../repos/fkxxyz-rime-cloverpinyin.md)
 
