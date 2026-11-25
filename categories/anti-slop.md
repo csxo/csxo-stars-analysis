@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 119908 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
+| [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md) | 7.0 | 121390 | JavaScript | agent-skills, ai-agents, anti-slop, claude-code, codex |
 
 ### [Leonxlnx/taste-skill](../repos/leonxlnx-taste-skill.md)
 
