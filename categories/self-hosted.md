@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13072 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
-| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10467 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
-| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2430 | TypeScript | rss, rss-aggregator, rss-reader, self-hosted |
+| [wallabag/wallabag](../repos/wallabag-wallabag.md) | 7.0 | 13066 | PHP | hacktoberfest, php, read-it-later, self-hosted, symfony |
+| [jeffvli/feishin](../repos/jeffvli-feishin.md) | 7.0 | 10502 | TypeScript | jellyfin, music-player, navidrome, self-hosted, subsonic |
+| [0x2E/fusion](../repos/0x2e-fusion.md) | 6.5 | 2438 | Go | rss, rss-aggregator, rss-reader, self-hosted |
 
 ### [wallabag/wallabag](../repos/wallabag-wallabag.md)
 
