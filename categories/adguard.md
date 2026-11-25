@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38721 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
-| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29419 | — | adblock, adguard, anticensorship, chinalist, clash |
-| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7879 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
-| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6869 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
+| [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md) | 7.0 | 38833 | TypeScript | adblock, adguard, dns, dns-over-https, dns-over-quic |
+| [Loyalsoldier/clash-rules](../repos/loyalsoldier-clash-rules.md) | 7.0 | 29472 | — | adblock, adguard, anticensorship, chinalist, clash |
+| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7891 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
+| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6887 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
 | [limbopro/Adblock4limbo](../repos/limbopro-adblock4limbo.md) | 7.0 | 4586 | JavaScript | adblock, adblocker, adguard, ios, javascript |
-| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1968 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
+| [8680/GOODBYEADS](../repos/8680-goodbyeads.md) | 7.0 | 1969 | Python | adblock, adblock-list, adblock-plus, adguard, adguard-list |
 
 ### [AdguardTeam/AdGuardHome](../repos/adguardteam-adguardhome.md)
 
