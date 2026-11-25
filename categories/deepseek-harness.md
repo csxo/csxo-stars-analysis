@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 156299 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
-| [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md) | 6.5 | 8681 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
+| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 157084 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
+| [Fei-Craft/DS-Bot](../repos/fei-craft-ds-bot.md) | 6.5 | 8919 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
 
 ### [farion1231/cc-switch](../repos/farion1231-cc-switch.md)
 
 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 
-### [Fei2411/DS-Bot](../repos/fei2411-ds-bot.md)
+### [Fei-Craft/DS-Bot](../repos/fei-craft-ds-bot.md)
 
 A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
 
