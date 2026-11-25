@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 159893
+- **Star 数**: 160641
 - **主语言**: TypeScript
 - **GitHub 主题**: `clash`, `clash-meta`, `clash-verge`, `linux`, `mac`, `mihomo`, `tauri-app`, `windows`
 
