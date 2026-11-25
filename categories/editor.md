@@ -4,14 +4,14 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195736 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
-| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27981 | C# | editor, gif, recorder, sketchboard, video |
-| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14810 | C++ | desktop, editor, linux, macos, notepad |
-| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14315 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
-| [doocs/md](../repos/doocs-md.md) | 7.0 | 13553 | TypeScript | ai-bot, doocs, editor, llm, markdown |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195774 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27997 | C# | editor, gif, recorder, sketchboard, video |
+| [dail8859/NotepadNext](../repos/dail8859-notepadnext.md) | 7.0 | 14822 | C++ | desktop, editor, linux, macos, notepad |
+| [pandao/editor.md](../repos/pandao-editor-md.md) | 7.0 | 14311 | JavaScript | codemirror, commonmark, documentation, editor, flowchart |
+| [doocs/md](../repos/doocs-md.md) | 7.0 | 13560 | TypeScript | ai-bot, doocs, editor, llm, markdown |
 | [Vanessa219/vditor](../repos/vanessa219-vditor.md) | 7.0 | 11457 | TypeScript | commonmark, editor, gfm, lute, markdown |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3995 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 604 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3997 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 605 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
 
 ### [microsoft/vscode](../repos/microsoft-vscode.md)
 
