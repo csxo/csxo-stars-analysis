@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2829 | C# | desktop-app, desktop-tool, geekdesk |
+| [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md) | 6.0 | 2830 | C# | desktop-app, desktop-tool, geekdesk |
 
 ### [BookerLiu/GeekDesk](../repos/bookerliu-geekdesk.md)
 
