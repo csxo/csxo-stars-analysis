@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25598 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
-| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20902 | C++ | acrylic, aero, blur, customization, discord |
-| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6158 | CSS | beautify, css, customization, spicetify, spicetify-themes |
+| [spicetify/cli](../repos/spicetify-cli.md) | 7.0 | 25624 | JavaScript | command-line, command-line-tool, customization, golang, hacktoberfest |
+| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20954 | C++ | acrylic, aero, blur, customization, discord |
+| [spicetify/spicetify-themes](../repos/spicetify-spicetify-themes.md) | 7.0 | 6159 | CSS | beautify, css, customization, spicetify, spicetify-themes |
 
 ### [spicetify/cli](../repos/spicetify-cli.md)
 
