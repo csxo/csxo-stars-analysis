@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 187841 | Go | deepseek, gemma, gemma3, glm, go |
+| [ollama/ollama](../repos/ollama-ollama.md) | 7.0 | 188087 | Go | deepseek, gemma, gemma3, glm, go |
 
 ### [ollama/ollama](../repos/ollama-ollama.md)
 
