@@ -5,7 +5,7 @@
 ## 元信息
 
 - **价值评分**: 7.0/10
-- **Star 数**: 22164
+- **Star 数**: 22240
 - **主语言**: PowerShell
 - **GitHub 主题**: `atlas`, `atlasos`, `debloat`, `fps`, `gaming`, `latency`, `open-source`, `performance`, `privacy`, `security`, `tweaks`, `windows`
 
