@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Planshit/Tai](../repos/planshit-tai.md) | 6.0 | 5105 | C# | csharp, tai, wpf |
+| [woijfwefw/Tai](../repos/woijfwefw-tai.md) | 6.0 | 5107 | C# | csharp, tai, wpf |
 
-### [Planshit/Tai](../repos/planshit-tai.md)
+### [woijfwefw/Tai](../repos/woijfwefw-tai.md)
 
 👻 在Windows上统计软件使用时长和网站浏览时长
 
