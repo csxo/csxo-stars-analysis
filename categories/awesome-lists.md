@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53923 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53979 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
 | [AiHubCN/Awesome-Chinese-LLM](../repos/aihubcn-awesome-chinese-llm.md) | 7.0 | 22782 | — | awesome-lists, chatglm, chinese, llama, llm |
 | [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3363 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
 
