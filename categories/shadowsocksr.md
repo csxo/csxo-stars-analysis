@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [netchx/netch](../repos/netchx-netch.md) | 7.0 | 17692 | C# | fullcone, netch, netfiltersdk, shadowsocks, shadowsocksr |
+| [netchx/netch](../repos/netchx-netch.md) | 7.0 | 17696 | C# | fullcone, netch, netfiltersdk, shadowsocks, shadowsocksr |
 | [h2y/Shadowrocket-ADBlock-Rules](../repos/h2y-shadowrocket-adblock-rules.md) | 7.0 | 16739 | Python | gfw, proxy, shadowrocket, shadowsocks, shadowsocksr |
 
 ### [netchx/netch](../repos/netchx-netch.md)
