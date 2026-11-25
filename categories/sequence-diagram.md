@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3995 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
+| [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md) | 7.0 | 3997 | CSS | editor, flowchart, gantt-diagram, markdown, sequence-diagram |
 
 ### [nicejade/markdown-online-editor](../repos/nicejade-markdown-online-editor.md)
 
