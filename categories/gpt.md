@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71392 | Python | agent, gpt, llm, metagpt, multi-agent |
+| [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md) | 7.0 | 71476 | Python | agent, gpt, llm, metagpt, multi-agent |
 | [PlexPt/awesome-chatgpt-prompts-zh](../repos/plexpt-awesome-chatgpt-prompts-zh.md) | 7.0 | 64385 | — | chat-gpt, chatgpt, chatgpt3, chatgpt4, gpt |
-| [pbatard/rufus](../repos/pbatard-rufus.md) | 7.0 | 38459 | C | bios, boot, bootable-drives, freedos, gpt |
+| [pbatard/rufus](../repos/pbatard-rufus.md) | 7.0 | 38497 | C | bios, boot, bootable-drives, freedos, gpt |
 
 ### [FoundationAgents/MetaGPT](../repos/foundationagents-metagpt.md)
 
