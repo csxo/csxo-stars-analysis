@@ -4,12 +4,12 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25079 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
-| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14889 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
-| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6857 | Python | elevenlabs, gemini, genai, notebooklm, openai |
-| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 77485 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
-| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17234 | — | ai, chat, chatgpt, openai |
-| [openai/openai-python](../repos/openai-openai-python.md) | 5.5 | 32237 | Python | openai, python |
+| [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md) | 7.0 | 25085 | TypeScript | browser-extension, chatgpt, chrome-extension, openai, translation |
+| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14887 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
+| [souzatharsis/podcastfy](../repos/souzatharsis-podcastfy.md) | 7.0 | 6866 | Python | elevenlabs, gemini, genai, notebooklm, openai |
+| [openai/openai-cookbook](../repos/openai-openai-cookbook.md) | 6.5 | 77549 | Jupyter Notebook | chatgpt, gpt-4, openai, openai-api |
+| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17238 | — | ai, chat, chatgpt, openai |
+| [openai/openai-python](../repos/openai-openai-python.md) | 5.5 | 32269 | Python | openai, python |
 
 ### [nextai-translator/nextai-translator](../repos/nextai-translator-nextai-translator.md)
 
