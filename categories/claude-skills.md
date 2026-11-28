@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 99791 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
-| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 94308 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
-| [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md) | 7.0 | 817 | JavaScript | chinese, claude-code, claude-skills, explainer-video, text-to-video |
-| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 27873 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
+| [tt-a1i/archify](../repos/tt-a1i-archify.md) | 7.0 | 101138 | JavaScript | agent-skills, ai-agents, architecture-diagram, claude-code, claude-skills |
+| [Egonex-AI/Understand-Anything](../repos/egonex-ai-understand-anything.md) | 7.0 | 94778 | TypeScript | antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis |
+| [andyhuo520/vibe-knowledge](../repos/andyhuo520-vibe-knowledge.md) | 7.0 | 856 | JavaScript | chinese, claude-code, claude-skills, explainer-video, text-to-video |
+| [JimLiu/baoyu-skills](../repos/jimliu-baoyu-skills.md) | 6.5 | 27961 | TypeScript | agent-skills, claude-skills, codex-skills, openclaw-skills |
 
 ### [tt-a1i/archify](../repos/tt-a1i-archify.md)
 
