@@ -4,50 +4,50 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 395187 | TypeScript | ai, assistant, crustacean, molty, openclaw |
-| [obra/superpowers](../repos/obra-superpowers.md) | 7.0 | 326287 | Shell | ai, brainstorming, coding, obra, sdlc |
-| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 188182 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
-| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 178492 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
-| [AUTOMATIC1111/stable-diffusion-webui](../repos/automatic1111-stable-diffusion-webui.md) | 7.0 | 165377 | Python | ai, ai-art, deep-learning, diffusion, gradio |
-| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 161887 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
-| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 159527 | Svelte | ai, llm, llm-ui, llm-webui, llms |
-| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 124167 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
-| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 122753 | Go | ai, anthropic, caveman, claude, claude-code |
-| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 109098 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
-| [hacksider/Deep-Live-Cam](../repos/hacksider-deep-live-cam.md) | 7.0 | 98908 | Python | ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence |
-| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 86135 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
-| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 76279 | Python | agent, ai, deepseek, fine-tuning, gemma |
-| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 71249 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
-| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 71105 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
-| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 63871 | Python | ai, bark, data-analysis, docker, hot-news |
-| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54677 | Rust | ai, app, application, chatgpt, desktop-app |
-| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 53215 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
-| [herdrdev/herdr](../repos/herdrdev-herdr.md) | 7.0 | 52791 | Rust | agent, agent-orchestration, ai, ai-agents, claude-code |
-| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48560 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
-| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 48067 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
-| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 47516 | TypeScript | ai, anthropic, artifacts, aws, azure |
-| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39357 | TypeScript | ai, reader, rss, rss-reader, rsshub |
-| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36854 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
-| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36559 | TypeScript | agent, ai, cli, developer-tools, open-source |
-| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 22385 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
-| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20516 | JavaScript | agent, ai, coding, course, deepseek |
-| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14889 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
-| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11574 | TypeScript | ai, deepseek, doubao, motion, react |
-| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 9079 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
-| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9078 | TypeScript | ai, application, browser, chatgpt, claude |
-| [EwingYangs/awesome-open-gpt](../repos/ewingyangs-awesome-open-gpt.md) | 7.0 | 6076 | Python | agentgpt, ai, aigc, autogpt, awesome |
-| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 6063 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
-| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 4207 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
-| [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md) | 7.0 | 3377 | TypeScript | ai, exe, macos, ocr, pc |
-| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 3335 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
-| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2668 | Go | ai, atom, feed-reader, feeds, rss |
-| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1524 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
+| [openclaw/openclaw](../repos/openclaw-openclaw.md) | 7.0 | 395368 | TypeScript | ai, assistant, crustacean, molty, openclaw |
+| [obra/superpowers](../repos/obra-superpowers.md) | 7.0 | 328697 | Shell | ai, brainstorming, coding, obra, sdlc |
+| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 188214 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
+| [f/prompts.chat](../repos/f-prompts-chat.md) | 7.0 | 178748 | MDX | ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts |
+| [AUTOMATIC1111/stable-diffusion-webui](../repos/automatic1111-stable-diffusion-webui.md) | 7.0 | 165399 | Python | ai, ai-art, deep-learning, diffusion, gradio |
+| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 162038 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
+| [open-webui/open-webui](../repos/open-webui-open-webui.md) | 7.0 | 159719 | Svelte | ai, llm, llm-ui, llm-webui, llms |
+| [microsoft/generative-ai-for-beginners](../repos/microsoft-generative-ai-for-beginners.md) | 7.0 | 124469 | Jupyter Notebook | ai, azure, chatgpt, dall-e, generative-ai |
+| [JuliusBrussee/caveman](../repos/juliusbrussee-caveman.md) | 7.0 | 123428 | Go | ai, anthropic, caveman, claude, claude-code |
+| [google-gemini/gemini-cli](../repos/google-gemini-gemini-cli.md) | 7.0 | 109282 | TypeScript | ai, ai-agents, cli, gemini, gemini-api |
+| [hacksider/Deep-Live-Cam](../repos/hacksider-deep-live-cam.md) | 7.0 | 98983 | Python | ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence |
+| [lobehub/lobehub](../repos/lobehub-lobehub.md) | 7.0 | 86226 | TypeScript | agent, agent-collaboration, agent-harness, ai, cao |
+| [hiyouga/LlamaFactory](../repos/hiyouga-llamafactory.md) | 7.0 | 76313 | Python | agent, ai, deepseek, fine-tuning, gemma |
+| [microsoft/AI-For-Beginners](../repos/microsoft-ai-for-beginners.md) | 7.0 | 71320 | Jupyter Notebook | ai, artificial-intelligence, cnn, computer-vision, deep-learning |
+| [code-yeongyu/oh-my-openagent](../repos/code-yeongyu-oh-my-openagent.md) | 7.0 | 71164 | TypeScript | ai, ai-agents, anthropic, chatgpt, claude |
+| [sansan0/TrendRadar](../repos/sansan0-trendradar.md) | 7.0 | 63932 | TypeScript | ai, bark, data-analysis, docker, hot-news |
+| [lencx/ChatGPT](../repos/lencx-chatgpt.md) | 7.0 | 54688 | Rust | ai, app, application, chatgpt, desktop-app |
+| [upscayl/upscayl](../repos/upscayl-upscayl.md) | 7.0 | 53364 | TypeScript | ai, electron, esrgan, gigapixel, gigapixel-images |
+| [herdrdev/herdr](../repos/herdrdev-herdr.md) | 7.0 | 53362 | Rust | agent, agent-orchestration, ai, ai-agents, claude-code |
+| [GitHubDaily/GitHubDaily](../repos/githubdaily-githubdaily.md) | 7.0 | 48580 | — | ai, algorithms-and-data-structures, backend, developer-tools, development |
+| [zhayujie/CowAgent](../repos/zhayujie-cowagent.md) | 7.0 | 48117 | Python | ai, ai-agent, ai-agents, chatgpt-on-wechat, claude |
+| [LibreChat-AI/LibreChat](../repos/librechat-ai-librechat.md) | 7.0 | 47609 | TypeScript | ai, anthropic, artifacts, aws, azure |
+| [RSSNext/Folo](../repos/rssnext-folo.md) | 7.0 | 39380 | TypeScript | ai, reader, rss, rss-reader, rsshub |
+| [babysor/MockingBird](../repos/babysor-mockingbird.md) | 7.0 | 36856 | Python | ai, deep-learning, pytorch, speech, text-to-speech |
+| [continuedev/continue](../repos/continuedev-continue.md) | 7.0 | 36587 | TypeScript | agent, ai, cli, developer-tools, open-source |
+| [liyupi/ai-guide](../repos/liyupi-ai-guide.md) | 7.0 | 22464 | JavaScript | ai, ai-agent, artificial-intelligence, chatgpt, claude |
+| [datawhalechina/easy-vibe](../repos/datawhalechina-easy-vibe.md) | 7.0 | 20531 | JavaScript | agent, ai, coding, course, deepseek |
+| [xcanwin/KeepChatGPT](../repos/xcanwin-keepchatgpt.md) | 7.0 | 14887 | JavaScript | ai, chatgpt, datasecurity, openai, userscript |
+| [JOYCEQL/magic-resume](../repos/joyceql-magic-resume.md) | 7.0 | 11593 | TypeScript | ai, deepseek, doubao, motion, react |
+| [LykosAI/StabilityMatrix](../repos/lykosai-stabilitymatrix.md) | 7.0 | 9092 | C# | ai, automatic1111, avalonia, comfyui, dotnet |
+| [lencx/Noi](../repos/lencx-noi.md) | 7.0 | 9080 | TypeScript | ai, application, browser, chatgpt, claude |
+| [dimthink/PriceAI](../repos/dimthink-priceai.md) | 7.0 | 6200 | TypeScript | ai, ai-subscription, chatgpt, claude, gemini |
+| [EwingYangs/awesome-open-gpt](../repos/ewingyangs-awesome-open-gpt.md) | 7.0 | 6078 | Python | agentgpt, ai, aigc, autogpt, awesome |
+| [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md) | 7.0 | 4221 | PHP | ai, chrome-extension, cms, content-automation, generative-engine-optimization |
+| [runkids/skillshare](../repos/runkids-skillshare.md) | 7.0 | 3401 | Go | agent-plugins, ai, ai-agents, claude-code, cli |
+| [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md) | 7.0 | 3375 | TypeScript | ai, exe, macos, ocr, pc |
+| [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md) | 7.0 | 2675 | Go | ai, atom, feed-reader, feeds, rss |
+| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1527 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
 | [Seanium/FeedMe](../repos/seanium-feedme.md) | 7.0 | 746 | TypeScript | ai, github-actions, github-pages, llm, rss |
 | [versun/RSSBox](../repos/versun-rssbox.md) | 7.0 | 683 | Python | ai, digest, django, feed, filter |
-| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 605 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
-| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17234 | — | ai, chat, chatgpt, openai |
-| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4093 | TypeScript | ai, business, product, programming |
-| [Ojhaharsh/30u30](../repos/ojhaharsh-30u30.md) | 5.5 | 1774 | Python | ai, ilya-sutskever |
+| [Razee4315/Paperling](../repos/razee4315-paperling.md) | 7.0 | 606 | TypeScript | ai, cross-platform, desktop-app, dev-tools, editor |
+| [xx025/carrot](../repos/xx025-carrot.md) | 6.5 | 17238 | — | ai, chat, chatgpt, openai |
+| [ginobefun/BestBlogs](../repos/ginobefun-bestblogs.md) | 6.5 | 4096 | TypeScript | ai, business, product, programming |
+| [Ojhaharsh/30u30](../repos/ojhaharsh-30u30.md) | 5.5 | 1778 | Python | ai, ilya-sutskever |
 
 ### [openclaw/openclaw](../repos/openclaw-openclaw.md)
 
@@ -173,25 +173,25 @@ Multi-Platform Package Manager for Stable Diffusion
 
 🚀 Less chaos. More flow.
 
-### [EwingYangs/awesome-open-gpt](../repos/ewingyangs-awesome-open-gpt.md)
-
-Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
-
 ### [dimthink/PriceAI](../repos/dimthink-priceai.md)
 
 AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
+
+### [EwingYangs/awesome-open-gpt](../repos/ewingyangs-awesome-open-gpt.md)
+
+Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 
 ### [yaojingang/GEOFlow](../repos/yaojingang-geoflow.md)
 
 Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates.
 
-### [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md)
-
-🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
-
 ### [runkids/skillshare](../repos/runkids-skillshare.md)
 
 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
+
+### [InkTimeRecord/TTime](../repos/inktimerecord-ttime.md)
+
+🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 
 ### [DevXDojo/MrRSS](../repos/devxdojo-mrrss.md)
 
