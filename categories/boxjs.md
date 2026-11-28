@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [chavyleung/scripts](../repos/chavyleung-scripts.md) | 5.0 | 5525 | JavaScript | boxjs |
+| [chavyleung/scripts](../repos/chavyleung-scripts.md) | 5.0 | 5526 | JavaScript | boxjs |
 
 ### [chavyleung/scripts](../repos/chavyleung-scripts.md)
 
