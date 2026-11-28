@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195774 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
-| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8234 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
-| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2850 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
+| [microsoft/vscode](../repos/microsoft-vscode.md) | 7.0 | 195702 | TypeScript | editor, electron, microsoft, typescript, visual-studio-code |
+| [GUI-for-Cores/GUI.for.SingBox](../repos/gui-for-cores-gui-for-singbox.md) | 7.0 | 8240 | Vue | gui, rolldown-vite, sing-box, typescript, vue3 |
+| [GUI-for-Cores/GUI.for.Clash](../repos/gui-for-cores-gui-for-clash.md) | 7.0 | 2851 | TypeScript | clash, gui, rolldown-vite, typescript, vue3 |
 | [joeseesun/qiaomu-publish](../repos/joeseesun-qiaomu-publish.md) | 7.0 | 49 | TypeScript | markdown, obsidian-plugin, publishing, typescript, wechat |
 | [BlackGlory/extension-binary-search](../repos/blackglory-extension-binary-search.md) | 6.5 | 49 | TypeScript | chrome-extension, edge-extension, manifest-v3, typescript |
 
