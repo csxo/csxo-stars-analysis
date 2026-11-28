@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13532 | JavaScript | extension, translate, translation, translator, userscript |
-| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13447 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
+| [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md) | 7.0 | 13560 | JavaScript | extension, translate, translation, translator, userscript |
+| [crimx/ext-saladict](../repos/crimx-ext-saladict.md) | 7.0 | 13452 | TypeScript | chrome, chrome-extension, dictionaries, extension, firefox |
 | [coolpace/V2EX_Polish](../repos/coolpace-v2ex_polish.md) | 6.0 | 1239 | TypeScript | extension, v2ex, v2ex-community |
 
 ### [fishjar/kiss-translator](../repos/fishjar-kiss-translator.md)
