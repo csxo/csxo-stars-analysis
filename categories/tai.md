@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [woijfwefw/Tai](../repos/woijfwefw-tai.md) | 6.0 | 5107 | C# | csharp, tai, wpf |
+| [woijfwefw/Tai](../repos/woijfwefw-tai.md) | 6.0 | 5106 | C# | csharp, tai, wpf |
 
 ### [woijfwefw/Tai](../repos/woijfwefw-tai.md)
 
