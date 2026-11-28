@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27458 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
+| [oldj/SwitchHosts](../repos/oldj-switchhosts.md) | 7.0 | 27476 | TypeScript | electron, hosts, hostseditor, hostsfile, switch-hosts |
 
 ### [oldj/SwitchHosts](../repos/oldj-switchhosts.md)
 
