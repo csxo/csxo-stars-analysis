@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5649 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
-| [woijfwefw/Tai](../repos/woijfwefw-tai.md) | 6.0 | 5107 | C# | csharp, tai, wpf |
+| [the1812/Malware-Patch](../repos/the1812-malware-patch.md) | 7.0 | 5651 | C# | csharp, malware-protection, uac-authorization, windows, wpf |
+| [woijfwefw/Tai](../repos/woijfwefw-tai.md) | 6.0 | 5106 | C# | csharp, tai, wpf |
 
 ### [the1812/Malware-Patch](../repos/the1812-malware-patch.md)
 
