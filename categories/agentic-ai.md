@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 188182 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
-| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 161887 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
-| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23205 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
+| [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md) | 7.0 | 188214 | Python | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents |
+| [langgenius/dify](../repos/langgenius-dify.md) | 7.0 | 162038 | Python | agent, agentic-ai, agentic-framework, agentic-workflow, ai |
+| [1Panel-dev/MaxKB](../repos/1panel-dev-maxkb.md) | 7.0 | 23228 | Python | agent, agentic-ai, chatbot, deepseek-r1, knowledgebase |
 
 ### [Significant-Gravitas/AutoGPT](../repos/significant-gravitas-autogpt.md)
 
