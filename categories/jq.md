@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [jqlang/jq](../repos/jqlang-jq.md) | 5.0 | 36334 | C | jq |
+| [jqlang/jq](../repos/jqlang-jq.md) | 5.0 | 36373 | C | jq |
 
 ### [jqlang/jq](../repos/jqlang-jq.md)
 
