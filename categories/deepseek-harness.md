@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 157084 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
-| [Fei-Craft/DS-Bot](../repos/fei-craft-ds-bot.md) | 6.5 | 8919 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
+| [farion1231/cc-switch](../repos/farion1231-cc-switch.md) | 7.0 | 157755 | Rust | ai-tools, claude-code, codex, deepseek-harness, desktop-app |
+| [Fei-Craft/DS-Bot](../repos/fei-craft-ds-bot.md) | 6.5 | 9208 | JavaScript | bot, deepseek-harness, dsh-plugin, multi-agent |
 
 ### [farion1231/cc-switch](../repos/farion1231-cc-switch.md)
 
