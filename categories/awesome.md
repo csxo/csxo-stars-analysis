@@ -4,28 +4,28 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 542609 | — | awesome, awesome-list, lists, resources, unicorns |
-| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 337046 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
-| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 261234 | — | awesome, awesome-list, bsd, cheatsheets, devops |
-| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 111839 | Shell | awesome, computer-science, meetup, papers, programming |
-| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 53979 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
-| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 53466 | — | app, apple, apple-tv, apple-vision-pro, awesome |
-| [imDazui/Tvlist-awesome-m3u-m3u8](../repos/imdazui-tvlist-awesome-m3u-m3u8.md) | 7.0 | 30439 | — | awesome, iptv, iptv-channels, iptv-free, iptv-m3u8 |
-| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 26300 | Python | auto-update, awesome, epg, iptv, iptv-api |
-| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20361 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
-| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 16465 | — | ai-video, awesome, awesome-list, claude, claude-opus |
-| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12434 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
-| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6942 | — | alternatives, awesome, awesome-list, curated-list, foss |
-| [EwingYangs/awesome-open-gpt](../repos/ewingyangs-awesome-open-gpt.md) | 7.0 | 6076 | Python | agentgpt, ai, aigc, autogpt, awesome |
+| [sindresorhus/awesome](../repos/sindresorhus-awesome.md) | 7.0 | 544177 | — | awesome, awesome-list, lists, resources, unicorns |
+| [vinta/awesome-python](../repos/vinta-awesome-python.md) | 7.0 | 337649 | Python | awesome, awesome-list, python, python-frameworks, python-libraries |
+| [trimstray/the-book-of-secret-knowledge](../repos/trimstray-the-book-of-secret-knowledge.md) | 7.0 | 262015 | — | awesome, awesome-list, bsd, cheatsheets, devops |
+| [papers-we-love/papers-we-love](../repos/papers-we-love-papers-we-love.md) | 7.0 | 111937 | Shell | awesome, computer-science, meetup, papers, programming |
+| [VoltAgent/awesome-openclaw-skills](../repos/voltagent-awesome-openclaw-skills.md) | 7.0 | 54028 | — | agent-skills, awesome, awesome-list, awesome-lists, clawd |
+| [dkhamsing/open-source-ios-apps](../repos/dkhamsing-open-source-ios-apps.md) | 7.0 | 53522 | — | app, apple, apple-tv, apple-vision-pro, awesome |
+| [imDazui/Tvlist-awesome-m3u-m3u8](../repos/imdazui-tvlist-awesome-m3u-m3u8.md) | 7.0 | 30472 | — | awesome, iptv, iptv-channels, iptv-free, iptv-m3u8 |
+| [Guovin/iptv-api](../repos/guovin-iptv-api.md) | 7.0 | 26334 | Python | auto-update, awesome, epg, iptv, iptv-api |
+| [pluja/awesome-privacy](../repos/pluja-awesome-privacy.md) | 7.0 | 20379 | TypeScript | alternatives, apps, awesome, awesome-list, degoogle |
+| [yihui-dev/awesome-opus5-5-videos](../repos/yihui-dev-awesome-opus5-5-videos.md) | 7.0 | 16687 | — | ai-video, awesome, awesome-list, claude, claude-opus |
+| [jason5ng32/MyIP](../repos/jason5ng32-myip.md) | 7.0 | 12454 | JavaScript | awesome, censorship, dns, dnsleak, hacktoberfest |
+| [piotrkulpinski/open-source-alternatives](../repos/piotrkulpinski-open-source-alternatives.md) | 7.0 | 6946 | — | alternatives, awesome, awesome-list, curated-list, foss |
+| [EwingYangs/awesome-open-gpt](../repos/ewingyangs-awesome-open-gpt.md) | 7.0 | 6078 | Python | agentgpt, ai, aigc, autogpt, awesome |
 | [guanguans/favorite-link](../repos/guanguans-favorite-link.md) | 7.0 | 3363 | PHP | awesome, awesome-links, awesome-list, awesome-lists, feed |
-| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2646 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
-| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1524 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
+| [LearnPrompt/awesome-seedance](../repos/learnprompt-awesome-seedance.md) | 7.0 | 2674 | JavaScript | agent-skill, ai-video, ai-video-generation, awesome, awesome-list |
+| [felladrin/awesome-ai-web-search](../repos/felladrin-awesome-ai-web-search.md) | 7.0 | 1527 | HTML | ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome |
 | [howie6879/weekly](../repos/howie6879-weekly.md) | 7.0 | 1044 | Python | awesome, backend, front-end, github, rss |
-| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 191196 | Python | awesome, github, hellogithub, python |
-| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 73153 | — | awesome, awesome-list, computer-science, courses |
-| [PicoTrex/Awesome-Nano-Banana-images](../repos/picotrex-awesome-nano-banana-images.md) | 6.0 | 24123 | — | awesome, gemini-2-5-flash-image, nano-banana |
-| [stanzhai/be-a-professional-programmer](../repos/stanzhai-be-a-professional-programmer.md) | 6.0 | 9928 | — | awesome, programmer, programmer-tool |
-| [deepseek-ai/awesome-deepseek-integration](../repos/deepseek-ai-awesome-deepseek-integration.md) | 5.5 | 40022 | — | awesome, deepseek |
+| [521xueweihan/HelloGitHub](../repos/521xueweihan-hellogithub.md) | 6.5 | 191729 | Python | awesome, github, hellogithub, python |
+| [prakhar1989/awesome-courses](../repos/prakhar1989-awesome-courses.md) | 6.5 | 73225 | — | awesome, awesome-list, computer-science, courses |
+| [PicoTrex/Awesome-Nano-Banana-images](../repos/picotrex-awesome-nano-banana-images.md) | 6.0 | 24133 | — | awesome, gemini-2-5-flash-image, nano-banana |
+| [stanzhai/be-a-professional-programmer](../repos/stanzhai-be-a-professional-programmer.md) | 6.0 | 9927 | — | awesome, programmer, programmer-tool |
+| [deepseek-ai/awesome-deepseek-integration](../repos/deepseek-ai-awesome-deepseek-integration.md) | 5.5 | 40063 | — | awesome, deepseek |
 
 ### [sindresorhus/awesome](../repos/sindresorhus-awesome.md)
 
