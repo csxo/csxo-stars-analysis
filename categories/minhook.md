@@ -4,7 +4,7 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [yuaotian/antigravity-proxy](../repos/yuaotian-antigravity-proxy.md) | 7.0 | 5696 | C++ | antigravity, dll-injection, force-proxy-network-hook, http-proxy, minhook |
+| [yuaotian/antigravity-proxy](../repos/yuaotian-antigravity-proxy.md) | 7.0 | 6131 | C++ | antigravity, dll-injection, force-proxy-network-hook, http-proxy, minhook |
 
 ### [yuaotian/antigravity-proxy](../repos/yuaotian-antigravity-proxy.md)
 
