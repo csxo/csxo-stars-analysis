@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [chen08209/FlClash](../repos/chen08209-flclash.md) | 7.0 | 65399 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
+| [Vialibrex/FlClash](../repos/vialibrex-flclash.md) | 7.0 | 66022 | Dart | clash, clash-meta, flutter, hysteria, multi-platform |
 
-### [chen08209/FlClash](../repos/chen08209-flclash.md)
+### [Vialibrex/FlClash](../repos/vialibrex-flclash.md)
 
 A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
