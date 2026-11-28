@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 97436 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
-| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 18068 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
-| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12933 | — | books, nginx, pdf, redis, software-architecture |
+| [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md) | 7.0 | 97644 | TypeScript | docker, hacktoberfest, java, pdf, pdf-converter |
+| [sumatrapdfreader/sumatrapdf](../repos/sumatrapdfreader-sumatrapdf.md) | 7.0 | 18081 | C | c, c-plus-plus, pdf, pdf-viewer, win32 |
+| [0voice/expert_readed_books](../repos/0voice-expert_readed_books.md) | 7.0 | 12940 | — | books, nginx, pdf, redis, software-architecture |
 | [yzane/vscode-markdown-pdf](../repos/yzane-vscode-markdown-pdf.md) | 7.0 | 1346 | HTML | markdown, mermaid, pdf, plantuml, visual-studio-code |
 
 ### [Stirling-Tools/Stirling-PDF](../repos/stirling-tools-stirling-pdf.md)
