@@ -4,9 +4,9 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10990 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
-| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7891 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
-| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6887 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
+| [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md) | 7.0 | 10999 | — | adblock, adguardhome, dnsmasq, easylist, neohosts |
+| [217heidai/adblockfilters](../repos/217heidai-adblockfilters.md) | 7.0 | 7898 | Python | adblock, adguard, adguardhome, clash, dnsmasq |
+| [TG-Twilight/AWAvenue-Ads-Rule](../repos/tg-twilight-awavenue-ads-rule.md) | 7.0 | 6900 | Adblock Filter List | adblock, adblock-list, adguard, adguard-blocklist, adguardhome |
 | [zqzess/rule_for_quantumultX](../repos/zqzess-rule_for_quantumultx.md) | 7.0 | 2066 | JavaScript | adguardhome, clash, loon, quantumultx, shadowrocket |
 
 ### [privacy-protection-tools/anti-AD](../repos/privacy-protection-tools-anti-ad.md)
