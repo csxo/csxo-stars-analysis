@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46905 | Go | golang, http-proxy, proxy, shadowsocks, socks |
-| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 23000 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
-| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 11002 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
-| [yuaotian/antigravity-proxy](../repos/yuaotian-antigravity-proxy.md) | 7.0 | 5696 | C++ | antigravity, dll-injection, force-proxy-network-hook, http-proxy, minhook |
+| [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md) | 7.0 | 46909 | Go | golang, http-proxy, proxy, shadowsocks, socks |
+| [HyNetworks/hysteria](../repos/hynetworks-hysteria.md) | 7.0 | 23226 | Go | censorship-circumvention, golang, http-proxy, hysteria, proxy |
+| [shadowsocks/shadowsocks-rust](../repos/shadowsocks-shadowsocks-rust.md) | 7.0 | 11011 | Rust | http-proxy, rust, security, shadowsocks, socks4 |
+| [yuaotian/antigravity-proxy](../repos/yuaotian-antigravity-proxy.md) | 7.0 | 6131 | C++ | antigravity, dll-injection, force-proxy-network-hook, http-proxy, minhook |
 
 ### [v2ray/v2ray-core](../repos/v2ray-v2ray-core.md)
 
