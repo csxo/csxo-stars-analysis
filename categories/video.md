@@ -4,10 +4,10 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [iina/iina](../repos/iina-iina.md) | 7.0 | 47288 | Swift | hacktoberfest, macos, mpv, swift, video |
-| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 27997 | C# | editor, gif, recorder, sketchboard, video |
-| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22555 | Vue | freetube, privacy, subscriptions, video, videos |
-| [DualSubs/Universal](../repos/dualsubs-universal.md) | 7.0 | 1404 | JavaScript | dual-subtitles, streaming, streaming-services, subtitles, video |
+| [iina/iina](../repos/iina-iina.md) | 7.0 | 47337 | Swift | hacktoberfest, macos, mpv, swift, video |
+| [NickeManarin/ScreenToGif](../repos/nickemanarin-screentogif.md) | 7.0 | 28010 | C# | editor, gif, recorder, sketchboard, video |
+| [FreeTubeApp/FreeTube](../repos/freetubeapp-freetube.md) | 7.0 | 22595 | Vue | freetube, privacy, subscriptions, video, videos |
+| [DualSubs/Universal](../repos/dualsubs-universal.md) | 7.0 | 1405 | JavaScript | dual-subtitles, streaming, streaming-services, subtitles, video |
 
 ### [iina/iina](../repos/iina-iina.md)
 
