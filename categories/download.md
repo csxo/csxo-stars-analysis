@@ -4,11 +4,11 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 58794 | TypeScript | aria2, bt, download, electron, linux |
-| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43609 | C++ | bittorrent, cpp11, download, ftp, http |
-| [hehonghui/awesome-english-ebooks](../repos/hehonghui-awesome-english-ebooks.md) | 7.0 | 39856 | CSS | download, ebooks, economist, economist-ebooks, new-yorker |
-| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31857 | Go | bilibili, crawler, download, downloader, go |
-| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13281 | JavaScript | aria2, ariang, download, gui, html |
+| [agalwood/Motrix](../repos/agalwood-motrix.md) | 7.0 | 58905 | TypeScript | aria2, bt, download, electron, linux |
+| [aria2/aria2](../repos/aria2-aria2.md) | 7.0 | 43643 | C++ | bittorrent, cpp11, download, ftp, http |
+| [hehonghui/awesome-english-ebooks](../repos/hehonghui-awesome-english-ebooks.md) | 7.0 | 39928 | CSS | download, ebooks, economist, economist-ebooks, new-yorker |
+| [iawia002/lux](../repos/iawia002-lux.md) | 7.0 | 31858 | Go | bilibili, crawler, download, downloader, go |
+| [mayswind/AriaNg](../repos/mayswind-ariang.md) | 7.0 | 13285 | JavaScript | aria2, ariang, download, gui, html |
 
 ### [agalwood/Motrix](../repos/agalwood-motrix.md)
 
