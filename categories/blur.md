@@ -4,8 +4,8 @@
 
 | Project | Score | Stars | Lang | Tags |
 | --- | ---: | ---: | --- | --- |
-| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 20954 | C++ | acrylic, aero, blur, customization, discord |
-| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4303 | C++ | acrylic, blur, explorer, mica, shell |
+| [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md) | 7.0 | 21006 | C++ | acrylic, aero, blur, customization, discord |
+| [Maplespe/ExplorerBlurMica](../repos/maplespe-explorerblurmica.md) | 7.0 | 4313 | C++ | acrylic, blur, explorer, mica, shell |
 
 ### [TranslucentTB/TranslucentTB](../repos/translucenttb-translucenttb.md)
 
